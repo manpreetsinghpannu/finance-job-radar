@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 9 Nov, 00:17** (UK time) · **344 open roles** at 176 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 9 Nov, 01:01** (UK time) · **344 open roles** at 176 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,26 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 9 Nov, 00:16** · hourly scan · checked 200 boards · **9 new roles**
+**Mon 9 Nov, 01:01** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 7
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-08 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-vodafone-4487122100) | Vodafone | London, England, United Kingdom | ✅ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540744) | We Do Group | London | ✅ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539782) | Robert Walters | St. Albans, Hertfordshire | ✅ |
-| 2026-11-08 | [Accountant (Elite Financial Services Firm) - Up to £55k Base + Bonus! - London](https://www.linkedin.com/jobs/view/accountant-elite-financial-services-firm-up-to-%C2%A355k-base-%2B-bonus%21-london-at-hunter-bond-4487104952) | Hunter Bond | London Area, United Kingdom | ✅ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540093) | Kenneth Brian Associates Limited | Surbiton, Surrey | ❔ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539612) | Hoop Recruitment | Cardiff, South Glamorgan | ❔ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57537365) | Capital Outsourcing Group Ltd | York, North Yorkshire | ❔ |
-
-### Other (fits no CV closely, may still be worth a look): 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-08 | [Graduate Business Modelling Analyst - Up to £38k Base + Bonus! - London (Hybrid) - Elite Investment Firm](https://www.linkedin.com/jobs/view/graduate-business-modelling-analyst-up-to-%C2%A338k-base-%2B-bonus%21-london-hybrid-elite-investment-firm-at-hunter-bond-4487117492) | Hunter Bond | London Area, United Kingdom | ✅ |
-| — | [Finance Graduate](https://www.reed.co.uk/jobs/finance-graduate/57537108) | Tarmac Trading Limited | Solihull, West Midlands (County) | ✅ |
+Nothing new this time. The last scan that found something was **Mon 9 Nov, 00:16** (9: Finance 7 · Other 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -75,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<sub>Nothing new at: 01:01</sub>
 
 <details>
 <summary><b>00:16</b> · hourly scan · <b>9 new</b> → Finance 7 · Other 2</summary>
