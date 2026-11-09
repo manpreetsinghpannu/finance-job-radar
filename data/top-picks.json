@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T09:07:57.898Z",
+ "generated_at": "2026-11-09T10:07:58.890Z",
  "order": [
   "finance",
   "credit",
@@ -24,8 +24,21 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 75,
+   "matching": 77,
    "picks": [
+    {
+     "title": "Commercial Finance Analyst",
+     "company": "Herbert Smith Freehills Kramer",
+     "location": "City Of London, England, United Kingdom",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247",
+     "score": 32,
+     "why": [
+      "Finance Analyst",
+      "Commercial Finance"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Financial Planning & Analytics (FP&A) Analyst",
      "company": "Capital One UK",
@@ -38,25 +51,13 @@
       "Financial Planning"
      ],
      "sponsor": true
-    },
-    {
-     "title": "Finance Analyst - Private Equity",
-     "company": "Goodman Masson",
-     "location": "London Area, United Kingdom",
-     "posted": "2026-11-08",
-     "url": "https://www.linkedin.com/jobs/view/finance-analyst-private-equity-at-goodman-masson-4487640427",
-     "score": 22,
-     "why": [
-      "Finance Analyst"
-     ],
-     "sponsor": true
     }
    ]
   },
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 33,
+   "matching": 34,
    "picks": [
     {
      "title": "Credit Risk Underwriter - Structured Lending",
@@ -89,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 19,
+   "matching": 20,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -121,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 38,
+   "matching": 40,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -185,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 16,
+   "matching": 17,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -201,11 +202,11 @@
      "sponsor": true
     },
     {
-     "title": "EMEA Equity Research - Real Estate - Analyst or Associate",
-     "company": "JPMorgan Chase",
-     "location": "LONDON, LONDON, United Kingdom",
-     "posted": "2026-10-23",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210802518",
+     "title": "Real Estate Valuations Surveyor",
+     "company": "BDO UK",
+     "location": "London",
+     "posted": "2026-11-09",
+     "url": "https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/London/Valuations-Assistant-Manager---Real-Estate-Valuations_R20686",
      "score": 18,
      "why": [
       "Real Estate"
@@ -1996,6 +1997,56 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/London/Valuations-Assistant-Manager---Real-Estate-Valuations_R20686": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 32
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-business-partnering-at-walker-dendle-financial-recruitment-4485686834": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-underwriter-leveraged-finance-at-bank-of-america-4436367629": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/private-equity-associate-at-metlife-uk-4462199488": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57544054": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant/57543913": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.s1jobs.com/job/finance-business-partner-865790-127720799": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127720787": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127720783": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

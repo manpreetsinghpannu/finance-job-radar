@@ -52,6 +52,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Agility": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Airwallex": {
    "licensed": true,
    "register_name": "Airwallex (UK) Limited",
@@ -216,6 +221,11 @@
    "licensed": true,
    "register_name": "Robert W. Baird Group Ltd",
    "match": "alias"
+  },
+  "Bank of America": {
+   "licensed": true,
+   "register_name": "Bank of America, N.A.",
+   "match": "prefix"
   },
   "Barclays": {
    "licensed": true,
@@ -702,6 +712,11 @@
    "register_name": "Griffin Bank Ltd",
    "match": "prefix"
   },
+  "HAYS": {
+   "licensed": true,
+   "register_name": "Hays PLC",
+   "match": "exact"
+  },
   "HSBC Innovation Banking": {
    "licensed": false,
    "register_name": null,
@@ -756,6 +771,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Herbert Smith Freehills Kramer": {
+   "licensed": true,
+   "register_name": "Herbert Smith Freehills Kramer LLP",
+   "match": "exact"
   },
   "Hiscox": {
    "licensed": true,
@@ -1105,6 +1125,11 @@
   "Mears Group PLC": {
    "licensed": true,
    "register_name": "Mears Group PLC",
+   "match": "exact"
+  },
+  "MetLife UK": {
+   "licensed": true,
+   "register_name": "MetLife Europe Services Limited",
    "match": "exact"
   },
   "Metis Search": {
@@ -1827,6 +1852,11 @@
    "register_name": "Universal Music Operations Ltd",
    "match": "alias"
   },
+  "University of Strathclyde": {
+   "licensed": true,
+   "register_name": "University of Strathclyde",
+   "match": "exact"
+  },
   "Vanguard": {
    "licensed": true,
    "register_name": "VANGUARD BUILDING COMPLIANCE LIMITED",
@@ -1866,6 +1896,11 @@
    "licensed": true,
    "register_name": "WPP 2005 Limited",
    "match": "alias"
+  },
+  "Walker Dendle Financial Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Wayflyer": {
    "licensed": true,

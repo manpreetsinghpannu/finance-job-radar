@@ -612,4 +612,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-hays-4488822847 | Hays | Assistant Management Accountant | Gloucestershire, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57543746 | Zachary Daniels | Management Accountant | South Croydon, Surrey | note: via Reed
 
+- [ ] https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/London/Valuations-Assistant-Manager---Real-Estate-Valuations_R20686 | BDO UK | Real Estate Valuations Surveyor | London | posted: 2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247 | Herbert Smith Freehills Kramer | Commercial Finance Analyst | City Of London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-business-partnering-at-walker-dendle-financial-recruitment-4485686834 | Walker Dendle Financial Recruitment | Finance Analyst - Business Partnering | Surrey, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-underwriter-leveraged-finance-at-bank-of-america-4436367629 | Bank of America | Credit Underwriter - Leveraged Finance | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-equity-associate-at-metlife-uk-4462199488 | MetLife UK | Private Equity Associate | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57544054 | Agility | Management Accountant | Leeds, West Yorkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57543913 | Agility | Assistant Management Accountant | Leeds, West Yorkshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/finance-business-partner-865790-127720799 | University of Strathclyde | Finance Business Partner 865790 | Glasgow Area, Scotland | posted: 2026-11-09 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127720787 | HAYS | Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-09 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127720783 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+
 ## Processed
