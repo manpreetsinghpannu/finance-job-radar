@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T05:10:06.015Z",
+ "generated_at": "2026-11-09T06:09:12.984Z",
  "order": [
   "finance",
   "credit",
@@ -1971,6 +1971,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-card-factory-4485780642": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
   }
  }
 }

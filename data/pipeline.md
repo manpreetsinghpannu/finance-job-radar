@@ -605,5 +605,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57537365 | Capital Outsourcing Group Ltd | Management Accountant | York, North Yorkshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/finance-graduate/57537108 | Tarmac Trading Limited | Finance Graduate | Solihull, West Midlands (County) | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/2027-risk-management-group-graduate-programme-at-targetjobs-uk-4487663748 | targetjobs UK | 2027 Risk Management Group Graduate Programme | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-card-factory-4485780642 | Card Factory | Commercial Finance Analyst | Wakefield, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
 
 ## Processed

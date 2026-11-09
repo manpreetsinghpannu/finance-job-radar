@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 389 firms checked, 281 matched, 108 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 390 firms checked, 281 matched, 109 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (108)
+## Not found (109)
 
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
@@ -21,6 +21,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CMC Consulting Ltd
 - Calastone
 - Capital Outsourcing Group Ltd
+- Card Factory
 - Checkatrade
 - Checkout.com
 - City Recruitment Associates

@@ -342,6 +342,11 @@
    "register_name": "Capital Com (UK) Limited T/A Capital.Com",
    "match": "trading name"
   },
+  "Card Factory": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Carwow": {
    "licensed": true,
    "register_name": "carwow Ltd.",
