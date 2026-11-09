@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 9 Nov, 00:09** (UK time) · **343 open roles** at 176 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 9 Nov, 00:17** (UK time) · **344 open roles** at 176 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,16 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 9 Nov, 00:08** · hourly scan · checked 200 boards · **8 new roles**
+**Mon 9 Nov, 00:16** · hourly scan · checked 200 boards · **9 new roles**
 
-### Finance (FP&A) CV: 6
+### Finance (FP&A) CV: 7
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-08 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-vodafone-4487122100) | Vodafone | London, England, United Kingdom | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540744) | We Do Group | London | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539782) | Robert Walters | St. Albans, Hertfordshire | ✅ |
+| 2026-11-08 | [Accountant (Elite Financial Services Firm) - Up to £55k Base + Bonus! - London](https://www.linkedin.com/jobs/view/accountant-elite-financial-services-firm-up-to-%C2%A355k-base-%2B-bonus%21-london-at-hunter-bond-4487104952) | Hunter Bond | London Area, United Kingdom | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540093) | Kenneth Brian Associates Limited | Surbiton, Surrey | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539612) | Hoop Recruitment | Cardiff, South Glamorgan | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57537365) | Capital Outsourcing Group Ltd | York, North Yorkshire | ❔ |
@@ -34,7 +35,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (72 matching)
+**Finance (FP&A) CV** (73 matching)
 
 1. [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) · Capital One UK · Nottingham, Eng · posted 2026-10-20 · ✅
 2. [Finance Analyst - Private Equity](https://www.linkedin.com/jobs/view/finance-analyst-private-equity-at-goodman-masson-4487640427) · Goodman Masson · London Area, United Kingdom · posted 2026-11-08 · ✅
@@ -76,15 +77,16 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Monday 9 November
 
 <details>
-<summary><b>00:08</b> · hourly scan · <b>8 new</b> → Finance 6 · Other 2</summary>
+<summary><b>00:16</b> · hourly scan · <b>9 new</b> → Finance 7 · Other 2</summary>
 
-#### Finance (FP&A) CV: 6
+#### Finance (FP&A) CV: 7
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-08 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-vodafone-4487122100) | Vodafone | London, England, United Kingdom | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540744) | We Do Group | London | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539782) | Robert Walters | St. Albans, Hertfordshire | ✅ |
+| 2026-11-08 | [Accountant (Elite Financial Services Firm) - Up to £55k Base + Bonus! - London](https://www.linkedin.com/jobs/view/accountant-elite-financial-services-firm-up-to-%C2%A355k-base-%2B-bonus%21-london-at-hunter-bond-4487104952) | Hunter Bond | London Area, United Kingdom | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540093) | Kenneth Brian Associates Limited | Surbiton, Surrey | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539612) | Hoop Recruitment | Cardiff, South Glamorgan | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57537365) | Capital Outsourcing Group Ltd | York, North Yorkshire | ❔ |
@@ -1026,9 +1028,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (158)](#finance-fpa-cv-158) · [Credit (40)](#credit-cv-40) · [Equity (19)](#equity-cv-19) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (65)](#other-fits-no-cv-closely-may-still-be-worth-a-look-65)
+Everything matched so far, newest first within each CV: [Finance (159)](#finance-fpa-cv-159) · [Credit (40)](#credit-cv-40) · [Equity (19)](#equity-cv-19) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (65)](#other-fits-no-cv-closely-may-still-be-worth-a-look-65)
 
-### Finance (FP&A) CV: 158
+### Finance (FP&A) CV: 159
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1043,6 +1045,7 @@ Everything matched so far, newest first within each CV: [Finance (158)](#finance
 | 2026-11-08 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-vodafone-4487122100) | Vodafone | London, England, United Kingdom | ✅ |
 | 2026-11-08 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-socotec-uk-ireland-4487664048) | SOCOTEC UK & Ireland | Burton Upon Trent, England, United Kingdom | ❔ |
 | — | [Commercial Management Accountant](https://www.reed.co.uk/jobs/commercial-management-accountant/57534250) | Robert Half | Glasgow, Lanarkshire | ✅ |
+| 2026-11-08 | [Accountant (Elite Financial Services Firm) - Up to £55k Base + Bonus! - London](https://www.linkedin.com/jobs/view/accountant-elite-financial-services-firm-up-to-%C2%A355k-base-%2B-bonus%21-london-at-hunter-bond-4487104952) | Hunter Bond | London Area, United Kingdom | ✅ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57532908) | Reed | Glasgow, Lanarkshire | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57534282) | Fletcher George Recruitment Ltd | Leatherhead, Surrey | ❔ |
 | 2026-11-08 | [International Business Partner Accountant](https://www.linkedin.com/jobs/view/international-business-partner-accountant-at-flex-4444326963) | Flex | Warrington, England, United Kingdom | ❔ |
