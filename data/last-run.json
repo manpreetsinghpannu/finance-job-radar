@@ -1,18 +1,13 @@
 {
-  "finished_at": "2026-11-09T16:09:25.239Z",
+  "finished_at": "2026-11-09T17:10:38.686Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 33758,
-  "filtered_out": 33740,
+  "postings_seen": 33846,
+  "filtered_out": 33827,
   "new_matches": 7,
-  "boards_failed": 1,
-  "failed": [
-    {
-      "company": "Zopa",
-      "error": "HTTP 500 Internal Server Error"
-    }
-  ]
+  "boards_failed": 0,
+  "failed": []
 }

@@ -47,6 +47,11 @@
    "register_name": null,
    "match": "alias not on current register (accenture song brand uk limited)"
   },
+  "Accountable Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Accountable Recruitment Limited": {
    "licensed": false,
    "register_name": null,
@@ -96,6 +101,11 @@
    "licensed": true,
    "register_name": "Allica Bank",
    "match": "alias"
+  },
+  "Altum Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Alvarez & Marsal": {
    "licensed": true,
@@ -151,6 +161,11 @@
    "licensed": true,
    "register_name": "Artemis Investment Management LLP",
    "match": "alias"
+  },
+  "Ashurst Perkins Coie": {
+   "licensed": true,
+   "register_name": "Ashurst Perkins Coie (International) LLP",
+   "match": "exact"
   },
   "Aster Group": {
    "licensed": false,
@@ -962,6 +977,11 @@
    "register_name": "Interpath Limited",
    "match": "alias"
   },
+  "Inventum Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Invesco": {
    "licensed": true,
    "register_name": "Invesco UK Limited",
@@ -1118,6 +1138,11 @@
    "match": "alias"
   },
   "Lookers Motor Group Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Lord Accounting & Finance": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1376,6 +1401,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Nominet": {
+   "licensed": true,
+   "register_name": "Nominet",
+   "match": "exact"
   },
   "Nomura": {
    "licensed": true,

@@ -679,5 +679,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-660620 | Scottish public sector | Accountant | Scotland | posted: 2026-11-09 | note: via MyJobScotland
 
 - [ ] https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8934943002 | Tandem Bank | Junior Treasury Analyst | London, United Kingdom | posted: 2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-ashurst-perkins-coie-4487170627 | Ashurst Perkins Coie | FP&A Analyst | Glasgow, Scotland, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/security-risk-analyst-at-nominet-4487933171 | Nominet | Security Risk Analyst | Oxford, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-operations-finance-associate-at-inventum-group-4487172523 | Inventum Group | Portfolio Operations & Finance Associate | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57546607 | Accountable Recruitment | Assistant Management Accountant | Warrington, Cheshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/corporate-finance-associate/57546501 | Lord Accounting & Finance | Corporate Finance Associate | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57546546 | Altum Consulting | Finance Business Partner | London | note: via Reed
 
 ## Processed
