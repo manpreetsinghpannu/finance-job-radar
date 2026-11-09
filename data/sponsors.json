@@ -42,6 +42,11 @@
    "register_name": null,
    "match": "alias not on current register (accenture song brand uk limited)"
   },
+  "Accountable Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Achieve together": {
    "licensed": true,
    "register_name": "Achieve together Limited",
@@ -55,6 +60,11 @@
   "Adecco": {
    "licensed": true,
    "register_name": "Adecco UK Limited",
+   "match": "exact"
+  },
+  "Advocate Group": {
+   "licensed": true,
+   "register_name": "ADVOCATE GROUP LTD",
    "match": "exact"
   },
   "Adyen": {
@@ -1472,6 +1482,11 @@
    "register_name": "PAYONEER (UK) LIMITED",
    "match": "exact"
   },
+  "Pearse Partners": {
+   "licensed": true,
+   "register_name": "Pearse Partners Ltd",
+   "match": "exact"
+  },
   "Pearson": {
    "licensed": true,
    "register_name": "Pearson Edexcel Limited",
@@ -1576,6 +1591,11 @@
    "licensed": true,
    "register_name": "RBC Group",
    "match": "exact"
+  },
+  "Randstad Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Reckitt": {
    "licensed": false,
@@ -1867,6 +1887,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Talentedge": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Talos": {
    "licensed": true,
    "register_name": "Talos Trading Solutions Limited",
@@ -1895,6 +1920,11 @@
   "The Consultancy Group": {
    "licensed": true,
    "register_name": "The Consultancy Group",
+   "match": "exact"
+  },
+  "The Noble Restaurant Group": {
+   "licensed": true,
+   "register_name": "Noble Restaurant Group Limited",
    "match": "exact"
   },
   "ThinkMarkets": {
@@ -1973,6 +2003,11 @@
    "match": "none"
   },
   "Ventula Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Veracious Talent Partners": {
    "licensed": false,
    "register_name": null,
    "match": "none"

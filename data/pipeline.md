@@ -653,5 +653,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-pennon-group-plc-4487912043 | Pennon Group Plc | Assistant Accountant | Exeter, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-gresham-hunt-4487161041 | Gresham Hunt | Financial Accountant | Greater London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57545043 | Veracious Talent Partners Ltd | Management Accountant | Peterborough, Cambridgeshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-talentedge-4487159515 | Talentedge | Commercial Finance Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-accountable-recruitment-limited-4488870264 | Accountable Recruitment Limited | Commercial Finance Analyst | Greater Manchester, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-quantitative-solutions-at-lcm-partners-4488851537 | LCM Partners | Investment Analyst, Quantitative Solutions | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-private-credit-at-pearse-partners-4487919299 | Pearse Partners | Investment Analyst, Private Credit | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-advocate-group-4487911489 | Advocate Group | Financial Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-veracious-talent-partners-4488865220 | Veracious Talent Partners | Management Accountant | Peterborough, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-record-to-report-r2r-at-the-noble-restaurant-group-4482524534 | The Noble Restaurant Group | Management Accountant - Record to Report (R2R) | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accounting-finance-graduate-warwick-at-national-grid-4487154539 | National Grid | Accounting & Finance Graduate, Warwick | Warwick, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/trade-finance-analyst/57545390 | Adecco | Trade Finance Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57545445 | Randstad Finance | Management Accountant | South East London, London | note: via Reed
 
 ## Processed

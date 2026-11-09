@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T13:09:05.542Z",
+ "generated_at": "2026-11-09T14:07:50.510Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 88,
+   "matching": 91,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 36,
+   "matching": 37,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 22,
+   "matching": 24,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 18,
+   "matching": 20,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -2188,6 +2188,56 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-talentedge-4487159515": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-accountable-recruitment-limited-4488870264": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-quantitative-solutions-at-lcm-partners-4488851537": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-private-credit-at-pearse-partners-4487919299": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 20
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-advocate-group-4487911489": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-veracious-talent-partners-4488865220": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-record-to-report-r2r-at-the-noble-restaurant-group-4482524534": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/accounting-finance-graduate-warwick-at-national-grid-4487154539": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/trade-finance-analyst/57545390": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57545445": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
   }
  }
 }
