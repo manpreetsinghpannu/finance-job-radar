@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T10:07:58.890Z",
+ "generated_at": "2026-11-09T11:09:55.368Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 77,
+   "matching": 81,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 34,
+   "matching": 36,
    "picks": [
     {
      "title": "Credit Risk Underwriter - Structured Lending",
@@ -155,8 +155,20 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 14,
+   "matching": 15,
    "picks": [
+    {
+     "title": "VAIB Strategy Analyst",
+     "company": "Monzo",
+     "location": "Cardiff, London or Remote (UK)",
+     "posted": "2026-11-09",
+     "url": "https://job-boards.greenhouse.io/monzo/jobs/8359155",
+     "score": 22,
+     "why": [
+      "Strategy Analyst"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Credit Strategy Analyst",
      "company": "Funding Circle",
@@ -168,25 +180,13 @@
       "Strategy Analyst"
      ],
      "sponsor": true
-    },
-    {
-     "title": "Credit Strategy Analyst",
-     "company": "Funding Circle UK",
-     "location": "London, England, United Kingdom",
-     "posted": "2026-11-06",
-     "url": "https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-funding-circle-uk-4488400686",
-     "score": 22,
-     "why": [
-      "Strategy Analyst"
-     ],
-     "sponsor": true
     }
    ]
   },
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 17,
+   "matching": 16,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 15,
+   "matching": 16,
    "picks": [
     {
      "title": "Fund Accounting Analyst",
@@ -1012,11 +1012,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-property-at-frasers-group-4488160799": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-trinity-house-group-4484382193": {
    "id": "finance",
@@ -2047,6 +2042,76 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://job-boards.greenhouse.io/monzo/jobs/8359155": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-eaton-4487144504": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-camino-search-4487136875": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-achieve-together-4488847456": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/assistant-finance-analyst-assistant-accountant-%E2%80%93-finance-pathway-programme-at-b-q-4488845326": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-cobalt-recruitment-4487139838": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/fund-controller-private-credit-central-london-tc-up-to-%C2%A3140k-at-mondrian-alpha-4487144523": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/accountant-at-hays-4488841393": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-bupa-uk-4488856023": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-cm-law-recruitment-4488847453": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57544356": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57544446": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57544170": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://jobs.ashbyhq.com/wayflyer/0f3ac0c0-820f-4e39-ab2c-9a7af490ad93": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
   }
  }
 }

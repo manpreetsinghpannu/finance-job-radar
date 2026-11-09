@@ -623,4 +623,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127720787 | HAYS | Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-09 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127720783 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8359155 | Monzo | VAIB Strategy Analyst | Cardiff, London or Remote (UK) | posted: 2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-eaton-4487144504 | Eaton | Finance Analyst | Cheltenham, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-camino-search-4487136875 | Camino Search | Financial Planning Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-achieve-together-4488847456 | Achieve together | Financial Analyst | Leatherhead, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-finance-analyst-assistant-accountant-%E2%80%93-finance-pathway-programme-at-b-q-4488845326 | B&Q | Assistant Finance Analyst / Assistant Accountant – Finance Pathway Programme | Eastleigh, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-cobalt-recruitment-4487139838 | Cobalt Recruitment | Fund Accountant | Basingstoke, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-controller-private-credit-central-london-tc-up-to-%C2%A3140k-at-mondrian-alpha-4487144523 | Mondrian Alpha | Fund Controller - Private Credit - Central London - TC up to £140k | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-hays-4488841393 | Hays | Accountant | Gloucestershire, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-bupa-uk-4488856023 | Bupa UK | Financial Accountant | Salford, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-cm-law-recruitment-4488847453 | CM Law Recruitment | Management Accountant | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57544356 | VIA MATCH LIMITED | Management Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57544446 | Executive Talent Solutions | Management Accountant | Milton Keynes, Buckinghamshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57544170 | Harmonic Group Ltd | Management Accountant | Woking, Surrey | note: via Reed
+- [ ] https://jobs.ashbyhq.com/wayflyer/0f3ac0c0-820f-4e39-ab2c-9a7af490ad93 | Wayflyer | Credit Analyst - German Speaking | London · Berlin · Dublin · UK · Remote | posted: 2026-11-09 | note: via startup/SME (ashby)
+
 ## Processed

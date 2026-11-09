@@ -37,6 +37,11 @@
    "register_name": null,
    "match": "alias not on current register (accenture song brand uk limited)"
   },
+  "Achieve together": {
+   "licensed": true,
+   "register_name": "Achieve together Limited",
+   "match": "exact"
+  },
   "Addington Ball Recruitment Ltd": {
    "licensed": false,
    "register_name": null,
@@ -166,6 +171,11 @@
    "licensed": true,
    "register_name": "Aztec Group Financial Services (UK) Limited",
    "match": "alias"
+  },
+  "B&Q": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "BAE Systems": {
    "licensed": true,
@@ -302,10 +312,20 @@
    "register_name": "Brown & Brown (Europe) Limited",
    "match": "exact"
   },
+  "Bupa UK": {
+   "licensed": true,
+   "register_name": "Bupa",
+   "match": "exact"
+  },
   "CGI": {
    "licensed": true,
    "register_name": "Logica Ltd t/a CGI",
    "match": "trading name"
+  },
+  "CM Law Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "CMC Consulting Ltd": {
    "licensed": false,
@@ -323,6 +343,11 @@
    "match": "alias"
   },
   "Calastone": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Camino Search": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -432,6 +457,11 @@
    "register_name": "Cobalt Labs UK Limited",
    "match": "prefix"
   },
+  "Cobalt Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Codat": {
    "licensed": true,
    "register_name": "Codat Limited",
@@ -527,6 +557,11 @@
    "register_name": "Ernst & Young",
    "match": "alias"
   },
+  "Eaton": {
+   "licensed": true,
+   "register_name": "Eaton Ltd",
+   "match": "exact"
+  },
   "Ebury": {
    "licensed": true,
    "register_name": "Ebury Partners UK Ltd",
@@ -558,6 +593,11 @@
    "match": "alias"
   },
   "Everet Marsh": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Executive Talent Solutions": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -746,6 +786,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Harmonic Group Ltd": {
+   "licensed": true,
+   "register_name": "Harmonic (UK) Ltd.",
+   "match": "exact"
   },
   "Harper May Ltd": {
    "licensed": false,
@@ -1176,6 +1221,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Mondrian Alpha": {
+   "licensed": true,
+   "register_name": "Mondrian Alpha Ltd",
+   "match": "exact"
   },
   "Moneybox": {
    "licensed": true,
@@ -1856,6 +1906,11 @@
    "licensed": true,
    "register_name": "University of Strathclyde",
    "match": "exact"
+  },
+  "VIA MATCH LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Vanguard": {
    "licensed": true,
