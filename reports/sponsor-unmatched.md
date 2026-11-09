@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 390 firms checked, 281 matched, 109 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 393 firms checked, 282 matched, 111 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (109)
+## Not found (111)
 
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
@@ -37,6 +37,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Echo
 - Equifind
 - Ernest Gordon Recruitment Limited
+- Everet Marsh
 - Fletcher George Recruitment Ltd
 - Flex
 - GSR Markets
@@ -111,6 +112,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Vecta
 - Ventula Consulting
 - WorldQuant
+- Zachary Daniels
 - Zego
 - abrdn
 - targetjobs UK

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T08:11:13.900Z",
+ "generated_at": "2026-11-09T09:07:57.898Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 73,
+   "matching": 75,
    "picks": [
     {
      "title": "Financial Planning & Analytics (FP&A) Analyst",
@@ -121,21 +121,8 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 39,
+   "matching": 38,
    "picks": [
-    {
-     "title": "Investment Banking Analyst, M&A",
-     "company": "Citi",
-     "location": "London United Kingdom",
-     "posted": "2026-11-03",
-     "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011",
-     "score": 30,
-     "why": [
-      "Investment Banking",
-      "M&A"
-     ],
-     "sponsor": true
-    },
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
      "company": "JPMorgan Chase",
@@ -146,6 +133,19 @@
      "why": [
       "Investment Banking",
       "M&A"
+     ],
+     "sponsor": true
+    },
+    {
+     "title": "Associate - Corporate Finance (Business Services M&A)",
+     "company": "Houlihan Lokey",
+     "location": "London, UK",
+     "posted": "2026-10-21",
+     "url": "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Business-Services-M-A-_R3635",
+     "score": 25,
+     "why": [
+      "M&A",
+      "Corporate Finance"
      ],
      "sponsor": true
     }
@@ -811,11 +811,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 11
-  },
-  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 30
   },
   "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77310": {
    "id": "credit",
@@ -1976,6 +1971,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-halliday-marx-4487138535": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-robert-half-4487146141": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-at-everet-marsh-4488841226": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-hays-4488822847": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57543746": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }

@@ -547,6 +547,11 @@
    "register_name": "Evelyn Partners Group Limited",
    "match": "alias"
   },
+  "Everet Marsh": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Experian": {
    "licensed": true,
    "register_name": "EXPERIAN LIMITED",
@@ -736,6 +741,11 @@
    "licensed": true,
    "register_name": "Harvey Nash Limited",
    "match": "exact"
+  },
+  "Hays": {
+   "licensed": true,
+   "register_name": "Hays PLC",
+   "match": "alias"
   },
   "Hays Specialist Recruitment Limited": {
    "licensed": false,
@@ -1911,6 +1921,11 @@
    "licensed": true,
    "register_name": "XTX Research LLP",
    "match": "alias"
+  },
+  "Zachary Daniels": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Zego": {
    "licensed": false,
