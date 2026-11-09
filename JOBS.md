@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 9 Nov, 06:09** (UK time) · **346 open roles** at 178 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 9 Nov, 07:11** (UK time) · **346 open roles** at 178 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 9 Nov, 06:08** · hourly scan · checked 200 boards · **1 new role**
+**Mon 9 Nov, 07:08** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-09 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-card-factory-4485780642) | Card Factory | Wakefield, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Mon 9 Nov, 06:08** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<sub>Nothing new at: 07:08</sub>
 
 <details>
 <summary><b>06:08</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
