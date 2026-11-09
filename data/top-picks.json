@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T03:10:01.432Z",
+ "generated_at": "2026-11-09T04:09:22.426Z",
  "order": [
   "finance",
   "credit",
@@ -1963,6 +1963,11 @@
    "score": 10
   },
   "https://www.reed.co.uk/jobs/finance-graduate/57537108": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/2027-risk-management-group-graduate-programme-at-targetjobs-uk-4487663748": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
