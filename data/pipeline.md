@@ -637,5 +637,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57544446 | Executive Talent Solutions | Management Accountant | Milton Keynes, Buckinghamshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57544170 | Harmonic Group Ltd | Management Accountant | Woking, Surrey | note: via Reed
 - [ ] https://jobs.ashbyhq.com/wayflyer/0f3ac0c0-820f-4e39-ab2c-9a7af490ad93 | Wayflyer | Credit Analyst - German Speaking | London · Berlin · Dublin · UK · Remote | posted: 2026-11-09 | note: via startup/SME (ashby)
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-michael-page-4488852253 | Michael Page | FP&A Analyst | Staines-Upon-Thames, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-solutions-analyst-at-lcm-partners-4488851537 | LCM Partners | Quantitative Solutions Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-investment-analyst-at-perch-group-4488863148 | Perch Group | Graduate Investment Analyst | Manchester Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-perch-group-4488862218 | Perch Group | Investment Analyst | Manchester Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-apl-media-limited-4488848667 | APL Media Limited | Management Accountant | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/of-management-accountant-freehold-at-frasers-group-4488841973 | Frasers Group | of Management Accountant - Freehold | Shirebrook, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-analyst-pensions/57544583 | Hays Specialist Recruitment Limited | Finance Analyst (Pensions) | Wembley, London, London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant/57544693 | Pennon Group | Assistant Accountant | Exeter, Devon | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/junior-accountant/57544735 | OJK Business Management | Junior Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57544744 | No1 Legal and Professional | Management Accountant | Sidcup, Kent | note: via Reed
 
 ## Processed

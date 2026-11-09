@@ -17,6 +17,11 @@
    "register_name": "American International Group UK Limited",
    "match": "alias"
   },
+  "APL Media Limited": {
+   "licensed": true,
+   "register_name": "APL Media Limited",
+   "match": "exact"
+  },
   "ASSA ABLOY Group": {
    "licensed": true,
    "register_name": "ASSA ABLOY Ltd",
@@ -992,6 +997,11 @@
    "register_name": "Kroo Bank Ltd",
    "match": "prefix"
   },
+  "LCM Partners": {
+   "licensed": true,
+   "register_name": "LCM Partners Limited",
+   "match": "exact"
+  },
   "LGPS Central": {
    "licensed": true,
    "register_name": "LGPS Central Limited",
@@ -1187,6 +1197,11 @@
    "register_name": "METRO BANK PLC",
    "match": "exact"
   },
+  "Michael Page": {
+   "licensed": true,
+   "register_name": "Michael Page International Recruitment Ltd",
+   "match": "prefix"
+  },
   "Michael Page Finance": {
    "licensed": false,
    "register_name": null,
@@ -1307,6 +1322,11 @@
    "register_name": "Nium Fintech Ltd",
    "match": "prefix"
   },
+  "No1 Legal and Professional": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Nomura": {
    "licensed": true,
    "register_name": "Nomura International Plc",
@@ -1323,6 +1343,11 @@
    "match": "none"
   },
   "OAK LIFE SCIENCE LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "OJK Business Management": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1446,6 +1471,16 @@
    "licensed": true,
    "register_name": "Pemberton Asset Management Services (UK) Limited",
    "match": "alias"
+  },
+  "Pennon Group": {
+   "licensed": true,
+   "register_name": "Pennon Group",
+   "match": "exact"
+  },
+  "Perch Group": {
+   "licensed": true,
+   "register_name": "Perch Group Limited",
+   "match": "exact"
   },
   "Perella Weinberg": {
    "licensed": true,
