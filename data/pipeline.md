@@ -694,5 +694,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57547109 | Banham Patent Locks Ltd | Assistant Management Accountant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57547157 | SRM RECRUITMENT LIMITED | Management Accountant | Hoddesdon, Hertfordshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/finance-graduate/57547136 | Financial Divisions | Finance Graduate | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-legend-4436758947 | Legend | FP&A Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884 | LSEG | Credit Risk Analyst | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-vonage-4480962783 | Vonage | Credit and Collections Analyst | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-risk-analyst-at-mercuria-4488899743 | Mercuria | Treasury Risk Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-ucea-family-office-group-4489102870 | UCEA - Family Office Group | Investment Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-trainline-4489106536 | Trainline | Management Accountant | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-controller-real-estate-funds/57547212 | Trident | Financial Controller - Real Estate Funds | London | note: via Reed
 
 ## Processed

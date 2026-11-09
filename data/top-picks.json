@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T18:07:33.365Z",
+ "generated_at": "2026-11-09T18:57:01.087Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 95,
+   "matching": 98,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 39,
+   "matching": 41,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -73,15 +73,15 @@
      "sponsor": true
     },
     {
-     "title": "Credit Risk Underwriter - Structured Lending",
-     "company": "Morgan McKinley",
-     "location": "London Area, United Kingdom",
-     "posted": "2026-11-06",
-     "url": "https://www.linkedin.com/jobs/view/credit-risk-underwriter-structured-lending-at-morgan-mckinley-4486985902",
+     "title": "Credit Risk Analyst",
+     "company": "LSEG",
+     "location": "London, England, United Kingdom",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884",
      "score": 26,
      "why": [
       "Credit Risk",
-      "Lending"
+      "Risk Analyst"
      ],
      "sponsor": true
     }
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 20,
+   "matching": 21,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -2378,6 +2378,41 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-legend-4436758947": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 26
+  },
+  "https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-vonage-4480962783": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/treasury-risk-analyst-at-mercuria-4488899743": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-ucea-family-office-group-4489102870": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-trainline-4489106536": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/financial-controller-real-estate-funds/57547212": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 14
   }
  }
 }

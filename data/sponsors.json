@@ -1122,6 +1122,11 @@
    "register_name": "Ledger Technologies UK LTD",
    "match": "prefix"
   },
+  "Legend": {
+   "licensed": true,
+   "register_name": "LEGEND SERVICES UK LTD",
+   "match": "exact"
+  },
   "Lemonade": {
    "licensed": false,
    "register_name": null,
@@ -1275,6 +1280,11 @@
   "Mears Group PLC": {
    "licensed": true,
    "register_name": "Mears Group PLC",
+   "match": "exact"
+  },
+  "Mercuria": {
+   "licensed": true,
+   "register_name": "MERCURIA UK LLP",
    "match": "exact"
   },
   "MetLife UK": {
@@ -2067,10 +2077,20 @@
    "register_name": "Trading 212 UK Ltd",
    "match": "alias"
   },
+  "Trainline": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "TransUnion": {
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Trident": {
+   "licensed": true,
+   "register_name": "TRIDENT EUROPE LIMITED",
+   "match": "exact"
   },
   "Trinity House Group": {
    "licensed": true,
@@ -2081,6 +2101,11 @@
    "licensed": true,
    "register_name": "TrueLayer Limited",
    "match": "alias"
+  },
+  "UCEA - Family Office Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Unilever": {
    "licensed": true,
@@ -2146,6 +2171,11 @@
    "licensed": true,
    "register_name": "Vodafone Group Services Limited",
    "match": "exact"
+  },
+  "Vonage": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "WPP": {
    "licensed": true,
