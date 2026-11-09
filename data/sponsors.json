@@ -22,6 +22,11 @@
    "register_name": "APL Media Limited",
    "match": "exact"
   },
+  "ASC Connections Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ASSA ABLOY Group": {
    "licensed": true,
    "register_name": "ASSA ABLOY Ltd",
@@ -321,6 +326,11 @@
    "licensed": true,
    "register_name": "BREVAN HOWARD ASSET MANAGEMENT SERVICES LIMITED",
    "match": "alias"
+  },
+  "Brock & Decker": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Brown & Brown": {
    "licensed": true,
@@ -832,6 +842,11 @@
    "register_name": "Harvey Nash Limited",
    "match": "exact"
   },
+  "Hawke Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Hays": {
    "licensed": true,
    "register_name": "Hays PLC",
@@ -1103,6 +1118,11 @@
    "match": "alias"
   },
   "Lookers Motor Group Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Lorien": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1746,6 +1766,11 @@
    "licensed": true,
    "register_name": "Schroder Investment Management Limited",
    "match": "alias"
+  },
+  "Scottish public sector": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "ScottishPower": {
    "licensed": true,

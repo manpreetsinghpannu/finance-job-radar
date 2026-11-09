@@ -670,5 +670,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/finance-business-partner/57545718 | PRATAP PARTNERSHIP LTD | Finance Business Partner | Sheffield, South Yorkshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57545863 | Yolk Recruitment Ltd | Management Accountant | Cardiff, South Glamorgan | note: via Reed
 - [ ] https://www.s1jobs.com/job/assistant-accountant-127720823 | Cooper Parry Finance Recruitment | Assistant Accountant | Fife, Scotland | posted: 2026-11-09 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-lorien-4488881487 | Lorien | Financial Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-healthcare-life-sciences-at-brock-decker-4487729523 | Brock & Decker | Investment Associate - Healthcare & Life Sciences | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-associate-healthcare-at-brock-decker-4488883399 | Brock & Decker | Corporate Finance Associate / Healthcare | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/growth-equity-investment-associate-efinancialcareers/57546014 | eFinancialCareers | Growth Equity - Investment Associate - eFinancialCareers | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57546386 | ASC Connections Ltd | Management Accountant | Leeds, West Yorkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/jnr-management-accountant-canterbury-cima-training/57546316 | Hawke Search | Jnr Management Accountant - Canterbury - CIMA Training | Canterbury, Kent | note: via Reed
+- [ ] https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-660620 | Scottish public sector | Accountant | Scotland | posted: 2026-11-09 | note: via MyJobScotland
 
 ## Processed
