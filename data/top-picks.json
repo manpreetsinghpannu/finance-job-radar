@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T16:09:24.190Z",
+ "generated_at": "2026-11-09T17:01:36.705Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 92,
+   "matching": 93,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -2298,6 +2298,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8934943002": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
   }
  }
 }

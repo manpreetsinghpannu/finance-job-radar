@@ -678,4 +678,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/jnr-management-accountant-canterbury-cima-training/57546316 | Hawke Search | Jnr Management Accountant - Canterbury - CIMA Training | Canterbury, Kent | note: via Reed
 - [ ] https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-660620 | Scottish public sector | Accountant | Scotland | posted: 2026-11-09 | note: via MyJobScotland
 
+- [ ] https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8934943002 | Tandem Bank | Junior Treasury Analyst | London, United Kingdom | posted: 2026-11-09
+
 ## Processed
