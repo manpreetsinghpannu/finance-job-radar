@@ -357,6 +357,11 @@
    "register_name": "CME Congresses Limited",
    "match": "alias"
   },
+  "CVC Marathon": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Calastone": {
    "licensed": false,
    "register_name": null,
@@ -493,6 +498,11 @@
    "match": "alias"
   },
   "Connect Recruitment Consultants Ltd.": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Cooper Parry Finance Recruitment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1437,6 +1447,11 @@
    "register_name": "PKF hospitality Ltd",
    "match": "alias"
   },
+  "PRATAP PARTNERSHIP LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Paddle": {
    "licensed": false,
    "register_name": null,
@@ -2101,6 +2116,11 @@
    "licensed": true,
    "register_name": "XTX Research LLP",
    "match": "alias"
+  },
+  "Yolk Recruitment Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Zachary Daniels": {
    "licensed": false,

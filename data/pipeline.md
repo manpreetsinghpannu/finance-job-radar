@@ -664,4 +664,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/trade-finance-analyst/57545390 | Adecco | Trade Finance Analyst | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57545445 | Randstad Finance | Management Accountant | South East London, London | note: via Reed
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Credit-Officer---C12---LONDON_261007635 | Citi | Credit Officer - C12 - LONDON | London United Kingdom | posted: 2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/associate-commercial-real-estate-debt-london-at-cvc-marathon-4409579927 | CVC Marathon | Associate, Commercial Real Estate Debt (London) | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57545720 | Robert Half | Finance Analyst | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57545718 | PRATAP PARTNERSHIP LTD | Finance Business Partner | Sheffield, South Yorkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57545863 | Yolk Recruitment Ltd | Management Accountant | Cardiff, South Glamorgan | note: via Reed
+- [ ] https://www.s1jobs.com/job/assistant-accountant-127720823 | Cooper Parry Finance Recruitment | Assistant Accountant | Fife, Scotland | posted: 2026-11-09 | note: via S1Jobs
+
 ## Processed
