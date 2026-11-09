@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 8 Nov, 23:11** (UK time) · **335 open roles** at 169 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 9 Nov, 00:09** (UK time) · **343 open roles** at 176 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,31 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 8 Nov, 23:09** · hourly scan · checked 200 boards · **0 new roles**
+**Mon 9 Nov, 00:08** · hourly scan · checked 200 boards · **8 new roles**
 
-Nothing new this time. The last scan that found something was **Sun 8 Nov, 19:08** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 6
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-08 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-vodafone-4487122100) | Vodafone | London, England, United Kingdom | ✅ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540744) | We Do Group | London | ✅ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539782) | Robert Walters | St. Albans, Hertfordshire | ✅ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540093) | Kenneth Brian Associates Limited | Surbiton, Surrey | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539612) | Hoop Recruitment | Cardiff, South Glamorgan | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57537365) | Capital Outsourcing Group Ltd | York, North Yorkshire | ❔ |
+
+### Other (fits no CV closely, may still be worth a look): 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-08 | [Graduate Business Modelling Analyst - Up to £38k Base + Bonus! - London (Hybrid) - Elite Investment Firm](https://www.linkedin.com/jobs/view/graduate-business-modelling-analyst-up-to-%C2%A338k-base-%2B-bonus%21-london-hybrid-elite-investment-firm-at-hunter-bond-4487117492) | Hunter Bond | London Area, United Kingdom | ✅ |
+| — | [Finance Graduate](https://www.reed.co.uk/jobs/finance-graduate/57537108) | Tarmac Trading Limited | Solihull, West Midlands (County) | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (69 matching)
+**Finance (FP&A) CV** (72 matching)
 
 1. [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) · Capital One UK · Nottingham, Eng · posted 2026-10-20 · ✅
 2. [Finance Analyst - Private Equity](https://www.linkedin.com/jobs/view/finance-analyst-private-equity-at-goodman-masson-4487640427) · Goodman Masson · London Area, United Kingdom · posted 2026-11-08 · ✅
@@ -56,6 +72,31 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Monday 9 November
+
+<details>
+<summary><b>00:08</b> · hourly scan · <b>8 new</b> → Finance 6 · Other 2</summary>
+
+#### Finance (FP&A) CV: 6
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-08 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-vodafone-4487122100) | Vodafone | London, England, United Kingdom | ✅ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540744) | We Do Group | London | ✅ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539782) | Robert Walters | St. Albans, Hertfordshire | ✅ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540093) | Kenneth Brian Associates Limited | Surbiton, Surrey | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539612) | Hoop Recruitment | Cardiff, South Glamorgan | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57537365) | Capital Outsourcing Group Ltd | York, North Yorkshire | ❔ |
+
+#### Other (fits no CV closely, may still be worth a look): 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-08 | [Graduate Business Modelling Analyst - Up to £38k Base + Bonus! - London (Hybrid) - Elite Investment Firm](https://www.linkedin.com/jobs/view/graduate-business-modelling-analyst-up-to-%C2%A338k-base-%2B-bonus%21-london-hybrid-elite-investment-firm-at-hunter-bond-4487117492) | Hunter Bond | London Area, United Kingdom | ✅ |
+| — | [Finance Graduate](https://www.reed.co.uk/jobs/finance-graduate/57537108) | Tarmac Trading Limited | Solihull, West Midlands (County) | ✅ |
+
+</details>
 
 ### Sunday 8 November
 
@@ -985,15 +1026,21 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (152)](#finance-fpa-cv-152) · [Credit (40)](#credit-cv-40) · [Equity (19)](#equity-cv-19) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (63)](#other-fits-no-cv-closely-may-still-be-worth-a-look-63)
+Everything matched so far, newest first within each CV: [Finance (158)](#finance-fpa-cv-158) · [Credit (40)](#credit-cv-40) · [Equity (19)](#equity-cv-19) · [Investment (36)](#investment-ib--pe-cv-36) · [Consulting (14)](#consulting-cv-14) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (65)](#other-fits-no-cv-closely-may-still-be-worth-a-look-65)
 
-### Finance (FP&A) CV: 152
+### Finance (FP&A) CV: 158
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540744) | We Do Group | London | ✅ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539782) | Robert Walters | St. Albans, Hertfordshire | ✅ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540093) | Kenneth Brian Associates Limited | Surbiton, Surrey | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539612) | Hoop Recruitment | Cardiff, South Glamorgan | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57537365) | Capital Outsourcing Group Ltd | York, North Yorkshire | ❔ |
 | 2026-11-08 | [Finance Analyst - Private Equity](https://www.linkedin.com/jobs/view/finance-analyst-private-equity-at-goodman-masson-4487640427) | Goodman Masson | London Area, United Kingdom | ✅ |
 | — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57542536) | Cedar | London | ✅ |
 | 2026-11-08 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-brown-brown-4427951209) | Brown & Brown | Basildon, England, United Kingdom | ✅ |
+| 2026-11-08 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-vodafone-4487122100) | Vodafone | London, England, United Kingdom | ✅ |
 | 2026-11-08 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-socotec-uk-ireland-4487664048) | SOCOTEC UK & Ireland | Burton Upon Trent, England, United Kingdom | ❔ |
 | — | [Commercial Management Accountant](https://www.reed.co.uk/jobs/commercial-management-accountant/57534250) | Robert Half | Glasgow, Lanarkshire | ✅ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57532908) | Reed | Glasgow, Lanarkshire | ❔ |
@@ -1294,16 +1341,18 @@ Everything matched so far, newest first within each CV: [Finance (152)](#finance
 | 2026-10-29 | [Trainee Fund Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1030) | Aztec Group | Southampton | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 63
+### Other (fits no CV closely, may still be worth a look): 65
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| — | [Finance Graduate](https://www.reed.co.uk/jobs/finance-graduate/57537108) | Tarmac Trading Limited | Solihull, West Midlands (County) | ✅ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127651654) | S1Jobs | Scotland | ❔ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127651630) | S1Jobs | Scotland | ❔ |
 | — | [Emerging Markets Quantitative Researcher HSBCJP00059549](https://www.reed.co.uk/jobs/emerging-markets-quantitative-researcher-hsbcjp00059549/57541880) | Appcastenterprise | London | ❔ |
 | 2026-11-08 | [Financial Markets Graduate Programme UK 2027](https://www.linkedin.com/jobs/view/financial-markets-graduate-programme-uk-2027-at-standard-chartered-4488768815) | Standard Chartered | London, England, United Kingdom | ✅ |
 | — | [Analyst, Global Quantitative Research](https://www.reed.co.uk/jobs/analyst-global-quantitative-research/57542662) | eFinancialCareers | London | ✅ |
 | — | [Quantitative Researcher](https://www.reed.co.uk/jobs/quantitative-researcher/57539406) | eFinancialCareers | London | ✅ |
+| 2026-11-08 | [Graduate Business Modelling Analyst - Up to £38k Base + Bonus! - London (Hybrid) - Elite Investment Firm](https://www.linkedin.com/jobs/view/graduate-business-modelling-analyst-up-to-%C2%A338k-base-%2B-bonus%21-london-hybrid-elite-investment-firm-at-hunter-bond-4487117492) | Hunter Bond | London Area, United Kingdom | ✅ |
 | 2026-11-07 | [Graduate - Relationship Banking](https://www.linkedin.com/jobs/view/graduate-relationship-banking-at-archer-4487386781) | Archer | London, England, United Kingdom | ✅ |
 | — | [Analyst Programme - Capital Solutions - Barings](https://www.reed.co.uk/jobs/analyst-programme-capital-solutions-barings/57527859) | eFinancialCareers | London | ✅ |
 | — | [Quantitative Researcher - Macro Systematic Strategies](https://www.reed.co.uk/jobs/quantitative-researcher-macro-systematic-strategies/57527926) | eFinancialCareers | London | ✅ |

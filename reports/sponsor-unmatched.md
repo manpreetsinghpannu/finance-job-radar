@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 383 firms checked, 278 matched, 105 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 389 firms checked, 281 matched, 108 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (105)
+## Not found (108)
 
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
@@ -20,6 +20,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Bloom Money
 - CMC Consulting Ltd
 - Calastone
+- Capital Outsourcing Group Ltd
 - Checkatrade
 - Checkout.com
 - City Recruitment Associates
@@ -50,6 +51,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Harper May Ltd
 - Hays Specialist Recruitment Limited
 - HelloFresh
+- Hoop Recruitment
 - IAG Transform
 - IMC Trading
 - IVC Evidensia
@@ -60,6 +62,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - JPMorganChase
 - Joblet-AI
 - Kennedy Pearce Consulting
+- Kenneth Brian Associates Limited
 - Klarna
 - Landbay
 - Language Matters
@@ -112,7 +115,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (24)
+## Matched automatically by close name; worth a glance (25)
 
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Cedar → Cedar Capital Partners Ltd (prefix)
@@ -138,3 +141,4 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Silverfin → Silverfin Software Ltd (prefix)
 - Standard Chartered → Standard Chartered Bank (prefix)
 - SumUp → SumUp Payments Limited (prefix)
+- We Do Group → WE DO CARE (LONDON) LTD (prefix)

@@ -1,13 +1,13 @@
 {
-  "finished_at": "2026-11-08T23:11:14.281Z",
+  "finished_at": "2026-11-09T00:09:20.708Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 34494,
-  "filtered_out": 34472,
-  "new_matches": 0,
+  "postings_seen": 34601,
+  "filtered_out": 34583,
+  "new_matches": 8,
   "boards_failed": 2,
   "failed": [
     {

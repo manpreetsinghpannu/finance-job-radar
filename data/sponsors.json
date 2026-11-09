@@ -327,6 +327,11 @@
    "register_name": "CAPITAL ONE (EUROPE) PLC",
    "match": "alias"
   },
+  "Capital Outsourcing Group Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Capital on Tap": {
    "licensed": true,
    "register_name": "New Wave Capital Ltd t/a Capital on Tap",
@@ -747,6 +752,11 @@
    "register_name": "Holland & Barrett Retail Limited",
    "match": "prefix"
   },
+  "Hoop Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Houlihan Lokey": {
    "licensed": true,
    "register_name": "HOULIHAN LOKEY UK LIMITED",
@@ -756,6 +766,11 @@
    "licensed": true,
    "register_name": "Howden Group Holdings Limited",
    "match": "alias"
+  },
+  "Hunter Bond": {
+   "licensed": true,
+   "register_name": "HUNTER BOND LIMITED",
+   "match": "exact"
   },
   "IAG Transform": {
    "licensed": false,
@@ -873,6 +888,11 @@
    "match": "alias"
   },
   "Kennedy Pearce Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Kenneth Brian Associates Limited": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1717,6 +1737,11 @@
    "register_name": "Tandem Bank Limited",
    "match": "alias"
   },
+  "Tarmac Trading Limited": {
+   "licensed": true,
+   "register_name": "Tarmac Trading Limited",
+   "match": "exact"
+  },
   "Teneo": {
    "licensed": true,
    "register_name": "Teneo Business Consulting Ltd",
@@ -1831,6 +1856,11 @@
    "licensed": true,
    "register_name": "Wayflyer UK Limited",
    "match": "exact"
+  },
+  "We Do Group": {
+   "licensed": true,
+   "register_name": "WE DO CARE (LONDON) LTD",
+   "match": "prefix"
   },
   "Wellington Management": {
    "licensed": true,

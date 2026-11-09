@@ -595,5 +595,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-distinct-b-corp-4488784840 | Distinct | B Corp | Management Accountant | Leeds, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/quantitative-researcher/57539406 | eFinancialCareers | Quantitative Researcher | London | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-socotec-uk-ireland-4487664048 | SOCOTEC UK & Ireland | Finance Business Partner | Burton Upon Trent, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-business-modelling-analyst-up-to-%C2%A338k-base-%2B-bonus%21-london-hybrid-elite-investment-firm-at-hunter-bond-4487117492 | Hunter Bond | Graduate Business Modelling Analyst - Up to £38k Base + Bonus! - London (Hybrid) - Elite Investment Firm | London Area, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-vodafone-4487122100 | Vodafone | Treasury Analyst | London, England, United Kingdom | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57539782 | Robert Walters | Management Accountant | St. Albans, Hertfordshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57540093 | Kenneth Brian Associates Limited | Management Accountant | Surbiton, Surrey | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57539612 | Hoop Recruitment | Management Accountant | Cardiff, South Glamorgan | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57540744 | We Do Group | Management Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57537365 | Capital Outsourcing Group Ltd | Management Accountant | York, North Yorkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-graduate/57537108 | Tarmac Trading Limited | Finance Graduate | Solihull, West Midlands (County) | note: via Reed
 
 ## Processed
