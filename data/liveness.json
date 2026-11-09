@@ -543,27 +543,27 @@
  },
  "https://www.linkedin.com/jobs/view/finance-analyst-at-holland-barrett-4477185474": {
   "status": "live",
-  "checked_at": "2026-11-09T14:07:29Z"
+  "checked_at": "2026-11-09T17:55:46Z"
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-at-lottie-4486294694": {
   "status": "live",
-  "checked_at": "2026-11-09T14:07:32Z"
+  "checked_at": "2026-11-09T17:55:49Z"
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-retail-wholesale-at-new-avenues-4488177942": {
   "status": "live",
-  "checked_at": "2026-11-09T14:07:36Z"
+  "checked_at": "2026-11-09T17:55:53Z"
  },
  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-transunion-4479373904": {
   "status": "live",
-  "checked_at": "2026-11-09T14:07:39Z"
+  "checked_at": "2026-11-09T17:55:56Z"
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-performance-value-assurance-at-iag-transform-4486991581": {
   "status": "live",
-  "checked_at": "2026-11-09T14:07:43Z"
+  "checked_at": "2026-11-09T17:56:00Z"
  },
  "https://www.linkedin.com/jobs/view/finance-analyst-at-step-fusion-4488147412": {
   "status": "live",
-  "checked_at": "2026-11-09T14:07:46Z"
+  "checked_at": "2026-11-09T17:56:03Z"
  },
  "https://www.linkedin.com/jobs/view/performance-accountant-at-scottishpower-4477098794": {
   "status": "live",
@@ -827,11 +827,11 @@
  },
  "https://www.linkedin.com/jobs/view/management-accountant-integrations-%E2%80%93-global-business-services-12-month-fixed-term-contract-at-ivc-evidensia-4460981986": {
   "status": "live",
-  "checked_at": "2026-11-09T14:07:22Z"
+  "checked_at": "2026-11-09T17:55:39Z"
  },
  "https://www.linkedin.com/jobs/view/graduate-finance-broker-programme-march-2027-at-vecta-4488746235": {
   "status": "live",
-  "checked_at": "2026-11-09T14:07:25Z"
+  "checked_at": "2026-11-09T17:55:42Z"
  },
  "https://www.linkedin.com/jobs/view/group-accountant-at-bath-north-east-somerset-council-4488441876": {
   "status": "live",
@@ -847,7 +847,7 @@
  },
  "https://www.linkedin.com/jobs/view/fund-accountant-private-markets-at-aria-partners-4487503898": {
   "status": "unknown",
-  "checked_at": "2026-11-09T14:07:18Z"
+  "checked_at": "2026-11-09T17:55:35Z"
  },
  "https://www.linkedin.com/jobs/view/quantitative-researcher-equities-at-drw-4408269115": {
   "status": "live",
@@ -913,7 +913,7 @@
  },
  "https://www.linkedin.com/jobs/view/finance-business-partner-at-socotec-uk-ireland-4487664048": {
   "status": "live",
-  "checked_at": "2026-11-09T14:07:50Z"
+  "checked_at": "2026-11-09T17:56:07Z"
  },
  "https://www.linkedin.com/jobs/view/graduate-business-modelling-analyst-up-to-%C2%A338k-base-%2B-bonus%21-london-hybrid-elite-investment-firm-at-hunter-bond-4487117492": {
   "status": "unknown",
@@ -1053,11 +1053,11 @@
  },
  "https://www.linkedin.com/jobs/view/assistant-accountant-at-pennon-group-plc-4487912043": {
   "status": "live",
-  "checked_at": "2026-11-09T14:07:11Z"
+  "checked_at": "2026-11-09T17:55:28Z"
  },
  "https://www.linkedin.com/jobs/view/financial-accountant-at-gresham-hunt-4487161041": {
   "status": "unknown",
-  "checked_at": "2026-11-09T14:07:15Z"
+  "checked_at": "2026-11-09T17:55:32Z"
  },
  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-talentedge-4487159515": {
   "status": "live",
@@ -1110,5 +1110,21 @@
  "https://www.linkedin.com/jobs/view/corporate-finance-associate-healthcare-at-brock-decker-4488883399": {
   "status": "unknown",
   "checked_at": "2026-11-09T17:08:34Z"
+ },
+ "https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8934943002": {
+  "status": "live",
+  "checked_at": "2026-11-09T17:55:18Z"
+ },
+ "https://www.linkedin.com/jobs/view/fp-a-analyst-at-ashurst-perkins-coie-4487170627": {
+  "status": "live",
+  "checked_at": "2026-11-09T17:55:18Z"
+ },
+ "https://www.linkedin.com/jobs/view/security-risk-analyst-at-nominet-4487933171": {
+  "status": "live",
+  "checked_at": "2026-11-09T17:55:21Z"
+ },
+ "https://www.linkedin.com/jobs/view/portfolio-operations-finance-associate-at-inventum-group-4487172523": {
+  "status": "live",
+  "checked_at": "2026-11-09T17:55:25Z"
  }
 }

@@ -267,6 +267,11 @@
    "register_name": "Robert W. Baird Group Ltd",
    "match": "alias"
   },
+  "Banham Patent Locks Ltd": {
+   "licensed": true,
+   "register_name": "Banham Patent Locks Ltd",
+   "match": "exact"
+  },
   "Bank of America": {
    "licensed": true,
    "register_name": "Bank of America, N.A.",
@@ -527,6 +532,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Consumer Additions and Consumer Exec": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Cooper Parry Finance Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -546,6 +556,11 @@
    "licensed": true,
    "register_name": "DRW Investments (UK) Ltd",
    "match": "alias"
+  },
+  "Dana Incorporated": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Deliveroo": {
    "licensed": true,
@@ -622,6 +637,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Edward Mann": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ElevenLabs": {
    "licensed": true,
    "register_name": "Eleven Labs Ltd",
@@ -666,6 +686,11 @@
    "licensed": true,
    "register_name": "FIL Investment Management Limited",
    "match": "alias"
+  },
+  "Financial Divisions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Financial Times": {
    "licensed": true,
@@ -1757,6 +1782,11 @@
    "register_name": null,
    "match": "none"
   },
+  "SRM RECRUITMENT LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "STEP Fusion": {
    "licensed": false,
    "register_name": null,
@@ -1871,6 +1901,11 @@
    "licensed": true,
    "register_name": "Sopra Steria Limited",
    "match": "exact"
+  },
+  "Sowena Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Spectrum Brands (UK) Limited": {
    "licensed": true,
@@ -2006,6 +2041,11 @@
    "licensed": true,
    "register_name": "Thought Machine Group Limited",
    "match": "alias"
+  },
+  "Thrive Childcare and Education": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Thunes": {
    "licensed": false,

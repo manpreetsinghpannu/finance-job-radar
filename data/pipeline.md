@@ -685,5 +685,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57546607 | Accountable Recruitment | Assistant Management Accountant | Warrington, Cheshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/corporate-finance-associate/57546501 | Lord Accounting & Finance | Corporate Finance Associate | Manchester, Lancashire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/finance-business-partner/57546546 | Altum Consulting | Finance Business Partner | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-consumer-additions-and-consumer-exec-4483426750 | Consumer Additions and Consumer Exec | Management Accountant | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-sowena-group-4488870883 | Sowena Group | Management Accountant | Greater Manchester, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-dana-incorporated-4488878783 | Dana Incorporated | Management Accountant | Birmingham, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-healthcare-at-edward-mann-4487155815 | Edward Mann | Management Accountant (Healthcare) | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-accountable-recruitment-limited-4488871991 | Accountable Recruitment Limited | Assistant Management Accountant | Warrington, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-thrive-childcare-and-education-4487168867 | Thrive Childcare and Education | Management Accountant | Salford, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57547109 | Banham Patent Locks Ltd | Assistant Management Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57547157 | SRM RECRUITMENT LIMITED | Management Accountant | Hoddesdon, Hertfordshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-graduate/57547136 | Financial Divisions | Finance Graduate | London | note: via Reed
 
 ## Processed
