@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 418 firms checked, 297 matched, 121 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 422 firms checked, 299 matched, 123 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (121)
+## Not found (123)
 
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
@@ -52,6 +52,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Greencore
 - Greenhill
 - Greenwich Partners
+- Gresham Hunt
 - HSBC Innovation Banking
 - Halliday Marx
 - Handpicked Recruitment Limited
@@ -120,6 +121,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - VIA MATCH LIMITED
 - Vecta
 - Ventula Consulting
+- Veracious Talent Partners Ltd
 - Walker Dendle Financial Recruitment
 - WorldQuant
 - Zachary Daniels

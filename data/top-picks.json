@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T12:09:00.160Z",
+ "generated_at": "2026-11-09T13:09:05.542Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 85,
+   "matching": 88,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -40,15 +40,15 @@
      "sponsor": true
     },
     {
-     "title": "Financial Planning & Analytics (FP&A) Analyst",
-     "company": "Capital One UK",
-     "location": "Nottingham, Eng",
-     "posted": "2026-10-20",
-     "url": "https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022",
-     "score": 27,
+     "title": "Commercial Finance Analyst",
+     "company": "Investigo",
+     "location": "London Area, United Kingdom",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-investigo-4488848869",
+     "score": 32,
      "why": [
-      "FP&A",
-      "Financial Planning"
+      "Finance Analyst",
+      "Commercial Finance"
      ],
      "sponsor": true
     }
@@ -758,11 +758,6 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 11
-  },
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Management-Consultant---Insurance_R00344089": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 13
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Automotive-Management-Consultant_R00362436": {
    "id": "consulting",
@@ -2160,6 +2155,36 @@
    "score": 9
   },
   "https://www.reed.co.uk/jobs/management-accountant/57544744": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-investigo-4488848869": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 32
+  },
+  "https://www.linkedin.com/jobs/view/graduate-risk-assurance-analyst-ai-digital-controls-it-digital-warwick-at-national-grid-4487149775": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-pensions-at-hays-4487902144": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-pennon-group-plc-4487912043": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-gresham-hunt-4487161041": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57545043": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10

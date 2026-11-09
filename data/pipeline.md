@@ -647,5 +647,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant/57544693 | Pennon Group | Assistant Accountant | Exeter, Devon | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/junior-accountant/57544735 | OJK Business Management | Junior Accountant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57544744 | No1 Legal and Professional | Management Accountant | Sidcup, Kent | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-investigo-4488848869 | Investigo | Commercial Finance Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-risk-assurance-analyst-ai-digital-controls-it-digital-warwick-at-national-grid-4487149775 | National Grid | Graduate Risk & Assurance Analyst (AI & Digital Controls), IT & Digital, Warwick | Warwick, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-pensions-at-hays-4487902144 | Hays | Finance Analyst (Pensions) | Brent, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-pennon-group-plc-4487912043 | Pennon Group Plc | Assistant Accountant | Exeter, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-gresham-hunt-4487161041 | Gresham Hunt | Financial Accountant | Greater London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57545043 | Veracious Talent Partners Ltd | Management Accountant | Peterborough, Cambridgeshire | note: via Reed
 
 ## Processed

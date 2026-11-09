@@ -752,6 +752,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Gresham Hunt": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Griffin": {
    "licensed": true,
    "register_name": "Griffin Bank Ltd",
@@ -1302,6 +1307,11 @@
    "register_name": "NatWest Group PLC",
    "match": "alias"
   },
+  "National Grid": {
+   "licensed": true,
+   "register_name": "National Grid plc",
+   "match": "exact"
+  },
   "Natixis Investment Managers": {
    "licensed": true,
    "register_name": "Natixis Investment Managers UK LImited",
@@ -1473,6 +1483,11 @@
    "match": "alias"
   },
   "Pennon Group": {
+   "licensed": true,
+   "register_name": "Pennon Group",
+   "match": "exact"
+  },
+  "Pennon Group Plc": {
    "licensed": true,
    "register_name": "Pennon Group",
    "match": "exact"
@@ -1958,6 +1973,11 @@
    "match": "none"
   },
   "Ventula Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Veracious Talent Partners Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
