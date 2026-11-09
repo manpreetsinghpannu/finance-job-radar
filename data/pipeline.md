@@ -702,5 +702,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-trainline-4489106536 | Trainline | Management Accountant | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-controller-real-estate-funds/57547212 | Trident | Financial Controller - Real Estate Funds | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/debt-advisory-analyst-efinancialcareers/57547309 | eFinancialCareers | Debt Advisory - Analyst - eFinancialCareers | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-at-kbs-corporate-4489137814 | KBS Corporate | M&A Analyst | Bolton, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-controller-private-equity-aca-at-93-mgmt-4489143057 | 93 MGMT | Fund Controller | Private Equity | ACA | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
 
 ## Processed

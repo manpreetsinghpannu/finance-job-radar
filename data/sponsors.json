@@ -7,6 +7,11 @@
    "register_name": "10X Banking Technology Services Ltd",
    "match": "alias"
   },
+  "93 MGMT": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "9fin": {
    "licensed": true,
    "register_name": "9fin Limited",
@@ -1056,6 +1061,11 @@
    "licensed": true,
    "register_name": "Jump Trading International Limited",
    "match": "alias"
+  },
+  "KBS Corporate": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Kennedy Pearce Consulting": {
    "licensed": false,

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T21:09:18.015Z",
+ "generated_at": "2026-11-09T22:11:18.697Z",
  "order": [
   "finance",
   "credit",
@@ -2413,6 +2413,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/m-a-analyst-at-kbs-corporate-4489137814": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
   }
  }
 }
