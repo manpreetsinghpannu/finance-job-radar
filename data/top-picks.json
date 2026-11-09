@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T19:07:33.046Z",
+ "generated_at": "2026-11-09T20:08:51.489Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 41,
+   "matching": 42,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -155,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 15,
+   "matching": 16,
    "picks": [
     {
      "title": "VAIB Strategy Analyst",
@@ -573,11 +573,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
-  },
-  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Senior-Associate---Corporate-Finance--Technology-M-A-_R3381": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 25
   },
   "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Experienced-Financial-Analyst--Financial-and-Valuation-Advisory---London_R3576": {
    "id": "finance",
@@ -2413,6 +2408,11 @@
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 14
+  },
+  "https://www.reed.co.uk/jobs/debt-advisory-analyst-efinancialcareers/57547309": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }

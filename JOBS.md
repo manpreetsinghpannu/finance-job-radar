@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 9 Nov, 19:07** (UK time) · **433 open roles** at 250 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 9 Nov, 20:08** (UK time) · **433 open roles** at 250 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 9 Nov, 19:07** · hourly scan · checked 200 boards · **0 new roles**
+**Mon 9 Nov, 20:07** · hourly scan · checked 200 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Mon 9 Nov, 18:53** (7: Finance 3 · Credit 2 · Equity 1 · Real Estate 1); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Debt Advisory - Analyst - eFinancialCareers](https://www.reed.co.uk/jobs/debt-advisory-analyst-efinancialcareers/57547309) | eFinancialCareers | London | ✅ |
 
 ## Top picks for each CV
 
@@ -23,7 +27,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-investigo-4488848869) · Investigo · London Area, United Kingdom · posted 2026-11-09 · ✅
 
-**Credit CV** (41 matching)
+**Credit CV** (42 matching)
 
 1. [Wholesale Credit Risk Strategy, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-05 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884) · LSEG · London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -38,7 +42,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-06 · ✅
 2. [Associate - Corporate Finance (Business Services M&A)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Business-Services-M-A-_R3635) · Houlihan Lokey · London, UK · posted 2026-10-21 · ✅
 
-**Consulting CV** (15 matching)
+**Consulting CV** (16 matching)
 
 1. [VAIB Strategy Analyst](https://job-boards.greenhouse.io/monzo/jobs/8359155) · Monzo · Cardiff, London or Remote (UK) · posted 2026-11-09 · ✅
 2. [Credit Strategy Analyst](https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e) · Funding Circle · London · United Kingdom · posted 2026-11-06 · ✅
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<details>
+<summary><b>20:07</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Debt Advisory - Analyst - eFinancialCareers](https://www.reed.co.uk/jobs/debt-advisory-analyst-efinancialcareers/57547309) | eFinancialCareers | London | ✅ |
+
+</details>
 
 <sub>Nothing new at: 19:07</sub>
 
@@ -1198,7 +1213,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>15:03</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>104 new</b> → Finance 27 · Credit 18 · Equity 8 · Investment 18 · Consulting 10 · Real Estate 3 · Fund 3 · Other 17</summary>
+<summary><b>15:03</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>103 new</b> → Finance 27 · Credit 18 · Equity 8 · Investment 17 · Consulting 10 · Real Estate 3 · Fund 3 · Other 17</summary>
 
 #### Finance (FP&A) CV: 27
 
@@ -1268,12 +1283,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Investment Analyst](https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Investment-Analyst_RQ13445) | MS Amlin | London | ✅ |
 | 2026-11-02 | [Associate, Portfolio Analytics & Reporting, PFS](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/ED3---20-Brandon-Street-Edinburgh/Associate--Portfolio-Analytics---Reporting--PFS_R265358) | BlackRock | ED3 - 20 Brandon Street, Edinburgh | ✅ |
 
-#### Investment (IB / PE) CV: 18
+#### Investment (IB / PE) CV: 17
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-10-21 | [Associate - Corporate Finance (Business Services M&A)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Business-Services-M-A-_R3635) | Houlihan Lokey | London, UK | ✅ |
-| — | [Associate - Corporate Finance (Technology M&A)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Senior-Associate---Corporate-Finance--Technology-M-A-_R3381) | Houlihan Lokey | London, UK | ✅ |
 | 2026-11-04 | [Investment Banking - UK Natural Resources - Analyst - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806807) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | — | [Associate, Private Equity Fund Investments](https://icg.wd3.myworkdayjobs.com/external_careers/job/London/Associate--Private-Equity-Fund-Investments_R3274) | ICG | London | ✅ |
 | 2026-10-23 | [Investment Banking – Central & Eastern Europe Coverage – Analyst – London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210775931) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
@@ -1344,13 +1358,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Finance - Shell Graduate Programme 2027 - United Kingdom](https://shell.wd3.myworkdayjobs.com/shellcareers/job/London---Shell-Centre/Finance---Shell-Graduate-Programme-2027---United-Kingdom_R210018) | Shell | London - Shell Centre | ✅ |
 | 2026-10-26 | [Quantum Computational Science Specialist](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Derby/Quantum-Computational-Science-Specialist_JR6155409-1) | Rolls-Royce | Derby | ✅ |
 
-<sub>240 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>241 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (221)](#finance-fpa-cv-221) · [Credit (47)](#credit-cv-47) · [Equity (24)](#equity-cv-24) · [Investment (40)](#investment-ib--pe-cv-40) · [Consulting (14)](#consulting-cv-14) · [Real Estate (7)](#real-estate-cv-7) · [Fund (8)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-8) · [Other (72)](#other-fits-no-cv-closely-may-still-be-worth-a-look-72)
+Everything matched so far, newest first within each CV: [Finance (221)](#finance-fpa-cv-221) · [Credit (48)](#credit-cv-48) · [Equity (24)](#equity-cv-24) · [Investment (39)](#investment-ib--pe-cv-39) · [Consulting (14)](#consulting-cv-14) · [Real Estate (7)](#real-estate-cv-7) · [Fund (8)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-8) · [Other (72)](#other-fits-no-cv-closely-may-still-be-worth-a-look-72)
 
 ### Finance (FP&A) CV: 221
 
@@ -1578,7 +1592,7 @@ Everything matched so far, newest first within each CV: [Finance (221)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 47
+### Credit CV: 48
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1589,6 +1603,7 @@ Everything matched so far, newest first within each CV: [Finance (221)](#finance
 | 2026-11-09 | [Security Risk Analyst](https://www.linkedin.com/jobs/view/security-risk-analyst-at-nominet-4487933171) | Nominet | Oxford, England, United Kingdom | ✅ |
 | 2026-11-09 | [Credit and Collections Analyst](https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-vonage-4480962783) | Vonage | London, England, United Kingdom | ❔ |
 | 2026-11-09 | [Credit Officer - C12 - LONDON](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Credit-Officer---C12---LONDON_261007635) | Citi | London United Kingdom | ✅ |
+| — | [Debt Advisory - Analyst - eFinancialCareers](https://www.reed.co.uk/jobs/debt-advisory-analyst-efinancialcareers/57547309) | eFinancialCareers | London | ✅ |
 | 2026-11-08 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-arcadis-4461487070) | Arcadis | York, England, United Kingdom | ✅ |
 | — | [Corporate Banking Associate - Citi](https://www.reed.co.uk/jobs/corporate-banking-associate-citi/57534639) | eFinancialCareers | London | ✅ |
 | 2026-11-07 | [Wholesale Credit Risk - EMEA Emerging Markets (MENA) Associate](https://www.linkedin.com/jobs/view/wholesale-credit-risk-emea-emerging-markets-mena-associate-at-jpmorganchase-4403159570) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
@@ -1659,7 +1674,7 @@ Everything matched so far, newest first within each CV: [Finance (221)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 40
+### Investment (IB / PE) CV: 39
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1683,7 +1698,6 @@ Everything matched so far, newest first within each CV: [Finance (221)](#finance
 | 2026-11-06 | [Associate, Corporate Finance (Bristol)](https://www.linkedin.com/jobs/view/associate-corporate-finance-bristol-at-alvarez-marsal-4479890421) | Alvarez & Marsal | Birmingham, England, United Kingdom | ✅ |
 | 2026-11-06 | [Investment Banking - Industrials](https://www.linkedin.com/jobs/view/investment-banking-industrials-at-metis-search-4473171400) | Metis Search | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Investment Associate – Venture Capital](https://www.linkedin.com/jobs/view/investment-associate-%E2%80%93-venture-capital-at-cornell-search-4478669808) | Cornell Search | Cardiff, Wales, United Kingdom | ❔ |
-| — | [Associate - Corporate Finance (Technology M&A)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Senior-Associate---Corporate-Finance--Technology-M-A-_R3381) | Houlihan Lokey | London, UK | ✅ |
 | — | [Associate, Private Equity Fund Investments](https://icg.wd3.myworkdayjobs.com/external_careers/job/London/Associate--Private-Equity-Fund-Investments_R3274) | ICG | London | ✅ |
 | — | [Associate - Advisory Deals - Transaction Services](https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/Associate---Advisory-Deals---Transaction-Services_552862WD) | PwC |  | ✅ |
 | — | [Associate - Strategic Advisory (Industrials)](https://pjtpartners.wd1.myworkdayjobs.com/careers/job/London/Associate---Strategic-Advisory--Industrials-_R0003380) | PJT Partners | London | ✅ |
@@ -1828,10 +1842,11 @@ Everything matched so far, newest first within each CV: [Finance (221)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>18 roles taken off the list because the firm closed the posting</summary>
+<summary>19 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 9 Nov, 20:08 | Associate - Corporate Finance (Technology M&A) | Houlihan Lokey |
 | Mon 9 Nov, 16:09 | Associate - Corporate Finance (Healthcare) | Houlihan Lokey |
 | Mon 9 Nov, 13:08 | Management Consultant - Insurance | Accenture |
 | Mon 9 Nov, 11:09 | Management Accountant - Property | Frasers Group |

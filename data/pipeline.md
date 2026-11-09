@@ -701,5 +701,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-ucea-family-office-group-4489102870 | UCEA - Family Office Group | Investment Analyst | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-trainline-4489106536 | Trainline | Management Accountant | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-controller-real-estate-funds/57547212 | Trident | Financial Controller - Real Estate Funds | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/debt-advisory-analyst-efinancialcareers/57547309 | eFinancialCareers | Debt Advisory - Analyst - eFinancialCareers | London | note: via Reed
 
 ## Processed
