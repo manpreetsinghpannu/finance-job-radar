@@ -1,18 +1,13 @@
 {
-  "finished_at": "2026-11-10T21:10:31.699Z",
+  "finished_at": "2026-11-10T22:10:48.742Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 34218,
-  "filtered_out": 34190,
+  "postings_seen": 34342,
+  "filtered_out": 34314,
   "new_matches": 0,
-  "boards_failed": 1,
-  "failed": [
-    {
-      "company": "Point72",
-      "error": "This operation was aborted"
-    }
-  ]
+  "boards_failed": 0,
+  "failed": []
 }
