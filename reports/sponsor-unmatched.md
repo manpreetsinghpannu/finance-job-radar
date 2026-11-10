@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 494 firms checked, 319 matched, 175 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 503 firms checked, 323 matched, 180 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (175)
+## Not found (180)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -18,6 +18,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Agility
 - Alexander Chapman
 - Alignerr
+- All About Food Ltd
 - Altum Consulting
 - Anderson Knight
 - Appcastenterprise
@@ -27,6 +28,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Aster Group
 - Atom Bank
 - B&Q
+- Bield Housing Association
 - Blockchain.com
 - Blood Cancer UK
 - Bloom Money
@@ -56,12 +58,14 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Distinct Recruitment
 - Dojo
 - Echo
+- Edgworth Partners
 - Edward Mann
 - Elevation Recruitment Group
 - Equifind
 - Ernest Gordon Recruitment Limited
 - Everet Marsh
 - Executive Talent Solutions
+- FT Recruitment Group
 - Financial Divisions
 - Fletcher George Recruitment Ltd
 - Flex
@@ -139,6 +143,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Resourcery Group
 - Richard James Recruitment Specialists Ltd
 - Royal College Of Physicians & Surgeons Of Glasgow
+- Rushlift GSE
 - S1Jobs
 - SD Business Management
 - SOCOTEC UK & Ireland
@@ -182,7 +187,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (28)
+## Matched automatically by close name; worth a glance (29)
 
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
@@ -206,6 +211,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Paxos → Paxos Technology Limited (prefix)
 - Pliant → Pliant Payments Limited (prefix)
 - Plum → Plum Fintech (prefix)
+- Rider Levett Bucknall RLB → Rider Levett Bucknall UK Limited (similar (0.92))
 - SMBC → SMBC Bank International plc (prefix)
 - Silverfin → Silverfin Software Ltd (prefix)
 - Standard Chartered → Standard Chartered Bank (prefix)

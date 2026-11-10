@@ -1,13 +1,22 @@
 {
-  "finished_at": "2026-11-10T18:07:12.883Z",
+  "finished_at": "2026-11-10T19:09:43.417Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 34069,
-  "filtered_out": 34041,
-  "new_matches": 0,
-  "boards_failed": 0,
-  "failed": []
+  "postings_seen": 33971,
+  "filtered_out": 33943,
+  "new_matches": 11,
+  "boards_failed": 2,
+  "failed": [
+    {
+      "company": "Jane Street",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "Flow Traders",
+      "error": "This operation was aborted"
+    }
+  ]
 }

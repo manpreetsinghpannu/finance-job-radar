@@ -778,5 +778,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/finance-business-partner/57554865 | Blood Cancer UK | Finance Business Partner | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/syndicate-research-analyst/57555207 | IPS Group | Syndicate Research Analyst | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/trading-assistant-confectionery/57555171 | ASDA | Trading Assistant - Confectionery | Leeds, West Yorkshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-wates-group-4489170284 | Wates Group | Finance Analyst | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-the-university-of-manchester-4488392694 | The University of Manchester | Management Accountant | Manchester, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-data-and-automation-analyst-at-rider-levett-bucknall-rlb-4473268159 | Rider Levett Bucknall RLB | FP&A Data and Automation Analyst | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/real-estate-investment-analyst-global-real-estate-investor-london-at-edgworth-partners-4489630112 | Edgworth Partners | Real Estate Investment Analyst, Global Real Estate Investor, London | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859 | Bloomberg | Bloomberg Intelligence European Quantitative Equity Research Strategist | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-all-about-food-ltd-4488374535 | All About Food Ltd | Finance Business Partner | Manchester, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-rushlift-gse-4481217005 | Rushlift GSE | Management Accountant | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/financial-controller-127727844 | FT Recruitment Group | Financial Controller | Aberdeen Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-xero-127727840 | FT Recruitment Group | Accountant Xero | Aberdeen Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/assistant-accountant-127727854 | Bield Housing Association | Assistant Accountant | City of Edinburgh, Scotland | posted: 2026-11-10 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/treasury-ap-127727833 | S1Jobs | Treasury Ap | Scotland | note: via S1Jobs
 
 ## Processed

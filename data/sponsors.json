@@ -117,6 +117,11 @@
    "register_name": null,
    "match": "none"
   },
+  "All About Food Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Allica Bank": {
    "licensed": true,
    "register_name": "Allica Bank",
@@ -332,6 +337,11 @@
    "register_name": "Berkeley Research Group (UK) Limited",
    "match": "alias"
   },
+  "Bield Housing Association": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Black Swan Group": {
    "licensed": true,
    "register_name": "Black Swan Group Ltd",
@@ -366,6 +376,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Bloomberg": {
+   "licensed": true,
+   "register_name": "Bloomberg LP",
+   "match": "exact"
   },
   "BlueCrest Capital": {
    "licensed": true,
@@ -682,6 +697,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Edgworth Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Edward Mann": {
    "licensed": false,
    "register_name": null,
@@ -726,6 +746,11 @@
    "licensed": true,
    "register_name": "EXPERIAN LIMITED",
    "match": "alias"
+  },
+  "FT Recruitment Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Fauna & Flora": {
    "licensed": true,
@@ -1847,6 +1872,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Rider Levett Bucknall RLB": {
+   "licensed": true,
+   "register_name": "Rider Levett Bucknall UK Limited",
+   "match": "similar (0.92)"
+  },
   "Rightmove": {
    "licensed": true,
    "register_name": "Rightmove Group Ltd",
@@ -1896,6 +1926,11 @@
    "licensed": true,
    "register_name": "Royal United Hospital Bath NHS Trust",
    "match": "exact"
+  },
+  "Rushlift GSE": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "S&P Global": {
    "licensed": true,
@@ -2197,6 +2232,11 @@
    "register_name": "Noble Restaurant Group Limited",
    "match": "exact"
   },
+  "The University of Manchester": {
+   "licensed": true,
+   "register_name": "The University of Manchester",
+   "match": "exact"
+  },
   "ThinkMarkets": {
    "licensed": false,
    "register_name": null,
@@ -2360,6 +2400,11 @@
   "Walker Hamill": {
    "licensed": true,
    "register_name": "Walker Hamill Limited",
+   "match": "exact"
+  },
+  "Wates Group": {
+   "licensed": true,
+   "register_name": "Wates Group Ltd",
    "match": "exact"
   },
   "Wayflyer": {
