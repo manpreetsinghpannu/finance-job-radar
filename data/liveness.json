@@ -267,15 +267,15 @@
  },
  "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/London-UK/Market-Risk--Product--Analyst_329916": {
   "status": "live",
-  "checked_at": "2026-11-10T19:09:39Z"
+  "checked_at": "2026-11-10T23:07:16Z"
  },
  "https://job-boards.greenhouse.io/gocardless/jobs/8301377": {
   "status": "live",
-  "checked_at": "2026-11-10T19:09:40Z"
+  "checked_at": "2026-11-10T23:07:16Z"
  },
  "https://job-boards.eu.greenhouse.io/ebury/jobs/5020371101": {
   "status": "live",
-  "checked_at": "2026-11-10T19:09:40Z"
+  "checked_at": "2026-11-10T23:07:16Z"
  },
  "https://jobs.ashbyhq.com/lendable/2b333321-547f-46ab-a128-301fc9d65686": {
   "status": "closed",
@@ -285,15 +285,15 @@
  },
  "https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604295-1": {
   "status": "live",
-  "checked_at": "2026-11-10T19:09:40Z"
+  "checked_at": "2026-11-10T23:07:16Z"
  },
  "https://shell.wd3.myworkdayjobs.com/shellcareers/job/London---Shell-Centre/Finance---Shell-Graduate-Programme-2027---United-Kingdom_R210018": {
   "status": "live",
-  "checked_at": "2026-11-10T19:09:41Z"
+  "checked_at": "2026-11-10T23:07:17Z"
  },
  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate--Primary-Capital-Advisory_R3421-1": {
   "status": "live",
-  "checked_at": "2026-11-10T19:09:42Z"
+  "checked_at": "2026-11-10T23:07:18Z"
  },
  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Financial-Restructuring_R3583-1": {
   "status": "live",
@@ -937,7 +937,7 @@
  },
  "https://www.linkedin.com/jobs/view/accountant-elite-financial-services-firm-up-to-%C2%A355k-base-%2B-bonus%21-london-at-hunter-bond-4487104952": {
   "status": "unknown",
-  "checked_at": "2026-11-10T19:09:37Z"
+  "checked_at": "2026-11-10T23:07:15Z"
  },
  "https://www.linkedin.com/jobs/view/2027-risk-management-group-graduate-programme-at-targetjobs-uk-4487663748": {
   "status": "live",
@@ -1376,5 +1376,9 @@
  "https://www.linkedin.com/jobs/view/management-accountant-at-rushlift-gse-4481217005": {
   "status": "live",
   "checked_at": "2026-11-10T20:07:41Z"
+ },
+ "https://www.linkedin.com/jobs/view/executive-corporate-finance-at-frp-advisory-4487497721": {
+  "status": "live",
+  "checked_at": "2026-11-10T23:07:12Z"
  }
 }
