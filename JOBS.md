@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 10 Nov, 06:11** (UK time) · **439 open roles** at 251 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 10 Nov, 07:09** (UK time) · **439 open roles** at 251 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 10 Nov, 06:07** · hourly scan · checked 200 boards · **1 new role**
+**Tue 10 Nov, 07:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-at-citi-4489409787) | Citi | London, England, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Tue 10 Nov, 06:07** (1: Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<sub>Nothing new at: 07:07</sub>
 
 <details>
 <summary><b>06:07</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
