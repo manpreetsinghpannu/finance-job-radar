@@ -1557,6 +1557,11 @@
    "register_name": "OakNorth Bank Plc",
    "match": "alias"
   },
+  "Octavius Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Octopus Energy": {
    "licensed": true,
    "register_name": "Octopus Energy Limited",
@@ -1661,6 +1666,11 @@
    "licensed": true,
    "register_name": "PAYONEER (UK) LIMITED",
    "match": "exact"
+  },
+  "Peace Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Pearse Partners": {
    "licensed": true,
@@ -1962,6 +1972,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Seymour John": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Shawbrook": {
    "licensed": true,
    "register_name": "SHAWBROOK BANK LIMITED",
@@ -2146,6 +2161,11 @@
    "licensed": true,
    "register_name": "The Consultancy Group",
    "match": "exact"
+  },
+  "The Dune Group": {
+   "licensed": true,
+   "register_name": "Dune Advisors Limited",
+   "match": "prefix"
   },
   "The Noble Restaurant Group": {
    "licensed": true,

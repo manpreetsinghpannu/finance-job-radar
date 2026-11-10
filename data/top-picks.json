@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T15:09:46.649Z",
+ "generated_at": "2026-11-10T16:08:41.589Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 108,
+   "matching": 110,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 25,
+   "matching": 26,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 43,
+   "matching": 44,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 22,
+   "matching": 23,
    "picks": [
     {
      "title": "Investment Banking - EMEA Real Estate - Analyst / Associate - London",
@@ -218,8 +218,20 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 16,
+   "matching": 18,
    "picks": [
+    {
+     "title": "Investment Operations Technical Analyst",
+     "company": "Phoenix Group",
+     "location": "Edinburgh, Scotland, United Kingdom · Hybrid",
+     "posted": "2026-11-10",
+     "url": "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003",
+     "score": 21,
+     "why": [
+      "Investment Operations"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Investment Operations Analyst",
      "company": "LGPS Central",
@@ -229,19 +241,6 @@
      "score": 21,
      "why": [
       "Investment Operations"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "UK Product Team – NAV & Valuation Oversight - Associate",
-     "company": "JPMorgan Chase",
-     "location": "LONDON, LONDON, United Kingdom",
-     "posted": "2026-11-03",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341",
-     "score": 21,
-     "why": [
-      "NAV",
-      "Valuation Oversight"
      ],
      "sponsor": true
     }
@@ -2618,6 +2617,66 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 11
+  },
+  "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/prudential-risk-associate-icaap-ilaap-liquidity-risk-banking-at-jj-search-limited-4488367698": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-systematic-equities-at-octavius-finance-4488376412": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-technology-media-and-telecommunications-london-analyst-at-goldman-sachs-4462969815": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/corporate-finance-associate-biotech-at-brock-decker-4489496335": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-hays-4488367652": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/investment-portfolio-analyst-%E2%80%93-finance-qualified-accountant-at-inventum-group-4487486996": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-the-dune-group-4487487771": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/investment-analyst/57554180": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/finance-business-partner/57554315": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.reed.co.uk/jobs/financial-controller/57554573": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-pqs-security-cleared-127727650": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

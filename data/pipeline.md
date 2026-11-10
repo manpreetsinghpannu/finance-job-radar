@@ -757,4 +757,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-at-alexander-chapman-4482096995 | Alexander Chapman | Research Analyst | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/fund-accountant/57553811 | Hays Specialist Recruitment Limited | Fund Accountant | London | note: via Reed
 
+- [ ] https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003 | Phoenix Group | Investment Operations Technical Analyst | Edinburgh, Scotland, United Kingdom · Hybrid | posted: 2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/prudential-risk-associate-icaap-ilaap-liquidity-risk-banking-at-jj-search-limited-4488367698 | JJ SEARCH LIMITED | Prudential Risk Associate , ICAAP , ILAAP , Liquidity Risk , Banking | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-systematic-equities-at-octavius-finance-4488376412 | Octavius Finance | Quantitative Researcher – Systematic Equities | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-technology-media-and-telecommunications-london-analyst-at-goldman-sachs-4462969815 | Goldman Sachs | Global Banking & Markets, Investment Banking, Classic, Technology, Media, and Telecommunications, London, Analyst | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-associate-biotech-at-brock-decker-4489496335 | Brock & Decker | Corporate Finance Associate - Biotech | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-hays-4488367652 | Hays | Fund Accountant | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-portfolio-analyst-%E2%80%93-finance-qualified-accountant-at-inventum-group-4487486996 | Inventum Group | Investment Portfolio Analyst – Finance (Qualified Accountant) | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-the-dune-group-4487487771 | The Dune Group | Management Accountant | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/investment-analyst/57554180 | eFinancialCareers | Investment Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57554315 | Marks Sattin | Finance Business Partner | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-controller/57554573 | Seymour John | Financial Controller | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-pqs-security-cleared-127727650 | Peace Recruitment | Quantity Surveyor Pqs Security Cleared | City of Edinburgh, Scotland | posted: 2026-11-10 | note: via S1Jobs
+
 ## Processed
