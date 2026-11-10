@@ -24,8 +24,10 @@
   "checked_at": "2026-11-10T02:07:05Z"
  },
  "https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Financial-Reporting---Control-Analyst_R0074073": {
-  "status": "live",
-  "checked_at": "2026-11-09T23:07:06Z"
+  "status": "closed",
+  "checked_at": "2026-11-10T02:14:27Z",
+  "closed_at": "2026-11-10T02:14:27Z",
+  "reason": "Workday CXS answers 403 S22 — posting withdrawn"
  },
  "https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers/job/Edinburgh/Private-Companies-Valuations-Analyst_R0004645": {
   "status": "closed",
@@ -35,43 +37,43 @@
  },
  "https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst--Multi-Asset_84131-1": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:07Z"
+  "checked_at": "2026-11-10T02:14:28Z"
  },
  "https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:07Z"
+  "checked_at": "2026-11-10T02:14:28Z"
  },
  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Private-Analytics-Stewardship--Associate_R260598": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:08Z"
+  "checked_at": "2026-11-10T02:14:28Z"
  },
  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--Private-Credit-Portfolio-Analytics---Reporting--PFS---Edinburgh_R265410": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:08Z"
+  "checked_at": "2026-11-10T02:14:29Z"
  },
  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--Private-Credit-Portfolio-Analytics---Reporting--PFS---Edinburgh_R265409": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:08Z"
+  "checked_at": "2026-11-10T02:14:29Z"
  },
  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/ED3---20-Brandon-Street-Edinburgh/Associate--Portfolio-Analytics---Reporting--PFS_R265358": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:09Z"
+  "checked_at": "2026-11-10T02:14:29Z"
  },
  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R265839": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:09Z"
+  "checked_at": "2026-11-10T02:14:30Z"
  },
  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Venture---Growth-Debt---Analyst---London_R261163": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:10Z"
+  "checked_at": "2026-11-10T02:14:30Z"
  },
  "https://invesco.wd1.myworkdayjobs.com/ivz/job/London-London/Associate--Private-Credit_R-13259": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:10Z"
+  "checked_at": "2026-11-10T02:14:30Z"
  },
  "https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/EMEA-Rates-Trader_MFS-231851": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:11Z"
+  "checked_at": "2026-11-10T02:14:31Z"
  },
  "https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918": {
   "status": "live",
@@ -1157,27 +1159,27 @@
  },
  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-legend-4436758947": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:11Z"
+  "checked_at": "2026-11-10T02:14:31Z"
  },
  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:14Z"
+  "checked_at": "2026-11-10T02:14:35Z"
  },
  "https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-vonage-4480962783": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:18Z"
+  "checked_at": "2026-11-10T02:14:38Z"
  },
  "https://www.linkedin.com/jobs/view/treasury-risk-analyst-at-mercuria-4488899743": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:21Z"
+  "checked_at": "2026-11-10T02:14:42Z"
  },
  "https://www.linkedin.com/jobs/view/investment-analyst-at-ucea-family-office-group-4489102870": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:25Z"
+  "checked_at": "2026-11-10T02:14:45Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-trainline-4489106536": {
   "status": "live",
-  "checked_at": "2026-11-09T23:07:28Z"
+  "checked_at": "2026-11-10T02:14:49Z"
  },
  "https://www.linkedin.com/jobs/view/m-a-analyst-at-kbs-corporate-4489137814": {
   "status": "live",

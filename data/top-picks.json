@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T02:07:06.126Z",
+ "generated_at": "2026-11-10T02:14:49.296Z",
  "order": [
   "finance",
   "credit",
@@ -278,11 +278,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 20
-  },
-  "https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Financial-Reporting---Control-Analyst_R0074073": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
   },
   "https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst--Multi-Asset_84131-1": {
    "id": "equity",

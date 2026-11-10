@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 10 Nov, 02:07** (UK time) · **436 open roles** at 251 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 10 Nov, 02:14** (UK time) · **435 open roles** at 250 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 10 Nov, 02:07** · hourly scan · checked 200 boards · **1 new role**
+**Tue 10 Nov, 02:14** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-09 | [Group Management Accountant](https://www.reed.co.uk/jobs/group-management-accountant/57544816) | Robert Half | Leeds, West Yorkshire | ✅ |
+Nothing new this time. The last scan that found something was **Tue 10 Nov, 02:07** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<sub>Nothing new at: 02:14</sub>
 
 <details>
 <summary><b>02:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -1257,9 +1255,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>15:03</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>102 new</b> → Finance 27 · Credit 18 · Equity 8 · Investment 17 · Consulting 10 · Real Estate 3 · Fund 3 · Other 16</summary>
+<summary><b>15:03</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>101 new</b> → Finance 26 · Credit 18 · Equity 8 · Investment 17 · Consulting 10 · Real Estate 3 · Fund 3 · Other 16</summary>
 
-#### Finance (FP&A) CV: 27
+#### Finance (FP&A) CV: 26
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1288,7 +1286,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-10-21 | [2027 Graduate Programme - Financial Reporting](https://job-boards.greenhouse.io/rothesaygraduates/jobs/8905231002) | Rothesay | London | ✅ |
 | — | [Commercial Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/London-Eng/Commercial-Analyst_R1000696) | Capital One UK | London, Eng | ✅ |
 | 2026-11-03 | [Financial Planning Specialist](https://rbs.wd3.myworkdayjobs.com/rbs/job/Aberdeen/Financial-Planning-Specialist_R-00287166-1) | NatWest Group | Aberdeen | ✅ |
-| 2026-10-27 | [Financial Reporting & Control Analyst](https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Financial-Reporting---Control-Analyst_R0074073) | abrdn | Edinburgh | ❔ |
 | 2026-10-28 | [UK Financial Controller, People & Investment Consulting](https://mmc.wd1.myworkdayjobs.com/mmc/job/London---Tower-Place-West/UK-Financial-Controller--Consulting_R_365937) | Marsh McLennan | London - Tower Place West | ✅ |
 
 #### Credit CV: 18
@@ -1401,15 +1398,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Finance - Shell Graduate Programme 2027 - United Kingdom](https://shell.wd3.myworkdayjobs.com/shellcareers/job/London---Shell-Centre/Finance---Shell-Graduate-Programme-2027---United-Kingdom_R210018) | Shell | London - Shell Centre | ✅ |
 | 2026-10-26 | [Quantum Computational Science Specialist](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Derby/Quantum-Computational-Science-Specialist_JR6155409-1) | Rolls-Royce | Derby | ✅ |
 
-<sub>242 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>243 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (224)](#finance-fpa-cv-224) · [Credit (48)](#credit-cv-48) · [Equity (24)](#equity-cv-24) · [Investment (40)](#investment-ib--pe-cv-40) · [Consulting (14)](#consulting-cv-14) · [Real Estate (7)](#real-estate-cv-7) · [Fund (8)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-8) · [Other (71)](#other-fits-no-cv-closely-may-still-be-worth-a-look-71)
+Everything matched so far, newest first within each CV: [Finance (223)](#finance-fpa-cv-223) · [Credit (48)](#credit-cv-48) · [Equity (24)](#equity-cv-24) · [Investment (40)](#investment-ib--pe-cv-40) · [Consulting (14)](#consulting-cv-14) · [Real Estate (7)](#real-estate-cv-7) · [Fund (8)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-8) · [Other (71)](#other-fits-no-cv-closely-may-still-be-worth-a-look-71)
 
-### Finance (FP&A) CV: 224
+### Finance (FP&A) CV: 223
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1629,7 +1626,6 @@ Everything matched so far, newest first within each CV: [Finance (224)](#finance
 | 2026-10-27 | [FP&A Analyst](https://hiscox.wd3.myworkdayjobs.com/hiscox_external_site/job/London/FP-A-Analyst_R0020634) | Hiscox | London · York | ✅ |
 | 2026-10-27 | [FP&A Analyst](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Accounts-Assistant_JR_10040466-1) | Ayvens | Bristol CEC | ✅ |
 | 2026-10-27 | [Management Accountant](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Management-Accountant_JR_10041548) | Ayvens | Bristol CEC | ✅ |
-| 2026-10-27 | [Financial Reporting & Control Analyst](https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Financial-Reporting---Control-Analyst_R0074073) | abrdn | Edinburgh | ❔ |
 | 2026-10-22 | [Finance Analyst – Cost Insights & Performance](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Analyst---Cost-Insights---Performance_R0003866) | Landsec | London | ✅ |
 | 2026-10-22 | [Management Accountant - 12 month FTC](https://jobs.lever.co/octoenergy/edae3d41-b2d3-42b0-93e2-eb582e9aeeb2) | Octopus Energy | London (GB) | ✅ |
 | 2026-10-21 | [Finance (FP&A) Analyst - 12 month fixed-term contract](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Finance--FP-A--Analyst_R249821) | Capital One UK | Nottingham, Eng | ✅ |
@@ -1888,10 +1884,11 @@ Everything matched so far, newest first within each CV: [Finance (224)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>20 roles taken off the list because the firm closed the posting</summary>
+<summary>21 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 10 Nov, 02:14 | Financial Reporting & Control Analyst | abrdn |
 | Tue 10 Nov, 00:08 | Portfolio Management Assistant | RBC |
 | Mon 9 Nov, 20:08 | Associate - Corporate Finance (Technology M&A) | Houlihan Lokey |
 | Mon 9 Nov, 16:09 | Associate - Corporate Finance (Healthcare) | Houlihan Lokey |
