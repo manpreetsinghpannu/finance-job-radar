@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T02:14:49.296Z",
+ "generated_at": "2026-11-10T03:07:52.284Z",
  "order": [
   "finance",
   "credit",
@@ -2423,6 +2423,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
+  },
+  "https://scotjobsnet.co.uk/job/company-accountant/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
