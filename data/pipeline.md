@@ -706,5 +706,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fund-controller-private-equity-aca-at-93-mgmt-4489143057 | 93 MGMT | Fund Controller | Private Equity | ACA | London Area, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/finance-analyst-tether/57547481 | eFinancialCareers | Finance Analyst - Tether | London | posted: 2026-11-09 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/financial-controller-vc-or-hedge-fund-investment-accountant-tether/57547483 | eFinancialCareers | Financial Controller VC or Hedge Fund- Investment Accountant - Tether | London | posted: 2026-11-09 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/group-management-accountant/57544816 | Robert Half | Group Management Accountant | Leeds, West Yorkshire | posted: 2026-11-09 | note: via Reed
 
 ## Processed
