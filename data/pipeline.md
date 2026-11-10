@@ -714,5 +714,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/accountant/57551619 | Zachary Daniels | Accountant | Oxford, Oxfordshire | note: via Reed
 
 - [ ] https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77687 | Next | Finance Business Partner | Leicester, Leicestershire, United Kingdom | posted: 2026-11-10
+- [ ] https://www.reed.co.uk/jobs/corporate-finance-analyst/57551845 | McGinnis Loy Associates Ltd | Corporate Finance Analyst | Northampton, Northamptonshire | note: via Reed
 
 ## Processed

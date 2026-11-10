@@ -1292,6 +1292,11 @@
    "register_name": "Maven Securities Holding Limited.",
    "match": "alias"
   },
+  "McGinnis Loy Associates Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Mears Group PLC": {
    "licensed": true,
    "register_name": "Mears Group PLC",

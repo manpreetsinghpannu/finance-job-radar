@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T08:57:43.011Z",
+ "generated_at": "2026-11-10T09:07:27.467Z",
  "order": [
   "finance",
   "credit",
@@ -2453,6 +2453,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
+  },
+  "https://www.reed.co.uk/jobs/corporate-finance-analyst/57551845": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }
