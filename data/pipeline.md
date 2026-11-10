@@ -751,4 +751,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/qualified-accountant-127727627 | Lochead Sandford Recruitment | Qualified Accountant | Glasgow Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/qualified-accountant-127727626 | SPRINGFIELD PROPERTIES PLC | Qualified Accountant | Moray, Scotland | posted: 2026-11-10 | note: via S1Jobs
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808268 | JPMorgan Chase | Investment Banking – EMEA Healthcare Associate – London | LONDON, LONDON, United Kingdom | posted: 2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-debt-purchasing-collection-%C2%A370-000-%2B-bonus-at-salt-4487483932 | Salt | Investment Analyst - Debt Purchasing/ Collection - £70,000 + bonus | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/leveraged-finance-specialist-at-kennedy-pearce-consulting-4487499010 | Kennedy Pearce Consulting | Leveraged Finance Specialist | City Of London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-alexander-chapman-4482096995 | Alexander Chapman | Research Analyst | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fund-accountant/57553811 | Hays Specialist Recruitment Limited | Fund Accountant | London | note: via Reed
+
 ## Processed

@@ -1922,6 +1922,11 @@
    "register_name": "Salary Finance Limited",
    "match": "alias"
   },
+  "Salt": {
+   "licensed": true,
+   "register_name": "SALT Group Limited",
+   "match": "exact"
+  },
   "Santander": {
    "licensed": true,
    "register_name": "Santander UK PLC",
