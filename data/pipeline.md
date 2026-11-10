@@ -710,5 +710,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/company-accountant/ | via ScotJobsNet | Company Accountant | Lanarkshire, Scotland | posted: 2026-11-10 | note: via ScotJobsNet
 - [ ] https://www.linkedin.com/jobs/view/investment-strategy-analyst-at-alignerr-4489405468 | Alignerr | Investment Strategy Analyst | United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-ai-researcher-at-alignerr-4489189865 | Alignerr | Financial Analyst AI Researcher | United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-officer-at-citi-4489409787 | Citi | Credit Officer | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 
 ## Processed

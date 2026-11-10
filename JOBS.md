@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 10 Nov, 05:09** (UK time) · **438 open roles** at 251 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 10 Nov, 06:11** (UK time) · **439 open roles** at 251 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 10 Nov, 05:07** · hourly scan · checked 200 boards · **2 new roles**
+**Tue 10 Nov, 06:07** · hourly scan · checked 200 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Financial Analyst AI Researcher](https://www.linkedin.com/jobs/view/financial-analyst-ai-researcher-at-alignerr-4489189865) | Alignerr | United Kingdom | ❔ |
-
-### Consulting CV: 1
+### Credit CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-10 | [Investment Strategy Analyst](https://www.linkedin.com/jobs/view/investment-strategy-analyst-at-alignerr-4489405468) | Alignerr | United Kingdom | ❔ |
+| 2026-11-10 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-at-citi-4489409787) | Citi | London, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -33,7 +27,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-investigo-4488848869) · Investigo · London Area, United Kingdom · posted 2026-11-09 · ✅
 
-**Credit CV** (42 matching)
+**Credit CV** (43 matching)
 
 1. [Wholesale Credit Risk Strategy, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-05 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884) · LSEG · London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<details>
+<summary><b>06:07</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-10 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-at-citi-4489409787) | Citi | London, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>05:07</b> · hourly scan · <b>2 new</b> → Finance 1 · Consulting 1</summary>
@@ -1444,7 +1449,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (225)](#finance-fpa-cv-225) · [Credit (48)](#credit-cv-48) · [Equity (24)](#equity-cv-24) · [Investment (40)](#investment-ib--pe-cv-40) · [Consulting (15)](#consulting-cv-15) · [Real Estate (7)](#real-estate-cv-7) · [Fund (8)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-8) · [Other (71)](#other-fits-no-cv-closely-may-still-be-worth-a-look-71)
+Everything matched so far, newest first within each CV: [Finance (225)](#finance-fpa-cv-225) · [Credit (49)](#credit-cv-49) · [Equity (24)](#equity-cv-24) · [Investment (40)](#investment-ib--pe-cv-40) · [Consulting (15)](#consulting-cv-15) · [Real Estate (7)](#real-estate-cv-7) · [Fund (8)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-8) · [Other (71)](#other-fits-no-cv-closely-may-still-be-worth-a-look-71)
 
 ### Finance (FP&A) CV: 225
 
@@ -1676,10 +1681,11 @@ Everything matched so far, newest first within each CV: [Finance (225)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 48
+### Credit CV: 49
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-10 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-at-citi-4489409787) | Citi | London, England, United Kingdom | ✅ |
 | 2026-11-09 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884) | LSEG | London, England, United Kingdom | ✅ |
 | 2026-11-09 | [Credit Analyst - German Speaking](https://jobs.ashbyhq.com/wayflyer/0f3ac0c0-820f-4e39-ab2c-9a7af490ad93) | Wayflyer · startup/SME | London · Berlin · Dublin · UK · Remote | ✅ |
 | 2026-11-09 | [Investment Analyst, Private Credit](https://www.linkedin.com/jobs/view/investment-analyst-private-credit-at-pearse-partners-4487919299) | Pearse Partners | London Area, United Kingdom | ✅ |

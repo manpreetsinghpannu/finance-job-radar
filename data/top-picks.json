@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T05:09:12.383Z",
+ "generated_at": "2026-11-10T06:11:49.150Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 42,
+   "matching": 43,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -2438,6 +2438,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-officer-at-citi-4489409787": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }
