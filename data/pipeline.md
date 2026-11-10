@@ -724,4 +724,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/business-services-accountant-127727584 | Ashurst Perkins Coie | Business Services Accountant | Glasgow Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
 - [ ] https://www.linkedin.com/jobs/view/associate-credit-risk-consultant-at-harnham-4488300888 | Harnham | Associate Credit Risk Consultant | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 
+- [ ] https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modeling-Risk-Analyst---Model-Development_JR2604272 | AIG | Capital Modeling Risk Analyst - Model Development | London | posted: 2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-elevation-recruitment-group-4487467872 | Elevation Recruitment Group | Management Accountant | Bradford, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-management-accountant-at-distinct-b-corp-4489440890 | Distinct | B Corp | Commercial Management Accountant | Halifax, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-malaberg-4487476241 | Malaberg | Management Accountant | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/treasury-analyst-edinburgh/57552369 | Meraki Talent Limited | Treasury Analyst - Edinburgh | Edinburgh, Midlothian | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/strategic-finance-business-partner/57552457 | MLC Partners | Strategic Finance Business Partner | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57552383 | Headstar | Management Accountant | York, North Yorkshire | note: via Reed
+
 ## Processed

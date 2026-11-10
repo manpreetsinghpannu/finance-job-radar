@@ -1,13 +1,18 @@
 {
-  "finished_at": "2026-11-10T10:07:33.231Z",
+  "finished_at": "2026-11-10T11:08:56.482Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 33646,
-  "filtered_out": 33625,
-  "new_matches": 1,
-  "boards_failed": 0,
-  "failed": []
+  "postings_seen": 32754,
+  "filtered_out": 32732,
+  "new_matches": 7,
+  "boards_failed": 1,
+  "failed": [
+    {
+      "company": "Zopa",
+      "error": "HTTP 502 Bad Gateway"
+    }
+  ]
 }

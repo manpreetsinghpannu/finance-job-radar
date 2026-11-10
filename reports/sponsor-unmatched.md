@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 467 firms checked, 309 matched, 158 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 472 firms checked, 311 matched, 161 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (158)
+## Not found (161)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -52,6 +52,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Dojo
 - Echo
 - Edward Mann
+- Elevation Recruitment Group
 - Equifind
 - Ernest Gordon Recruitment Limited
 - Everet Marsh
@@ -76,6 +77,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Harper May Ltd
 - Hawke Search
 - Hays Specialist Recruitment Limited
+- Headstar
 - HelloFresh
 - Hoop Recruitment
 - IAG Transform
@@ -104,6 +106,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Marlin Selection Recruitment
 - Matched Group
 - McGinnis Loy Associates Ltd
+- Meraki Talent Limited
 - Metis Search
 - Michael Page Finance
 - Mollie

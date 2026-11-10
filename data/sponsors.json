@@ -652,6 +652,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Elevation Recruitment Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ElevenLabs": {
    "licensed": true,
    "register_name": "Eleven Labs Ltd",
@@ -918,6 +923,11 @@
    "match": "alias"
   },
   "Hays Specialist Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Headstar": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1227,6 +1237,11 @@
    "register_name": "MFS International (UK) Ltd",
    "match": "alias"
   },
+  "MLC Partners": {
+   "licensed": true,
+   "register_name": "MLC PARTNERS LTD",
+   "match": "exact"
+  },
   "MS Amlin": {
    "licensed": true,
    "register_name": "MS Amlin Corporate Services Limited",
@@ -1246,6 +1261,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Malaberg": {
+   "licensed": true,
+   "register_name": "Malaberg Ltd",
+   "match": "exact"
   },
   "Man Group": {
    "licensed": true,
@@ -1316,6 +1336,11 @@
    "licensed": true,
    "register_name": "Mears Group PLC",
    "match": "exact"
+  },
+  "Meraki Talent Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Mercuria": {
    "licensed": true,
