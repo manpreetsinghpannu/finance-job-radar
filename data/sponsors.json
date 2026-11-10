@@ -127,6 +127,11 @@
    "register_name": "Ambition Europe Limited",
    "match": "exact"
   },
+  "Anderson Knight": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Aon": {
    "licensed": true,
    "register_name": "Aon UK  Limited",

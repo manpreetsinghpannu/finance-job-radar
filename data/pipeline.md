@@ -732,4 +732,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/strategic-finance-business-partner/57552457 | MLC Partners | Strategic Finance Business Partner | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57552383 | Headstar | Management Accountant | York, North Yorkshire | note: via Reed
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Single-Stock-Trader_261009084-1 | Citi | Single Stock Trader | London United Kingdom | posted: 2026-11-10
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210616021 | JPMorgan Chase | Investment Banking - EMEA Real Estate - Analyst / Associate - London | LONDON, LONDON, United Kingdom | posted: 2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-anderson-knight-4489458447 | Anderson Knight | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/treasury-analyst/57552700 | Robert Walters | Treasury Analyst - | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/graduate-quantity-surveyor-127727593 | S1Jobs | Graduate Quantity Surveyor | Scotland | note: via S1Jobs
+
 ## Processed
