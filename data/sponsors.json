@@ -147,6 +147,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Arcade Food Halls": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Arcadis": {
    "licensed": true,
    "register_name": "Arcadis LLP",
@@ -343,6 +348,11 @@
    "match": "alias"
   },
   "Blockchain.com": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Blood Cancer UK": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -576,6 +586,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "DPD UK": {
+   "licensed": true,
+   "register_name": "D.P.D. Limited",
+   "match": "exact"
   },
   "DRW": {
    "licensed": true,
@@ -2312,6 +2327,11 @@
    "register_name": "Vodafone Group Services Limited",
    "match": "exact"
   },
+  "VodafoneThree": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Vonage": {
    "licensed": false,
    "register_name": null,
@@ -2326,6 +2346,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Walker Hamill": {
+   "licensed": true,
+   "register_name": "Walker Hamill Limited",
+   "match": "exact"
   },
   "Wayflyer": {
    "licensed": true,

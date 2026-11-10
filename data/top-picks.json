@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T16:08:41.589Z",
+ "generated_at": "2026-11-10T17:10:46.564Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 110,
+   "matching": 111,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 46,
+   "matching": 45,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 44,
+   "matching": 45,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -155,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 16,
+   "matching": 15,
    "picks": [
     {
      "title": "VAIB Strategy Analyst",
@@ -171,10 +171,10 @@
     },
     {
      "title": "Credit Strategy Analyst",
-     "company": "Funding Circle",
-     "location": "London · United Kingdom",
+     "company": "Funding Circle UK",
+     "location": "London, England, United Kingdom",
      "posted": "2026-11-06",
-     "url": "https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e",
+     "url": "https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-funding-circle-uk-4488400686",
      "score": 20,
      "why": [
       "Strategy Analyst"
@@ -802,11 +802,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 11
-  },
-  "https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 20
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761": {
    "id": "investment",
@@ -2273,11 +2268,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8934943002": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
   "https://www.linkedin.com/jobs/view/fp-a-analyst-at-ashurst-perkins-coie-4487170627": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2677,6 +2667,36 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808312": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-walker-hamill-4468597583": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-dpd-uk-4489496621": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-vodafonethree-4487809200": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/financial-analyst/57555040": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/finance-business-partner/57554865": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
   }
  }
 }

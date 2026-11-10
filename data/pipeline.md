@@ -770,4 +770,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/financial-controller/57554573 | Seymour John | Financial Controller | Birmingham, West Midlands (County) | note: via Reed
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-pqs-security-cleared-127727650 | Peace Recruitment | Quantity Surveyor Pqs Security Cleared | City of Edinburgh, Scotland | posted: 2026-11-10 | note: via S1Jobs
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808312 | JPMorgan Chase | Investment Banking – EMEA Financial Institutions Group (Insurance) – Analyst – London | LONDON, LONDON, United Kingdom | posted: 2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-walker-hamill-4468597583 | Walker Hamill | FP&A Analyst | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-dpd-uk-4489496621 | DPD UK | Assistant Management Accountant | Smethwick, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-vodafonethree-4487809200 | VodafoneThree | VodafoneThree Graduate Finance Programme - Core Finance | Newbury, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-analyst/57555040 | Arcade Food Halls | Financial Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57554865 | Blood Cancer UK | Finance Business Partner | London | note: via Reed
+
 ## Processed
