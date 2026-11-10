@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T22:10:48.049Z",
+ "generated_at": "2026-11-10T22:39:26.990Z",
  "order": [
   "finance",
   "credit",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 45,
+   "matching": 46,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -2752,6 +2752,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
+  },
+  "https://www.linkedin.com/jobs/view/executive-corporate-finance-at-frp-advisory-4487497721": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 21
   }
  }
 }

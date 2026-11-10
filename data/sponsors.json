@@ -747,6 +747,11 @@
    "register_name": "EXPERIAN LIMITED",
    "match": "alias"
   },
+  "FRP Advisory": {
+   "licensed": true,
+   "register_name": "FRP Advisory Group PLC",
+   "match": "exact"
+  },
   "FT Recruitment Group": {
    "licensed": false,
    "register_name": null,

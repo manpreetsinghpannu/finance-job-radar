@@ -789,5 +789,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/accountant-xero-127727840 | FT Recruitment Group | Accountant Xero | Aberdeen Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/assistant-accountant-127727854 | Bield Housing Association | Assistant Accountant | City of Edinburgh, Scotland | posted: 2026-11-10 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/treasury-ap-127727833 | S1Jobs | Treasury Ap | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/executive-corporate-finance-at-frp-advisory-4487497721 | FRP Advisory | Executive - Corporate Finance | Brighton, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 
 ## Processed
