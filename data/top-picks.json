@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T09:07:27.467Z",
+ "generated_at": "2026-11-10T09:59:50.832Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 102,
+   "matching": 104,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -2458,6 +2458,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London---Gracechurch-Street/Technical-Trainer---Mortgages---Financial-Planning_R0020042": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/market-risk-analyst-analytics-at-richard-james-recruitment-specialists-ltd-4489449041": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/graduate-corporate-finance-analyst-at-graphite-partners-4489433772": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/associate-credit-risk-consultant/57551993": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.s1jobs.com/job/business-services-accountant-127727584": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
   }
  }
 }

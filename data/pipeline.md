@@ -716,4 +716,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77687 | Next | Finance Business Partner | Leicester, Leicestershire, United Kingdom | posted: 2026-11-10
 - [ ] https://www.reed.co.uk/jobs/corporate-finance-analyst/57551845 | McGinnis Loy Associates Ltd | Corporate Finance Analyst | Northampton, Northamptonshire | note: via Reed
 
+- [ ] https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London---Gracechurch-Street/Technical-Trainer---Mortgages---Financial-Planning_R0020042 | Howden (Hyperion) | Technical Trainer - Mortgages & Financial Planning | London - Gracechurch Street · Home - UK- England | posted: 2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/market-risk-analyst-analytics-at-richard-james-recruitment-specialists-ltd-4489449041 | Richard James Recruitment Specialists Ltd | Market Risk Analyst (Analytics) | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-corporate-finance-analyst-at-graphite-partners-4489433772 | Graphite Partners | Graduate Corporate Finance Analyst | Birmingham, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/associate-credit-risk-consultant/57551993 | Harnham - Data & Analytics Recruitment | Associate Credit Risk Consultant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57552080 | Trace | Expert Accountancy & Finance Recruitment | Management Accountant | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/business-services-accountant-127727584 | Ashurst Perkins Coie | Business Services Accountant | Glasgow Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
+
 ## Processed

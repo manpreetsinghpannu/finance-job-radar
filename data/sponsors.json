@@ -817,6 +817,11 @@
    "register_name": "Graham Capital LLP",
    "match": "alias"
   },
+  "Graphite Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Greencore": {
    "licensed": false,
    "register_name": null,
@@ -881,6 +886,11 @@
    "licensed": true,
    "register_name": "Harmonic (UK) Ltd.",
    "match": "exact"
+  },
+  "Harnham - Data & Analytics Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Harper May Ltd": {
    "licensed": false,
@@ -1742,6 +1752,11 @@
    "register_name": "Revolut Ltd",
    "match": "alias"
   },
+  "Richard James Recruitment Specialists Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Rightmove": {
    "licensed": true,
    "register_name": "Rightmove Group Ltd",
@@ -2091,6 +2106,11 @@
    "licensed": true,
    "register_name": "Tower Research Capital Europe Limited",
    "match": "alias"
+  },
+  "Trace": {
+   "licensed": true,
+   "register_name": "Trace Group Limited",
+   "match": "exact"
   },
   "Trading 212": {
    "licensed": true,
