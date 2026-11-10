@@ -722,5 +722,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/associate-credit-risk-consultant/57551993 | Harnham - Data & Analytics Recruitment | Associate Credit Risk Consultant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57552080 | Trace | Expert Accountancy & Finance Recruitment | Management Accountant | London | note: via Reed
 - [ ] https://www.s1jobs.com/job/business-services-accountant-127727584 | Ashurst Perkins Coie | Business Services Accountant | Glasgow Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/associate-credit-risk-consultant-at-harnham-4488300888 | Harnham | Associate Credit Risk Consultant | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 
 ## Processed

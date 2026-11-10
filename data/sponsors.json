@@ -887,6 +887,11 @@
    "register_name": "Harmonic (UK) Ltd.",
    "match": "exact"
   },
+  "Harnham": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Harnham - Data & Analytics Recruitment": {
    "licensed": false,
    "register_name": null,
