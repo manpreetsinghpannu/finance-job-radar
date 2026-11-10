@@ -708,5 +708,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/financial-controller-vc-or-hedge-fund-investment-accountant-tether/57547483 | eFinancialCareers | Financial Controller VC or Hedge Fund- Investment Accountant - Tether | London | posted: 2026-11-09 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/group-management-accountant/57544816 | Robert Half | Group Management Accountant | Leeds, West Yorkshire | posted: 2026-11-09 | note: via Reed
 - [ ] https://scotjobsnet.co.uk/job/company-accountant/ | via ScotJobsNet | Company Accountant | Lanarkshire, Scotland | posted: 2026-11-10 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/investment-strategy-analyst-at-alignerr-4489405468 | Alignerr | Investment Strategy Analyst | United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-ai-researcher-at-alignerr-4489189865 | Alignerr | Financial Analyst AI Researcher | United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 
 ## Processed

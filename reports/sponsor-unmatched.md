@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 460 firms checked, 308 matched, 152 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 461 firms checked, 308 matched, 153 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (152)
+## Not found (153)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -16,6 +16,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Adyen
 - Agility
 - Alexander Chapman
+- Alignerr
 - Altum Consulting
 - Appcastenterprise
 - Aria Partners

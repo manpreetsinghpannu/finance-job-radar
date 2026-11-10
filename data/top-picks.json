@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T04:08:36.527Z",
+ "generated_at": "2026-11-10T05:09:12.383Z",
  "order": [
   "finance",
   "credit",
@@ -2428,6 +2428,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/investment-strategy-analyst-at-alignerr-4489405468": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-ai-researcher-at-alignerr-4489189865": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
