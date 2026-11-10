@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T23:07:29.061Z",
+ "generated_at": "2026-11-10T00:08:40.875Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 98,
+   "matching": 100,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 25,
+   "matching": 24,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 21,
+   "matching": 20,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 16,
+   "matching": 17,
    "picks": [
     {
      "title": "Investment Operations Analyst",
@@ -390,11 +390,6 @@
    "score": 0
   },
   "https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/London-United-Kingdom/Product---Market-Planning-Graduate-Programme--Risk-Intelligence-_R0124725": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANTAGE-POINT-WOODWATER-PARK-PYNES-HILLEXETER/Portfolio-Management-Assistant_R-0000191269": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
@@ -2418,6 +2413,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst-tether/57547481": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.reed.co.uk/jobs/financial-controller-vc-or-hedge-fund-investment-accountant-tether/57547483": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
   }
  }
 }
