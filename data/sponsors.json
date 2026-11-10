@@ -67,6 +67,11 @@
    "register_name": "Achieve together Limited",
    "match": "exact"
   },
+  "Acumen": {
+   "licensed": true,
+   "register_name": "Acumen Inc",
+   "match": "exact"
+  },
   "Addington Ball Recruitment Ltd": {
    "licensed": false,
    "register_name": null,
@@ -1212,6 +1217,11 @@
    "register_name": "Lloyds Bank plc",
    "match": "alias"
   },
+  "Lochead Sandford Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Lombard Odier": {
    "licensed": true,
    "register_name": "LOMBARD ODIER ASSET MANAGEMENT (EUROPE) LIMITED",
@@ -1787,6 +1797,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Resourcery Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Revolut": {
    "licensed": true,
    "register_name": "Revolut Ltd",
@@ -1832,6 +1847,11 @@
    "register_name": "Rothschild & Co Global Markets Solutions Limited",
    "match": "alias"
   },
+  "Royal College Of Physicians & Surgeons Of Glasgow": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Royal London": {
    "licensed": true,
    "register_name": "Horsefair Management Ltd T/A The Royal",
@@ -1866,6 +1886,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "SPRINGFIELD PROPERTIES PLC": {
+   "licensed": true,
+   "register_name": "Springfield Properties (Scotland) LTD",
+   "match": "exact"
   },
   "SRM RECRUITMENT LIMITED": {
    "licensed": false,
@@ -2247,6 +2272,11 @@
    "register_name": "VISA EUROPE LIMITED",
    "match": "alias"
   },
+  "Vistry Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Vitesse": {
    "licensed": true,
    "register_name": "Vitesse PSP",
@@ -2290,6 +2320,11 @@
   "William Blair": {
    "licensed": true,
    "register_name": "William Blair International Limited",
+   "match": "exact"
+  },
+  "William Grant & Sons": {
+   "licensed": true,
+   "register_name": "William Grant & Sons Ltd",
    "match": "exact"
   },
   "Wintermute": {

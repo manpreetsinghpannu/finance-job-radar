@@ -742,5 +742,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/information-security-risk-analyst-at-client-server-4489464424 | Client Server | Information Security Risk Analyst | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-accountant-private-equity-aca-at-93-mgmt-4489460113 | 93 MGMT | Fund Accountant | Private Equity | ACA | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-sheridan-maine-accounting-audit-tax-recruitment-4487487470 | Sheridan Maine - Accounting, Audit & Tax Recruitment | Management Accountant | Greater London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-resourcery-group-4488895526 | Resourcery Group | Finance Business Partner | Wrexham, Wales, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-william-grant-sons-4480239637 | William Grant & Sons | FP&A Analyst | Richmond Upon Thames, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/controller-acumen-ventures-debt-partners-limited-at-acumen-4487975520 | Acumen | Controller, Acumen Ventures Debt Partners Limited | London, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-vistry-group-4487170827 | Vistry Group | Finance Analyst | Redhill, England, United Kingdom | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/treasury-analyst/57553478 | Distinct Recruitment | Treasury analyst | Leeds, West Yorkshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/assistant-accountant-127727625 | Royal College Of Physicians & Surgeons Of Glasgow | Assistant Accountant | Glasgow Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/qualified-accountant-127727627 | Lochead Sandford Recruitment | Qualified Accountant | Glasgow Area, Scotland | posted: 2026-11-10 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/qualified-accountant-127727626 | SPRINGFIELD PROPERTIES PLC | Qualified Accountant | Moray, Scotland | posted: 2026-11-10 | note: via S1Jobs
 
 ## Processed
