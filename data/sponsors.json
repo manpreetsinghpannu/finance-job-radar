@@ -517,6 +517,11 @@
    "register_name": "Cleo AI Ltd",
    "match": "exact"
   },
+  "Client Server": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Cobalt": {
    "licensed": true,
    "register_name": "Cobalt Labs UK Limited",
@@ -1936,6 +1941,11 @@
    "licensed": true,
    "register_name": "Shell and Beyond Projects Ltd",
    "match": "alias"
+  },
+  "Sheridan Maine - Accounting, Audit & Tax Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Signet Resources": {
    "licensed": false,

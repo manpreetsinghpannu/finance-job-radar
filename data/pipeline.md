@@ -737,5 +737,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-anderson-knight-4489458447 | Anderson Knight | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/treasury-analyst/57552700 | Robert Walters | Treasury Analyst - | London | note: via Reed
 - [ ] https://www.s1jobs.com/job/graduate-quantity-surveyor-127727593 | S1Jobs | Graduate Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-gleeson-recruitment-group-4489454826 | Gleeson Recruitment Group | FP&A Analyst | West Midlands, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462 | The Consultancy Group (London) | Commercial Finance Analyst | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/information-security-risk-analyst-at-client-server-4489464424 | Client Server | Information Security Risk Analyst | London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-private-equity-aca-at-93-mgmt-4489460113 | 93 MGMT | Fund Accountant | Private Equity | ACA | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-sheridan-maine-accounting-audit-tax-recruitment-4487487470 | Sheridan Maine - Accounting, Audit & Tax Recruitment | Management Accountant | Greater London, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 
 ## Processed
