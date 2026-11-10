@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 10 Nov, 19:09** (UK time) · **502 open roles** at 288 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 10 Nov, 20:08** (UK time) · **501 open roles** at 288 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,33 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 10 Nov, 19:07** · hourly scan · checked 200 boards · **11 new roles**
+**Tue 10 Nov, 20:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 9
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-wates-group-4489170284) | Wates Group | London, England, United Kingdom | ✅ |
-| 2026-11-10 | [FP&A Data and Automation Analyst](https://www.linkedin.com/jobs/view/fp-a-data-and-automation-analyst-at-rider-levett-bucknall-rlb-4473268159) | Rider Levett Bucknall RLB | London, England, United Kingdom | ✅ |
-| 2026-11-10 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-the-university-of-manchester-4488392694) | The University of Manchester | Manchester, England, United Kingdom | ✅ |
-| 2026-11-10 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-rushlift-gse-4481217005) | Rushlift GSE | London, England, United Kingdom | ❔ |
-| 2026-11-10 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-all-about-food-ltd-4488374535) | All About Food Ltd | Manchester, England, United Kingdom | ❔ |
-| 2026-11-10 | [Assistant Accountant](https://www.s1jobs.com/job/assistant-accountant-127727854) | Bield Housing Association | City of Edinburgh, Scotland | ❔ |
-| 2026-11-10 | [Financial Controller](https://www.s1jobs.com/job/financial-controller-127727844) | FT Recruitment Group | Aberdeen Area, Scotland | ❔ |
-| 2026-11-10 | [Accountant Xero](https://www.s1jobs.com/job/accountant-xero-127727840) | FT Recruitment Group | Aberdeen Area, Scotland | ❔ |
-| — | [Treasury Ap](https://www.s1jobs.com/job/treasury-ap-127727833) | S1Jobs | Scotland | ❔ |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Bloomberg Intelligence European Quantitative Equity Research Strategist](https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859) | Bloomberg | London, England, United Kingdom | ✅ |
-
-### Real Estate CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Real Estate Investment Analyst, Global Real Estate Investor, London](https://www.linkedin.com/jobs/view/real-estate-investment-analyst-global-real-estate-investor-london-at-edgworth-partners-4489630112) | Edgworth Partners | London Area, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Tue 10 Nov, 19:07** (11: Finance 9 · Equity 1 · Real Estate 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -82,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<sub>Nothing new at: 20:07</sub>
 
 <details>
 <summary><b>19:07</b> · hourly scan · <b>11 new</b> → Finance 9 · Equity 1 · Real Estate 1</summary>
@@ -583,7 +561,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>16:07</b> · hourly scan · <b>7 new</b> → Finance 4 · Equity 1 · Investment 2</summary>
+<summary><b>16:07</b> · hourly scan · <b>6 new</b> → Finance 4 · Equity 1 · Investment 1</summary>
 
 #### Finance (FP&A) CV: 4
 
@@ -600,12 +578,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | — | [Growth Equity - Investment Associate - eFinancialCareers](https://www.reed.co.uk/jobs/growth-equity-investment-associate-efinancialcareers/57546014) | eFinancialCareers | London | ✅ |
 
-#### Investment (IB / PE) CV: 2
+#### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-09 | [Corporate Finance Associate / Healthcare](https://www.linkedin.com/jobs/view/corporate-finance-associate-healthcare-at-brock-decker-4488883399) | Brock & Decker | London Area, United Kingdom | ❔ |
 | 2026-11-09 | [Investment Associate - Healthcare & Life Sciences](https://www.linkedin.com/jobs/view/investment-associate-healthcare-life-sciences-at-brock-decker-4487729523) | Brock & Decker | London Area, United Kingdom | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -1778,7 +1757,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (263)](#finance-fpa-cv-263) · [Credit (56)](#credit-cv-56) · [Equity (29)](#equity-cv-29) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (14)](#consulting-cv-14) · [Real Estate (8)](#real-estate-cv-8) · [Fund (10)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-10) · [Other (76)](#other-fits-no-cv-closely-may-still-be-worth-a-look-76)
+Everything matched so far, newest first within each CV: [Finance (263)](#finance-fpa-cv-263) · [Credit (56)](#credit-cv-56) · [Equity (29)](#equity-cv-29) · [Investment (45)](#investment-ib--pe-cv-45) · [Consulting (14)](#consulting-cv-14) · [Real Estate (8)](#real-estate-cv-8) · [Fund (10)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-10) · [Other (76)](#other-fits-no-cv-closely-may-still-be-worth-a-look-76)
 
 ### Finance (FP&A) CV: 263
 
@@ -2143,7 +2122,7 @@ Everything matched so far, newest first within each CV: [Finance (263)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 46
+### Investment (IB / PE) CV: 45
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2157,7 +2136,6 @@ Everything matched so far, newest first within each CV: [Finance (263)](#finance
 | 2026-11-09 | [Credit Underwriter - Leveraged Finance](https://www.linkedin.com/jobs/view/credit-underwriter-leveraged-finance-at-bank-of-america-4436367629) | Bank of America | London, England, United Kingdom | ✅ |
 | 2026-11-09 | [M&A Analyst](https://www.linkedin.com/jobs/view/m-a-analyst-at-kbs-corporate-4489137814) | KBS Corporate | Bolton, England, United Kingdom | ❔ |
 | 2026-11-09 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-everet-marsh-4488841226) | Everet Marsh | London Area, United Kingdom | ❔ |
-| 2026-11-09 | [Corporate Finance Associate / Healthcare](https://www.linkedin.com/jobs/view/corporate-finance-associate-healthcare-at-brock-decker-4488883399) | Brock & Decker | London Area, United Kingdom | ❔ |
 | — | [Corporate Finance Associate](https://www.reed.co.uk/jobs/corporate-finance-associate/57546501) | Lord Accounting & Finance | Manchester, Lancashire | ❔ |
 | 2026-11-09 | [Investment Associate - Healthcare & Life Sciences](https://www.linkedin.com/jobs/view/investment-associate-healthcare-life-sciences-at-brock-decker-4487729523) | Brock & Decker | London Area, United Kingdom | ❔ |
 | 2026-11-08 | [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-m-a-diversified-industries-associate-london-at-jpmorganchase-4472245363) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
@@ -2325,10 +2303,11 @@ Everything matched so far, newest first within each CV: [Finance (263)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>26 roles taken off the list because the firm closed the posting</summary>
+<summary>27 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 10 Nov, 20:08 | Corporate Finance Associate / Healthcare | Brock & Decker |
 | Tue 10 Nov, 17:25 | Credit Risk Analyst | Ventula Consulting |
 | Tue 10 Nov, 17:09 | Junior Treasury Analyst | Tandem Bank |
 | Tue 10 Nov, 17:08 | Credit Strategy Analyst | Funding Circle |

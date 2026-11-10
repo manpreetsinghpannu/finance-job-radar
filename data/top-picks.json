@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T19:09:42.334Z",
+ "generated_at": "2026-11-10T20:08:48.862Z",
  "order": [
   "finance",
   "credit",
@@ -2237,11 +2237,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 10
-  },
-  "https://www.linkedin.com/jobs/view/corporate-finance-associate-healthcare-at-brock-decker-4488883399": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 16
   },
   "https://www.reed.co.uk/jobs/growth-equity-investment-associate-efinancialcareers/57546014": {
    "id": "equity",
