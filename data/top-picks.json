@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T17:10:46.564Z",
+ "generated_at": "2026-11-10T17:27:13.906Z",
  "order": [
   "finance",
   "credit",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 26,
+   "matching": 27,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -887,11 +887,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-ventula-consulting-4485733754": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 20
   },
   "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-propel-holdings-4472012111": {
    "id": "credit",
@@ -2697,6 +2692,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://www.reed.co.uk/jobs/syndicate-research-analyst/57555207": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/trading-assistant-confectionery/57555171": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

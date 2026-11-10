@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 10 Nov, 17:10** (UK time) · **490 open roles** at 278 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 10 Nov, 17:27** (UK time) · **491 open roles** at 279 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,28 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 10 Nov, 17:07** · hourly scan · checked 200 boards · **6 new roles**
+**Tue 10 Nov, 17:23** · hourly scan · checked 200 boards · **2 new roles**
 
-### Finance (FP&A) CV: 4
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-walker-hamill-4468597583) | Walker Hamill | London Area, United Kingdom | ✅ |
-| 2026-11-10 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-dpd-uk-4489496621) | DPD UK | Smethwick, England, United Kingdom | ✅ |
-| — | [Financial Analyst](https://www.reed.co.uk/jobs/financial-analyst/57555040) | Arcade Food Halls | London | ❔ |
-| — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57554865) | Blood Cancer UK | London | ❔ |
-
-### Investment (IB / PE) CV: 1
+### Equity CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-10 | [Investment Banking – EMEA Financial Institutions Group (Insurance) – Analyst – London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808312) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
+| — | [Syndicate Research Analyst](https://www.reed.co.uk/jobs/syndicate-research-analyst/57555207) | IPS Group | London | ✅ |
 
 ### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-10 | [VodafoneThree Graduate Finance Programme - Core Finance](https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-vodafonethree-4487809200) | VodafoneThree | Newbury, England, United Kingdom | ❔ |
+| — | [Trading Assistant - Confectionery](https://www.reed.co.uk/jobs/trading-assistant-confectionery/57555171) | ASDA | Leeds, West Yorkshire | ❔ |
 
 ## Top picks for each CV
 
@@ -47,7 +38,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Wholesale Credit Risk Strategy, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-05 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884) · LSEG · London, England, United Kingdom · posted 2026-11-09 · ✅
 
-**Equity CV** (26 matching)
+**Equity CV** (27 matching)
 
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [EMEA Equity Research - Real Estate - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210802518) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-10-23 · ✅
@@ -77,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<details>
+<summary><b>17:23</b> · hourly scan · <b>2 new</b> → Equity 1 · Other 1</summary>
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Syndicate Research Analyst](https://www.reed.co.uk/jobs/syndicate-research-analyst/57555207) | IPS Group | London | ✅ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Trading Assistant - Confectionery](https://www.reed.co.uk/jobs/trading-assistant-confectionery/57555171) | ASDA | Leeds, West Yorkshire | ❔ |
+
+</details>
 
 <details>
 <summary><b>17:07</b> · hourly scan · <b>6 new</b> → Finance 4 · Investment 1 · Other 1</summary>
@@ -1303,7 +1311,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>12:21</b> · hourly scan · <b>122 new</b> → Finance 76 · Credit 11 · Equity 8 · Investment 6 · Consulting 1 · Fund 2 · Other 18</summary>
+<summary><b>12:21</b> · hourly scan · <b>121 new</b> → Finance 76 · Credit 10 · Equity 8 · Investment 6 · Consulting 1 · Fund 2 · Other 18</summary>
 
 #### Finance (FP&A) CV: 76
 
@@ -1386,7 +1394,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Client Accountant](https://www.s1jobs.com/job/client-accountant-127667909) | S1Jobs | Scotland | ❔ |
 | — | [Corporate Accountant Hybrid Working](https://www.s1jobs.com/job/corporate-accountant-hybrid-working-127651677) | S1Jobs | Scotland | ❔ |
 
-#### Credit CV: 11
+#### Credit CV: 10
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1394,7 +1402,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-07 | [Wholesale Credit Risk - EMEA Emerging Markets (MENA) Associate](https://www.linkedin.com/jobs/view/wholesale-credit-risk-emea-emerging-markets-mena-associate-at-jpmorganchase-4403159570) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-07 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-propel-holdings-4472012111) | Propel Holdings | Nottingham, England, United Kingdom | ✅ |
 | 2026-11-06 | [Credit Analyst – European Financials](https://www.linkedin.com/jobs/view/credit-analyst-%E2%80%93-european-financials-at-man-group-4480366321) | Man Group | London, England, United Kingdom | ✅ |
-| 2026-11-06 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-ventula-consulting-4485733754) | Ventula Consulting | Leeds, England, United Kingdom | ❔ |
 | 2026-11-06 | [Goldman Sachs Alternatives - Private Credit Investing - Analyst - London](https://www.linkedin.com/jobs/view/goldman-sachs-alternatives-private-credit-investing-analyst-london-at-goldman-sachs-4479147204) | Goldman Sachs | London, England, United Kingdom | ✅ |
 | 2026-11-06 | [Corporate Credit Analyst](https://www.linkedin.com/jobs/view/corporate-credit-analyst-at-city-recruitment-associates-4488126750) | City Recruitment Associates | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Credit Analyst](https://www.reed.co.uk/jobs/credit-analyst/57540471) | Reed | City of London, London | ❔ |
@@ -1462,7 +1469,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Quantity Surveyor Pqs](https://www.s1jobs.com/job/quantity-surveyor-pqs-127649281) | S1Jobs | Scotland | ❔ |
 | — | [Quantity Surveyor Nec](https://www.s1jobs.com/job/quantity-surveyor-nec-127649278) | S1Jobs | Scotland | ❔ |
 
-<sub>3 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>4 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -1724,7 +1731,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (254)](#finance-fpa-cv-254) · [Credit (57)](#credit-cv-57) · [Equity (27)](#equity-cv-27) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (14)](#consulting-cv-14) · [Real Estate (7)](#real-estate-cv-7) · [Fund (10)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-10) · [Other (75)](#other-fits-no-cv-closely-may-still-be-worth-a-look-75)
+Everything matched so far, newest first within each CV: [Finance (254)](#finance-fpa-cv-254) · [Credit (56)](#credit-cv-56) · [Equity (28)](#equity-cv-28) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (14)](#consulting-cv-14) · [Real Estate (7)](#real-estate-cv-7) · [Fund (10)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-10) · [Other (76)](#other-fits-no-cv-closely-may-still-be-worth-a-look-76)
 
 ### Finance (FP&A) CV: 254
 
@@ -1985,7 +1992,7 @@ Everything matched so far, newest first within each CV: [Finance (254)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 57
+### Credit CV: 56
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2016,7 +2023,6 @@ Everything matched so far, newest first within each CV: [Finance (254)](#finance
 | — | [Structured Credit Middle Office (Associate)](https://careers.nomura.com/Nomura/job/London-Structured-Credit-Middle-Office-%28Associate%29-Lond-EC4R-3AB/1408186600/) | Nomura | London | ✅ |
 | 2026-11-06 | [Credit Risk Underwriter - Structured Lending](https://www.linkedin.com/jobs/view/credit-risk-underwriter-structured-lending-at-morgan-mckinley-4486985902) | Morgan McKinley | London Area, United Kingdom | ✅ |
 | 2026-11-06 | [Credit Analyst – European Financials](https://www.linkedin.com/jobs/view/credit-analyst-%E2%80%93-european-financials-at-man-group-4480366321) | Man Group | London, England, United Kingdom | ✅ |
-| 2026-11-06 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-ventula-consulting-4485733754) | Ventula Consulting | Leeds, England, United Kingdom | ❔ |
 | 2026-11-06 | [Goldman Sachs Alternatives - Private Credit Investing - Analyst - London](https://www.linkedin.com/jobs/view/goldman-sachs-alternatives-private-credit-investing-analyst-london-at-goldman-sachs-4479147204) | Goldman Sachs | London, England, United Kingdom | ✅ |
 | 2026-11-06 | [Corporate Credit Analyst](https://www.linkedin.com/jobs/view/corporate-credit-analyst-at-city-recruitment-associates-4488126750) | City Recruitment Associates | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Credit Analyst](https://www.reed.co.uk/jobs/credit-analyst/57540471) | Reed | City of London, London | ❔ |
@@ -2047,11 +2053,12 @@ Everything matched so far, newest first within each CV: [Finance (254)](#finance
 | 2026-10-15 | [Venture & Growth Debt - Analyst - London](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Venture---Growth-Debt---Analyst---London_R261163) | BlackRock | London, Greater London | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 27
+### Equity CV: 28
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-10 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-alexander-chapman-4482096995) | Alexander Chapman | London Area, United Kingdom | ❔ |
+| — | [Syndicate Research Analyst](https://www.reed.co.uk/jobs/syndicate-research-analyst/57555207) | IPS Group | London | ✅ |
 | — | [Investment Analyst](https://www.reed.co.uk/jobs/investment-analyst/57554180) | eFinancialCareers | London | ✅ |
 | 2026-11-10 | [Quantitative Researcher – Systematic Equities](https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-systematic-equities-at-octavius-finance-4488376412) | Octavius Finance | London Area, United Kingdom | ❔ |
 | 2026-11-09 | [Investment Analyst, Quantitative Solutions](https://www.linkedin.com/jobs/view/investment-analyst-quantitative-solutions-at-lcm-partners-4488851537) | LCM Partners | London Area, United Kingdom | ✅ |
@@ -2176,7 +2183,7 @@ Everything matched so far, newest first within each CV: [Finance (254)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 75
+### Other (fits no CV closely, may still be worth a look): 76
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2184,6 +2191,7 @@ Everything matched so far, newest first within each CV: [Finance (254)](#finance
 | — | [Graduate Quantity Surveyor](https://www.s1jobs.com/job/graduate-quantity-surveyor-127727593) | S1Jobs | Scotland | ❔ |
 | 2026-11-10 | [Quantity Surveyor Pqs Security Cleared](https://www.s1jobs.com/job/quantity-surveyor-pqs-security-cleared-127727650) | Peace Recruitment | City of Edinburgh, Scotland | ❔ |
 | 2026-11-10 | [VodafoneThree Graduate Finance Programme - Core Finance](https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-vodafonethree-4487809200) | VodafoneThree | Newbury, England, United Kingdom | ❔ |
+| — | [Trading Assistant - Confectionery](https://www.reed.co.uk/jobs/trading-assistant-confectionery/57555171) | ASDA | Leeds, West Yorkshire | ❔ |
 | — | [Finance Graduate](https://www.reed.co.uk/jobs/finance-graduate/57537108) | Tarmac Trading Limited | Solihull, West Midlands (County) | ✅ |
 | 2026-11-09 | [2027 Risk Management Group Graduate Programme](https://www.linkedin.com/jobs/view/2027-risk-management-group-graduate-programme-at-targetjobs-uk-4487663748) | targetjobs UK | London, England, United Kingdom | ❔ |
 | 2026-11-09 | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127720787) | HAYS | Glasgow Area, Scotland | ✅ |
@@ -2259,10 +2267,11 @@ Everything matched so far, newest first within each CV: [Finance (254)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>25 roles taken off the list because the firm closed the posting</summary>
+<summary>26 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 10 Nov, 17:25 | Credit Risk Analyst | Ventula Consulting |
 | Tue 10 Nov, 17:09 | Junior Treasury Analyst | Tandem Bank |
 | Tue 10 Nov, 17:08 | Credit Strategy Analyst | Funding Circle |
 | Tue 10 Nov, 12:08 | Trainee Fund Accountant | Aztec Group |

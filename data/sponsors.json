@@ -32,6 +32,11 @@
    "register_name": null,
    "match": "none"
   },
+  "ASDA": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ASSA ABLOY Group": {
    "licensed": true,
    "register_name": "ASSA ABLOY Ltd",
@@ -1030,6 +1035,11 @@
   "ING": {
    "licensed": true,
    "register_name": "ING Services Limited",
+   "match": "exact"
+  },
+  "IPS Group": {
+   "licensed": true,
+   "register_name": "IPS (Aberdeen) Ltd",
    "match": "exact"
   },
   "IQ-EQ": {

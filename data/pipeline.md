@@ -776,5 +776,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-vodafonethree-4487809200 | VodafoneThree | VodafoneThree Graduate Finance Programme - Core Finance | Newbury, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-analyst/57555040 | Arcade Food Halls | Financial Analyst | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/finance-business-partner/57554865 | Blood Cancer UK | Finance Business Partner | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/syndicate-research-analyst/57555207 | IPS Group | Syndicate Research Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/trading-assistant-confectionery/57555171 | ASDA | Trading Assistant - Confectionery | Leeds, West Yorkshire | note: via Reed
 
 ## Processed
