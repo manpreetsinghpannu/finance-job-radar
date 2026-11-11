@@ -1,18 +1,13 @@
 {
-  "finished_at": "2026-11-11T01:10:16.335Z",
+  "finished_at": "2026-11-11T02:10:59.063Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 34205,
-  "filtered_out": 34177,
-  "new_matches": 1,
-  "boards_failed": 1,
-  "failed": [
-    {
-      "company": "Flow Traders",
-      "error": "This operation was aborted"
-    }
-  ]
+  "postings_seen": 34342,
+  "filtered_out": 34314,
+  "new_matches": 0,
+  "boards_failed": 0,
+  "failed": []
 }
