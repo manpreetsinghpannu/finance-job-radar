@@ -622,6 +622,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Cumberland Farms UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "DPD UK": {
    "licensed": true,
    "register_name": "D.P.D. Limited",
@@ -816,6 +821,11 @@
    "licensed": true,
    "register_name": "Flow Traders UK Services Ltd",
    "match": "alias"
+  },
+  "Forge Talent": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Form3": {
    "licensed": true,
@@ -1198,6 +1208,11 @@
    "match": "none"
   },
   "KBS Corporate": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "KDR Talent Solutions": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2407,6 +2422,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Valeo Foods UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Vanguard": {
    "licensed": true,
    "register_name": "VANGUARD BUILDING COMPLIANCE LIMITED",
@@ -2591,6 +2611,11 @@
    "licensed": true,
    "register_name": "iCapital UK International Limited",
    "match": "alias"
+  },
+  "px Group": {
+   "licensed": true,
+   "register_name": "px Limited",
+   "match": "exact"
   },
   "targetjobs UK": {
    "licensed": false,

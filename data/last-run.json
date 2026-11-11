@@ -1,13 +1,18 @@
 {
-  "finished_at": "2026-11-11T15:10:19.569Z",
+  "finished_at": "2026-11-11T16:08:52.459Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 34218,
-  "filtered_out": 34189,
-  "new_matches": 3,
-  "boards_failed": 0,
-  "failed": []
+  "postings_seen": 34171,
+  "filtered_out": 34140,
+  "new_matches": 14,
+  "boards_failed": 1,
+  "failed": [
+    {
+      "company": "iCapital",
+      "error": "This operation was aborted"
+    }
+  ]
 }

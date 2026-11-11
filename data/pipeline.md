@@ -837,4 +837,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/accountancy-and-finance-graduate-at-targetjobs-uk-4488692935 | targetjobs UK | Accountancy and Finance Graduate | Saltcoats, Scotland, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant-insurance/57558777 | Hays Specialist Recruitment Limited | Assistant Accountant (Insurance) | London | note: via Reed
 
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--Financial-Planning---Analysis---Private-Markets_R267090 | BlackRock | Associate, Financial Planning & Analysis - Private Markets | Edinburgh, Scotland | posted: 2026-11-11
+- [ ] https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77540 | Next | Credit Risk Analyst - 12 month FTC | Leicester, Leicestershire, United Kingdom | posted: 2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-px-group-4488235306 | px Group | FP&A Analyst | Stockton-On-Tees, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/performance-reporting-finance-analyst-commerical-at-valeo-foods-uk-4480768684 | Valeo Foods UK | Performance & Reporting Finance Analyst (Commerical) | Leeds, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cumberland-farms-uk-4488240143 | Cumberland Farms UK | Credit Risk Analyst | Horwich, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/infosec-risk-analyst-at-kdr-talent-solutions-4489966249 | KDR Talent Solutions | InfoSec Risk Analyst | United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/real-estate-investment-analyst-european-investor-london-at-edgworth-partners-4487243131 | Edgworth Partners | Real Estate Investment Analyst, European Investor, London | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-management-accountant-at-forge-talent-4489955790 | Forge Talent | Group Management Accountant | Warrington, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-px-group-4488238248 | px Group | Management Accountant | Stockton-On-Tees, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-forge-talent-4489954832 | Forge Talent | Management Accountant | Warrington, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/credit-officer-citi/57558979 | eFinancialCareers | Credit Officer - Citi | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/valuations-pricing-analyst-12-contract-marks-sattin-fs/57558996 | eFinancialCareers | Valuations / Pricing Analyst - 12 Contract - Marks Sattin FS | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/cd-credit-risk-management-associate-smbc/57558988 | eFinancialCareers | CD - Credit Risk Management - Associate - SMBC | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/single-stock-trader-citi/57559003 | eFinancialCareers | Single Stock Trader - Citi | London | note: via Reed
+
 ## Processed

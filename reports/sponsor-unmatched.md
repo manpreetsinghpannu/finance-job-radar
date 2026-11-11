@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 520 firms checked, 329 matched, 191 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 525 firms checked, 330 matched, 195 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (191)
+## Not found (195)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -54,6 +54,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Cooper Parry Finance Recruitment
 - Core3
 - Cornell Search
+- Cumberland Farms UK
 - Dana Incorporated
 - Deutsche Asset Management
 - Deutsche Bank
@@ -71,6 +72,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Financial Divisions
 - Fletcher George Recruitment Ltd
 - Flex
+- Forge Talent
 - GSR Markets
 - Gemini
 - Gleeson Recruitment Group
@@ -105,6 +107,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Joblet-AI
 - KBRA
 - KBS Corporate
+- KDR Talent Solutions
 - Kennedy Pearce Consulting
 - Kenneth Brian Associates Limited
 - Klarna
@@ -181,6 +184,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TransUnion
 - UCEA - Family Office Group
 - VIA MATCH LIMITED
+- Valeo Foods UK
 - Vecta
 - Ventula Consulting
 - Veracious Talent Partners
