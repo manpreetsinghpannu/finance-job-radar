@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T19:09:52.676Z",
+ "generated_at": "2026-11-11T20:09:58.315Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 47,
+   "matching": 48,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -3092,6 +3092,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.reed.co.uk/jobs/market-liquidity-risk-analyst-12-month-ftc/57560021": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
   }
  }
 }
