@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 10 Nov, 23:27** (UK time) · **502 open roles** at 289 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 11 Nov, 00:07** (UK time) · **503 open roles** at 289 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,24 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 10 Nov, 23:26** · hourly scan · checked 200 boards · **0 new roles**
+**Wed 11 Nov, 00:07** · hourly scan · checked 200 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Tue 10 Nov, 22:37** (1: Investment 1); open it in the scan log below.
+### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-10 | [Investment Operations Technical Analyst](https://www.linkedin.com/jobs/view/investment-operations-technical-analyst-at-standard-life-plc-4489608965) | Standard Life plc | Edinburgh, Scotland, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (114 matching)
+**Finance (FP&A) CV** (113 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
 
-**Credit CV** (45 matching)
+**Credit CV** (44 matching)
 
 1. [Wholesale Credit Risk Strategy, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-05 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884) · LSEG · London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -33,7 +37,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Bloomberg Intelligence European Quantitative Equity Research Strategist](https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859) · Bloomberg · London, England, United Kingdom · posted 2026-11-10 · ✅
 
-**Investment (IB / PE) CV** (46 matching)
+**Investment (IB / PE) CV** (44 matching)
 
 1. [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-06 · ✅
 2. [Associate - Corporate Finance (Business Services M&A)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Business-Services-M-A-_R3635) · Houlihan Lokey · London, UK · posted 2026-10-21 · ✅
@@ -56,6 +60,19 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Wednesday 11 November
+
+<details>
+<summary><b>00:07</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-10 | [Investment Operations Technical Analyst](https://www.linkedin.com/jobs/view/investment-operations-technical-analyst-at-standard-life-plc-4489608965) | Standard Life plc | Edinburgh, Scotland, United Kingdom | ❔ |
+
+</details>
 
 ### Tuesday 10 November
 
@@ -1770,7 +1787,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (263)](#finance-fpa-cv-263) · [Credit (56)](#credit-cv-56) · [Equity (29)](#equity-cv-29) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (14)](#consulting-cv-14) · [Real Estate (8)](#real-estate-cv-8) · [Fund (10)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-10) · [Other (76)](#other-fits-no-cv-closely-may-still-be-worth-a-look-76)
+Everything matched so far, newest first within each CV: [Finance (263)](#finance-fpa-cv-263) · [Credit (56)](#credit-cv-56) · [Equity (29)](#equity-cv-29) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (14)](#consulting-cv-14) · [Real Estate (8)](#real-estate-cv-8) · [Fund (11)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-11) · [Other (76)](#other-fits-no-cv-closely-may-still-be-worth-a-look-76)
 
 ### Finance (FP&A) CV: 263
 
@@ -2218,12 +2235,13 @@ Everything matched so far, newest first within each CV: [Finance (263)](#finance
 | — | [Associate, Real Estate Asset Management Operations](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Associate--Real-Estate-Asset-Management-Operations_R8113) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 10
+### Fund CV (written for India; tweak the header for UK roles): 11
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-10 | [Investment Operations Technical Analyst](https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003) | Phoenix Group | Edinburgh, Scotland, United Kingdom · Hybrid | ✅ |
 | 2026-11-10 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-hays-4488367652) | Hays | London, England, United Kingdom | ✅ |
+| 2026-11-10 | [Investment Operations Technical Analyst](https://www.linkedin.com/jobs/view/investment-operations-technical-analyst-at-standard-life-plc-4489608965) | Standard Life plc | Edinburgh, Scotland, United Kingdom | ❔ |
 | — | [Fund Accountant](https://www.reed.co.uk/jobs/fund-accountant/57553811) | Hays Specialist Recruitment Limited | London | ❔ |
 | 2026-11-09 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-cobalt-recruitment-4487139838) | Cobalt Recruitment | Basingstoke, England, United Kingdom | ❔ |
 | 2026-11-08 | [Investment Operations Analyst](https://www.linkedin.com/jobs/view/investment-operations-analyst-at-lgps-central-4488771441) | LGPS Central | Wolverhampton, England, United Kingdom | ✅ |
