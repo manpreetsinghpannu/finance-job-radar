@@ -2047,6 +2047,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Safran": {
+   "licensed": true,
+   "register_name": "Safran UK Ltd",
+   "match": "exact"
+  },
   "Sainsbury's": {
    "licensed": true,
    "register_name": "J Sainsbury Plc",

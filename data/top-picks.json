@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T14:40:27.214Z",
+ "generated_at": "2026-11-11T15:10:18.338Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 117,
+   "matching": 118,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -2917,6 +2917,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-safran-4488699806": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/accountancy-and-finance-graduate-at-targetjobs-uk-4488692935": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/assistant-accountant-insurance/57558777": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }

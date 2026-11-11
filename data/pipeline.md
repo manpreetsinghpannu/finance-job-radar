@@ -833,5 +833,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-randstad-4488218702 | Randstad | Management Accountant | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-%E2%80%93-m-a-and-financing-advisory-at-ikarus-capital-4489945919 | Ikarus Capital | Associate – M&A and Financing Advisory | Richmond Upon Thames, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57558673 | SF Partners | FP&A Analyst | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-safran-4488699806 | Safran | Finance Analyst | West Midlands, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountancy-and-finance-graduate-at-targetjobs-uk-4488692935 | targetjobs UK | Accountancy and Finance Graduate | Saltcoats, Scotland, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant-insurance/57558777 | Hays Specialist Recruitment Limited | Assistant Accountant (Insurance) | London | note: via Reed
 
 ## Processed
