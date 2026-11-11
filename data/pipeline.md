@@ -808,5 +808,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-jasperrose-4487524025 | JasperRose | Finance Business Partner | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-colgate-palmolive-4488699009 | Colgate-Palmolive | Commercial Finance Graduate | Surrey, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-ceemea-ecm-analyst-london-at-jpmorganchase-4464960490 | JPMorganChase | Investment Banking - CEEMEA ECM - Analyst - London | Greater London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-analyst/57558031 | Morgan McKinley | Financial Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57557800 | Accountable Recruitment | FP&A Analyst | Chester, Cheshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/management-consultant-banking-127718277 | S1Jobs | Management Consultant Banking | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/associate-accountant-healthcare-127713960 | S1Jobs | Associate Accountant Healthcare | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/assistant-quantity-surveyor-hiring-immediately-127713586 | S1Jobs | Assistant Quantity Surveyor Hiring Immediately | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127703217 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/treasury-business-partner-127703030 | S1Jobs | Treasury Business Partner | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-temporary-to-cover-maternity-leave-102618-127702046 | S1Jobs | Accountant Temporary To Cover Maternity Leave 102618 | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/trainee-accountant-127699648 | S1Jobs | Trainee Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-controller-127692768 | S1Jobs | Financial Controller | Scotland | note: via S1Jobs
 
 ## Processed
