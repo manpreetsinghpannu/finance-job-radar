@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:11:36.153Z",
+ "generated_at": "2026-11-11T18:10:20.489Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 122,
+   "matching": 126,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -2863,11 +2863,6 @@
    "cv": "Credit CV",
    "score": 10
   },
-  "https://www.linkedin.com/jobs/view/investment-risk-analyst-at-qh4-consulting-4489626151": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/investment-banking-emea-financial-institutions-group-insurance-analyst-london-at-jpmorganchase-4489936348": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -3007,6 +3002,41 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-fitch-ratings-4489005926": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/private-credit-investment-operations-at-macquarie-group-4488253089": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-stanford-real-estate-partners-4488218129": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-one-stop-healthcare-4488237542": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-kier-group-4462967894": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57559727": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/service-charge-accountant-property/57559835": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 10
   }
  }
 }

@@ -797,6 +797,11 @@
    "register_name": "The Financial Times Ltd",
    "match": "alias"
   },
+  "Fitch Ratings": {
+   "licensed": true,
+   "register_name": "Fitch Ratings Limited",
+   "match": "exact"
+  },
   "Flagstone": {
    "licensed": true,
    "register_name": "Flagstone Group Limited",
@@ -1227,6 +1232,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Kier Group": {
+   "licensed": true,
+   "register_name": "Kier Group plc",
+   "match": "exact"
+  },
   "Klarna": {
    "licensed": false,
    "register_name": null,
@@ -1388,6 +1398,11 @@
    "match": "alias"
   },
   "Mackie Myers": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Macquarie Group": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1592,6 +1607,11 @@
    "register_name": "Multiverse Group Limited",
    "match": "exact"
   },
+  "NC Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Nasdaq": {
    "licensed": true,
    "register_name": "Nasdaq Limited",
@@ -1706,6 +1726,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "One Stop Healthcare": {
+   "licensed": true,
+   "register_name": "One Stop Healthcare",
+   "match": "exact"
   },
   "Ophelos": {
    "licensed": true,
@@ -2213,6 +2238,11 @@
    "match": "prefix"
   },
   "Standard Life plc": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Stanford Real Estate Partners": {
    "licensed": false,
    "register_name": null,
    "match": "none"
