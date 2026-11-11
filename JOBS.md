@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 11 Nov, 08:08** (UK time) · **505 open roles** at 290 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 11 Nov, 09:10** (UK time) · **505 open roles** at 290 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 11 Nov, 08:08** · hourly scan · checked 200 boards · **1 new role**
+**Wed 11 Nov, 09:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-11 | [Top-Tier Investment Banking Associate](https://www.linkedin.com/jobs/view/top-tier-investment-banking-associate-at-everet-marsh-4470908615) | Everet Marsh | London Area, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Wed 11 Nov, 08:08** (1: Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<sub>Nothing new at: 09:07</sub>
 
 <details>
 <summary><b>08:08</b> · hourly scan · <b>1 new</b> → Investment 1</summary>

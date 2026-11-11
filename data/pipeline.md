@@ -795,5 +795,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/2027-macquarie-asset-management-graduate-programme-client-solutions-group-at-targetjobs-uk-4487888199 | targetjobs UK | 2027 Macquarie Asset Management Graduate Programme - Client Solutions Group | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/newly-qualified-accountant-2/ | via ScotJobsNet | Newly Qualified Accountant | Lanarkshire, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
 - [ ] https://www.linkedin.com/jobs/view/top-tier-investment-banking-associate-at-everet-marsh-4470908615 | Everet Marsh | Top-Tier Investment Banking Associate | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57556830 | Trace | Expert Accountancy & Finance Recruitment | Management Accountant | London | note: via Reed
 
 ## Processed
