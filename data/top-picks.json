@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T03:08:32.745Z",
+ "generated_at": "2026-11-11T04:07:34.666Z",
  "order": [
   "finance",
   "credit",
@@ -2757,6 +2757,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/2027-macquarie-asset-management-graduate-programme-client-solutions-group-at-targetjobs-uk-4487888199": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 13
+  },
+  "https://scotjobsnet.co.uk/job/newly-qualified-accountant-2/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

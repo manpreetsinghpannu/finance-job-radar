@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 11 Nov, 03:08** (UK time) · **502 open roles** at 290 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 11 Nov, 04:07** (UK time) · **504 open roles** at 290 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 11 Nov, 03:07** · hourly scan · checked 200 boards · **0 new roles**
+**Wed 11 Nov, 04:07** · hourly scan · checked 200 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Wed 11 Nov, 01:07** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-11 | [Newly Qualified Accountant](https://scotjobsnet.co.uk/job/newly-qualified-accountant-2/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
+
+### Real Estate CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-11 | [2027 Macquarie Asset Management Graduate Programme - Client Solutions Group](https://www.linkedin.com/jobs/view/2027-macquarie-asset-management-graduate-programme-client-solutions-group-at-targetjobs-uk-4487888199) | targetjobs UK | London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<details>
+<summary><b>04:07</b> · hourly scan · <b>2 new</b> → Finance 1 · Real Estate 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-11 | [Newly Qualified Accountant](https://scotjobsnet.co.uk/job/newly-qualified-accountant-2/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
+
+#### Real Estate CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-11 | [2027 Macquarie Asset Management Graduate Programme - Client Solutions Group](https://www.linkedin.com/jobs/view/2027-macquarie-asset-management-graduate-programme-client-solutions-group-at-targetjobs-uk-4487888199) | targetjobs UK | London, England, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 03:07, 02:21, 02:07</sub>
 
@@ -1796,12 +1823,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (262)](#finance-fpa-cv-262) · [Credit (56)](#credit-cv-56) · [Equity (29)](#equity-cv-29) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (14)](#consulting-cv-14) · [Real Estate (8)](#real-estate-cv-8) · [Fund (11)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-11) · [Other (76)](#other-fits-no-cv-closely-may-still-be-worth-a-look-76)
+Everything matched so far, newest first within each CV: [Finance (263)](#finance-fpa-cv-263) · [Credit (56)](#credit-cv-56) · [Equity (29)](#equity-cv-29) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (14)](#consulting-cv-14) · [Real Estate (9)](#real-estate-cv-9) · [Fund (11)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-11) · [Other (76)](#other-fits-no-cv-closely-may-still-be-worth-a-look-76)
 
-### Finance (FP&A) CV: 262
+### Finance (FP&A) CV: 263
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-11 | [Newly Qualified Accountant](https://scotjobsnet.co.uk/job/newly-qualified-accountant-2/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
 | 2026-11-10 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) | The Consultancy Group | London Area, United Kingdom | ✅ |
 | 2026-11-10 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-walker-hamill-4468597583) | Walker Hamill | London Area, United Kingdom | ✅ |
 | 2026-11-10 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-wates-group-4489170284) | Wates Group | London, England, United Kingdom | ✅ |
@@ -2230,10 +2258,11 @@ Everything matched so far, newest first within each CV: [Finance (262)](#finance
 | 2026-10-07 | [Oracle ERP Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Oracle-ERP-Finance-Transformation-Consultant_R00361406) | Accenture | London | ❔ |
 | 2026-10-06 | [Intercompany Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Intercompany-Finance-Transformation-Consultant_R00359314) | Accenture | London | ❔ |
 
-### Real Estate CV: 8
+### Real Estate CV: 9
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-11 | [2027 Macquarie Asset Management Graduate Programme - Client Solutions Group](https://www.linkedin.com/jobs/view/2027-macquarie-asset-management-graduate-programme-client-solutions-group-at-targetjobs-uk-4487888199) | targetjobs UK | London, England, United Kingdom | ❔ |
 | 2026-11-10 | [Real Estate Investment Analyst, Global Real Estate Investor, London](https://www.linkedin.com/jobs/view/real-estate-investment-analyst-global-real-estate-investor-london-at-edgworth-partners-4489630112) | Edgworth Partners | London Area, United Kingdom | ❔ |
 | 2026-11-09 | [Real Estate Valuations Surveyor](https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/London/Valuations-Assistant-Manager---Real-Estate-Valuations_R20686) | BDO UK | London | ✅ |
 | 2026-11-09 | [Associate, Commercial Real Estate Debt (London)](https://www.linkedin.com/jobs/view/associate-commercial-real-estate-debt-london-at-cvc-marathon-4409579927) | CVC Marathon | London, England, United Kingdom | ❔ |
