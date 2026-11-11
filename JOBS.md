@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 11 Nov, 22:08** (UK time) · **571 open roles** at 322 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 11 Nov, 22:18** (UK time) · **572 open roles** at 323 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 11 Nov, 22:04** · hourly scan · checked 200 boards · **1 new role**
+**Wed 11 Nov, 22:14** · hourly scan · checked 200 boards · **2 new roles**
 
 ### Real Estate CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-11 | [Graduate Analyst - Puma Property Finance](https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-puma-capital-group-4489953477) | Puma Capital Group | London, England, United Kingdom | ❔ |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-11 | [Analyst, Portfolio Management](https://www.linkedin.com/jobs/view/analyst-portfolio-management-at-heitman-4474547522) | Heitman | London, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -64,13 +70,19 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Wednesday 11 November
 
 <details>
-<summary><b>22:04</b> · hourly scan · <b>1 new</b> → Real Estate 1</summary>
+<summary><b>22:14</b> · hourly scan · <b>2 new</b> → Real Estate 1 · Other 1</summary>
 
 #### Real Estate CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-11 | [Graduate Analyst - Puma Property Finance](https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-puma-capital-group-4489953477) | Puma Capital Group | London, England, United Kingdom | ❔ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-11 | [Analyst, Portfolio Management](https://www.linkedin.com/jobs/view/analyst-portfolio-management-at-heitman-4474547522) | Heitman | London, England, United Kingdom | ✅ |
 
 </details>
 
@@ -2128,7 +2140,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (303)](#finance-fpa-cv-303) · [Credit (66)](#credit-cv-66) · [Equity (28)](#equity-cv-28) · [Investment (51)](#investment-ib--pe-cv-51) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (84)](#other-fits-no-cv-closely-may-still-be-worth-a-look-84)
+Everything matched so far, newest first within each CV: [Finance (303)](#finance-fpa-cv-303) · [Credit (66)](#credit-cv-66) · [Equity (28)](#equity-cv-28) · [Investment (51)](#investment-ib--pe-cv-51) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (85)](#other-fits-no-cv-closely-may-still-be-worth-a-look-85)
 
 ### Finance (FP&A) CV: 303
 
@@ -2652,7 +2664,7 @@ Everything matched so far, newest first within each CV: [Finance (303)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 84
+### Other (fits no CV closely, may still be worth a look): 85
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2665,6 +2677,7 @@ Everything matched so far, newest first within each CV: [Finance (303)](#finance
 | — | [Single Stock Trader - Citi](https://www.reed.co.uk/jobs/single-stock-trader-citi/57559003) | eFinancialCareers | London | ✅ |
 | 2026-11-11 | [Graduate Finance Assistant](https://www.linkedin.com/jobs/view/graduate-finance-assistant-at-newlon-housing-trust-4489993409) | Newlon Housing Trust | London Area, United Kingdom | ❔ |
 | 2026-11-11 | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127733045) | Peace Recruitment | North Lanarkshire, Scotland | ❔ |
+| 2026-11-11 | [Analyst, Portfolio Management](https://www.linkedin.com/jobs/view/analyst-portfolio-management-at-heitman-4474547522) | Heitman | London, England, United Kingdom | ✅ |
 | 2026-11-10 | [Single Stock Trader](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Single-Stock-Trader_261009084-1) | Citi | London United Kingdom | ✅ |
 | — | [Graduate Quantity Surveyor](https://www.s1jobs.com/job/graduate-quantity-surveyor-127727593) | S1Jobs | Scotland | ❔ |
 | 2026-11-10 | [Quantity Surveyor Pqs Security Cleared](https://www.s1jobs.com/job/quantity-surveyor-pqs-security-cleared-127727650) | Peace Recruitment | City of Edinburgh, Scotland | ❔ |

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T22:08:01.788Z",
+ "generated_at": "2026-11-11T22:18:41.795Z",
  "order": [
   "finance",
   "credit",
@@ -3097,6 +3097,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/analyst-portfolio-management-at-heitman-4474547522": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   },
   "https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-puma-capital-group-4489953477": {
    "id": "real_estate",

@@ -1047,6 +1047,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Heitman": {
+   "licensed": true,
+   "register_name": "Heitman Financial UK LLC",
+   "match": "prefix"
+  },
   "HelloFresh": {
    "licensed": false,
    "register_name": null,

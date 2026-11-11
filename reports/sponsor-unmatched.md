@@ -1,6 +1,6 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 538 firms checked, 333 matched, 205 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 539 firms checked, 334 matched, 205 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
@@ -212,7 +212,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (30)
+## Matched automatically by close name; worth a glance (31)
 
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
@@ -221,6 +221,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Duco → Duco Technology Limited (prefix)
 - Form3 → Form3 Technology Limited (prefix)
 - Griffin → Griffin Bank Ltd (prefix)
+- Heitman → Heitman Financial UK LLC (prefix)
 - Holland & Barrett → Holland & Barrett Retail Limited (prefix)
 - ICF → ICF Consulting Services Limited (prefix)
 - Ikarus Capital → Ikarus Capital Advisory (prefix)
