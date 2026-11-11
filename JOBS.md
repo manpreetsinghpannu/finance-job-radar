@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 11 Nov, 21:10** (UK time) · **570 open roles** at 321 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 11 Nov, 22:08** (UK time) · **571 open roles** at 322 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 11 Nov, 21:07** · hourly scan · checked 200 boards · **0 new roles**
+**Wed 11 Nov, 22:04** · hourly scan · checked 200 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Wed 11 Nov, 20:07** (1: Credit 1); open it in the scan log below.
+### Real Estate CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-11 | [Graduate Analyst - Puma Property Finance](https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-puma-capital-group-4489953477) | Puma Capital Group | London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<details>
+<summary><b>22:04</b> · hourly scan · <b>1 new</b> → Real Estate 1</summary>
+
+#### Real Estate CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-11 | [Graduate Analyst - Puma Property Finance](https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-puma-capital-group-4489953477) | Puma Capital Group | London, England, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 21:07</sub>
 
@@ -2113,7 +2128,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (303)](#finance-fpa-cv-303) · [Credit (66)](#credit-cv-66) · [Equity (28)](#equity-cv-28) · [Investment (51)](#investment-ib--pe-cv-51) · [Consulting (15)](#consulting-cv-15) · [Real Estate (11)](#real-estate-cv-11) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (84)](#other-fits-no-cv-closely-may-still-be-worth-a-look-84)
+Everything matched so far, newest first within each CV: [Finance (303)](#finance-fpa-cv-303) · [Credit (66)](#credit-cv-66) · [Equity (28)](#equity-cv-28) · [Investment (51)](#investment-ib--pe-cv-51) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (84)](#other-fits-no-cv-closely-may-still-be-worth-a-look-84)
 
 ### Finance (FP&A) CV: 303
 
@@ -2603,11 +2618,12 @@ Everything matched so far, newest first within each CV: [Finance (303)](#finance
 | 2026-10-07 | [Oracle ERP Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Oracle-ERP-Finance-Transformation-Consultant_R00361406) | Accenture | London | ❔ |
 | 2026-10-06 | [Intercompany Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Intercompany-Finance-Transformation-Consultant_R00359314) | Accenture | London | ❔ |
 
-### Real Estate CV: 11
+### Real Estate CV: 12
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-11 | [Real Estate Investment Analyst, European Investor, London](https://www.linkedin.com/jobs/view/real-estate-investment-analyst-european-investor-london-at-edgworth-partners-4487243131) | Edgworth Partners | London Area, United Kingdom | ❔ |
+| 2026-11-11 | [Graduate Analyst - Puma Property Finance](https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-puma-capital-group-4489953477) | Puma Capital Group | London, England, United Kingdom | ❔ |
 | 2026-11-11 | [2027 Macquarie Asset Management Graduate Programme - Client Solutions Group](https://www.linkedin.com/jobs/view/2027-macquarie-asset-management-graduate-programme-client-solutions-group-at-targetjobs-uk-4487888199) | targetjobs UK | London, England, United Kingdom | ❔ |
 | — | [Service Charge Accountant (Property)](https://www.reed.co.uk/jobs/service-charge-accountant-property/57559835) | NC Associates | Liverpool, Merseyside | ❔ |
 | 2026-11-10 | [Real Estate Investment Analyst, Global Real Estate Investor, London](https://www.linkedin.com/jobs/view/real-estate-investment-analyst-global-real-estate-investor-london-at-edgworth-partners-4489630112) | Edgworth Partners | London Area, United Kingdom | ❔ |

@@ -874,5 +874,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/oil-gas-accountant-intercompany-reporting/ | via ScotJobsNet | Oil & Gas Accountant – Intercompany & Reporting | Aberdeenshire, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/contract-financial-accountant-hybrid-glasgow/ | via ScotJobsNet | Contract Financial Accountant – Hybrid (Glasgow) | Renfrewshire Paisley, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
 - [ ] https://www.reed.co.uk/jobs/market-liquidity-risk-analyst-12-month-ftc/57560021 | eFinancialCareers | Market & Liquidity Risk Analyst - 12 month FTC | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-puma-capital-group-4489953477 | Puma Capital Group | Graduate Analyst - Puma Property Finance | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 
 ## Processed

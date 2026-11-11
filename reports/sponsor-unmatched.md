@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 537 firms checked, 333 matched, 204 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 538 firms checked, 333 matched, 205 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (204)
+## Not found (205)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -153,6 +153,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Pavilion Recruitment Solutions
 - Payhawk
 - Peace Recruitment
+- Puma Capital Group
 - Qh4 Consulting
 - Randstad Finance
 - Reckitt

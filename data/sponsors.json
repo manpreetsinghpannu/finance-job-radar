@@ -1917,6 +1917,11 @@
    "register_name": "Propel Holdings Limited",
    "match": "exact"
   },
+  "Puma Capital Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "PwC": {
    "licensed": true,
    "register_name": "PricewaterhouseCoopers (Northern Ireland) LLP",
