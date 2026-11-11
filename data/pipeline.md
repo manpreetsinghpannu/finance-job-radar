@@ -857,8 +857,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-fitch-ratings-4489005926 | Fitch Ratings | Financial Analyst | Glasgow, Scotland, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/private-credit-investment-operations-at-macquarie-group-4488253089 | Macquarie Group | Private Credit Investment Operations | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-stanford-real-estate-partners-4488218129 | Stanford Real Estate Partners | Management Accountant | Manchester Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
-- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-one-stop-healthcare-4488237542 | One Stop Healthcare | Management Accountant | Hemel Hempstead, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
-- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-kier-group-4462967894 | Kier Group | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57559727 | Cedar | Management Accountant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/service-charge-accountant-property/57559835 | NC Associates | Service Charge Accountant (Property) | Liverpool, Merseyside | note: via Reed
 

@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 11 Nov, 18:10** (UK time) · **558 open roles** at 316 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 11 Nov, 18:20** (UK time) · **556 open roles** at 314 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 11 Nov, 18:07** · hourly scan · checked 200 boards · **7 new roles**
+**Wed 11 Nov, 18:17** · hourly scan · checked 200 boards · **5 new roles**
 
-### Finance (FP&A) CV: 5
+### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-11 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-fitch-ratings-4489005926) | Fitch Ratings | Glasgow, Scotland, United Kingdom | ✅ |
-| 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-one-stop-healthcare-4488237542) | One Stop Healthcare | Hemel Hempstead, England, United Kingdom | ✅ |
-| 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-kier-group-4462967894) | Kier Group | Glasgow, Scotland, United Kingdom | ✅ |
 | 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-stanford-real-estate-partners-4488218129) | Stanford Real Estate Partners | Manchester Area, United Kingdom | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57559727) | Cedar | London | ✅ |
 
@@ -38,7 +36,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (126 matching)
+**Finance (FP&A) CV** (124 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -80,15 +78,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Wednesday 11 November
 
 <details>
-<summary><b>18:07</b> · hourly scan · <b>7 new</b> → Finance 5 · Real Estate 1 · Fund 1</summary>
+<summary><b>18:17</b> · hourly scan · <b>5 new</b> → Finance 3 · Real Estate 1 · Fund 1</summary>
 
-#### Finance (FP&A) CV: 5
+#### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-11 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-fitch-ratings-4489005926) | Fitch Ratings | Glasgow, Scotland, United Kingdom | ✅ |
-| 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-one-stop-healthcare-4488237542) | One Stop Healthcare | Hemel Hempstead, England, United Kingdom | ✅ |
-| 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-kier-group-4462967894) | Kier Group | Glasgow, Scotland, United Kingdom | ✅ |
 | 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-stanford-real-estate-partners-4488218129) | Stanford Real Estate Partners | Manchester Area, United Kingdom | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57559727) | Cedar | London | ✅ |
 
@@ -2084,9 +2080,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (297)](#finance-fpa-cv-297) · [Credit (62)](#credit-cv-62) · [Equity (28)](#equity-cv-28) · [Investment (50)](#investment-ib--pe-cv-50) · [Consulting (15)](#consulting-cv-15) · [Real Estate (11)](#real-estate-cv-11) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (83)](#other-fits-no-cv-closely-may-still-be-worth-a-look-83)
+Everything matched so far, newest first within each CV: [Finance (295)](#finance-fpa-cv-295) · [Credit (62)](#credit-cv-62) · [Equity (28)](#equity-cv-28) · [Investment (50)](#investment-ib--pe-cv-50) · [Consulting (15)](#consulting-cv-15) · [Real Estate (11)](#real-estate-cv-11) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (83)](#other-fits-no-cv-closely-may-still-be-worth-a-look-83)
 
-### Finance (FP&A) CV: 297
+### Finance (FP&A) CV: 295
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2691,7 +2687,7 @@ Everything matched so far, newest first within each CV: [Finance (297)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Wed 11 Nov, 18:07 | Investment Risk Analyst | Qh4 Consulting |
+| Wed 11 Nov, 18:17 | Investment Risk Analyst | Qh4 Consulting |
 | Wed 11 Nov, 17:07 | FP&A Analyst | px Group |
 | Wed 11 Nov, 14:39 | Management Accountant | CM Law Recruitment |
 | Wed 11 Nov, 11:08 | Analyst - Credit Risk | Liberis |
