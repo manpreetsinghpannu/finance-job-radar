@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T22:18:41.795Z",
+ "generated_at": "2026-11-11T23:09:31.048Z",
  "order": [
   "finance",
   "credit",
@@ -3107,6 +3107,11 @@
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 19
+  },
+  "https://scotjobsnet.co.uk/job/part-qualified-qualified-by-experience-accountant/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
