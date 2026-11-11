@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T02:23:01.070Z",
+ "generated_at": "2026-11-11T03:08:32.745Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 113,
+   "matching": 111,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 44,
+   "matching": 43,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -155,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 15,
+   "matching": 14,
    "picks": [
     {
      "title": "VAIB Strategy Analyst",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 23,
+   "matching": 22,
    "picks": [
     {
      "title": "Investment Banking - EMEA Real Estate - Analyst / Associate - London",
@@ -562,11 +562,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
-  },
-  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Experienced-Financial-Analyst--Financial-and-Valuation-Advisory---London_R3576": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
   },
   "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Financial-Analyst---Corporate-Finance--Oil---Gas-_R3562": {
    "id": "finance",
@@ -1882,11 +1877,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 16
-  },
-  "https://www.linkedin.com/jobs/view/accountant-elite-financial-services-firm-up-to-%C2%A355k-base-%2B-bonus%21-london-at-hunter-bond-4487104952": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
   },
   "https://www.reed.co.uk/jobs/management-accountant/57539782": {
    "id": "finance",
