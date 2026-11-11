@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T07:10:27.175Z",
+ "generated_at": "2026-11-11T08:08:55.936Z",
  "order": [
   "finance",
   "credit",
@@ -2767,6 +2767,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/top-tier-investment-banking-associate-at-everet-marsh-4470908615": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
   }
  }
 }
