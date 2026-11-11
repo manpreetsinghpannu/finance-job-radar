@@ -859,5 +859,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-stanford-real-estate-partners-4488218129 | Stanford Real Estate Partners | Management Accountant | Manchester Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57559727 | Cedar | Management Accountant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/service-charge-accountant-property/57559835 | NC Associates | Service Charge Accountant (Property) | Liverpool, Merseyside | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-commercial-real-estate-at-montpellier-resourcing-4488242581 | Montpellier Resourcing | Credit Analyst (Commercial Real Estate) | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-portfolio-management-corporate-banking-at-cibc-4489985498 | CIBC | Analyst, Portfolio Management - Corporate Banking | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-risk-analyst-at-clarc-recruitment-4484285316 | CLARC Recruitment | Portfolio Risk Analyst | Greater London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-at-finatal-4489954639 | Finatal | Investment Associate | Oxford, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-one-stop-healthcare-4488237542 | One Stop Healthcare | Management Accountant | Hemel Hempstead, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-kier-group-4462967894 | Kier Group | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-assistant-at-newlon-housing-trust-4489993409 | Newlon Housing Trust | Graduate Finance Assistant | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-treasury-trade-solutions-at-hsbc-innovation-banking-4490008019 | HSBC Innovation Banking | Graduate - Treasury & Trade Solutions | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-accountant/57545500 | Hays Specialist Recruitment Limited | Financial Accountant | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127733045 | Peace Recruitment | Quantity Surveyor | North Lanarkshire, Scotland | posted: 2026-11-11 | note: via S1Jobs
+- [ ] https://scotjobsnet.co.uk/job/interim-finance-business-partner-not-for-profit/ | via ScotJobsNet | Interim Finance Business Partner – Not-for-Profit | Midlothian, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/interim-project-accountant-erp-month-end-in-glasgow/ | via ScotJobsNet | Interim Project Accountant: ERP & Month-End in Glasgow | Glasgow, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/oil-gas-accountant-intercompany-reporting/ | via ScotJobsNet | Oil & Gas Accountant – Intercompany & Reporting | Aberdeenshire, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/contract-financial-accountant-hybrid-glasgow/ | via ScotJobsNet | Contract Financial Accountant – Hybrid (Glasgow) | Renfrewshire Paisley, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
 
 ## Processed

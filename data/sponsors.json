@@ -427,6 +427,16 @@
    "register_name": "Logica Ltd t/a CGI",
    "match": "trading name"
   },
+  "CIBC": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "CLARC Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CM Law Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -796,6 +806,11 @@
    "licensed": true,
    "register_name": "The Financial Times Ltd",
    "match": "alias"
+  },
+  "Finatal": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Fitch Ratings": {
    "licensed": true,
@@ -1567,6 +1582,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Montpellier Resourcing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Monzo": {
    "licensed": true,
    "register_name": "Monzo Bank Ltd",
@@ -1633,6 +1653,11 @@
    "match": "exact"
   },
   "New Avenues": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Newlon Housing Trust": {
    "licensed": false,
    "register_name": null,
    "match": "none"

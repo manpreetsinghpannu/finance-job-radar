@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 530 firms checked, 331 matched, 199 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 537 firms checked, 333 matched, 204 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (199)
+## Not found (204)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -35,6 +35,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Brock & Decker
 - Bruin
 - Bruntwood SciTech
+- CIBC
+- CLARC Recruitment
 - CM Law Recruitment
 - CMC Consulting Ltd
 - CVC Marathon
@@ -70,6 +72,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Executive Talent Solutions
 - FT Recruitment Group
 - Financial Divisions
+- Finatal
 - Fletcher George Recruitment Ltd
 - Flex
 - Forge Talent
@@ -130,9 +133,11 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Michael Page Finance
 - Mollie
 - Monmouthshire Building Society
+- Montpellier Resourcing
 - Motorway
 - NC Associates
 - New Avenues
+- Newlon Housing Trust
 - No1 Legal and Professional
 - Nucleus Commercial Finance
 - OAK LIFE SCIENCE LTD
