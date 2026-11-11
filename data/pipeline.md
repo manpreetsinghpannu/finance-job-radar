@@ -828,4 +828,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/valuations-pricing-analyst-12-contract/57558128 | Marks Sattin | Valuations / Pricing Analyst - 12 Contract | London | note: via Reed
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127702965 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
+- [ ] https://job-boards.greenhouse.io/liberis/jobs/8378630 | Liberis | Financial Controller | London | posted: 2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-tcr-4468916513 | TCR | FP&A Analyst | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-randstad-4488218702 | Randstad | Management Accountant | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+
 ## Processed

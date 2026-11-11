@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T13:11:22.130Z",
+ "generated_at": "2026-11-11T14:10:51.976Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 115,
+   "matching": 117,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -2897,6 +2897,21 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://job-boards.greenhouse.io/liberis/jobs/8378630": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-tcr-4468916513": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-randstad-4488218702": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }

@@ -1882,6 +1882,11 @@
    "register_name": "RBC Group",
    "match": "exact"
   },
+  "Randstad": {
+   "licensed": true,
+   "register_name": "Randstad UK Holding Ltd",
+   "match": "exact"
+  },
   "Randstad Finance": {
    "licensed": false,
    "register_name": null,
@@ -2231,6 +2236,11 @@
    "licensed": true,
    "register_name": "T Rowe Price  International Ltd",
    "match": "alias"
+  },
+  "TCR": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "TCS": {
    "licensed": false,

@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 11 Nov, 13:11** (UK time) · **530 open roles** at 302 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 11 Nov, 14:10** (UK time) · **533 open roles** at 304 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,42 +10,21 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 11 Nov, 13:07** · hourly scan · checked 200 boards · **9 new roles**
+**Wed 11 Nov, 14:07** · hourly scan · checked 200 boards · **3 new roles**
 
-### Finance (FP&A) CV: 4
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-11 | [Finance Analyst - Reporting](https://www.linkedin.com/jobs/view/finance-analyst-reporting-at-tui-4489935324) | TUI | Luton, England, United Kingdom | ❔ |
-| 2026-11-11 | [EMEA Finance Analyst](https://www.linkedin.com/jobs/view/emea-finance-analyst-at-watson-marlow-fluid-technology-solutions-4488699091) | Watson-Marlow Fluid Technology Solutions | Cheltenham, England, United Kingdom | ❔ |
-| 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-global-accounting-network-4487899718) | Global Accounting Network | Hampshire, England, United Kingdom | ❔ |
-| — | [Valuations / Pricing Analyst - 12 Contract](https://www.reed.co.uk/jobs/valuations-pricing-analyst-12-contract/57558128) | Marks Sattin | London | ❔ |
-
-### Credit CV: 2
+### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-10 | [Investment Risk Analyst](https://www.linkedin.com/jobs/view/investment-risk-analyst-at-qh4-consulting-4489626151) | Qh4 Consulting | London Area, United Kingdom | ❔ |
-| 2026-11-11 | [Corporate Credit Funds - Associate / Associate Director (London)](https://www.linkedin.com/jobs/view/corporate-credit-funds-associate-associate-director-london-at-kbra-4473724603) | KBRA | London, England, United Kingdom | ❔ |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-11 | [Investment Banking - EMEA Financial Institutions Group (Insurance) - Analyst - London](https://www.linkedin.com/jobs/view/investment-banking-emea-financial-institutions-group-insurance-analyst-london-at-jpmorganchase-4489936348) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
-
-### Other (fits no CV closely, may still be worth a look): 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-11 | [2027 Finance Graduate Programme - January 2027](https://www.linkedin.com/jobs/view/2027-finance-graduate-programme-january-2027-at-tui-4489941298) | TUI | Luton, England, United Kingdom | ❔ |
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127702965) | S1Jobs | Scotland | ❔ |
+| 2026-11-11 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-tcr-4468916513) | TCR | London Area, United Kingdom | ❔ |
+| 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-randstad-4488218702) | Randstad | London Area, United Kingdom | ✅ |
+| 2026-11-11 | [Financial Controller](https://job-boards.greenhouse.io/liberis/jobs/8378630) | Liberis | London | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (115 matching)
+**Finance (FP&A) CV** (117 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -85,6 +64,19 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<details>
+<summary><b>14:07</b> · hourly scan · <b>3 new</b> → Finance 3</summary>
+
+#### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-11 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-tcr-4468916513) | TCR | London Area, United Kingdom | ❔ |
+| 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-randstad-4488218702) | Randstad | London Area, United Kingdom | ✅ |
+| 2026-11-11 | [Financial Controller](https://job-boards.greenhouse.io/liberis/jobs/8378630) | Liberis | London | ✅ |
+
+</details>
 
 <details>
 <summary><b>13:07</b> · hourly scan · <b>9 new</b> → Finance 4 · Credit 2 · Investment 1 · Other 2</summary>
@@ -1962,21 +1954,24 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (279)](#finance-fpa-cv-279) · [Credit (58)](#credit-cv-58) · [Equity (28)](#equity-cv-28) · [Investment (49)](#investment-ib--pe-cv-49) · [Consulting (15)](#consulting-cv-15) · [Real Estate (9)](#real-estate-cv-9) · [Fund (11)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-11) · [Other (81)](#other-fits-no-cv-closely-may-still-be-worth-a-look-81)
+Everything matched so far, newest first within each CV: [Finance (282)](#finance-fpa-cv-282) · [Credit (58)](#credit-cv-58) · [Equity (28)](#equity-cv-28) · [Investment (49)](#investment-ib--pe-cv-49) · [Consulting (15)](#consulting-cv-15) · [Real Estate (9)](#real-estate-cv-9) · [Fund (11)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-11) · [Other (81)](#other-fits-no-cv-closely-may-still-be-worth-a-look-81)
 
-### Finance (FP&A) CV: 279
+### Finance (FP&A) CV: 282
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-11 | [Project Finance Analyst](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/GB-Remote-Office-GB99/Project-Finance-Analyst_R2603045) | ICF | GB Remote Office (GB99) · Leeds, UK (GB84) | ✅ |
 | 2026-11-11 | [Commercial Financial Analyst](https://www.linkedin.com/jobs/view/commercial-financial-analyst-at-lucanet-4481570626) | Lucanet | United Kingdom | ✅ |
 | 2026-11-11 | [Commercial Finance Graduate](https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-colgate-palmolive-4488699009) | Colgate-Palmolive | Surrey, England, United Kingdom | ✅ |
+| 2026-11-11 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-tcr-4468916513) | TCR | London Area, United Kingdom | ❔ |
 | — | [Financial Analyst](https://www.reed.co.uk/jobs/financial-analyst/57558031) | Morgan McKinley | London | ✅ |
 | 2026-11-11 | [Finance Analyst - Reporting](https://www.linkedin.com/jobs/view/finance-analyst-reporting-at-tui-4489935324) | TUI | Luton, England, United Kingdom | ❔ |
 | 2026-11-11 | [EMEA Finance Analyst](https://www.linkedin.com/jobs/view/emea-finance-analyst-at-watson-marlow-fluid-technology-solutions-4488699091) | Watson-Marlow Fluid Technology Solutions | Cheltenham, England, United Kingdom | ❔ |
+| 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-randstad-4488218702) | Randstad | London Area, United Kingdom | ✅ |
 | 2026-11-11 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-jasperrose-4487524025) | JasperRose | London Area, United Kingdom | ❔ |
 | — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57557800) | Accountable Recruitment | Chester, Cheshire | ❔ |
 | 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-global-accounting-network-4487899718) | Global Accounting Network | Hampshire, England, United Kingdom | ❔ |
+| 2026-11-11 | [Financial Controller](https://job-boards.greenhouse.io/liberis/jobs/8378630) | Liberis | London | ✅ |
 | — | [Valuations / Pricing Analyst - 12 Contract](https://www.reed.co.uk/jobs/valuations-pricing-analyst-12-contract/57558128) | Marks Sattin | London | ❔ |
 | 2026-11-11 | [Newly Qualified Accountant](https://scotjobsnet.co.uk/job/newly-qualified-accountant-2/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
 | — | [Trainee Accountant](https://www.s1jobs.com/job/trainee-accountant-127699648) | S1Jobs | Scotland | ❔ |
