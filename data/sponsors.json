@@ -1102,6 +1102,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Ikarus Capital": {
+   "licensed": true,
+   "register_name": "Ikarus Capital Advisory",
+   "match": "prefix"
+  },
   "In2 Consult": {
    "licensed": false,
    "register_name": null,

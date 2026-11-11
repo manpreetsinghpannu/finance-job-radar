@@ -831,5 +831,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/liberis/jobs/8378630 | Liberis | Financial Controller | London | posted: 2026-11-11
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-tcr-4468916513 | TCR | FP&A Analyst | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-randstad-4488218702 | Randstad | Management Accountant | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-%E2%80%93-m-a-and-financing-advisory-at-ikarus-capital-4489945919 | Ikarus Capital | Associate – M&A and Financing Advisory | Richmond Upon Thames, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57558673 | SF Partners | FP&A Analyst | Birmingham, West Midlands (County) | note: via Reed
 
 ## Processed

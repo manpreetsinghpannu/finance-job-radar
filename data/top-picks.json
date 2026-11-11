@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T14:10:51.976Z",
+ "generated_at": "2026-11-11T14:40:27.214Z",
  "order": [
   "finance",
   "credit",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 42,
+   "matching": 43,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -155,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 13,
+   "matching": 14,
    "picks": [
     {
      "title": "VAIB Strategy Analyst",
@@ -2028,11 +2028,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 11
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-cm-law-recruitment-4488847453": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 15
-  },
   "https://www.reed.co.uk/jobs/management-accountant/57544356": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2912,6 +2907,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/associate-%E2%80%93-m-a-and-financing-advisory-at-ikarus-capital-4489945919": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/fp-a-analyst/57558673": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }
