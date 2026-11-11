@@ -407,6 +407,11 @@
    "register_name": "Brown & Brown (Europe) Limited",
    "match": "exact"
   },
+  "Bruntwood SciTech": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Bupa UK": {
    "licensed": true,
    "register_name": "Bupa",
