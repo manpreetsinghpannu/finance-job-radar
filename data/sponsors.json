@@ -407,6 +407,11 @@
    "register_name": "Brown & Brown (Europe) Limited",
    "match": "exact"
   },
+  "Bruin": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Bruntwood SciTech": {
    "licensed": false,
    "register_name": null,
@@ -581,6 +586,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Colgate-Palmolive": {
+   "licensed": true,
+   "register_name": "Colgate-Palmolive (UK) Ltd",
+   "match": "exact"
   },
   "Coller Capital": {
    "licensed": true,
@@ -1152,6 +1162,11 @@
    "register_name": "JANUS HENDERSON ADMINISTRATION UK LIMITED",
    "match": "prefix"
   },
+  "JasperRose": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Joblet-AI": {
    "licensed": false,
    "register_name": null,
@@ -1306,6 +1321,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Lucanet": {
+   "licensed": true,
+   "register_name": "LucaNet (UK) Limited",
+   "match": "exact"
   },
   "M&G": {
    "licensed": true,
@@ -1958,6 +1978,11 @@
    "match": "none"
   },
   "SD Business Management": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "SF Partners": {
    "licensed": false,
    "register_name": null,
    "match": "none"

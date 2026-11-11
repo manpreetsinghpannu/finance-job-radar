@@ -801,4 +801,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2006 | Schroders | Credit Analyst | London, United Kingdom | posted: 2026-11-11
 - [ ] https://www.linkedin.com/jobs/view/m-a-analyst-graduates-welcome-at-bruntwood-scitech-4487893897 | Bruntwood SciTech | M&A Analyst (Graduates welcome) | Manchester, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 
+- [ ] https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/GB-Remote-Office-GB99/Project-Finance-Analyst_R2603045 | ICF | Project Finance Analyst | GB Remote Office (GB99) · Leeds, UK (GB84) | posted: 2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/commercial-financial-analyst-at-lucanet-4481570626 | Lucanet | Commercial Financial Analyst | United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-french-speaker-at-bruin-4488673919 | Bruin | Investment Analyst - French speaker | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-sf-partners-4487804567 | SF Partners | Management Accountant | Derby, England, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-jasperrose-4487524025 | JasperRose | Finance Business Partner | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-colgate-palmolive-4488699009 | Colgate-Palmolive | Commercial Finance Graduate | Surrey, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-ceemea-ecm-analyst-london-at-jpmorganchase-4464960490 | JPMorganChase | Investment Banking - CEEMEA ECM - Analyst - London | Greater London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+
 ## Processed

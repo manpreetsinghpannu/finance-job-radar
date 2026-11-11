@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 506 firms checked, 324 matched, 182 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 511 firms checked, 326 matched, 185 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (182)
+## Not found (185)
 
 - 93 MGMT
 - ASC Connections Ltd
@@ -33,6 +33,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Blood Cancer UK
 - Bloom Money
 - Brock & Decker
+- Bruin
 - Bruntwood SciTech
 - CM Law Recruitment
 - CMC Consulting Ltd
@@ -99,6 +100,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Inventum Group
 - JJ SEARCH LIMITED
 - JPMorganChase
+- JasperRose
 - Joblet-AI
 - KBS Corporate
 - Kennedy Pearce Consulting
@@ -148,6 +150,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Rushlift GSE
 - S1Jobs
 - SD Business Management
+- SF Partners
 - SOCOTEC UK & Ireland
 - SRM RECRUITMENT LIMITED
 - STEP Fusion

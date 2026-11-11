@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T10:09:31.764Z",
+ "generated_at": "2026-11-11T11:09:28.962Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 111,
+   "matching": 114,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 45,
+   "matching": 44,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 28,
+   "matching": 26,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 22,
+   "matching": 20,
    "picks": [
     {
      "title": "Investment Banking - EMEA Real Estate - Analyst / Associate - London",
@@ -627,11 +627,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
-  },
-  "https://job-boards.greenhouse.io/liberis/jobs/8349151": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 20
   },
   "https://job-boards.greenhouse.io/liberis/jobs/8349067": {
    "id": "credit",
@@ -2068,16 +2063,6 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://www.linkedin.com/jobs/view/graduate-investment-analyst-at-perch-group-4488863148": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 15
-  },
-  "https://www.linkedin.com/jobs/view/investment-analyst-at-perch-group-4488862218": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 15
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-at-apl-media-limited-4488848667": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2782,6 +2767,41 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
+  },
+  "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/GB-Remote-Office-GB99/Project-Finance-Analyst_R2603045": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/commercial-financial-analyst-at-lucanet-4481570626": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-french-speaker-at-bruin-4488673919": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-sf-partners-4487804567": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-jasperrose-4487524025": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-colgate-palmolive-4488699009": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-ceemea-ecm-analyst-london-at-jpmorganchase-4464960490": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
   }
  }
 }
