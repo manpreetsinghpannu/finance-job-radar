@@ -1492,6 +1492,11 @@
    "register_name": "MFM Investment Ltd",
    "match": "alias"
   },
+  "Monmouthshire Building Society": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Monzo": {
    "licensed": true,
    "register_name": "Monzo Bank Ltd",

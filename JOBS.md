@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 11 Nov, 00:07** (UK time) · **503 open roles** at 289 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 11 Nov, 01:10** (UK time) · **504 open roles** at 290 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 11 Nov, 00:07** · hourly scan · checked 200 boards · **1 new role**
+**Wed 11 Nov, 01:07** · hourly scan · checked 200 boards · **1 new role**
 
-### Fund CV (written for India; tweak the header for UK roles): 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-10 | [Investment Operations Technical Analyst](https://www.linkedin.com/jobs/view/investment-operations-technical-analyst-at-standard-life-plc-4489608965) | Standard Life plc | Edinburgh, Scotland, United Kingdom | ❔ |
+| 2026-11-10 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-monmouthshire-building-society-4487809209) | Monmouthshire Building Society | Cardiff, Wales, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<details>
+<summary><b>01:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-10 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-monmouthshire-building-society-4487809209) | Monmouthshire Building Society | Cardiff, Wales, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>00:07</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
@@ -1787,9 +1798,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (263)](#finance-fpa-cv-263) · [Credit (56)](#credit-cv-56) · [Equity (29)](#equity-cv-29) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (14)](#consulting-cv-14) · [Real Estate (8)](#real-estate-cv-8) · [Fund (11)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-11) · [Other (76)](#other-fits-no-cv-closely-may-still-be-worth-a-look-76)
+Everything matched so far, newest first within each CV: [Finance (264)](#finance-fpa-cv-264) · [Credit (56)](#credit-cv-56) · [Equity (29)](#equity-cv-29) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (14)](#consulting-cv-14) · [Real Estate (8)](#real-estate-cv-8) · [Fund (11)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-11) · [Other (76)](#other-fits-no-cv-closely-may-still-be-worth-a-look-76)
 
-### Finance (FP&A) CV: 263
+### Finance (FP&A) CV: 264
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1819,6 +1830,7 @@ Everything matched so far, newest first within each CV: [Finance (263)](#finance
 | — | [Treasury Analyst -](https://www.reed.co.uk/jobs/treasury-analyst/57552700) | Robert Walters | London | ✅ |
 | 2026-11-10 | [Assistant Accountant](https://www.s1jobs.com/job/assistant-accountant-127727625) | Royal College Of Physicians & Surgeons Of Glasgow | Glasgow Area, Scotland | ❔ |
 | 2026-11-10 | [Assistant Accountant](https://www.s1jobs.com/job/assistant-accountant-127727854) | Bield Housing Association | City of Edinburgh, Scotland | ❔ |
+| 2026-11-10 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-monmouthshire-building-society-4487809209) | Monmouthshire Building Society | Cardiff, Wales, United Kingdom | ❔ |
 | 2026-11-10 | [Business Services Accountant](https://www.s1jobs.com/job/business-services-accountant-127727584) | Ashurst Perkins Coie | Glasgow Area, Scotland | ✅ |
 | 2026-11-10 | [Qualified Accountant](https://www.s1jobs.com/job/qualified-accountant-127727626) | SPRINGFIELD PROPERTIES PLC | Moray, Scotland | ✅ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57554315) | Marks Sattin | London | ❔ |
