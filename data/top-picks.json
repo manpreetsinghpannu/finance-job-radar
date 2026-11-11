@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T12:08:48.567Z",
+ "generated_at": "2026-11-11T13:11:22.130Z",
  "order": [
   "finance",
   "credit",
@@ -2852,6 +2852,51 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-reporting-at-tui-4489935324": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/emea-finance-analyst-at-watson-marlow-fluid-technology-solutions-4488699091": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/corporate-credit-funds-associate-associate-director-london-at-kbra-4473724603": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/investment-risk-analyst-at-qh4-consulting-4489626151": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-emea-financial-institutions-group-insurance-analyst-london-at-jpmorganchase-4489936348": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-global-accounting-network-4487899718": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/2027-finance-graduate-programme-january-2027-at-tui-4489941298": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/valuations-pricing-analyst-12-contract/57558128": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127702965": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

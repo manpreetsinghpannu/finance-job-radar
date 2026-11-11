@@ -818,5 +818,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/accountant-temporary-to-cover-maternity-leave-102618-127702046 | S1Jobs | Accountant Temporary To Cover Maternity Leave 102618 | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/trainee-accountant-127699648 | S1Jobs | Trainee Accountant | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/financial-controller-127692768 | S1Jobs | Financial Controller | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-reporting-at-tui-4489935324 | TUI | Finance Analyst - Reporting | Luton, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/emea-finance-analyst-at-watson-marlow-fluid-technology-solutions-4488699091 | Watson-Marlow Fluid Technology Solutions | EMEA Finance Analyst | Cheltenham, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-credit-funds-associate-associate-director-london-at-kbra-4473724603 | KBRA | Corporate Credit Funds - Associate / Associate Director (London) | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-risk-analyst-at-qh4-consulting-4489626151 | Qh4 Consulting | Investment Risk Analyst | London Area, United Kingdom | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-emea-financial-institutions-group-insurance-analyst-london-at-jpmorganchase-4489936348 | JPMorganChase | Investment Banking - EMEA Financial Institutions Group (Insurance) - Analyst - London | Greater London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-global-accounting-network-4487899718 | Global Accounting Network | Management Accountant | Hampshire, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/2027-finance-graduate-programme-january-2027-at-tui-4489941298 | TUI | 2027 Finance Graduate Programme - January 2027 | Luton, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/valuations-pricing-analyst-12-contract/57558128 | Marks Sattin | Valuations / Pricing Analyst - 12 Contract | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127702965 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 ## Processed

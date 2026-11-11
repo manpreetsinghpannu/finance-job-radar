@@ -882,6 +882,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Global Accounting Network": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "GoCardless": {
    "licensed": true,
    "register_name": "GoCardless Limited",
@@ -1181,6 +1186,11 @@
    "licensed": true,
    "register_name": "Jump Trading International Limited",
    "match": "alias"
+  },
+  "KBRA": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "KBS Corporate": {
    "licensed": false,
@@ -1842,6 +1852,11 @@
    "register_name": "QBE Management Services (UK) Limited",
    "match": "alias"
   },
+  "Qh4 Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Quadrature Capital": {
    "licensed": true,
    "register_name": "Quadrature Capital Limited",
@@ -2222,6 +2237,11 @@
    "register_name": null,
    "match": "none"
   },
+  "TUI": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Talan": {
    "licensed": false,
    "register_name": null,
@@ -2446,6 +2466,11 @@
    "licensed": true,
    "register_name": "Wates Group Ltd",
    "match": "exact"
+  },
+  "Watson-Marlow Fluid Technology Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Wayflyer": {
    "licensed": true,
