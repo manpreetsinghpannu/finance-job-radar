@@ -1702,6 +1702,11 @@
    "register_name": "Ohme Operations UK Limited",
    "match": "prefix"
   },
+  "Oliver Smith Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ophelos": {
    "licensed": true,
    "register_name": "Ophelos Ltd",

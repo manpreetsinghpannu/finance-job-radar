@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T16:08:51.619Z",
+ "generated_at": "2026-11-11T17:11:36.153Z",
  "order": [
   "finance",
   "credit",
@@ -2943,11 +2943,6 @@
    "cv": "Credit CV",
    "score": 25
   },
-  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-px-group-4488235306": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 21
-  },
   "https://www.linkedin.com/jobs/view/performance-reporting-finance-analyst-commerical-at-valeo-foods-uk-4480768684": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3002,6 +2997,16 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--FP-A-Tech---Ops_R266687-1": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.s1jobs.com/job/financial-controller-127733037": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

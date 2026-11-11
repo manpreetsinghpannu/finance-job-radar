@@ -852,4 +852,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/cd-credit-risk-management-associate-smbc/57558988 | eFinancialCareers | CD - Credit Risk Management - Associate - SMBC | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/single-stock-trader-citi/57559003 | eFinancialCareers | Single Stock Trader - Citi | London | note: via Reed
 
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--FP-A-Tech---Ops_R266687-1 | BlackRock | Associate, FP&A Tech & Ops | Edinburgh, Scotland | posted: 2026-11-11
+- [ ] https://www.s1jobs.com/job/financial-controller-127733037 | Oliver Smith Recruitment | Financial Controller | Glasgow Area, Scotland | posted: 2026-11-11 | note: via S1Jobs
+
 ## Processed
