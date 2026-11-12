@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T23:09:31.048Z",
+ "generated_at": "2026-11-12T00:09:26.513Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 126,
+   "matching": 124,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 26,
+   "matching": 25,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 44,
+   "matching": 43,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -138,15 +138,14 @@
      "sponsor": true
     },
     {
-     "title": "Associate - Corporate Finance (Business Services M&A)",
-     "company": "Houlihan Lokey",
-     "location": "London, UK",
-     "posted": "2026-10-21",
-     "url": "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Business-Services-M-A-_R3635",
-     "score": 25,
+     "title": "Global Banking & Markets, Investment Banking, Classic, Technology, Media, and Telecommunications, London, Analyst",
+     "company": "Goldman Sachs",
+     "location": "London, England, United Kingdom",
+     "posted": "2026-11-10",
+     "url": "https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-technology-media-and-telecommunications-london-analyst-at-goldman-sachs-4462969815",
+     "score": 22,
      "why": [
-      "M&A",
-      "Corporate Finance"
+      "Investment Banking"
      ],
      "sponsor": true
     }
