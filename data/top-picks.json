@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T17:10:36.967Z",
+ "generated_at": "2026-11-12T17:53:55.865Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 131,
+   "matching": 128,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -185,7 +185,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 22,
+   "matching": 21,
    "picks": [
     {
      "title": "Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory",
@@ -620,11 +620,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
-  },
-  "https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Accounts-Assistant_JR_10040466-1": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
   },
   "https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Policy-Analyst_JR_10039776-1": {
    "id": "credit",
@@ -1445,11 +1440,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/financial-accountant-insurance-asset-management-at-miryco-consultants-ltd-4488433134": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
   },
   "https://www.s1jobs.com/job/quantity-surveyor-127692732": {
    "id": "other",
@@ -2711,11 +2701,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 18
   },
-  "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/GB-Remote-Office-GB99/Project-Finance-Analyst_R2603045": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 21
-  },
   "https://www.linkedin.com/jobs/view/commercial-financial-analyst-at-lucanet-4481570626": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3355,6 +3340,21 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/vodafonethree-commercial-finance-analyst-at-vodafonethree-4488528588": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.reed.co.uk/jobs/commercial-finance-analyst/57564013": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 24
+  },
+  "https://www.reed.co.uk/jobs/assistant-accountant/57563919": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

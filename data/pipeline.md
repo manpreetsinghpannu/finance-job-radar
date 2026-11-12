@@ -953,5 +953,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-rapid-growth-consumer-brand-central-london-4-days-in-office-up-to-%C2%A360k-at-harmonic-finance%E2%84%A2-certified-b-corp-4489248758 | Harmonic Finance™ | Certified B Corp | Management Accountant | Rapid Growth Consumer Brand | Central London (4 days in office) | Up to £60k | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/private-credit-operations-associate/57563640 | Robert Walters | Private Credit - Operations Associate | South West London, London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/fx-options-trader-citi/57563020 | eFinancialCareers | FX Options Trader - Citi | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/vodafonethree-commercial-finance-analyst-at-vodafonethree-4488528588 | VodafoneThree | VodafoneThree - Commercial Finance Analyst | Newbury, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57564013 | Mitchell Adam | Commercial Finance Analyst | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant/57563919 | Warner Recruitment Limited | Assistant Accountant | Northampton, Northamptonshire | note: via Reed
 
 ## Processed

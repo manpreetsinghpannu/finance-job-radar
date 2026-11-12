@@ -1637,6 +1637,11 @@
    "register_name": "Miryco Consultants Ltd",
    "match": "exact"
   },
+  "Mitchell Adam": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Mizuho": {
    "licensed": true,
    "register_name": "Mizuho Bank, Ltd.",
@@ -2716,6 +2721,11 @@
    "licensed": true,
    "register_name": "Walker Hamill Limited",
    "match": "exact"
+  },
+  "Warner Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Wates Group": {
    "licensed": true,
