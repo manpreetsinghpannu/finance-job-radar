@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T02:12:09.506Z",
+ "generated_at": "2026-11-12T03:07:17.118Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 123,
+   "matching": 122,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -247,11 +247,6 @@
   }
  ],
  "assign": {
-  "https://rbs.wd3.myworkdayjobs.com/rbs/job/Aberdeen/Financial-Planning-Specialist_R-00287166-1": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 7
-  },
   "https://rbs.wd3.myworkdayjobs.com/rbs/job/Belfast/Graduate-Trainee---Risk-Modelling-Specialist_R-00285724": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -306,11 +301,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 9
-  },
-  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Venture---Growth-Debt---Analyst---London_R261163": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
   },
   "https://invesco.wd1.myworkdayjobs.com/ivz/job/London-London/Associate--Private-Credit_R-13259": {
    "id": "credit",
