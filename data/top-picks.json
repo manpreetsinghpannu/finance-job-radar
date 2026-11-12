@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T11:12:12.939Z",
+ "generated_at": "2026-11-12T11:22:58.828Z",
  "order": [
   "finance",
   "credit",
@@ -217,7 +217,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 18,
+   "matching": 19,
    "picks": [
     {
      "title": "Investment Operations Technical Analyst",
@@ -3136,6 +3136,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Specialist-Investment-Operations_JR-0000096434": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 11
+  },
+  "https://careers.ey.com/ey/job/London-Next-Frontier-Quantum-Associate-SE1-2AF/1456792933/": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-cms-uk-4482137543": {
    "id": "finance",

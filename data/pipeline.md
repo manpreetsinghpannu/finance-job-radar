@@ -895,4 +895,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-alexander-daniels-finance-recruitment-4490312589 | Alexander Daniels Finance Recruitment | Management Accountant | Cannock, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/finance-business-partner-scotland-rail/ | via ScotJobsNet | Finance Business Partner – Scotland Rail | Glasgow, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Specialist-Investment-Operations_JR-0000096434 | Barclays | Specialist Investment Operations | Glasgow Campus | posted: 2026-11-12
+- [ ] https://careers.ey.com/ey/job/London-Next-Frontier-Quantum-Associate-SE1-2AF/1456792933/ | EY | Next Frontier Quantum Associate | London
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-cms-uk-4482137543 | CMS UK | Finance Analyst | Greater London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-associate-non-financial-risk-management-at-tp-icap-4479437724 | TP ICAP | Risk Associate, Non-Financial Risk Management | Belfast, Northern Ireland, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-strand-hill-4489207033 | Strand Hill | Fund Accountant | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-alfa-ai-4489096950 | Alfa AI | Management Accountant | Leicester, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-orla-rose-associates-4490315608 | Orla Rose Associates | Management Accountant | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-alexander-daniels-finance-recruitment-4490312589 | Alexander Daniels Finance Recruitment | Management Accountant | Cannock, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/finance-business-partner-scotland-rail/ | via ScotJobsNet | Finance Business Partner – Scotland Rail | Glasgow, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
+
 ## Processed
