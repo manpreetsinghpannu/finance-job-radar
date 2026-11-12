@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 12 Nov, 03:07** (UK time) · **570 open roles** at 323 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 12 Nov, 03:16** (UK time) · **571 open roles** at 323 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 12 Nov, 03:04** · hourly scan · checked 200 boards · **0 new roles**
+**Thu 12 Nov, 03:13** · hourly scan · checked 200 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Wed 11 Nov, 23:07** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Finance Graduate Programme: Commercial Finance & FP&A](https://www.linkedin.com/jobs/view/finance-graduate-programme-commercial-finance-fp-a-at-targetjobs-uk-4489074355) | targetjobs UK | London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -59,7 +63,18 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Thursday 12 November
 
-<sub>Nothing new at: 03:04, 02:07, 01:16, 00:07</sub>
+<details>
+<summary><b>03:13</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Finance Graduate Programme: Commercial Finance & FP&A](https://www.linkedin.com/jobs/view/finance-graduate-programme-commercial-finance-fp-a-at-targetjobs-uk-4489074355) | targetjobs UK | London, England, United Kingdom | ❔ |
+
+</details>
+
+<sub>Nothing new at: 02:07, 01:16, 00:07</sub>
 
 ### Wednesday 11 November
 
@@ -2142,12 +2157,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (302)](#finance-fpa-cv-302) · [Credit (65)](#credit-cv-65) · [Equity (28)](#equity-cv-28) · [Investment (51)](#investment-ib--pe-cv-51) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (85)](#other-fits-no-cv-closely-may-still-be-worth-a-look-85)
+Everything matched so far, newest first within each CV: [Finance (303)](#finance-fpa-cv-303) · [Credit (65)](#credit-cv-65) · [Equity (28)](#equity-cv-28) · [Investment (51)](#investment-ib--pe-cv-51) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (85)](#other-fits-no-cv-closely-may-still-be-worth-a-look-85)
 
 ### Finance (FP&A) CV: 302
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-12 | [Finance Graduate Programme: Commercial Finance & FP&A](https://www.linkedin.com/jobs/view/finance-graduate-programme-commercial-finance-fp-a-at-targetjobs-uk-4489074355) | targetjobs UK | London, England, United Kingdom | ❔ |
 | 2026-11-11 | [Project Finance Analyst](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/GB-Remote-Office-GB99/Project-Finance-Analyst_R2603045) | ICF | GB Remote Office (GB99) · Leeds, UK (GB84) | ✅ |
 | 2026-11-11 | [Commercial Financial Analyst](https://www.linkedin.com/jobs/view/commercial-financial-analyst-at-lucanet-4481570626) | Lucanet | United Kingdom | ✅ |
 | 2026-11-11 | [Commercial Finance Graduate](https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-colgate-palmolive-4488699009) | Colgate-Palmolive | Surrey, England, United Kingdom | ✅ |
@@ -2761,8 +2777,8 @@ Everything matched so far, newest first within each CV: [Finance (302)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Thu 12 Nov, 03:06 | Venture & Growth Debt - Analyst - London | BlackRock |
-| Thu 12 Nov, 03:05 | Financial Planning Specialist | NatWest Group |
+| Thu 12 Nov, 03:15 | Venture & Growth Debt - Analyst - London | BlackRock |
+| Thu 12 Nov, 03:14 | Financial Planning Specialist | NatWest Group |
 | Thu 12 Nov, 01:18 | Finance Transformation - AI Specialist | Barclays |
 | Wed 11 Nov, 19:08 | 2027 Quantitative Analytics Associate Graduate Programme Glasgow | Barclays |
 | Wed 11 Nov, 18:17 | Investment Risk Analyst | Qh4 Consulting |

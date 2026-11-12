@@ -877,5 +877,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/analyst-portfolio-management-at-heitman-4474547522 | Heitman | Analyst, Portfolio Management | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-puma-capital-group-4489953477 | Puma Capital Group | Graduate Analyst - Puma Property Finance | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/part-qualified-qualified-by-experience-accountant/ | via ScotJobsNet | Part Qualified / Qualified by Experience Accountant | Roxburghshire, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-programme-commercial-finance-fp-a-at-targetjobs-uk-4489074355 | targetjobs UK | Finance Graduate Programme: Commercial Finance & FP&A | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 
 ## Processed
