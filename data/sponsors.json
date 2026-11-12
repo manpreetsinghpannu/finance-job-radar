@@ -897,6 +897,11 @@
    "register_name": "Form3 Technology Limited",
    "match": "prefix"
   },
+  "Fox's Burton's Companies (FBC) UK": {
+   "licensed": true,
+   "register_name": "Fox's Burton's Companies (FBC) UK Limited",
+   "match": "exact"
+  },
   "Franklin Templeton": {
    "licensed": true,
    "register_name": "Franklin Templeton Global Investors Limited",
@@ -931,6 +936,11 @@
    "licensed": true,
    "register_name": "GKN Aerospace Services",
    "match": "exact"
+  },
+  "GP Fund Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "GSA Capital": {
    "licensed": true,
@@ -1497,6 +1507,11 @@
    "register_name": "MAN CORPORATION LIMITED",
    "match": "alias"
   },
+  "ManpowerGroup Talent Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Marex": {
    "licensed": true,
    "register_name": "Marex Group Plc",
@@ -1666,6 +1681,11 @@
    "licensed": true,
    "register_name": "MoonPay (UK) Limited",
    "match": "exact"
+  },
+  "Morgan Hunt Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Morgan McKinley": {
    "licensed": true,

@@ -936,4 +936,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/financial-accountant-127742525 | FT Recruitment Group | Financial Accountant | Aberdeen Area, Scotland | posted: 2026-11-12 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/assistant-quantity-surveyor-127742512 | CONTRACT SCOTLAND LIMITED | Assistant Quantity Surveyor | City of Edinburgh, Scotland | posted: 2026-11-12 | note: via S1Jobs
 
+- [ ] https://lbg.wd3.myworkdayjobs.com/lbg_careers/job/Edinburgh/Associate---Non-Core---Loan-Servicing--CIB-Debt-Products_165877-2 | Lloyds Banking Group | Associate - Non-Core & Loan Servicing, CIB Debt Products | Edinburgh | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-gp-fund-solutions-4481196846 | GP Fund Solutions | Fund Accountant | Brighton, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-manpowergroup-talent-solutions-4489246878 | ManpowerGroup Talent Solutions | Management Accountant | Coupar Angus, Scotland, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-michael-page-4490348626 | Michael Page | Management Accountant | Altrincham, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-fox-s-burton-s-companies-fbc-uk-4454765293 | Fox's Burton's Companies (FBC) UK | Management Accountant | Blackpool, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-analyst/57563061 | eFinancialCareers | Financial Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/quantitative-analyst-market-risk-models-london-inside-ir35-hybrid-3-days-office/57563067 | eFinancialCareers | Quantitative Analyst - Market Risk Models - London - Inside IR35 - Hybrid 3 Days Office | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57563319 | Morgan Hunt Recruitment | Management Accountant | East London, London | note: via Reed
+
 ## Processed
