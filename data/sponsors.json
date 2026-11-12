@@ -17,6 +17,11 @@
    "register_name": "9fin Limited",
    "match": "exact"
   },
+  "ACL Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "AIG": {
    "licensed": true,
    "register_name": "American International Group UK Limited",
@@ -523,6 +528,11 @@
    "match": "trading name"
   },
   "Card Factory": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Carousel Consultancy Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1237,6 +1247,11 @@
    "register_name": "JANUS HENDERSON ADMINISTRATION UK LIMITED",
    "match": "prefix"
   },
+  "Janus Henderson Investors": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "JasperRose": {
    "licensed": false,
    "register_name": null,
@@ -1376,6 +1391,11 @@
    "licensed": true,
    "register_name": "Lightfoot Advisors",
    "match": "prefix"
+  },
+  "Lightsource bp": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Lloyd's of London": {
    "licensed": true,

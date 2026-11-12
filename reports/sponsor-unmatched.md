@@ -1,12 +1,13 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 554 firms checked, 342 matched, 212 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 558 firms checked, 342 matched, 216 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (212)
+## Not found (216)
 
 - 93 MGMT
+- ACL Partners
 - ASC Connections Ltd
 - ASDA
 - Abound
@@ -46,6 +47,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Camino Search
 - Capital Outsourcing Group Ltd
 - Card Factory
+- Carousel Consultancy Ltd
 - Checkatrade
 - Checkout.com
 - City Recruitment Associates
@@ -108,6 +110,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Inventum Group
 - JJ SEARCH LIMITED
 - JPMorganChase
+- Janus Henderson Investors
 - JasperRose
 - Joblet-AI
 - KBRA
@@ -119,6 +122,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Landbay
 - Language Matters
 - Lemonade
+- Lightsource bp
 - Lochead Sandford Recruitment
 - Lookers Motor Group Limited
 - Lord Accounting & Finance

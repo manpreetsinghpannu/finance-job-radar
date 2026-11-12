@@ -922,4 +922,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/accountant-convenience-ambient-at-morrisons-4479432493 | Morrisons | Accountant - Convenience - Ambient | Bradford, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.s1jobs.com/job/technical-accountant-127741216 | Harvey Nash | Technical Accountant | Glasgow Area, Scotland | posted: 2026-11-12 | note: via S1Jobs
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Operations-Intermediate-Analyst---Cash-Management-Treasury-Operations_26988317 | Citi | Operations Intermediate Analyst - Cash Management Treasury Operations | Belfast United Kingdom | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/credit-assurance-analyst-at-macquarie-group-4480018912 | Macquarie Group | Credit Assurance Analyst | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-at-acl-partners-4490355171 | ACL Partners | Investment Associate | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-tech-services-at-baird-4445401702 | Baird | Investment Banking Analyst - Tech & Services | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-structured-finance-at-lightsource-bp-4489252061 | Lightsource bp | Associate, Structured Finance | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-graduate-etf-capital-markets-product-at-janus-henderson-investors-4488511884 | Janus Henderson Investors | Corporate Graduate - ETF Capital Markets & Product | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-accountant-investment-startup-at-carousel-consultancy-ltd-4489091999 | Carousel Consultancy Ltd | Graduate Finance Accountant - Investment Startup | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed
