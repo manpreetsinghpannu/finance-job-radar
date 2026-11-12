@@ -22,6 +22,11 @@
    "register_name": "American International Group UK Limited",
    "match": "alias"
   },
+  "AJ Bell": {
+   "licensed": true,
+   "register_name": "AJ Bell Plc",
+   "match": "exact"
+  },
   "APL Media Limited": {
    "licensed": true,
    "register_name": "APL Media Limited",
@@ -482,6 +487,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Cameron Kennedy": {
+   "licensed": true,
+   "register_name": "CKR CONSULTANTS LTD T/A CAMERON KENNEDY",
+   "match": "trading name"
+  },
   "Camino Search": {
    "licensed": false,
    "register_name": null,
@@ -760,6 +770,11 @@
   "ElevenLabs": {
    "licensed": true,
    "register_name": "Eleven Labs Ltd",
+   "match": "exact"
+  },
+  "Eni": {
+   "licensed": true,
+   "register_name": "ENI UK Limited",
    "match": "exact"
   },
   "Equifind": {
@@ -1636,6 +1651,11 @@
    "licensed": true,
    "register_name": "Morgan Stanley UK Limited",
    "match": "alias"
+  },
+  "Morrisons": {
+   "licensed": true,
+   "register_name": "Bharat Ventures Limited T/A Morrisons",
+   "match": "trading name"
   },
   "Moss": {
    "licensed": true,

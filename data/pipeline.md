@@ -910,4 +910,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-net-a-porter-4490321645 | NET-A-PORTER | FP&A Analyst | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-novuna-4481120231 | Novuna | Financial Analyst | Newbury, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695 | Rothschild & Co | Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory | London | posted: 2026-11-12
+- [ ] https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/London/M-A-Consultant---Commercial-Due-Diligence---Life-Sciences_R21618 | BDO UK | M&A Consultant - Commercial Due Diligence - Life Sciences | London | posted: 2026-11-12
+- [ ] https://www.teneo.com/careers/open-positions/8197497003?gh_jid=8197497003 | Teneo | Financial Advisory Graduate Programme | Manchester, United Kingdom | posted: 2026-11-12
+- [ ] https://www.teneo.com/careers/open-positions/8197494003?gh_jid=8197494003 | Teneo | Financial Advisory Graduate Programme | Leeds, United Kingdom | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/international-credit-analysis-reporting-at-cameron-kennedy-4485820654 | Cameron Kennedy | International Credit Analysis & Reporting | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-credit-analyst-at-montpellier-resourcing-4488242581 | Montpellier Resourcing | Corporate Credit Analyst | London Area, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/market-risk-analyst-analytics-at-eni-4470928662 | Eni | Market Risk Analyst (Analytics) | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-scottishpower-4490346173 | ScottishPower | Risk Analyst | Blantyre, Scotland, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-aj-bell-4488524219 | AJ Bell | Investment Analyst | Manchester, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-convenience-ambient-at-morrisons-4479432493 | Morrisons | Accountant - Convenience - Ambient | Bradford, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/technical-accountant-127741216 | Harvey Nash | Technical Accountant | Glasgow Area, Scotland | posted: 2026-11-12 | note: via S1Jobs
+
 ## Processed

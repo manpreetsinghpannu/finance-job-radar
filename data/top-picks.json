@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T12:10:54.147Z",
+ "generated_at": "2026-11-12T13:10:57.356Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 49,
+   "matching": 52,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 25,
+   "matching": 26,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 44,
+   "matching": 46,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -138,11 +138,11 @@
      "sponsor": true
     },
     {
-     "title": "Global Banking & Markets, Investment Banking, Classic, Technology, Media, and Telecommunications, London, Analyst",
-     "company": "Goldman Sachs",
-     "location": "London, England, United Kingdom",
-     "posted": "2026-11-10",
-     "url": "https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-technology-media-and-telecommunications-london-analyst-at-goldman-sachs-4462969815",
+     "title": "Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory",
+     "company": "Rothschild & Co",
+     "location": "London",
+     "posted": "2026-11-12",
+     "url": "https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695",
      "score": 22,
      "why": [
       "Investment Banking"
@@ -154,7 +154,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 13,
+   "matching": 17,
    "picks": [
     {
      "title": "VAIB Strategy Analyst",
@@ -185,8 +185,20 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 20,
+   "matching": 22,
    "picks": [
+    {
+     "title": "Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory",
+     "company": "Rothschild & Co",
+     "location": "London",
+     "posted": "2026-11-12",
+     "url": "https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695",
+     "score": 22,
+     "why": [
+      "Real Estate"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Investment Banking - EMEA Real Estate - Analyst / Associate - London",
      "company": "JPMorgan Chase",
@@ -196,19 +208,6 @@
      "score": 22,
      "why": [
       "Real Estate"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Analyst, Real Estate Asset Management",
-     "company": "Ares Management",
-     "location": "London, UK",
-     "posted": null,
-     "url": "https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1",
-     "score": 22,
-     "why": [
-      "Real Estate",
-      "Asset Management"
      ],
      "sponsor": true
     }
@@ -536,16 +535,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
-  },
-  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Financial-Analyst---Corporate-Finance--Oil---Gas-_R3562": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
-  "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Oil---Gas-_R3563": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 15
   },
   "https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate--Portfolio-Valuation-and-Fund-Advisory--Structured-Products----London_R3216": {
    "id": "investment",
@@ -3012,11 +3001,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-one-stop-healthcare-4488237542": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-at-kier-group-4462967894": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3196,6 +3180,61 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/London/M-A-Consultant---Commercial-Due-Diligence---Life-Sciences_R21618": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
+  },
+  "https://www.teneo.com/careers/open-positions/8197497003?gh_jid=8197497003": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.teneo.com/careers/open-positions/8197494003?gh_jid=8197494003": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/international-credit-analysis-reporting-at-cameron-kennedy-4485820654": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/corporate-credit-analyst-at-montpellier-resourcing-4488242581": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/market-risk-analyst-analytics-at-eni-4470928662": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 20
+  },
+  "https://www.linkedin.com/jobs/view/risk-analyst-at-scottishpower-4490346173": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-aj-bell-4488524219": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/accountant-convenience-ambient-at-morrisons-4479432493": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.s1jobs.com/job/technical-accountant-127741216": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
   }
  }
 }
