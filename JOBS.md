@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 12 Nov, 00:09** (UK time) · **573 open roles** at 323 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 12 Nov, 01:09** (UK time) · **572 open roles** at 323 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 12 Nov, 00:07** · hourly scan · checked 200 boards · **0 new roles**
+**Thu 12 Nov, 01:06** · hourly scan · checked 200 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Wed 11 Nov, 23:07** (1: Finance 1); open it in the scan log below.
 
@@ -18,7 +18,7 @@ Nothing new this time. The last scan that found something was **Wed 11 Nov, 23:0
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (124 matching)
+**Finance (FP&A) CV** (123 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -38,7 +38,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-06 · ✅
 2. [Global Banking & Markets, Investment Banking, Classic, Technology, Media, and Telecommunications, London, Analyst](https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-technology-media-and-telecommunications-london-analyst-at-goldman-sachs-4462969815) · Goldman Sachs · London, England, United Kingdom · posted 2026-11-10 · ✅
 
-**Consulting CV** (14 matching)
+**Consulting CV** (13 matching)
 
 1. [VAIB Strategy Analyst](https://job-boards.greenhouse.io/monzo/jobs/8359155) · Monzo · Cardiff, London or Remote (UK) · posted 2026-11-09 · ✅
 2. [Credit Strategy Analyst](https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-funding-circle-uk-4488400686) · Funding Circle UK · London, England, United Kingdom · posted 2026-11-06 · ✅
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Thursday 12 November
 
-<sub>Nothing new at: 00:07</sub>
+<sub>Nothing new at: 01:06, 00:07</sub>
 
 ### Wednesday 11 November
 
@@ -1972,16 +1972,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>15:27</b> · new firms added: roles already open at firms added this day (no alerts sent) · <b>7 new</b> → Finance 4 · Credit 1 · Other 2</summary>
+<summary><b>15:27</b> · new firms added: roles already open at firms added this day (no alerts sent) · <b>6 new</b> → Finance 3 · Credit 1 · Other 2</summary>
 
-#### Finance (FP&A) CV: 4
+#### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-04 | [Finance Analyst](https://mlp.eightfold.ai/careers/job/755959615920) | Millennium | London, United Kingdom | ✅ |
 | — | [Reg Reporting Accountant - 12 month FTC](https://jobs.smartrecruiters.com/shawbrook/744000158538198-reg-reporting-accountant-12-month-ftc) | Shawbrook | London, England , United Kingdom | ✅ |
 | — | [Blackstone Credit & Insurance (BXCI) Investment Fund Modeling & Forecasting](https://blackstone.wd1.myworkdayjobs.com/blackstone_careers/job/London/Blackstone-Credit---Insurance----FP-A--Associate_41787) | Blackstone | London | ✅ |
-| 2026-11-04 | [Finance Transformation - AI Specialist](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Finance-Transformation---AI-Specialist_JR-0000084336-1) | Barclays | Canary Wharf, 1 Churchill Place | ✅ |
 
 #### Credit CV: 1
 
@@ -1996,7 +1995,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Modeling & Quant Analytics - AI & Agentic Model Validation](https://careers.moodys.com/en/job/london/modeling-and-quant-analytics-ai-and-agentic-model-validation/49841/100813569712) | Moody's | London, England | ✅ |
 | 2026-11-03 | [Quantitative Researcher – Market Impact Modeling](https://mlp.eightfold.ai/careers/job/755959590097) | Millennium | London, United Kingdom | ✅ |
 
-<sub>6 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>7 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2145,9 +2144,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (304)](#finance-fpa-cv-304) · [Credit (66)](#credit-cv-66) · [Equity (28)](#equity-cv-28) · [Investment (51)](#investment-ib--pe-cv-51) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (85)](#other-fits-no-cv-closely-may-still-be-worth-a-look-85)
+Everything matched so far, newest first within each CV: [Finance (303)](#finance-fpa-cv-303) · [Credit (66)](#credit-cv-66) · [Equity (28)](#equity-cv-28) · [Investment (51)](#investment-ib--pe-cv-51) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (85)](#other-fits-no-cv-closely-may-still-be-worth-a-look-85)
 
-### Finance (FP&A) CV: 304
+### Finance (FP&A) CV: 303
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2440,7 +2439,6 @@ Everything matched so far, newest first within each CV: [Finance (304)](#finance
 | 2026-11-04 | [Treasury Assistant](https://job-boards.greenhouse.io/gocardless/jobs/8301377) | GoCardless | Leeds, UK | ✅ |
 | 2026-11-04 | [Statutory Reporting Accountant](https://scotjobsnet.co.uk/job/statutory-reporting-accountant/) | via ScotJobsNet | Aberdeenshire, Scotland | ❔ |
 | 2026-11-04 | [Transactional Financial Controller](https://jobs.ashbyhq.com/carwow/4c48158a-95aa-4cd6-b908-f649241eee2e) | Carwow · startup/SME | London · United Kingdom | ✅ |
-| 2026-11-04 | [Finance Transformation - AI Specialist](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Finance-Transformation---AI-Specialist_JR-0000084336-1) | Barclays | Canary Wharf, 1 Churchill Place | ✅ |
 | 2026-11-03 | [Financial Planning Specialist](https://rbs.wd3.myworkdayjobs.com/rbs/job/Aberdeen/Financial-Planning-Specialist_R-00287166-1) | NatWest Group | Aberdeen | ✅ |
 | 2026-11-02 | [Financial Controller](https://jobs.ashbyhq.com/flagstone/448c1cb5-e1b4-4a20-a967-e6ef8ffff780) | Flagstone · startup/SME | London Office · United Kingdom · Remote | ✅ |
 | 2026-10-29 | [Commercial Analyst](https://job-boards.eu.greenhouse.io/ebury/jobs/5020371101) | Ebury | London | ✅ |
@@ -2763,10 +2761,11 @@ Everything matched so far, newest first within each CV: [Finance (304)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>37 roles taken off the list because the firm closed the posting</summary>
+<summary>38 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 12 Nov, 01:08 | Finance Transformation - AI Specialist | Barclays |
 | Wed 11 Nov, 19:08 | 2027 Quantitative Analytics Associate Graduate Programme Glasgow | Barclays |
 | Wed 11 Nov, 18:17 | Investment Risk Analyst | Qh4 Consulting |
 | Wed 11 Nov, 17:07 | FP&A Analyst | px Group |

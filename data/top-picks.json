@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T00:09:26.513Z",
+ "generated_at": "2026-11-12T01:09:28.198Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 124,
+   "matching": 123,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -154,7 +154,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 14,
+   "matching": 13,
    "picks": [
     {
      "title": "VAIB Strategy Analyst",
@@ -726,11 +726,6 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 6
-  },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Finance-Transformation---AI-Specialist_JR-0000084336-1": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
   },
   "https://blackstone.wd1.myworkdayjobs.com/blackstone_careers/job/London/Blackstone-Credit---Insurance----FP-A--Associate_41787": {
    "id": "finance",
