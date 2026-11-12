@@ -112,6 +112,16 @@
    "register_name": null,
    "match": "none"
   },
+  "Alexander Daniels Finance Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Alfa AI": {
+   "licensed": true,
+   "register_name": "Alfa Energy Limited",
+   "match": "prefix"
+  },
   "Alignerr": {
    "licensed": false,
    "register_name": null,
@@ -456,6 +466,11 @@
    "licensed": true,
    "register_name": "CME Congresses Limited",
    "match": "alias"
+  },
+  "CMS UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "CVC Marathon": {
    "licensed": false,
@@ -1772,6 +1787,11 @@
    "register_name": "Ophelos Ltd",
    "match": "exact"
   },
+  "Orla Rose Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "PA Consulting": {
    "licensed": false,
    "register_name": null,
@@ -2312,6 +2332,11 @@
    "register_name": "Stifel Nicolaus Europe Limited",
    "match": "alias"
   },
+  "Strand Hill": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Stripe": {
    "licensed": true,
    "register_name": "STRIPE CONSULTING LIMITED",
@@ -2356,6 +2381,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "TP ICAP": {
+   "licensed": true,
+   "register_name": "TP ICAP GROUP SERVICES LIMITED",
+   "match": "exact"
   },
   "TUI": {
    "licensed": false,
