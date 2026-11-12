@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T14:11:40.064Z",
+ "generated_at": "2026-11-12T15:13:07.204Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 127,
+   "matching": 129,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 52,
+   "matching": 53,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -3270,6 +3270,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
+  },
+  "https://marex.breezy.hr/p/a67cebffd88801-market-risk-analyst-fx": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 20
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210767645": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-michael-page-4489996111": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.s1jobs.com/job/financial-accountant-127742525": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/assistant-quantity-surveyor-127742512": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

@@ -930,4 +930,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/corporate-graduate-etf-capital-markets-product-at-janus-henderson-investors-4488511884 | Janus Henderson Investors | Corporate Graduate - ETF Capital Markets & Product | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/graduate-finance-accountant-investment-startup-at-carousel-consultancy-ltd-4489091999 | Carousel Consultancy Ltd | Graduate Finance Accountant - Investment Startup | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://marex.breezy.hr/p/a67cebffd88801-market-risk-analyst-fx | Marex | Market Risk Analyst - FX | London, GB, United Kingdom, Remote | posted: 2026-11-12
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210767645 | JPMorgan Chase | Commercial & Investment Bank GF&BM – Global Commodities Group – Product Control – Associate – London | LONDON, United Kingdom | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-michael-page-4489996111 | Michael Page | Finance Business Partner | Warrington, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/financial-accountant-127742525 | FT Recruitment Group | Financial Accountant | Aberdeen Area, Scotland | posted: 2026-11-12 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/assistant-quantity-surveyor-127742512 | CONTRACT SCOTLAND LIMITED | Assistant Quantity Surveyor | City of Edinburgh, Scotland | posted: 2026-11-12 | note: via S1Jobs
+
 ## Processed
