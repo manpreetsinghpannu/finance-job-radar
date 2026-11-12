@@ -905,4 +905,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-alexander-daniels-finance-recruitment-4490312589 | Alexander Daniels Finance Recruitment | Management Accountant | Cannock, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/finance-business-partner-scotland-rail/ | via ScotJobsNet | Finance Business Partner – Scotland Rail | Glasgow, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
 
+- [ ] https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Durham-Blackwell-Street/Commercial-Finance-Partner_451127-1 | GSK | Commercial Finance Partner | Durham Blackwell Street | posted: 2026-11-12
+- [ ] https://jobs.janushenderson.com/job/London-Corporate-Graduate-ETF-Capital-Markets-&-Product-EC2M-3AE/1450120000/ | Janus Henderson | Corporate Graduate - ETF Capital Markets & Product | London
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-net-a-porter-4490321645 | NET-A-PORTER | FP&A Analyst | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-novuna-4481120231 | Novuna | Financial Analyst | Newbury, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed

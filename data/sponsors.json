@@ -1657,6 +1657,11 @@
    "register_name": null,
    "match": "none"
   },
+  "NET-A-PORTER": {
+   "licensed": true,
+   "register_name": "NET-A-PORTER GROUP Ltd",
+   "match": "exact"
+  },
   "Nasdaq": {
    "licensed": true,
    "register_name": "Nasdaq Limited",
@@ -1716,6 +1721,11 @@
    "licensed": true,
    "register_name": "Northern Trust Management Services Limited",
    "match": "alias"
+  },
+  "Novuna": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Nucleus Commercial Finance": {
    "licensed": false,
