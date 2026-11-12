@@ -958,5 +958,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant/57563919 | Warner Recruitment Limited | Assistant Accountant | Northampton, Northamptonshire | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-london-borough-of-havering-4490308858 | London Borough of Havering | Finance Analyst | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-modeller-at-datalink-recruitment-4490368527 | Datalink Recruitment | Credit Risk Modeller | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-fp-a-analyst-12-month-fixed-term-contract-at-capital-one-4482153426 | Capital One | Finance (FP&A) Analyst - 12 month fixed-term contract | Nottingham, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/remote-ccab-finance-analyst-public-sector-risk-2/ | via ScotJobsNet | Remote CCAB Finance Analyst – Public Sector Risk | Scotland, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/technical-accountant/ | via ScotJobsNet | Technical Accountant | Glasgow, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/remote-associate-accountant-healthcare-growth-2/ | via ScotJobsNet | Remote Associate Accountant – Healthcare & Growth | Midlothian, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
 
 ## Processed

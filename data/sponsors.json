@@ -522,6 +522,11 @@
    "register_name": "Capgemini UK PLC",
    "match": "exact"
   },
+  "Capital One": {
+   "licensed": true,
+   "register_name": "CAPITAL ONE (EUROPE) PLC",
+   "match": "exact"
+  },
   "Capital One UK": {
    "licensed": true,
    "register_name": "CAPITAL ONE (EUROPE) PLC",
