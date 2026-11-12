@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 12 Nov, 03:16** (UK time) · **571 open roles** at 323 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 12 Nov, 04:10** (UK time) · **570 open roles** at 323 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 12 Nov, 03:13** · hourly scan · checked 200 boards · **1 new role**
+**Thu 12 Nov, 04:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Finance Graduate Programme: Commercial Finance & FP&A](https://www.linkedin.com/jobs/view/finance-graduate-programme-commercial-finance-fp-a-at-targetjobs-uk-4489074355) | targetjobs UK | London, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Thu 12 Nov, 03:13** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<sub>Nothing new at: 04:07</sub>
 
 <details>
 <summary><b>03:13</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -597,19 +595,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>15:07</b> · hourly scan · <b>5 new</b> → Credit 1 · Equity 1 · Investment 2 · Fund 1</summary>
+<summary><b>15:07</b> · hourly scan · <b>4 new</b> → Credit 1 · Investment 2 · Fund 1</summary>
 
 #### Credit CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-10 | [Investment Analyst - Debt Purchasing/ Collection - £70,000 + bonus](https://www.linkedin.com/jobs/view/investment-analyst-debt-purchasing-collection-%C2%A370-000-%2B-bonus-at-salt-4487483932) | Salt | London Area, United Kingdom | ✅ |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-alexander-chapman-4482096995) | Alexander Chapman | London Area, United Kingdom | ❔ |
 
 #### Investment (IB / PE) CV: 2
 
@@ -623,6 +615,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | — | [Fund Accountant](https://www.reed.co.uk/jobs/fund-accountant/57553811) | Hays Specialist Recruitment Limited | London | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2157,9 +2151,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (303)](#finance-fpa-cv-303) · [Credit (65)](#credit-cv-65) · [Equity (28)](#equity-cv-28) · [Investment (51)](#investment-ib--pe-cv-51) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (85)](#other-fits-no-cv-closely-may-still-be-worth-a-look-85)
+Everything matched so far, newest first within each CV: [Finance (303)](#finance-fpa-cv-303) · [Credit (65)](#credit-cv-65) · [Equity (27)](#equity-cv-27) · [Investment (51)](#investment-ib--pe-cv-51) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (85)](#other-fits-no-cv-closely-may-still-be-worth-a-look-85)
 
-### Finance (FP&A) CV: 302
+### Finance (FP&A) CV: 303
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2537,12 +2531,11 @@ Everything matched so far, newest first within each CV: [Finance (303)](#finance
 | 2026-10-20 | [Market Risk (Product) Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/London-UK/Market-Risk--Product--Analyst_329916) | S&P Global | London, UK | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 28
+### Equity CV: 27
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-11 | [Investment Analyst - French speaker](https://www.linkedin.com/jobs/view/investment-analyst-french-speaker-at-bruin-4488673919) | Bruin | London, England, United Kingdom | ❔ |
-| 2026-11-10 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-alexander-chapman-4482096995) | Alexander Chapman | London Area, United Kingdom | ❔ |
 | — | [Syndicate Research Analyst](https://www.reed.co.uk/jobs/syndicate-research-analyst/57555207) | IPS Group | London | ✅ |
 | 2026-11-10 | [Bloomberg Intelligence European Quantitative Equity Research Strategist](https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859) | Bloomberg | London, England, United Kingdom | ✅ |
 | — | [Investment Analyst](https://www.reed.co.uk/jobs/investment-analyst/57554180) | eFinancialCareers | London | ✅ |
@@ -2773,10 +2766,11 @@ Everything matched so far, newest first within each CV: [Finance (303)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>40 roles taken off the list because the firm closed the posting</summary>
+<summary>41 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 12 Nov, 04:10 | Research Analyst | Alexander Chapman |
 | Thu 12 Nov, 03:15 | Venture & Growth Debt - Analyst - London | BlackRock |
 | Thu 12 Nov, 03:14 | Financial Planning Specialist | NatWest Group |
 | Thu 12 Nov, 01:18 | Finance Transformation - AI Specialist | Barclays |

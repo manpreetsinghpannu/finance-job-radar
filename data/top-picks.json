@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T03:16:16.800Z",
+ "generated_at": "2026-11-12T04:10:09.976Z",
  "order": [
   "finance",
   "credit",
@@ -2531,11 +2531,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/research-analyst-at-alexander-chapman-4482096995": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 19
   },
   "https://www.reed.co.uk/jobs/fund-accountant/57553811": {
    "id": "fund",
