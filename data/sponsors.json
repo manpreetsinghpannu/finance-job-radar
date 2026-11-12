@@ -1287,6 +1287,11 @@
    "register_name": "London Stock Exchange Group plc",
    "match": "alias"
   },
+  "Laing O'Rourke": {
+   "licensed": true,
+   "register_name": "Laing O'Rourke PLC",
+   "match": "exact"
+  },
   "Landbay": {
    "licensed": false,
    "register_name": null,
@@ -2017,6 +2022,11 @@
    "register_name": "Rider Levett Bucknall UK Limited",
    "match": "similar (0.92)"
   },
+  "Right People Recruitment Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Rightmove": {
    "licensed": true,
    "register_name": "Rightmove Group Ltd",
@@ -2106,6 +2116,11 @@
    "licensed": true,
    "register_name": "Springfield Properties (Scotland) LTD",
    "match": "exact"
+  },
+  "SRG": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "SRM RECRUITMENT LIMITED": {
    "licensed": false,

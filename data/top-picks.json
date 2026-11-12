@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T09:08:46.755Z",
+ "generated_at": "2026-11-12T10:12:29.380Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 122,
+   "matching": 124,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -3096,6 +3096,51 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-emea-real-estate-analyst-associate-london-at-jpmorganchase-4480569191": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-laing-o-rourke-4463299560": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst/57561021": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/credit-risk-analyst/57561028": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127738727": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/management-accountant-127738667": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.s1jobs.com/job/reporting-accountant-127738623": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127738556": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.s1jobs.com/job/accountant-127738411": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

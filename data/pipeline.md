@@ -878,5 +878,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-puma-capital-group-4489953477 | Puma Capital Group | Graduate Analyst - Puma Property Finance | London, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/part-qualified-qualified-by-experience-accountant/ | via ScotJobsNet | Part Qualified / Qualified by Experience Accountant | Roxburghshire, Scotland | posted: 2026-11-11 | note: via ScotJobsNet
 - [ ] https://www.linkedin.com/jobs/view/finance-graduate-programme-commercial-finance-fp-a-at-targetjobs-uk-4489074355 | targetjobs UK | Finance Graduate Programme: Commercial Finance & FP&A | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-emea-real-estate-analyst-associate-london-at-jpmorganchase-4480569191 | JPMorganChase | Investment Banking - EMEA Real Estate - Analyst / Associate - London | Greater London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-laing-o-rourke-4463299560 | Laing O'Rourke | Management Accountant | Dartford, England, United Kingdom | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57561021 | Ambition Europe Limited | Finance Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/credit-risk-analyst/57561028 | SRG | Credit Risk Analyst | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127738727 | Right People Recruitment Solutions | Trainee Finance Assistant ( Graduate ) | Aberdeen Area, Scotland | posted: 2026-11-12 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-127738667 | Right People Recruitment Solutions | Management Accountant | Aberdeen Area, Scotland | posted: 2026-11-12 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/reporting-accountant-127738623 | Right People Recruitment Solutions | Reporting Accountant | Aberdeen Area, Scotland | posted: 2026-11-12 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127738556 | Right People Recruitment Solutions | Management Accountant 1 Year Contract Part Time | Aberdeenshire, Scotland | posted: 2026-11-12 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-127738411 | Right People Recruitment Solutions | Accountant | Aberdeen Area, Scotland | posted: 2026-11-12 | note: via S1Jobs
 
 ## Processed
