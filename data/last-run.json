@@ -1,18 +1,13 @@
 {
-  "finished_at": "2026-11-12T17:53:56.638Z",
+  "finished_at": "2026-11-12T18:10:36.590Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 33813,
-  "filtered_out": 33771,
-  "new_matches": 3,
-  "boards_failed": 1,
-  "failed": [
-    {
-      "company": "EY",
-      "error": "This operation was aborted"
-    }
-  ]
+  "postings_seen": 34761,
+  "filtered_out": 34718,
+  "new_matches": 2,
+  "boards_failed": 0,
+  "failed": []
 }

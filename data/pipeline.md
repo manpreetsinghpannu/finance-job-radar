@@ -956,5 +956,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/vodafonethree-commercial-finance-analyst-at-vodafonethree-4488528588 | VodafoneThree | VodafoneThree - Commercial Finance Analyst | Newbury, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57564013 | Mitchell Adam | Commercial Finance Analyst | Birmingham, West Midlands (County) | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant/57563919 | Warner Recruitment Limited | Assistant Accountant | Northampton, Northamptonshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-london-borough-of-havering-4490308858 | London Borough of Havering | Finance Analyst | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-modeller-at-datalink-recruitment-4490368527 | Datalink Recruitment | Credit Risk Modeller | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 
 ## Processed
