@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 12 Nov, 20:10** (UK time) · **632 open roles** at 356 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 12 Nov, 21:10** (UK time) · **631 open roles** at 355 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,21 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 12 Nov, 20:07** · hourly scan · checked 200 boards · **4 new roles**
+**Thu 12 Nov, 21:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-handle-recruitment-4489294382) | Handle Recruitment | London, England, United Kingdom | ✅ |
-| 2026-11-12 | [Commercial Planning & Forecasting Accountant](https://www.linkedin.com/jobs/view/commercial-planning-forecasting-accountant-at-hargreaves-land-4489283547) | Hargreaves Land | Newcastle Upon Tyne, England, United Kingdom | ❔ |
-
-### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Junior Analyst, Corporate Finance (Deals)](https://www.linkedin.com/jobs/view/junior-analyst-corporate-finance-deals-at-kobalt-music-4490503593) | Kobalt Music | London, England, United Kingdom | ✅ |
-| — | [Investment Banking Analyst, Consumer & Retail - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-consumer-retail-citi/57563014) | eFinancialCareers | London | ✅ |
+Nothing new this time. The last scan that found something was **Thu 12 Nov, 20:07** (4: Finance 2 · Investment 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -70,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<sub>Nothing new at: 21:07</sub>
 
 <details>
 <summary><b>20:07</b> · hourly scan · <b>4 new</b> → Finance 2 · Investment 2</summary>
@@ -1541,7 +1531,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 <sub>Nothing new at: 03:08, 02:07, 01:08</sub>
 
 <details>
-<summary><b>00:16</b> · hourly scan · <b>8 new</b> → Finance 6 · Other 2</summary>
+<summary><b>00:16</b> · hourly scan · <b>7 new</b> → Finance 6 · Other 1</summary>
 
 #### Finance (FP&A) CV: 6
 
@@ -1554,14 +1544,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539612) | Hoop Recruitment | Cardiff, South Glamorgan | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57537365) | Capital Outsourcing Group Ltd | York, North Yorkshire | ❔ |
 
-#### Other (fits no CV closely, may still be worth a look): 2
+#### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-08 | [Graduate Business Modelling Analyst - Up to £38k Base + Bonus! - London (Hybrid) - Elite Investment Firm](https://www.linkedin.com/jobs/view/graduate-business-modelling-analyst-up-to-%C2%A338k-base-%2B-bonus%21-london-hybrid-elite-investment-firm-at-hunter-bond-4487117492) | Hunter Bond | London Area, United Kingdom | ✅ |
 | — | [Finance Graduate](https://www.reed.co.uk/jobs/finance-graduate/57537108) | Tarmac Trading Limited | Solihull, West Midlands (County) | ✅ |
 
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2281,7 +2270,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (333)](#finance-fpa-cv-333) · [Credit (80)](#credit-cv-80) · [Equity (30)](#equity-cv-30) · [Investment (61)](#investment-ib--pe-cv-61) · [Consulting (14)](#consulting-cv-14) · [Real Estate (11)](#real-estate-cv-11) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (88)](#other-fits-no-cv-closely-may-still-be-worth-a-look-88)
+Everything matched so far, newest first within each CV: [Finance (333)](#finance-fpa-cv-333) · [Credit (80)](#credit-cv-80) · [Equity (30)](#equity-cv-30) · [Investment (61)](#investment-ib--pe-cv-61) · [Consulting (14)](#consulting-cv-14) · [Real Estate (11)](#real-estate-cv-11) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (87)](#other-fits-no-cv-closely-may-still-be-worth-a-look-87)
 
 ### Finance (FP&A) CV: 333
 
@@ -2862,7 +2851,7 @@ Everything matched so far, newest first within each CV: [Finance (333)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 88
+### Other (fits no CV closely, may still be worth a look): 87
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2899,7 +2888,6 @@ Everything matched so far, newest first within each CV: [Finance (333)](#finance
 | 2026-11-08 | [Financial Markets Graduate Programme UK 2027](https://www.linkedin.com/jobs/view/financial-markets-graduate-programme-uk-2027-at-standard-chartered-4488768815) | Standard Chartered | London, England, United Kingdom | ✅ |
 | — | [Analyst, Global Quantitative Research](https://www.reed.co.uk/jobs/analyst-global-quantitative-research/57542662) | eFinancialCareers | London | ✅ |
 | — | [Quantitative Researcher](https://www.reed.co.uk/jobs/quantitative-researcher/57539406) | eFinancialCareers | London | ✅ |
-| 2026-11-08 | [Graduate Business Modelling Analyst - Up to £38k Base + Bonus! - London (Hybrid) - Elite Investment Firm](https://www.linkedin.com/jobs/view/graduate-business-modelling-analyst-up-to-%C2%A338k-base-%2B-bonus%21-london-hybrid-elite-investment-firm-at-hunter-bond-4487117492) | Hunter Bond | London Area, United Kingdom | ✅ |
 | 2026-11-07 | [Graduate - Relationship Banking](https://www.linkedin.com/jobs/view/graduate-relationship-banking-at-archer-4487386781) | Archer | London, England, United Kingdom | ✅ |
 | — | [Analyst Programme - Capital Solutions - Barings](https://www.reed.co.uk/jobs/analyst-programme-capital-solutions-barings/57527859) | eFinancialCareers | London | ✅ |
 | — | [Quantitative Researcher - Macro Systematic Strategies](https://www.reed.co.uk/jobs/quantitative-researcher-macro-systematic-strategies/57527926) | eFinancialCareers | London | ✅ |
@@ -2958,10 +2946,11 @@ Everything matched so far, newest first within each CV: [Finance (333)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>54 roles taken off the list because the firm closed the posting</summary>
+<summary>55 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 12 Nov, 21:09 | Graduate Business Modelling Analyst - Up to £38k Base + Bonus! - London (Hybrid) - Elite Investment Firm | Hunter Bond |
 | Thu 12 Nov, 20:10 | UK Corporate Banking Graduate Programme 2027 Birmingham | Barclays |
 | Thu 12 Nov, 19:18 | Management Accountant | Global Accounting Network |
 | Thu 12 Nov, 17:53 | Project Finance Analyst | ICF |
