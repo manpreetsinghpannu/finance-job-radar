@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 12 Nov, 21:10** (UK time) · **631 open roles** at 355 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 12 Nov, 22:10** (UK time) · **632 open roles** at 355 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 12 Nov, 21:07** · hourly scan · checked 200 boards · **0 new roles**
+**Thu 12 Nov, 22:08** · hourly scan · checked 200 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Thu 12 Nov, 20:07** (4: Finance 2 · Investment 2); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57555063) | Harper May Ltd | City of London, London | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<details>
+<summary><b>22:08</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57555063) | Harper May Ltd | City of London, London | ❔ |
+
+</details>
 
 <sub>Nothing new at: 21:07</sub>
 
@@ -2270,9 +2285,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (333)](#finance-fpa-cv-333) · [Credit (80)](#credit-cv-80) · [Equity (30)](#equity-cv-30) · [Investment (61)](#investment-ib--pe-cv-61) · [Consulting (14)](#consulting-cv-14) · [Real Estate (11)](#real-estate-cv-11) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (87)](#other-fits-no-cv-closely-may-still-be-worth-a-look-87)
+Everything matched so far, newest first within each CV: [Finance (334)](#finance-fpa-cv-334) · [Credit (80)](#credit-cv-80) · [Equity (30)](#equity-cv-30) · [Investment (61)](#investment-ib--pe-cv-61) · [Consulting (14)](#consulting-cv-14) · [Real Estate (11)](#real-estate-cv-11) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (87)](#other-fits-no-cv-closely-may-still-be-worth-a-look-87)
 
-### Finance (FP&A) CV: 333
+### Finance (FP&A) CV: 334
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2305,6 +2320,7 @@ Everything matched so far, newest first within each CV: [Finance (333)](#finance
 | 2026-11-12 | [Accountant - Convenience - Ambient](https://www.linkedin.com/jobs/view/accountant-convenience-ambient-at-morrisons-4479432493) | Morrisons | Bradford, England, United Kingdom | ✅ |
 | 2026-11-12 | [Technical Accountant](https://www.s1jobs.com/job/technical-accountant-127741216) | Harvey Nash | Glasgow Area, Scotland | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57563319) | Morgan Hunt Recruitment | East London, London | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57555063) | Harper May Ltd | City of London, London | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57563968) | Broster Buchanan | Milton Keynes, Buckinghamshire | ❔ |
 | 2026-11-12 | [Remote Associate Accountant – Healthcare & Growth](https://scotjobsnet.co.uk/job/remote-associate-accountant-healthcare-growth-2/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
 | 2026-11-12 | [Accountant](https://www.s1jobs.com/job/accountant-127738411) | Right People Recruitment Solutions | Aberdeen Area, Scotland | ❔ |
