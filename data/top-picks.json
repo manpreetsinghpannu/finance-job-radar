@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T19:07:10.456Z",
+ "generated_at": "2026-11-12T19:19:16.144Z",
  "order": [
   "finance",
   "credit",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 27,
+   "matching": 28,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -3365,6 +3365,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 21
+  },
+  "https://www.reed.co.uk/jobs/portfolio-analyst--portfolio-implementation-trade-execution--iad--wealth-management-jj-search/57564151": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57563968": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   },
   "https://scotjobsnet.co.uk/job/remote-ccab-finance-analyst-public-sector-risk-2/": {
    "id": "finance",

@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 12 Nov, 19:07** (UK time) · **627 open roles** at 353 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 12 Nov, 19:19** (UK time) · **629 open roles** at 354 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,16 +10,23 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 12 Nov, 19:02** · hourly scan · checked 200 boards · **4 new roles**
+**Thu 12 Nov, 19:14** · hourly scan · checked 200 boards · **6 new roles**
 
-### Finance (FP&A) CV: 4
+### Finance (FP&A) CV: 5
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-12 | [Finance (FP&A) Analyst - 12 month fixed-term contract](https://www.linkedin.com/jobs/view/finance-fp-a-analyst-12-month-fixed-term-contract-at-capital-one-4482153426) | Capital One | Nottingham, England, United Kingdom | ✅ |
 | 2026-11-12 | [Remote CCAB Finance Analyst – Public Sector Risk](https://scotjobsnet.co.uk/job/remote-ccab-finance-analyst-public-sector-risk-2/) | via ScotJobsNet | Scotland, Scotland | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57563968) | Broster Buchanan | Milton Keynes, Buckinghamshire | ❔ |
 | 2026-11-12 | [Remote Associate Accountant – Healthcare & Growth](https://scotjobsnet.co.uk/job/remote-associate-accountant-healthcare-growth-2/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
 | 2026-11-12 | [Technical Accountant](https://scotjobsnet.co.uk/job/technical-accountant/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
+
+### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Portfolio Analyst , Portfolio Implementation & Trade Execution , IAD , Wealth Management - JJ Search](https://www.reed.co.uk/jobs/portfolio-analyst--portfolio-implementation-trade-execution--iad--wealth-management-jj-search/57564151) | eFinancialCareers | London | ✅ |
 
 ## Top picks for each CV
 
@@ -35,7 +42,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Wholesale Credit Risk Strategy, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-05 · ✅
 2. [Credit Risk Underwriter - Structured Lending](https://www.linkedin.com/jobs/view/credit-risk-underwriter-structured-lending-at-morgan-mckinley-4486985902) · Morgan McKinley · London Area, United Kingdom · posted 2026-11-06 · ✅
 
-**Equity CV** (27 matching)
+**Equity CV** (28 matching)
 
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Bloomberg Intelligence European Quantitative Equity Research Strategist](https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859) · Bloomberg · London, England, United Kingdom · posted 2026-11-10 · ✅
@@ -67,16 +74,23 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Thursday 12 November
 
 <details>
-<summary><b>19:02</b> · hourly scan · <b>4 new</b> → Finance 4</summary>
+<summary><b>19:14</b> · hourly scan · <b>6 new</b> → Finance 5 · Equity 1</summary>
 
-#### Finance (FP&A) CV: 4
+#### Finance (FP&A) CV: 5
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-12 | [Finance (FP&A) Analyst - 12 month fixed-term contract](https://www.linkedin.com/jobs/view/finance-fp-a-analyst-12-month-fixed-term-contract-at-capital-one-4482153426) | Capital One | Nottingham, England, United Kingdom | ✅ |
 | 2026-11-12 | [Remote CCAB Finance Analyst – Public Sector Risk](https://scotjobsnet.co.uk/job/remote-ccab-finance-analyst-public-sector-risk-2/) | via ScotJobsNet | Scotland, Scotland | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57563968) | Broster Buchanan | Milton Keynes, Buckinghamshire | ❔ |
 | 2026-11-12 | [Remote Associate Accountant – Healthcare & Growth](https://scotjobsnet.co.uk/job/remote-associate-accountant-healthcare-growth-2/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
 | 2026-11-12 | [Technical Accountant](https://scotjobsnet.co.uk/job/technical-accountant/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Portfolio Analyst , Portfolio Implementation & Trade Execution , IAD , Wealth Management - JJ Search](https://www.reed.co.uk/jobs/portfolio-analyst--portfolio-implementation-trade-execution--iad--wealth-management-jj-search/57564151) | eFinancialCareers | London | ✅ |
 
 </details>
 
@@ -2250,9 +2264,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (330)](#finance-fpa-cv-330) · [Credit (81)](#credit-cv-81) · [Equity (29)](#equity-cv-29) · [Investment (59)](#investment-ib--pe-cv-59) · [Consulting (14)](#consulting-cv-14) · [Real Estate (11)](#real-estate-cv-11) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (88)](#other-fits-no-cv-closely-may-still-be-worth-a-look-88)
+Everything matched so far, newest first within each CV: [Finance (331)](#finance-fpa-cv-331) · [Credit (81)](#credit-cv-81) · [Equity (30)](#equity-cv-30) · [Investment (59)](#investment-ib--pe-cv-59) · [Consulting (14)](#consulting-cv-14) · [Real Estate (11)](#real-estate-cv-11) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (88)](#other-fits-no-cv-closely-may-still-be-worth-a-look-88)
 
-### Finance (FP&A) CV: 330
+### Finance (FP&A) CV: 331
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2284,6 +2298,7 @@ Everything matched so far, newest first within each CV: [Finance (330)](#finance
 | 2026-11-12 | [Accountant - Convenience - Ambient](https://www.linkedin.com/jobs/view/accountant-convenience-ambient-at-morrisons-4479432493) | Morrisons | Bradford, England, United Kingdom | ✅ |
 | 2026-11-12 | [Technical Accountant](https://www.s1jobs.com/job/technical-accountant-127741216) | Harvey Nash | Glasgow Area, Scotland | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57563319) | Morgan Hunt Recruitment | East London, London | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57563968) | Broster Buchanan | Milton Keynes, Buckinghamshire | ❔ |
 | 2026-11-12 | [Remote Associate Accountant – Healthcare & Growth](https://scotjobsnet.co.uk/job/remote-associate-accountant-healthcare-growth-2/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
 | 2026-11-12 | [Accountant](https://www.s1jobs.com/job/accountant-127738411) | Right People Recruitment Solutions | Aberdeen Area, Scotland | ❔ |
 | 2026-11-12 | [Financial Accountant](https://www.s1jobs.com/job/financial-accountant-127742525) | FT Recruitment Group | Aberdeen Area, Scotland | ❔ |
@@ -2673,12 +2688,13 @@ Everything matched so far, newest first within each CV: [Finance (330)](#finance
 | 2026-10-20 | [Market Risk (Product) Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/London-UK/Market-Risk--Product--Analyst_329916) | S&P Global | London, UK | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 29
+### Equity CV: 30
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-12 | [Equity Capital Markets, Analyst](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/Equity-Capital-Markets--Analyst_10079971-WD-1) | MUFG | London | ✅ |
 | 2026-11-12 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-aj-bell-4488524219) | AJ Bell | Manchester, England, United Kingdom | ✅ |
+| — | [Portfolio Analyst , Portfolio Implementation & Trade Execution , IAD , Wealth Management - JJ Search](https://www.reed.co.uk/jobs/portfolio-analyst--portfolio-implementation-trade-execution--iad--wealth-management-jj-search/57564151) | eFinancialCareers | London | ✅ |
 | 2026-11-11 | [Investment Analyst - French speaker](https://www.linkedin.com/jobs/view/investment-analyst-french-speaker-at-bruin-4488673919) | Bruin | London, England, United Kingdom | ❔ |
 | — | [Syndicate Research Analyst](https://www.reed.co.uk/jobs/syndicate-research-analyst/57555207) | IPS Group | London | ✅ |
 | 2026-11-10 | [Bloomberg Intelligence European Quantitative Equity Research Strategist](https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859) | Bloomberg | London, England, United Kingdom | ✅ |
@@ -2926,7 +2942,7 @@ Everything matched so far, newest first within each CV: [Finance (330)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Thu 12 Nov, 19:06 | Management Accountant | Global Accounting Network |
+| Thu 12 Nov, 19:18 | Management Accountant | Global Accounting Network |
 | Thu 12 Nov, 17:53 | Project Finance Analyst | ICF |
 | Thu 12 Nov, 17:52 | FP&A Analyst | Ayvens |
 | Thu 12 Nov, 17:52 | Financial Accountant - Insurance/Asset Management | Miryco Consultants Ltd |
