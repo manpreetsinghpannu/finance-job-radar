@@ -945,4 +945,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/quantitative-analyst-market-risk-models-london-inside-ir35-hybrid-3-days-office/57563067 | eFinancialCareers | Quantitative Analyst - Market Risk Models - London - Inside IR35 - Hybrid 3 Days Office | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57563319 | Morgan Hunt Recruitment | Management Accountant | East London, London | note: via Reed
 
+- [ ] https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/Equity-Capital-Markets--Analyst_10079971-WD-1 | MUFG | Equity Capital Markets, Analyst | London | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-avove-utilities-4490360628 | Avove Utilities | Commercial Finance Analyst | Chorley, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/emeia-credit-analyst-at-apple-4489264414 | Apple | EMEIA Credit Analyst | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-real-estate-corporate-banking-at-rothstein-recruitment-4490364588 | Rothstein Recruitment | Credit Analyst - Real Estate - Corporate Banking | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-credit-risk-analyst-at-radius-4490370202 | Radius | Graduate Credit Risk Analyst | Crewe, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-rapid-growth-consumer-brand-central-london-4-days-in-office-up-to-%C2%A360k-at-harmonic-finance%E2%84%A2-certified-b-corp-4489248758 | Harmonic Finance™ | Certified B Corp | Management Accountant | Rapid Growth Consumer Brand | Central London (4 days in office) | Up to £60k | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/private-credit-operations-associate/57563640 | Robert Walters | Private Credit - Operations Associate | South West London, London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fx-options-trader-citi/57563020 | eFinancialCareers | FX Options Trader - Citi | London | note: via Reed
+
 ## Processed

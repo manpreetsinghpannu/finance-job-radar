@@ -177,6 +177,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Apple": {
+   "licensed": true,
+   "register_name": "Apple Europe Limited",
+   "match": "exact"
+  },
   "Arcade Food Halls": {
    "licensed": false,
    "register_name": null,
@@ -251,6 +256,11 @@
    "licensed": true,
    "register_name": "AVIVA DENTISTRY LIMITED",
    "match": "alias"
+  },
+  "Avove Utilities": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Ayvens": {
    "licensed": true,
@@ -1056,6 +1066,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Harmonic Finance™": {
+   "licensed": true,
+   "register_name": "Harmonic Finance & Operations",
+   "match": "prefix"
   },
   "Harmonic Group Ltd": {
    "licensed": true,
@@ -2067,6 +2082,11 @@
    "register_name": "RBC Group",
    "match": "exact"
   },
+  "Radius": {
+   "licensed": true,
+   "register_name": "Radius Systems Limited",
+   "match": "prefix"
+  },
   "Randstad": {
    "licensed": true,
    "register_name": "Randstad UK Holding Ltd",
@@ -2156,6 +2176,11 @@
    "licensed": true,
    "register_name": "Rothschild & Co Global Markets Solutions Limited",
    "match": "alias"
+  },
+  "Rothstein Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Royal College Of Physicians & Surgeons Of Glasgow": {
    "licensed": false,

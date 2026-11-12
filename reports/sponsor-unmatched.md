@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 563 firms checked, 343 matched, 220 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 568 firms checked, 346 matched, 222 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (220)
+## Not found (222)
 
 - 93 MGMT
 - ACL Partners
@@ -29,6 +29,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Armstrong Watson
 - Aster Group
 - Atom Bank
+- Avove Utilities
 - B&Q
 - Bield Housing Association
 - Blockchain.com
@@ -174,6 +175,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Resourcery Group
 - Richard James Recruitment Specialists Ltd
 - Right People Recruitment Solutions
+- Rothstein Recruitment
 - Royal College Of Physicians & Surgeons Of Glasgow
 - Rushlift GSE
 - S1Jobs
@@ -227,7 +229,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (32)
+## Matched automatically by close name; worth a glance (34)
 
 - Alfa AI → Alfa Energy Limited (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
@@ -237,6 +239,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Duco → Duco Technology Limited (prefix)
 - Form3 → Form3 Technology Limited (prefix)
 - Griffin → Griffin Bank Ltd (prefix)
+- Harmonic Finance™ → Harmonic Finance & Operations (prefix)
 - Heitman → Heitman Financial UK LLC (prefix)
 - Holland & Barrett → Holland & Barrett Retail Limited (prefix)
 - ICF → ICF Consulting Services Limited (prefix)
@@ -254,6 +257,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Paxos → Paxos Technology Limited (prefix)
 - Pliant → Pliant Payments Limited (prefix)
 - Plum → Plum Fintech (prefix)
+- Radius → Radius Systems Limited (prefix)
 - Rider Levett Bucknall RLB → Rider Levett Bucknall UK Limited (similar (0.92))
 - SMBC → SMBC Bank International plc (prefix)
 - Silverfin → Silverfin Software Ltd (prefix)
