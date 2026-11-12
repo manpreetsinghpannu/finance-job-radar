@@ -964,5 +964,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/remote-ccab-finance-analyst-public-sector-risk-2/ | via ScotJobsNet | Remote CCAB Finance Analyst – Public Sector Risk | Scotland, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/technical-accountant/ | via ScotJobsNet | Technical Accountant | Glasgow, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/remote-associate-accountant-healthcare-growth-2/ | via ScotJobsNet | Remote Associate Accountant – Healthcare & Growth | Midlothian, Scotland | posted: 2026-11-12 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/junior-analyst-corporate-finance-deals-at-kobalt-music-4490503593 | Kobalt Music | Junior Analyst, Corporate Finance (Deals) | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-planning-forecasting-accountant-at-hargreaves-land-4489283547 | Hargreaves Land | Commercial Planning & Forecasting Accountant | Newcastle Upon Tyne, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-handle-recruitment-4489294382 | Handle Recruitment | Management Accountant | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/investment-banking-analyst-consumer-retail-citi/57563014 | eFinancialCareers | Investment Banking Analyst, Consumer & Retail - Citi | London | note: via Reed
 
 ## Processed

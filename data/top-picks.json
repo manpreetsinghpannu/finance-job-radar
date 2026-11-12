@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T19:19:16.144Z",
+ "generated_at": "2026-11-12T20:10:36.083Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 130,
+   "matching": 131,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 58,
+   "matching": 57,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 48,
+   "matching": 49,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -138,14 +138,15 @@
      "sponsor": true
     },
     {
-     "title": "Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory",
-     "company": "Rothschild & Co",
-     "location": "London",
+     "title": "Junior Analyst, Corporate Finance (Deals)",
+     "company": "Kobalt Music",
+     "location": "London, England, United Kingdom",
      "posted": "2026-11-12",
-     "url": "https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695",
-     "score": 22,
+     "url": "https://www.linkedin.com/jobs/view/junior-analyst-corporate-finance-deals-at-kobalt-music-4490503593",
+     "score": 26,
      "why": [
-      "Investment Banking"
+      "Corporate Finance",
+      "Deals"
      ],
      "sponsor": true
     }
@@ -322,11 +323,6 @@
    "score": 0
   },
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Leeds-Park-Row/UK-Corporate-Banking-Graduate-Programme-2027-Leeds_JR-0000125015": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 11
-  },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Birmingham-One-Snow-Hill/UK-Corporate-Banking-Graduate-Programme-2027-Birmingham_JR-0000124027-1": {
    "id": "credit",
    "cv": "Credit CV",
    "score": 11
@@ -3390,6 +3386,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/junior-analyst-corporate-finance-deals-at-kobalt-music-4490503593": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 26
+  },
+  "https://www.linkedin.com/jobs/view/commercial-planning-forecasting-accountant-at-hargreaves-land-4489283547": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-handle-recruitment-4489294382": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/investment-banking-analyst-consumer-retail-citi/57563014": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
   }
  }
 }

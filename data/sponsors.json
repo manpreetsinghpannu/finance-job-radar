@@ -1072,6 +1072,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Hargreaves Land": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Hargreaves Lansdown": {
    "licensed": true,
    "register_name": "Hargreaves Lansdown Limited",
@@ -1351,6 +1356,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Kobalt Music": {
+   "licensed": true,
+   "register_name": "Kobalt Music Group Limited",
+   "match": "exact"
   },
   "Kroll": {
    "licensed": true,
