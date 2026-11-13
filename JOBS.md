@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 13 Nov, 03:11** (UK time) · **640 open roles** at 358 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 13 Nov, 03:46** (UK time) · **640 open roles** at 358 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 13 Nov, 03:08** · hourly scan · checked 200 boards · **3 new roles**
+**Fri 13 Nov, 03:42** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-13 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-mint-velvet-4479738824) | Mint Velvet | High Wycombe, England, United Kingdom | ❔ |
-| 2026-11-13 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-djh-4488593304) | DJH | Stoke-On-Trent, England, United Kingdom | ❔ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-13 | [Allianz Finance Graduate Scheme 2027](https://www.linkedin.com/jobs/view/allianz-finance-graduate-scheme-2027-at-targetjobs-uk-4489524353) | targetjobs UK | Guildford, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Fri 13 Nov, 03:08** (3: Finance 2 · Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -69,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 13 November
+
+<sub>Nothing new at: 03:42</sub>
 
 <details>
 <summary><b>03:08</b> · hourly scan · <b>3 new</b> → Finance 2 · Other 1</summary>
@@ -2352,7 +2343,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 04:29, 03:30</sub>
+<sub>Nothing new at: 04:29</sub>
 
 ## All open roles by CV
 
