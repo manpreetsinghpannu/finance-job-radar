@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 13 Nov, 20:12** (UK time) · **689 open roles** at 391 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 13 Nov, 21:13** (UK time) · **689 open roles** at 391 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 13 Nov, 20:09** · hourly scan · checked 200 boards · **1 new role**
+**Fri 13 Nov, 21:08** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-13 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-hologic-inc-4481381921) | Hologic, Inc. | Manchester, England, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Fri 13 Nov, 20:09** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 13 November
+
+<sub>Nothing new at: 21:08</sub>
 
 <details>
 <summary><b>20:09</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2586,7 +2584,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Friday 6 November
 
-<sub>Nothing new at: 23:09, 22:10, 21:54, 21:10, 20:16</sub>
+<sub>Nothing new at: 23:09, 22:10, 21:54</sub>
 
 ## All open roles by CV
 
@@ -3324,7 +3322,7 @@ Everything matched so far, newest first within each CV: [Finance (371)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>60 roles taken off the list because the firm closed the posting</summary>
+<summary>59 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3387,6 +3385,5 @@ Everything matched so far, newest first within each CV: [Finance (371)](#finance
 | Sun 8 Nov, 01:33 | Finance Business Partner | Lloyd's of London |
 | Sat 7 Nov, 01:10 | Management Accountant | Howden |
 | Sat 7 Nov, 00:20 | Private Companies Valuations Analyst | Baillie Gifford |
-| Fri 6 Nov, 20:16 | Global Transaction Banking Graduate Programme 2027 London | Barclays |
 
 </details>
