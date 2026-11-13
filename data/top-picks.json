@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T04:11:00.621Z",
+ "generated_at": "2026-11-13T05:10:04.885Z",
  "order": [
   "finance",
   "credit",
@@ -1526,11 +1526,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
-  },
-  "https://www.linkedin.com/jobs/view/commercial-strategy-analyst-at-lottie-4485870822": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 17
   },
   "https://www.linkedin.com/jobs/view/reinsurance-protection-assistant-accountant-at-standard-life-plc-4488408328": {
    "id": "finance",

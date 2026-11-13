@@ -1,13 +1,22 @@
 {
-  "finished_at": "2026-11-13T04:11:01.224Z",
+  "finished_at": "2026-11-13T05:10:05.655Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 34666,
-  "filtered_out": 34626,
-  "new_matches": 1,
-  "boards_failed": 0,
-  "failed": []
+  "postings_seen": 34357,
+  "filtered_out": 34317,
+  "new_matches": 0,
+  "boards_failed": 2,
+  "failed": [
+    {
+      "company": "XTX Markets",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "DRW",
+      "error": "This operation was aborted"
+    }
+  ]
 }
