@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 12 Nov, 23:12** (UK time) · **632 open roles** at 355 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 13 Nov, 00:12** (UK time) · **634 open roles** at 356 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 12 Nov, 23:08** · hourly scan · checked 200 boards · **0 new roles**
+**Fri 13 Nov, 00:08** · hourly scan · checked 200 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Thu 12 Nov, 22:08** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Commercial Analyst](https://www.reed.co.uk/jobs/commercial-analyst/57562782) | Keeler Recruitment | Norwich, Norfolk | ❔ |
+
+### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Junior Investment Analyst- Python](https://www.reed.co.uk/jobs/junior-investment-analyst-python/57562977) | eFinancialCareers | London | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (131 matching)
+**Finance (FP&A) CV** (129 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -33,7 +43,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Bloomberg Intelligence European Quantitative Equity Research Strategist](https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859) · Bloomberg · London, England, United Kingdom · posted 2026-11-10 · ✅
 
-**Investment (IB / PE) CV** (49 matching)
+**Investment (IB / PE) CV** (48 matching)
 
 1. [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-06 · ✅
 2. [Junior Analyst, Corporate Finance (Deals)](https://www.linkedin.com/jobs/view/junior-analyst-corporate-finance-deals-at-kobalt-music-4490503593) · Kobalt Music · London, England, United Kingdom · posted 2026-11-12 · ✅
@@ -56,6 +66,25 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Friday 13 November
+
+<details>
+<summary><b>00:08</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Commercial Analyst](https://www.reed.co.uk/jobs/commercial-analyst/57562782) | Keeler Recruitment | Norwich, Norfolk | ❔ |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Junior Investment Analyst- Python](https://www.reed.co.uk/jobs/junior-investment-analyst-python/57562977) | eFinancialCareers | London | ✅ |
+
+</details>
 
 ### Thursday 12 November
 
@@ -2283,9 +2312,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (334)](#finance-fpa-cv-334) · [Credit (80)](#credit-cv-80) · [Equity (30)](#equity-cv-30) · [Investment (61)](#investment-ib--pe-cv-61) · [Consulting (14)](#consulting-cv-14) · [Real Estate (11)](#real-estate-cv-11) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (87)](#other-fits-no-cv-closely-may-still-be-worth-a-look-87)
+Everything matched so far, newest first within each CV: [Finance (335)](#finance-fpa-cv-335) · [Credit (80)](#credit-cv-80) · [Equity (31)](#equity-cv-31) · [Investment (61)](#investment-ib--pe-cv-61) · [Consulting (14)](#consulting-cv-14) · [Real Estate (11)](#real-estate-cv-11) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (87)](#other-fits-no-cv-closely-may-still-be-worth-a-look-87)
 
-### Finance (FP&A) CV: 334
+### Finance (FP&A) CV: 335
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2315,6 +2344,7 @@ Everything matched so far, newest first within each CV: [Finance (334)](#finance
 | 2026-11-12 | [Graduate Finance Accountant - Investment Startup](https://www.linkedin.com/jobs/view/graduate-finance-accountant-investment-startup-at-carousel-consultancy-ltd-4489091999) | Carousel Consultancy Ltd | London Area, United Kingdom | ❔ |
 | 2026-11-12 | [Commercial & Investment Bank GF&BM – Global Commodities Group – Product Control – Associate – London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210767645) | JPMorgan Chase | LONDON, United Kingdom | ✅ |
 | 2026-11-12 | [Reporting Accountant](https://www.s1jobs.com/job/reporting-accountant-127738623) | Right People Recruitment Solutions | Aberdeen Area, Scotland | ❔ |
+| 2026-11-12 | [Commercial Analyst](https://www.reed.co.uk/jobs/commercial-analyst/57562782) | Keeler Recruitment | Norwich, Norfolk | ❔ |
 | 2026-11-12 | [Accountant - Convenience - Ambient](https://www.linkedin.com/jobs/view/accountant-convenience-ambient-at-morrisons-4479432493) | Morrisons | Bradford, England, United Kingdom | ✅ |
 | 2026-11-12 | [Technical Accountant](https://www.s1jobs.com/job/technical-accountant-127741216) | Harvey Nash | Glasgow Area, Scotland | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57563319) | Morgan Hunt Recruitment | East London, London | ❔ |
@@ -2709,11 +2739,12 @@ Everything matched so far, newest first within each CV: [Finance (334)](#finance
 | 2026-10-20 | [Market Risk (Product) Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/London-UK/Market-Risk--Product--Analyst_329916) | S&P Global | London, UK | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 30
+### Equity CV: 31
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-12 | [Equity Capital Markets, Analyst](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/Equity-Capital-Markets--Analyst_10079971-WD-1) | MUFG | London | ✅ |
+| 2026-11-12 | [Junior Investment Analyst- Python](https://www.reed.co.uk/jobs/junior-investment-analyst-python/57562977) | eFinancialCareers | London | ✅ |
 | 2026-11-12 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-aj-bell-4488524219) | AJ Bell | Manchester, England, United Kingdom | ✅ |
 | — | [Portfolio Analyst , Portfolio Implementation & Trade Execution , IAD , Wealth Management - JJ Search](https://www.reed.co.uk/jobs/portfolio-analyst--portfolio-implementation-trade-execution--iad--wealth-management-jj-search/57564151) | eFinancialCareers | London | ✅ |
 | 2026-11-11 | [Investment Analyst - French speaker](https://www.linkedin.com/jobs/view/investment-analyst-french-speaker-at-bruin-4488673919) | Bruin | London, England, United Kingdom | ❔ |

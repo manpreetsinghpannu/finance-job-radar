@@ -969,5 +969,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-handle-recruitment-4489294382 | Handle Recruitment | Management Accountant | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/investment-banking-analyst-consumer-retail-citi/57563014 | eFinancialCareers | Investment Banking Analyst, Consumer & Retail - Citi | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57555063 | Harper May Ltd | Management Accountant | City of London, London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/commercial-analyst/57562782 | Keeler Recruitment | Commercial Analyst | Norwich, Norfolk | posted: 2026-11-12 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/junior-investment-analyst-python/57562977 | eFinancialCareers | Junior Investment Analyst- Python | London | posted: 2026-11-12 | note: via Reed
 
 ## Processed
