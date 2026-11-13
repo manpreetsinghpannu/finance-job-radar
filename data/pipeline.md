@@ -976,5 +976,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.ey.com/ey/job/Barcelona-Consultora-Asesoramiento-Financiero-Corporate-Treasury-08017/1382166733/ | EY | Consultor/a Asesoramiento Financiero - Corporate Treasury
 - [ ] https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/ | EY | Finance Transformation - Associate/Senior Associate, Business Consulting - Finance
 - [ ] https://www.linkedin.com/jobs/view/corporate-graduate-programme-2027-%E2%80%93-etf-capital-markets-product-at-targetjobs-uk-4489524244 | targetjobs UK | Corporate Graduate Programme 2027 – ETF Capital Markets & Product | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-djh-4488593304 | DJH | FP&A Analyst | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-mint-velvet-4479738824 | Mint Velvet | Commercial Finance Analyst | High Wycombe, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/allianz-finance-graduate-scheme-2027-at-targetjobs-uk-4489524353 | targetjobs UK | Allianz Finance Graduate Scheme 2027 | Guildford, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed

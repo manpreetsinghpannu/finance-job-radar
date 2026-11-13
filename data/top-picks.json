@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T02:11:00.517Z",
+ "generated_at": "2026-11-13T03:11:36.112Z",
  "order": [
   "finance",
   "credit",
@@ -3431,6 +3431,21 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-djh-4488593304": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-mint-velvet-4479738824": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/allianz-finance-graduate-scheme-2027-at-targetjobs-uk-4489524353": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
