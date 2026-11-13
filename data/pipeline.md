@@ -1022,5 +1022,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-vitae-financial-recruitment-4488945632 | Vitae Financial Recruitment | Management Accountant | Hemel Hempstead, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952 | eFinancialCareers | Investment Banking Analyst, M&A - Citi | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57567164 | Vitae Financial Recruitment Limited | Management Accountant | Hemel Hempstead, Hertfordshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/graduate-financial-analyst/57567346 | Hays Specialist Recruitment Limited | Graduate Financial Analyst | London | note: via Reed
 
 ## Processed

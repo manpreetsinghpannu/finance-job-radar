@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T16:12:46.185Z",
+ "generated_at": "2026-11-13T16:34:07.141Z",
  "order": [
   "finance",
   "credit",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 21,
+   "matching": 20,
    "picks": [
     {
      "title": "Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory",
@@ -832,11 +832,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/gas-power-market-risk-analyst-at-marlin-selection-recruitment-4488166725": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 15
   },
   "https://www.linkedin.com/jobs/view/l-s-investment-analyst-at-alexander-chapman-4488161713": {
    "id": "equity",
@@ -1852,11 +1847,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
-  },
-  "https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/London/Valuations-Assistant-Manager---Real-Estate-Valuations_R20686": {
-   "id": "real_estate",
-   "cv": "Real Estate CV",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247": {
    "id": "finance",
@@ -3622,6 +3612,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://www.reed.co.uk/jobs/graduate-financial-analyst/57567346": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
   }
  }
 }
