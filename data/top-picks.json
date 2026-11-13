@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T08:21:15.440Z",
+ "generated_at": "2026-11-13T09:11:50.474Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 56,
+   "matching": 57,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -73,15 +73,15 @@
      "sponsor": true
     },
     {
-     "title": "Credit Risk Underwriter - Structured Lending",
-     "company": "Morgan McKinley",
+     "title": "Credit Risk Analyst",
+     "company": "Brook Green Supply",
      "location": "London Area, United Kingdom",
-     "posted": "2026-11-06",
-     "url": "https://www.linkedin.com/jobs/view/credit-risk-underwriter-structured-lending-at-morgan-mckinley-4486985902",
+     "posted": "2026-11-13",
+     "url": "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817",
      "score": 26,
      "why": [
       "Credit Risk",
-      "Lending"
+      "Risk Analyst"
      ],
      "sponsor": true
     }
@@ -3451,6 +3451,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 26
   }
  }
 }

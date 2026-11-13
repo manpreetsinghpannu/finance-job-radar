@@ -981,5 +981,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/allianz-finance-graduate-scheme-2027-at-targetjobs-uk-4489524353 | targetjobs UK | Allianz Finance Graduate Scheme 2027 | Guildford, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-associate-%E2%80%93-mid-cap-private-equity-fund-at-sjc-partners-4489099539 | SJC Partners | Investment Associate – Mid-Cap Private Equity Fund | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/temporary-assistant-accountant-2/ | via ScotJobsNet | Temporary Assistant Accountant | West Lothian, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817 | Brook Green Supply | Credit Risk Analyst | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed

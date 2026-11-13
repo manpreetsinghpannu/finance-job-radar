@@ -432,6 +432,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Brook Green Supply": {
+   "licensed": true,
+   "register_name": "Brook Green Supply Limited",
+   "match": "exact"
+  },
   "Broster Buchanan": {
    "licensed": false,
    "register_name": null,
