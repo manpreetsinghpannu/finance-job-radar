@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 13 Nov, 00:12** (UK time) · **634 open roles** at 356 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 13 Nov, 00:32** (UK time) · **635 open roles** at 357 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 13 Nov, 00:08** · hourly scan · checked 200 boards · **2 new roles**
+**Fri 13 Nov, 00:29** · hourly scan · checked 200 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-12 | [Commercial Analyst](https://www.reed.co.uk/jobs/commercial-analyst/57562782) | Keeler Recruitment | Norwich, Norfolk | ❔ |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Junior Investment Analyst- Python](https://www.reed.co.uk/jobs/junior-investment-analyst-python/57562977) | eFinancialCareers | London | ✅ |
+| 2026-11-12 | [Finance Business Partner Analyst](https://www.linkedin.com/jobs/view/finance-business-partner-analyst-at-malvern-panalytical-4489510214) | Malvern Panalytical | Great Malvern, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (129 matching)
+**Finance (FP&A) CV** (130 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 13 November
+
+<details>
+<summary><b>00:29</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Finance Business Partner Analyst](https://www.linkedin.com/jobs/view/finance-business-partner-analyst-at-malvern-panalytical-4489510214) | Malvern Panalytical | Great Malvern, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>00:08</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
@@ -2312,9 +2317,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (335)](#finance-fpa-cv-335) · [Credit (80)](#credit-cv-80) · [Equity (31)](#equity-cv-31) · [Investment (61)](#investment-ib--pe-cv-61) · [Consulting (14)](#consulting-cv-14) · [Real Estate (11)](#real-estate-cv-11) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (87)](#other-fits-no-cv-closely-may-still-be-worth-a-look-87)
+Everything matched so far, newest first within each CV: [Finance (336)](#finance-fpa-cv-336) · [Credit (80)](#credit-cv-80) · [Equity (31)](#equity-cv-31) · [Investment (61)](#investment-ib--pe-cv-61) · [Consulting (14)](#consulting-cv-14) · [Real Estate (11)](#real-estate-cv-11) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (87)](#other-fits-no-cv-closely-may-still-be-worth-a-look-87)
 
-### Finance (FP&A) CV: 335
+### Finance (FP&A) CV: 336
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2324,6 +2329,7 @@ Everything matched so far, newest first within each CV: [Finance (335)](#finance
 | — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57564013) | Mitchell Adam | Birmingham, West Midlands (County) | ❔ |
 | 2026-11-12 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-london-borough-of-havering-4490308858) | London Borough of Havering | London, England, United Kingdom | ✅ |
 | 2026-11-12 | [Finance (FP&A) Analyst - 12 month fixed-term contract](https://www.linkedin.com/jobs/view/finance-fp-a-analyst-12-month-fixed-term-contract-at-capital-one-4482153426) | Capital One | Nottingham, England, United Kingdom | ✅ |
+| 2026-11-12 | [Finance Business Partner Analyst](https://www.linkedin.com/jobs/view/finance-business-partner-analyst-at-malvern-panalytical-4489510214) | Malvern Panalytical | Great Malvern, England, United Kingdom | ✅ |
 | 2026-11-12 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-cms-uk-4482137543) | CMS UK | Greater London, England, United Kingdom | ❔ |
 | — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57561021) | Ambition Europe Limited | London | ✅ |
 | 2026-11-12 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-novuna-4481120231) | Novuna | Newbury, England, United Kingdom | ❔ |

@@ -1552,6 +1552,11 @@
    "register_name": "Malaberg Ltd",
    "match": "exact"
   },
+  "Malvern Panalytical": {
+   "licensed": true,
+   "register_name": "Malvern Panalytical Limited",
+   "match": "exact"
+  },
   "Man Group": {
    "licensed": true,
    "register_name": "MAN CORPORATION LIMITED",
