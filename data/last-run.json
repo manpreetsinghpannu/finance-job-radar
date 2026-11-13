@@ -1,18 +1,13 @@
 {
-  "finished_at": "2026-11-13T07:12:34.222Z",
+  "finished_at": "2026-11-13T08:08:34.735Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 29636,
-  "filtered_out": 29598,
-  "new_matches": 1,
-  "boards_failed": 1,
-  "failed": [
-    {
-      "company": "JPMorgan Chase",
-      "error": "This operation was aborted"
-    }
-  ]
+  "postings_seen": 34622,
+  "filtered_out": 34582,
+  "new_matches": 0,
+  "boards_failed": 0,
+  "failed": []
 }
