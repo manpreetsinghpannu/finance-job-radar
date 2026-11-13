@@ -1,18 +1,13 @@
 {
-  "finished_at": "2026-11-13T21:13:24.629Z",
+  "finished_at": "2026-11-13T22:11:55.464Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 35432,
-  "filtered_out": 35386,
+  "postings_seen": 35479,
+  "filtered_out": 35433,
   "new_matches": 0,
-  "boards_failed": 1,
-  "failed": [
-    {
-      "company": "Quadrature Capital",
-      "error": "This operation was aborted"
-    }
-  ]
+  "boards_failed": 0,
+  "failed": []
 }
