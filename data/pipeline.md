@@ -991,4 +991,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/interim-fp-a-analyst/57565056 | Hays Specialist Recruitment Limited | Interim FP&A Analyst | Liverpool, Merseyside | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/finance-analyst/57565536 | Atkinson Moss | Finance Analyst | Norwich, Norfolk | note: via Reed
 
+- [ ] https://lbg.wd3.myworkdayjobs.com/lbg_careers/job/Leeds/Finance-Analyst_165558-3 | Lloyds Banking Group | Finance Analyst | Leeds | posted: 2026-11-13
+- [ ] https://www.reed.co.uk/jobs/financial-accountant/57552093 | Michael Page Finance | Financial Accountant | Oxford, Oxfordshire | note: via Reed
+
 ## Processed
