@@ -1,13 +1,74 @@
 {
-  "finished_at": "2026-11-13T22:11:55.464Z",
+  "finished_at": "2026-11-13T22:47:14.382Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 35479,
-  "filtered_out": 35433,
+  "postings_seen": 32973,
+  "filtered_out": 32932,
   "new_matches": 0,
-  "boards_failed": 0,
-  "failed": []
+  "boards_failed": 15,
+  "failed": [
+    {
+      "company": "Vanguard",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "T. Rowe Price",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Wellington Management",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Wellington Management (Campus)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Dimensional Fund Advisors",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "S&P Global",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Simply Business",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Universal Music UK",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Citi",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Berkeley Research Group",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Royal London",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "ICF",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "BT Group",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Reckitt",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "EY",
+      "error": "HTTP 404 Not Found"
+    }
+  ]
 }
