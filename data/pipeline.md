@@ -1024,4 +1024,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57567164 | Vitae Financial Recruitment Limited | Management Accountant | Hemel Hempstead, Hertfordshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/graduate-financial-analyst/57567346 | Hays Specialist Recruitment Limited | Graduate Financial Analyst | London | note: via Reed
 
+- [ ] https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400098226 | Sainsbury's | Financial Accountant - Gross Margin Accounting | London, London, United Kingdom | posted: 2026-11-13
+- [ ] https://www.s1jobs.com/job/associate-quantity-surveyor-127746797 | Conrad Consulting | Associate Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-13 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127746796 | Conrad Consulting | Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-13 | note: via S1Jobs
+
 ## Processed

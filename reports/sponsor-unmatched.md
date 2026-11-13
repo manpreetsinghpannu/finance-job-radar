@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 604 firms checked, 362 matched, 242 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 605 firms checked, 362 matched, 243 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (242)
+## Not found (243)
 
 - 93 MGMT
 - ACL Partners
@@ -62,6 +62,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Cobalt Recruitment
 - Coinbase
 - Connect Recruitment Consultants Ltd.
+- Conrad Consulting
 - Consumer Additions and Consumer Exec
 - Cooper Parry Finance Recruitment
 - Core3
