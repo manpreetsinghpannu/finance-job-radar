@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 13 Nov, 18:55** (UK time) · **689 open roles** at 391 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 13 Nov, 19:09** (UK time) · **689 open roles** at 391 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 13 Nov, 18:52** · hourly scan · checked 200 boards · **3 new roles**
+**Fri 13 Nov, 19:08** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-13 | [Junior Financial Analyst](https://www.linkedin.com/jobs/view/junior-financial-analyst-at-the-citco-group-limited-4488970190) | The Citco Group Limited | London, England, United Kingdom | ✅ |
-| 2026-11-13 | [Interim Project Accountant (12 months)](https://scotjobsnet.co.uk/job/interim-project-accountant-12-months/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-13 | [Risk Analyst](https://scotjobsnet.co.uk/job/risk-analyst/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
+Nothing new this time. The last scan that found something was **Fri 13 Nov, 18:52** (3: Finance 2 · Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -69,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 13 November
+
+<sub>Nothing new at: 19:08</sub>
 
 <details>
 <summary><b>18:52</b> · hourly scan · <b>3 new</b> → Finance 2 · Credit 1</summary>
