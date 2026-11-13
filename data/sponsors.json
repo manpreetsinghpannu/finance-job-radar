@@ -1222,6 +1222,11 @@
    "register_name": "Holland & Barrett Retail Limited",
    "match": "prefix"
   },
+  "Hologic, Inc.": {
+   "licensed": true,
+   "register_name": "Hologic Ltd",
+   "match": "exact"
+  },
   "Hoop Recruitment": {
    "licensed": false,
    "register_name": null,
