@@ -1040,5 +1040,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-capital-analyst-at-trafigura-4488961130 | Trafigura | Treasury Capital Analyst | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/fp-a-analyst-treasury/57567724 | INGRAM MICRO (UK) LIMITED | FP&A Analyst - Treasury | Milton Keynes, Buckinghamshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/investment-operations-analyst/57567722 | AJ Bell | Investment Operations Analyst | Salford, Lancashire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/junior-financial-analyst-at-the-citco-group-limited-4488970190 | The Citco Group Limited | Junior Financial Analyst | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/risk-analyst/ | via ScotJobsNet | Risk Analyst | Glasgow, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/interim-project-accountant-12-months/ | via ScotJobsNet | Interim Project Accountant (12 months) | Glasgow, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
 
 ## Processed

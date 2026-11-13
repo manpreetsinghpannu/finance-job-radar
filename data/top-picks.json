@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T18:11:46.504Z",
+ "generated_at": "2026-11-13T18:55:02.700Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 147,
+   "matching": 148,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -2468,11 +2468,6 @@
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 19
   },
-  "https://www.linkedin.com/jobs/view/prudential-risk-associate-icaap-ilaap-liquidity-risk-banking-at-jj-search-limited-4488367698": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-systematic-equities-at-octavius-finance-4488376412": {
    "id": "equity",
    "cv": "Equity CV",
@@ -3273,11 +3268,6 @@
    "cv": "Credit CV",
    "score": 22
   },
-  "https://www.linkedin.com/jobs/view/credit-analyst-real-estate-corporate-banking-at-rothstein-recruitment-4490364588": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 23
-  },
   "https://www.linkedin.com/jobs/view/graduate-credit-risk-analyst-at-radius-4490370202": {
    "id": "credit",
    "cv": "Credit CV",
@@ -3687,6 +3677,21 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/junior-financial-analyst-at-the-citco-group-limited-4488970190": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://scotjobsnet.co.uk/job/risk-analyst/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://scotjobsnet.co.uk/job/interim-project-accountant-12-months/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

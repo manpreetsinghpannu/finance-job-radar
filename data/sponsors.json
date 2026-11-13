@@ -2712,6 +2712,11 @@
    "register_name": "Teya Europe Ltd",
    "match": "exact"
   },
+  "The Citco Group Limited": {
+   "licensed": true,
+   "register_name": "Citco London Ltd",
+   "match": "exact"
+  },
   "The Consultancy Group": {
    "licensed": true,
    "register_name": "The Consultancy Group",
