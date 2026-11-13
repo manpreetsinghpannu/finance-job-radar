@@ -7,6 +7,11 @@
    "register_name": "10X Banking Technology Services Ltd",
    "match": "alias"
   },
+  "2 Sisters Food Group": {
+   "licensed": true,
+   "register_name": "2 Sisters Food Group Limited",
+   "match": "exact"
+  },
   "93 MGMT": {
    "licensed": false,
    "register_name": null,
@@ -196,6 +201,11 @@
    "licensed": true,
    "register_name": "Arcadis LLP",
    "match": "exact"
+  },
+  "Arcana": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Archer": {
    "licensed": true,
@@ -591,6 +601,11 @@
    "licensed": true,
    "register_name": "Centrica plc",
    "match": "alias"
+  },
+  "Charles Hurst Group Ltd": {
+   "licensed": true,
+   "register_name": "Charles Hurst Limited",
+   "match": "exact"
   },
   "Checkatrade": {
    "licensed": false,
@@ -2116,6 +2131,11 @@
    "licensed": true,
    "register_name": "Point72 UK Limited",
    "match": "alias"
+  },
+  "Premier Foods": {
+   "licensed": true,
+   "register_name": "Premier Foods",
+   "match": "exact"
   },
   "Primer": {
    "licensed": true,

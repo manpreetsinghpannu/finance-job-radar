@@ -999,4 +999,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-risk-analyst-1lod-performance-risk-investment-management-at-rothstein-recruitment-4490502333 | Rothstein Recruitment | Investment Risk Analyst - 1LOD - Performance Risk - Investment Management | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/industrials-investment-banking-associate-m-a-tier-1-us-investment-bank-at-linear-partners-4488539034 | Linear Partners | Industrials Investment Banking - Associate (M&A) - Tier 1 US Investment Bank | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://jobs.lever.co/octoenergy/9419f561-6d06-4b1b-8d53-1be03cd9f2f4 | Octopus Energy | Junior Management Accountant (12 month FTC) | London (GB) | posted: 2026-11-13
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809195 | JPMorgan Chase | Investment Banking - EMEA Diversified Industries - Analyst - London | LONDON, LONDON, United Kingdom | posted: 2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-premier-foods-4472770244 | Premier Foods | Credit Risk Analyst | Manchester, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-growth-equity-at-acl-partners-4490715959 | ACL Partners | Investment Analyst | Growth Equity | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-analytics-specialist-at-arcana-4489575520 | Arcana | Portfolio Analytics Specialist | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-equity-associate-healthcare-life-sciences-at-brock-decker-4490727374 | Brock & Decker | Private Equity Associate - Healthcare & Life Sciences | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-2-sisters-food-group-4489580102 | 2 Sisters Food Group | Management Accountant | Newport, Wales, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/divisional-accountant-at-charles-hurst-group-ltd-4463037501 | Charles Hurst Group Ltd | Divisional Accountant | Belfast, Northern Ireland, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+
 ## Processed

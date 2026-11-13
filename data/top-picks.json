@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T13:11:52.529Z",
+ "generated_at": "2026-11-13T14:13:06.654Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 134,
+   "matching": 137,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 57,
+   "matching": 58,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 49,
+   "matching": 50,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -3522,6 +3522,41 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 26
+  },
+  "https://jobs.lever.co/octoenergy/9419f561-6d06-4b1b-8d53-1be03cd9f2f4": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809195": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-premier-foods-4472770244": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 25
+  },
+  "https://www.linkedin.com/jobs/view/portfolio-analytics-specialist-at-arcana-4489575520": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 3
+  },
+  "https://www.linkedin.com/jobs/view/private-equity-associate-healthcare-life-sciences-at-brock-decker-4490727374": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-2-sisters-food-group-4489580102": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/divisional-accountant-at-charles-hurst-group-ltd-4463037501": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
   }
  }
 }
