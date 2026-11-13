@@ -985,5 +985,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/payments-risk-analyst-at-lightspeed-commerce-4480043713 | Lightspeed Commerce | Payments Risk Analyst | Belfast, Northern Ireland, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-agora-talent-4488576608 | Agora Talent | Investment Banking Analyst | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/group-management-accountant-at-kennedy-pearce-consulting-4488907790 | Kennedy Pearce Consulting | Group Management Accountant | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-ivee-4488913568 | ivee | Financial Analyst | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/project-financial-analyst-at-nbcuniversal-4490597374 | NBCUniversal | Project Financial Analyst | Bedford, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-keepmoat-4489548992 | Keepmoat | Management Accountant | Birmingham, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/interim-fp-a-analyst/57565056 | Hays Specialist Recruitment Limited | Interim FP&A Analyst | Liverpool, Merseyside | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57565536 | Atkinson Moss | Finance Analyst | Norwich, Norfolk | note: via Reed
 
 ## Processed
