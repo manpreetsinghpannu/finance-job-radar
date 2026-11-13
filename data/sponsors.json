@@ -2277,6 +2277,11 @@
    "register_name": null,
    "match": "none"
   },
+  "SJC Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "SMBC": {
    "licensed": true,
    "register_name": "SMBC Bank International plc",

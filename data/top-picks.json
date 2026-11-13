@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T03:46:34.745Z",
+ "generated_at": "2026-11-13T04:11:00.621Z",
  "order": [
   "finance",
   "credit",
@@ -3446,6 +3446,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/investment-associate-%E2%80%93-mid-cap-private-equity-fund-at-sjc-partners-4489099539": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 20
   }
  }
 }

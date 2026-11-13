@@ -979,5 +979,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-djh-4488593304 | DJH | FP&A Analyst | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-mint-velvet-4479738824 | Mint Velvet | Commercial Finance Analyst | High Wycombe, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/allianz-finance-graduate-scheme-2027-at-targetjobs-uk-4489524353 | targetjobs UK | Allianz Finance Graduate Scheme 2027 | Guildford, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-%E2%80%93-mid-cap-private-equity-fund-at-sjc-partners-4489099539 | SJC Partners | Investment Associate – Mid-Cap Private Equity Fund | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 
 ## Processed
