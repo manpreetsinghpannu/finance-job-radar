@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T09:11:50.474Z",
+ "generated_at": "2026-11-13T10:11:33.175Z",
  "order": [
   "finance",
   "credit",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 48,
+   "matching": 49,
    "picks": [
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
@@ -3456,6 +3456,21 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 26
+  },
+  "https://www.linkedin.com/jobs/view/payments-risk-analyst-at-lightspeed-commerce-4480043713": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-agora-talent-4488576608": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/group-management-accountant-at-kennedy-pearce-consulting-4488907790": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
   }
  }
 }

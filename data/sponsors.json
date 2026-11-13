@@ -112,6 +112,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Agora Talent": {
+   "licensed": true,
+   "register_name": "Agora Talent Limited",
+   "match": "exact"
+  },
   "Airwallex": {
    "licensed": true,
    "register_name": "Airwallex (UK) Limited",
@@ -1463,6 +1468,11 @@
    "match": "prefix"
   },
   "Lightsource bp": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Lightspeed Commerce": {
    "licensed": false,
    "register_name": null,
    "match": "none"
