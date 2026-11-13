@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T14:13:06.654Z",
+ "generated_at": "2026-11-13T15:11:48.289Z",
  "order": [
   "finance",
   "credit",
@@ -2118,11 +2118,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 17
   },
-  "https://www.linkedin.com/jobs/view/investment-associate-healthcare-life-sciences-at-brock-decker-4487729523": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 8
-  },
   "https://www.reed.co.uk/jobs/growth-equity-investment-associate-efinancialcareers/57546014": {
    "id": "equity",
    "cv": "Equity CV",
@@ -2497,11 +2492,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 20
-  },
-  "https://www.linkedin.com/jobs/view/corporate-finance-associate-biotech-at-brock-decker-4489496335": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/fund-accountant-at-hays-4488367652": {
    "id": "fund",
@@ -3557,6 +3547,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-m-a-fig-analyst-entry-level-at-selby-jennings-4490734348": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 29
+  },
+  "https://scotjobsnet.co.uk/job/finance-business-partner-hybrid-flexible-hours-impact/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://scotjobsnet.co.uk/job/financial-accountant-month-end-vat-capital/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://scotjobsnet.co.uk/job/strategic-projects-management-accountant-hybrid/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://scotjobsnet.co.uk/job/accountant-gl-vat-intercompany-edinburgh-2/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

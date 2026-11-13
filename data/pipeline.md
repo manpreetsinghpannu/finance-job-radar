@@ -1007,5 +1007,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/private-equity-associate-healthcare-life-sciences-at-brock-decker-4490727374 | Brock & Decker | Private Equity Associate - Healthcare & Life Sciences | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-2-sisters-food-group-4489580102 | 2 Sisters Food Group | Management Accountant | Newport, Wales, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/divisional-accountant-at-charles-hurst-group-ltd-4463037501 | Charles Hurst Group Ltd | Divisional Accountant | Belfast, Northern Ireland, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-m-a-fig-analyst-entry-level-at-selby-jennings-4490734348 | Selby Jennings | Investment Banking M&A FIG Analyst - Entry-Level | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/finance-business-partner-hybrid-flexible-hours-impact/ | via ScotJobsNet | Finance Business Partner – Hybrid, Flexible Hours, Impact | Glasgow, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/financial-accountant-month-end-vat-capital/ | via ScotJobsNet | Financial Accountant – Month-End, VAT & Capital | Dunbartonshire, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/strategic-projects-management-accountant-hybrid/ | via ScotJobsNet | Strategic Projects Management Accountant (Hybrid) | Lanarkshire, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/accountant-gl-vat-intercompany-edinburgh-2/ | via ScotJobsNet | Accountant – GL, VAT & Intercompany Edinburgh | Midlothian, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
 
 ## Processed
