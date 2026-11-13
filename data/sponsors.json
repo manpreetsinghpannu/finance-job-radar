@@ -602,6 +602,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Carter Jonas": {
+   "licensed": true,
+   "register_name": "Carter Jonas Service Company",
+   "match": "prefix"
+  },
   "Carwow": {
    "licensed": true,
    "register_name": "carwow Ltd.",
@@ -1267,6 +1272,11 @@
    "register_name": "ING Services Limited",
    "match": "exact"
   },
+  "INGRAM MICRO (UK) LIMITED": {
+   "licensed": true,
+   "register_name": "Ingram Micro (UK) Ltd",
+   "match": "exact"
+  },
   "IPS Group": {
    "licensed": true,
    "register_name": "IPS (Aberdeen) Ltd",
@@ -1682,6 +1692,11 @@
    "register_name": "Marshmallow Technology Ltd",
    "match": "alias"
   },
+  "Martis Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Mastercard": {
    "licensed": true,
    "register_name": "Mastercard UK Management Services LTD",
@@ -1892,6 +1907,11 @@
    "register_name": "Natixis Investment Managers UK LImited",
    "match": "exact"
   },
+  "Network Rail": {
+   "licensed": true,
+   "register_name": "Network Rail Infrastructure",
+   "match": "prefix"
+  },
   "New Avenues": {
    "licensed": false,
    "register_name": null,
@@ -2056,6 +2076,11 @@
    "licensed": true,
    "register_name": "Pantheon Partners Limited",
    "match": "prefix"
+  },
+  "Partners Group": {
+   "licensed": true,
+   "register_name": "Partners Group (UK) Ltd.",
+   "match": "exact"
   },
   "Pave Bank": {
    "licensed": false,
@@ -2737,6 +2762,11 @@
    "register_name": "Tower Research Capital Europe Limited",
    "match": "alias"
   },
+  "Tower Transit Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Trace": {
    "licensed": true,
    "register_name": "Trace Group Limited",
@@ -2746,6 +2776,11 @@
    "licensed": true,
    "register_name": "Trading 212 UK Ltd",
    "match": "alias"
+  },
+  "Trafigura": {
+   "licensed": true,
+   "register_name": "Trafigura",
+   "match": "exact"
   },
   "Trainline": {
    "licensed": false,

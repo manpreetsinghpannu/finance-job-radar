@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 605 firms checked, 362 matched, 243 not found.
+Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 612 firms checked, 367 matched, 245 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (243)
+## Not found (245)
 
 - 93 MGMT
 - ACL Partners
@@ -148,6 +148,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - ManpowerGroup Talent Solutions
 - Marks Sattin
 - Marlin Selection Recruitment
+- Martis Search
 - Matched Group
 - McGinnis Loy Associates Ltd
 - Meraki Talent Limited
@@ -224,6 +225,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - ThinkMarkets
 - Thrive Childcare and Education
 - Thunes
+- Tower Transit Group
 - Trainline
 - TransUnion
 - UCEA - Family Office Group
@@ -250,11 +252,12 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (34)
+## Matched automatically by close name; worth a glance (36)
 
 - Alfa AI → Alfa Energy Limited (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
+- Carter Jonas → Carter Jonas Service Company (prefix)
 - Cedar → Cedar Capital Partners Ltd (prefix)
 - Cobalt → Cobalt Labs UK Limited (prefix)
 - Duco → Duco Technology Limited (prefix)
@@ -271,6 +274,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ledger → Ledger Technologies UK LTD (prefix)
 - Lightfoot → Lightfoot Advisors (prefix)
 - Michael Page → Michael Page International Recruitment Ltd (prefix)
+- Network Rail → Network Rail Infrastructure (prefix)
 - Nium → Nium Fintech Ltd (prefix)
 - Octopus Group → Octopus Energy Limited (prefix)
 - Ohme → Ohme Operations UK Limited (prefix)

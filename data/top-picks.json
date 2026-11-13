@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T17:11:33.804Z",
+ "generated_at": "2026-11-13T18:11:46.504Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 141,
+   "matching": 147,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 60,
+   "matching": 62,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 20,
+   "matching": 21,
    "picks": [
     {
      "title": "Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory",
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 19,
+   "matching": 21,
    "picks": [
     {
      "title": "Fund Accounting Analyst",
@@ -3493,11 +3493,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 21
   },
-  "https://www.linkedin.com/jobs/view/investment-risk-analyst-1lod-performance-risk-investment-management-at-rothstein-recruitment-4490502333": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/industrials-investment-banking-associate-m-a-tier-1-us-investment-bank-at-linear-partners-4488539034": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -3632,6 +3627,66 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/London-United-Kingdom/Associate--Investments-Client-Group---Asset-Management_R158225": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 13
+  },
+  "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Non-Financial-Risk-Analyst--11-month-FTC-_R20521": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400096075": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/credit-secondaries-associate-senior-associate-at-partners-group-4478181782": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/commercial-analyst-supply-chain-risk-at-network-rail-4490745454": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/financial-reporting-associate-fund-services-glasgow-at-morgan-stanley-4472594244": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/asset-management-%E2%80%93-investment-operations-middle-office-fund-administration-fund-accounting-associate-%E2%80%93-12-month-ftc-cash-equities-private-equity-strong-possibility-to-permanent-at-martis-search-4482484116": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 40
+  },
+  "https://www.linkedin.com/jobs/view/portfolio-accountant-at-carter-jonas-4477094233": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-tower-transit-group-4490591514": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/treasury-capital-analyst-at-trafigura-4488961130": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/fp-a-analyst-treasury/57567724": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.reed.co.uk/jobs/investment-operations-analyst/57567722": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 17
   }
  }
 }

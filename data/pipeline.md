@@ -1028,4 +1028,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/associate-quantity-surveyor-127746797 | Conrad Consulting | Associate Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-13 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127746796 | Conrad Consulting | Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-13 | note: via S1Jobs
 
+- [ ] https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/London-United-Kingdom/Associate--Investments-Client-Group---Asset-Management_R158225 | Northern Trust | Associate, Investments Client Group - Asset Management | London, United Kingdom | posted: 2026-11-13
+- [ ] https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Non-Financial-Risk-Analyst--11-month-FTC-_R20521 | M&G | Non-Financial Risk Analyst (11 month FTC) | London · Stirling · Edinburgh | posted: 2026-11-13
+- [ ] https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400096075 | Sainsbury's | Finance Analyst - Labour Costs | London, London, United Kingdom | posted: 2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/credit-secondaries-associate-senior-associate-at-partners-group-4478181782 | Partners Group | Credit Secondaries Associate/ Senior Associate | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-supply-chain-risk-at-network-rail-4490745454 | Network Rail | Commercial Analyst (Supply Chain Risk) | Milton Keynes, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-reporting-associate-fund-services-glasgow-at-morgan-stanley-4472594244 | Morgan Stanley | Financial Reporting, Associate, Fund Services (Glasgow) | Glasgow, Scotland, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/asset-management-%E2%80%93-investment-operations-middle-office-fund-administration-fund-accounting-associate-%E2%80%93-12-month-ftc-cash-equities-private-equity-strong-possibility-to-permanent-at-martis-search-4482484116 | Martis Search | Asset Management – Investment Operations Middle Office, Fund Administration/ Fund Accounting Associate – 12-month FTC - (Cash Equities & Private Equity: strong possibility to permanent) | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-accountant-at-carter-jonas-4477094233 | Carter Jonas | Portfolio Accountant | Shrewsbury, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-tower-transit-group-4490591514 | Tower Transit Group | Management Accountant | Swansea, Wales, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-capital-analyst-at-trafigura-4488961130 | Trafigura | Treasury Capital Analyst | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst-treasury/57567724 | INGRAM MICRO (UK) LIMITED | FP&A Analyst - Treasury | Milton Keynes, Buckinghamshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/investment-operations-analyst/57567722 | AJ Bell | Investment Operations Analyst | Salford, Lancashire | note: via Reed
+
 ## Processed
