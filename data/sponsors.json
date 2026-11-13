@@ -182,6 +182,11 @@
    "register_name": "Aon UK  Limited",
    "match": "exact"
   },
+  "Apollo Global Management, Inc.": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Appcastenterprise": {
    "licensed": false,
    "register_name": null,
@@ -321,6 +326,16 @@
    "licensed": true,
    "register_name": "Bank Of Montreal",
    "match": "alias"
+  },
+  "BNP Paribas": {
+   "licensed": true,
+   "register_name": "BNP Paribas London Branch",
+   "match": "exact"
+  },
+  "BNP Paribas Asset Management": {
+   "licensed": true,
+   "register_name": "BNP PARIBAS ASSET MANAGEMENT SERVICES LIMITED",
+   "match": "exact"
   },
   "BNY": {
    "licensed": true,
@@ -1307,6 +1322,11 @@
    "register_name": "Investigo Limited",
    "match": "exact"
   },
+  "JAC Recruitment": {
+   "licensed": true,
+   "register_name": "JAC Recruitment (UK) Limited",
+   "match": "exact"
+  },
   "JJ SEARCH LIMITED": {
    "licensed": false,
    "register_name": null,
@@ -2127,6 +2147,11 @@
    "register_name": "Plum Fintech",
    "match": "prefix"
   },
+  "Point One - Hedge Fund Talent": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Point72": {
    "licensed": true,
    "register_name": "Point72 UK Limited",
@@ -2547,6 +2572,11 @@
    "register_name": "State Street Bank and Trust Company",
    "match": "alias"
   },
+  "StepStone Group": {
+   "licensed": true,
+   "register_name": "STEPSTONE GROUP EUROPE LLP",
+   "match": "exact"
+  },
   "Stifel": {
    "licensed": true,
    "register_name": "Stifel Nicolaus Europe Limited",
@@ -2737,6 +2767,11 @@
    "register_name": "TrueLayer Limited",
    "match": "alias"
   },
+  "Turner & Townsend": {
+   "licensed": true,
+   "register_name": "Turner & Townsend Ltd",
+   "match": "exact"
+  },
   "UCEA - Family Office Group": {
    "licensed": false,
    "register_name": null,
@@ -2803,6 +2838,16 @@
    "match": "alias"
   },
   "Vistry Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Vitae Financial Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Vitae Financial Recruitment Limited": {
    "licensed": false,
    "register_name": null,
    "match": "none"

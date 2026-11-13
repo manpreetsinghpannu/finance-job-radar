@@ -1012,5 +1012,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/financial-accountant-month-end-vat-capital/ | via ScotJobsNet | Financial Accountant – Month-End, VAT & Capital | Dunbartonshire, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/strategic-projects-management-accountant-hybrid/ | via ScotJobsNet | Strategic Projects Management Accountant (Hybrid) | Lanarkshire, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/accountant-gl-vat-intercompany-edinburgh-2/ | via ScotJobsNet | Accountant – GL, VAT & Intercompany Edinburgh | Midlothian, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/structured-finance-analyst-at-jac-recruitment-4480667323 | JAC Recruitment | Structured Finance Analyst | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-turner-townsend-4444583435 | Turner & Townsend | Risk Analyst | Greater Glasgow Area | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-private-equity-secondaries-at-stepstone-group-4464100654 | StepStone Group | Analyst, Private Equity Secondaries | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equities-quantitative-researcher-at-point-one-hedge-fund-talent-4467720194 | Point One - Hedge Fund Talent | Equities Quantitative Researcher | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-apollo-global-management-inc-4427775237 | Apollo Global Management, Inc. | Fund Accountant | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-12-months-fixed-term-contract-at-bnp-paribas-asset-management-4490381210 | BNP Paribas Asset Management | Financial Controller (12 Months Fixed Term Contract) | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-12-months-fixed-term-contract-at-bnp-paribas-4490356691 | BNP Paribas | Financial Controller (12 Months Fixed Term Contract) | London, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-vitae-financial-recruitment-4488945632 | Vitae Financial Recruitment | Management Accountant | Hemel Hempstead, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952 | eFinancialCareers | Investment Banking Analyst, M&A - Citi | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57567164 | Vitae Financial Recruitment Limited | Management Accountant | Hemel Hempstead, Hertfordshire | note: via Reed
 
 ## Processed

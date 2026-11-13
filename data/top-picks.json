@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T15:11:48.289Z",
+ "generated_at": "2026-11-13T16:12:46.185Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 137,
+   "matching": 140,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 58,
+   "matching": 60,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 28,
+   "matching": 29,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -122,8 +122,21 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 50,
+   "matching": 53,
    "picks": [
+    {
+     "title": "Investment Banking Analyst, M&A - Citi",
+     "company": "eFinancialCareers",
+     "location": "London",
+     "posted": null,
+     "url": "https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952",
+     "score": 28,
+     "why": [
+      "Investment Banking",
+      "M&A"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
      "company": "JPMorgan Chase",
@@ -134,19 +147,6 @@
      "why": [
       "Investment Banking",
       "M&A"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Junior Analyst, Corporate Finance (Deals)",
-     "company": "Kobalt Music",
-     "location": "London, England, United Kingdom",
-     "posted": "2026-11-12",
-     "url": "https://www.linkedin.com/jobs/view/junior-analyst-corporate-finance-deals-at-kobalt-music-4490503593",
-     "score": 26,
-     "why": [
-      "Corporate Finance",
-      "Deals"
      ],
      "sponsor": true
     }
@@ -3572,6 +3572,56 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/structured-finance-analyst-at-jac-recruitment-4480667323": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/risk-analyst-at-turner-townsend-4444583435": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/analyst-private-equity-secondaries-at-stepstone-group-4464100654": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/equities-quantitative-researcher-at-point-one-hedge-fund-talent-4467720194": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-apollo-global-management-inc-4427775237": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/financial-controller-12-months-fixed-term-contract-at-bnp-paribas-asset-management-4490381210": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-controller-12-months-fixed-term-contract-at-bnp-paribas-4490356691": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-vitae-financial-recruitment-4488945632": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 28
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57567164": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }
