@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T00:32:25.629Z",
+ "generated_at": "2026-11-13T01:09:22.204Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 57,
+   "matching": 56,
    "picks": [
     {
      "title": "Wholesale Credit Risk Strategy, Associate",
@@ -356,11 +356,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Associate--Global-Credit_R-0000190883-2": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 15
   },
   "https://cmcmarkets.wd3.myworkdayjobs.com/cmc_markets_careers/job/London/Quantitative-Analyst_CMC5585": {
    "id": "other",
