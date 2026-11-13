@@ -1487,6 +1487,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Linear Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Lloyd's of London": {
    "licensed": true,
    "register_name": "LLOYD'S OF LONDON",
@@ -2571,6 +2576,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "THG": {
+   "licensed": true,
+   "register_name": "THG PLC",
+   "match": "exact"
   },
   "TP ICAP": {
    "licensed": true,

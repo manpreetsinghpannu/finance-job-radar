@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 13 Nov, 12:12** (UK time) · **652 open roles** at 366 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 13 Nov, 13:11** (UK time) · **655 open roles** at 367 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,14 +10,31 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 13 Nov, 12:09** · hourly scan · checked 200 boards · **2 new roles**
+**Fri 13 Nov, 13:09** · hourly scan · checked 200 boards · **4 new roles**
 
-### Finance (FP&A) CV: 2
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-13 | [Finance Analyst](https://lbg.wd3.myworkdayjobs.com/lbg_careers/job/Leeds/Finance-Analyst_165558-3) | Lloyds Banking Group | Leeds | ✅ |
-| — | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57552093) | Michael Page Finance | Oxford, Oxfordshire | ❔ |
+| 2026-11-13 | [Group FP&A Analyst](https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-thg-4489561644) | THG | Manchester, England, United Kingdom | ✅ |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Investment Risk Analyst - 1LOD - Performance Risk - Investment Management](https://www.linkedin.com/jobs/view/investment-risk-analyst-1lod-performance-risk-investment-management-at-rothstein-recruitment-4490502333) | Rothstein Recruitment | London Area, United Kingdom | ❔ |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Industrials Investment Banking - Associate (M&A) - Tier 1 US Investment Bank](https://www.linkedin.com/jobs/view/industrials-investment-banking-associate-m-a-tier-1-us-investment-bank-at-linear-partners-4488539034) | Linear Partners | London Area, United Kingdom | ❔ |
+
+### Consulting CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Customer Data Strategy Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Customer-Data-Strategy-Consultant_R00346003) | Accenture | London | ❔ |
 
 ## Top picks for each CV
 
@@ -63,6 +80,35 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 13 November
+
+<details>
+<summary><b>13:09</b> · hourly scan · <b>4 new</b> → Finance 1 · Credit 1 · Investment 1 · Consulting 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-13 | [Group FP&A Analyst](https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-thg-4489561644) | THG | Manchester, England, United Kingdom | ✅ |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Investment Risk Analyst - 1LOD - Performance Risk - Investment Management](https://www.linkedin.com/jobs/view/investment-risk-analyst-1lod-performance-risk-investment-management-at-rothstein-recruitment-4490502333) | Rothstein Recruitment | London Area, United Kingdom | ❔ |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Industrials Investment Banking - Associate (M&A) - Tier 1 US Investment Bank](https://www.linkedin.com/jobs/view/industrials-investment-banking-associate-m-a-tier-1-us-investment-bank-at-linear-partners-4488539034) | Linear Partners | London Area, United Kingdom | ❔ |
+
+#### Consulting CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-12 | [Customer Data Strategy Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Customer-Data-Strategy-Consultant_R00346003) | Accenture | London | ❔ |
+
+</details>
 
 <details>
 <summary><b>12:09</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -2412,28 +2458,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>13:07</b> · hourly scan · <b>2 new</b> → Credit 1 · Investment 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-06 | [Associate, Credit Analysis](https://icg.wd3.myworkdayjobs.com/external_careers/job/London/Associate--Credit-Analysis_R3367-1) | ICG | London | ✅ |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-06 | [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (348)](#finance-fpa-cv-348) · [Credit (81)](#credit-cv-81) · [Equity (31)](#equity-cv-31) · [Investment (64)](#investment-ib--pe-cv-64) · [Consulting (14)](#consulting-cv-14) · [Real Estate (11)](#real-estate-cv-11) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (88)](#other-fits-no-cv-closely-may-still-be-worth-a-look-88)
+Everything matched so far, newest first within each CV: [Finance (348)](#finance-fpa-cv-348) · [Credit (82)](#credit-cv-82) · [Equity (31)](#equity-cv-31) · [Investment (65)](#investment-ib--pe-cv-65) · [Consulting (15)](#consulting-cv-15) · [Real Estate (11)](#real-estate-cv-11) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (88)](#other-fits-no-cv-closely-may-still-be-worth-a-look-88)
 
 ### Finance (FP&A) CV: 348
 
@@ -2442,6 +2469,7 @@ Everything matched so far, newest first within each CV: [Finance (348)](#finance
 | 2026-11-13 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-mint-velvet-4479738824) | Mint Velvet | High Wycombe, England, United Kingdom | ❔ |
 | 2026-11-13 | [Project Financial Analyst](https://www.linkedin.com/jobs/view/project-financial-analyst-at-nbcuniversal-4490597374) | NBCUniversal | Bedford, England, United Kingdom | ✅ |
 | 2026-11-13 | [Finance Analyst](https://lbg.wd3.myworkdayjobs.com/lbg_careers/job/Leeds/Finance-Analyst_165558-3) | Lloyds Banking Group | Leeds | ✅ |
+| 2026-11-13 | [Group FP&A Analyst](https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-thg-4489561644) | THG | Manchester, England, United Kingdom | ✅ |
 | 2026-11-13 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-ivee-4488913568) | ivee | London Area, United Kingdom | ❔ |
 | 2026-11-13 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-djh-4488593304) | DJH | Stoke-On-Trent, England, United Kingdom | ❔ |
 | 2026-11-13 | [Group Management Accountant](https://www.linkedin.com/jobs/view/group-management-accountant-at-kennedy-pearce-consulting-4488907790) | Kennedy Pearce Consulting | London, England, United Kingdom | ❔ |
@@ -2730,7 +2758,6 @@ Everything matched so far, newest first within each CV: [Finance (348)](#finance
 | 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-mears-group-plc-4434030589) | Mears Group PLC | Gloucestershire, England, United Kingdom | ✅ |
 | 2026-11-06 | [Management Accountant (Fixed Term Contract)](https://www.reed.co.uk/jobs/management-accountant-fixed-term-contract/57538817) | Lightfoot | Exeter, Devon | ✅ |
 | 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-royal-united-hospitals-bath-nhs-foundation-trust-4487368140) | Royal United Hospitals Bath NHS Foundation Trust | Bath, England, United Kingdom | ✅ |
-| 2026-11-06 | [Assistant Financial Controller](https://jobs.ashbyhq.com/flock/7014d3d3-63e4-40ea-a450-508e1cddff61) | Flock · startup/SME | London · United Kingdom · Remote | ✅ |
 | 2026-11-06 | [Reinsurance Protection Assistant Accountant](https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21298) | Phoenix Group | Birmingham, England, United Kingdom | ✅ |
 | 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-marks-sattin-4486248562) | Marks Sattin | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57534852) | Kennedy Pearce Consulting | London | ❔ |
@@ -2788,7 +2815,7 @@ Everything matched so far, newest first within each CV: [Finance (348)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 81
+### Credit CV: 82
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2804,6 +2831,7 @@ Everything matched so far, newest first within each CV: [Finance (348)](#finance
 | 2026-11-12 | [Credit Risk Modeller](https://www.linkedin.com/jobs/view/credit-risk-modeller-at-datalink-recruitment-4490368527) | Datalink Recruitment | London Area, United Kingdom | ❔ |
 | 2026-11-12 | [Credit Assurance Analyst](https://www.linkedin.com/jobs/view/credit-assurance-analyst-at-macquarie-group-4480018912) | Macquarie Group | London, England, United Kingdom | ❔ |
 | — | [Private Credit - Operations Associate](https://www.reed.co.uk/jobs/private-credit-operations-associate/57563640) | Robert Walters | South West London, London | ✅ |
+| 2026-11-12 | [Investment Risk Analyst - 1LOD - Performance Risk - Investment Management](https://www.linkedin.com/jobs/view/investment-risk-analyst-1lod-performance-risk-investment-management-at-rothstein-recruitment-4490502333) | Rothstein Recruitment | London Area, United Kingdom | ❔ |
 | 2026-11-12 | [Risk Associate, Non-Financial Risk Management](https://www.linkedin.com/jobs/view/risk-associate-non-financial-risk-management-at-tp-icap-4479437724) | TP ICAP | Belfast, Northern Ireland, United Kingdom | ✅ |
 | 2026-11-12 | [International Credit Analysis & Reporting](https://www.linkedin.com/jobs/view/international-credit-analysis-reporting-at-cameron-kennedy-4485820654) | Cameron Kennedy | London Area, United Kingdom | ✅ |
 | 2026-11-12 | [Associate - Non-Core & Loan Servicing, CIB Debt Products](https://lbg.wd3.myworkdayjobs.com/lbg_careers/job/Edinburgh/Associate---Non-Core---Loan-Servicing--CIB-Debt-Products_165877-2) | Lloyds Banking Group | Edinburgh | ✅ |
@@ -2910,12 +2938,13 @@ Everything matched so far, newest first within each CV: [Finance (348)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 64
+### Investment (IB / PE) CV: 65
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-13 | [Corporate Graduate Programme 2027 – ETF Capital Markets & Product](https://www.linkedin.com/jobs/view/corporate-graduate-programme-2027-%E2%80%93-etf-capital-markets-product-at-targetjobs-uk-4489524244) | targetjobs UK | London, England, United Kingdom | ❔ |
 | 2026-11-12 | [Junior Analyst, Corporate Finance (Deals)](https://www.linkedin.com/jobs/view/junior-analyst-corporate-finance-deals-at-kobalt-music-4490503593) | Kobalt Music | London, England, United Kingdom | ✅ |
+| 2026-11-12 | [Industrials Investment Banking - Associate (M&A) - Tier 1 US Investment Bank](https://www.linkedin.com/jobs/view/industrials-investment-banking-associate-m-a-tier-1-us-investment-bank-at-linear-partners-4488539034) | Linear Partners | London Area, United Kingdom | ❔ |
 | 2026-11-12 | [Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695) | Rothschild & Co | London | ✅ |
 | 2026-11-12 | [Investment Banking Analyst - Tech & Services](https://www.linkedin.com/jobs/view/investment-banking-analyst-tech-services-at-baird-4445401702) | Baird | London, England, United Kingdom | ✅ |
 | 2026-11-12 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-agora-talent-4488576608) | Agora Talent | London Area, United Kingdom | ✅ |
@@ -2979,11 +3008,12 @@ Everything matched so far, newest first within each CV: [Finance (348)](#finance
 | 2026-10-20 | [Investment Banking – France & Benelux Corp DCM - Analyst - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210801986) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-20 | [Associate, Private Markets Data Management](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R265839) | BlackRock | London, Greater London | ✅ |
 
-### Consulting CV: 14
+### Consulting CV: 15
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | — | [Finance Transformation - Associate/Senior Associate, Business Consulting - Finance](https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/) | EY |  | ✅ |
+| 2026-11-12 | [Customer Data Strategy Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Customer-Data-Strategy-Consultant_R00346003) | Accenture | London | ❔ |
 | — | [Management Consultant Banking](https://www.s1jobs.com/job/management-consultant-banking-127718277) | S1Jobs | Scotland | ❔ |
 | 2026-11-10 | [Investment Strategy Analyst](https://www.linkedin.com/jobs/view/investment-strategy-analyst-at-alignerr-4489405468) | Alignerr | United Kingdom | ❔ |
 | 2026-11-09 | [VAIB Strategy Analyst](https://job-boards.greenhouse.io/monzo/jobs/8359155) | Monzo | Cardiff, London or Remote (UK) | ✅ |
@@ -3130,10 +3160,11 @@ Everything matched so far, newest first within each CV: [Finance (348)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>57 roles taken off the list because the firm closed the posting</summary>
+<summary>58 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 13 Nov, 13:09 | Assistant Financial Controller | Flock |
 | Fri 13 Nov, 05:08 | Commercial & Strategy Analyst | Lottie |
 | Fri 13 Nov, 01:08 | Associate, Global Credit | RBC |
 | Thu 12 Nov, 21:09 | Graduate Business Modelling Analyst - Up to £38k Base + Bonus! - London (Hybrid) - Elite Investment Firm | Hunter Bond |

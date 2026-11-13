@@ -994,4 +994,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://lbg.wd3.myworkdayjobs.com/lbg_careers/job/Leeds/Finance-Analyst_165558-3 | Lloyds Banking Group | Finance Analyst | Leeds | posted: 2026-11-13
 - [ ] https://www.reed.co.uk/jobs/financial-accountant/57552093 | Michael Page Finance | Financial Accountant | Oxford, Oxfordshire | note: via Reed
 
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Customer-Data-Strategy-Consultant_R00346003 | Accenture | Customer Data Strategy Consultant | London | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-thg-4489561644 | THG | Group FP&A Analyst | Manchester, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-risk-analyst-1lod-performance-risk-investment-management-at-rothstein-recruitment-4490502333 | Rothstein Recruitment | Investment Risk Analyst - 1LOD - Performance Risk - Investment Management | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/industrials-investment-banking-associate-m-a-tier-1-us-investment-bank-at-linear-partners-4488539034 | Linear Partners | Industrials Investment Banking - Associate (M&A) - Tier 1 US Investment Bank | London Area, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed

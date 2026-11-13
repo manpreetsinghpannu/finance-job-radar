@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T12:12:37.802Z",
+ "generated_at": "2026-11-13T13:11:52.529Z",
  "order": [
   "finance",
   "credit",
@@ -1407,11 +1407,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://jobs.ashbyhq.com/flock/7014d3d3-63e4-40ea-a450-508e1cddff61": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
   },
   "https://job-boards.greenhouse.io/deliveroo/jobs/8337684": {
    "id": "real_estate",
@@ -3507,6 +3502,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Customer-Data-Strategy-Consultant_R00346003": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-thg-4489561644": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/investment-risk-analyst-1lod-performance-risk-investment-management-at-rothstein-recruitment-4490502333": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/industrials-investment-banking-associate-m-a-tier-1-us-investment-bank-at-linear-partners-4488539034": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 26
   }
  }
 }
