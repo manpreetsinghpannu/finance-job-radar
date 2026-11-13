@@ -973,4 +973,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/junior-investment-analyst-python/57562977 | eFinancialCareers | Junior Investment Analyst- Python | London | posted: 2026-11-12 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-analyst-at-malvern-panalytical-4489510214 | Malvern Panalytical | Finance Business Partner Analyst | Great Malvern, England, United Kingdom | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://careers.ey.com/ey/job/Barcelona-Consultora-Asesoramiento-Financiero-Corporate-Treasury-08017/1382166733/ | EY | Consultor/a Asesoramiento Financiero - Corporate Treasury
+- [ ] https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/ | EY | Finance Transformation - Associate/Senior Associate, Business Consulting - Finance
+- [ ] https://www.linkedin.com/jobs/view/corporate-graduate-programme-2027-%E2%80%93-etf-capital-markets-product-at-targetjobs-uk-4489524244 | targetjobs UK | Corporate Graduate Programme 2027 – ETF Capital Markets & Product | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+
 ## Processed
