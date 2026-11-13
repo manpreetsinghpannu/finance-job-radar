@@ -1,17 +1,21 @@
 {
-  "finished_at": "2026-11-13T22:47:14.382Z",
+  "finished_at": "2026-11-13T23:11:26.735Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 32973,
-  "filtered_out": 32932,
+  "postings_seen": 32602,
+  "filtered_out": 32562,
   "new_matches": 0,
-  "boards_failed": 15,
+  "boards_failed": 19,
   "failed": [
     {
-      "company": "Vanguard",
+      "company": "Wellington Management",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Franklin Templeton",
       "error": "HTTP 521 <none>"
     },
     {
@@ -19,7 +23,7 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Wellington Management",
+      "company": "Vanguard",
       "error": "HTTP 521 <none>"
     },
     {
@@ -35,7 +39,19 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Squarepoint Capital",
+      "error": "This operation was aborted"
+    },
+    {
       "company": "Simply Business",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Visa",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "GSK",
       "error": "HTTP 521 <none>"
     },
     {
@@ -55,16 +71,16 @@
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "ICF",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "BT Group",
       "error": "HTTP 404 Not Found"
     },
     {
       "company": "Reckitt",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "ICF",
+      "error": "HTTP 521 <none>"
     },
     {
       "company": "EY",
