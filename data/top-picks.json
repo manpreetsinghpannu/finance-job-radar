@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T06:11:14.729Z",
+ "generated_at": "2026-11-13T07:12:33.564Z",
  "order": [
   "finance",
   "credit",
@@ -3446,6 +3446,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 20
+  },
+  "https://scotjobsnet.co.uk/job/temporary-assistant-accountant-2/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }
