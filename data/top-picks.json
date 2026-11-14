@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T16:39:26.136Z",
+ "generated_at": "2026-11-14T17:09:22.345Z",
  "order": [
   "finance",
   "credit",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 53,
+   "matching": 55,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -3957,6 +3957,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/corporate-finance-executive-at-xeinadin-4463967912": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-octopus-energy-4474762507": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
   }
  }
 }

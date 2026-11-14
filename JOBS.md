@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 14 Nov, 16:39** (UK time) · **742 open roles** at 425 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 14 Nov, 17:09** (UK time) · **744 open roles** at 426 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,14 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 14 Nov, 16:36** · hourly scan · checked 200 boards · **1 new role**
+**Sat 14 Nov, 17:07** · hourly scan · checked 200 boards · **2 new roles**
 
-### Finance (FP&A) CV: 1
+### Investment (IB / PE) CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-13 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-halliday-marx-4488961524) | Halliday Marx | United Kingdom | ❔ |
+| 2026-11-14 | [Corporate Finance Executive](https://www.linkedin.com/jobs/view/corporate-finance-executive-at-xeinadin-4463967912) | Xeinadin | London, England, United Kingdom | ✅ |
+| 2026-11-14 | [Capital Markets Operations Analyst](https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-octopus-energy-4474762507) | Octopus Energy | London, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -37,7 +38,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Quantitative Research Analyst, Mortgages](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106492) · PIMCO · London, GBR · ✅
 
-**Investment (IB / PE) CV** (53 matching)
+**Investment (IB / PE) CV** (55 matching)
 
 1. [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) · eFinancialCareers · London · ✅
 2. [Junior Analyst, Corporate Finance (Deals)](https://www.linkedin.com/jobs/view/junior-analyst-corporate-finance-deals-at-kobalt-music-4490503593) · Kobalt Music · London, England, United Kingdom · posted 2026-11-12 · ✅
@@ -62,6 +63,18 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<details>
+<summary><b>17:07</b> · hourly scan · <b>2 new</b> → Investment 2</summary>
+
+#### Investment (IB / PE) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-14 | [Corporate Finance Executive](https://www.linkedin.com/jobs/view/corporate-finance-executive-at-xeinadin-4463967912) | Xeinadin | London, England, United Kingdom | ✅ |
+| 2026-11-14 | [Capital Markets Operations Analyst](https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-octopus-energy-4474762507) | Octopus Energy | London, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>16:36</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2490,30 +2503,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>17:09</b> · hourly scan · <b>4 new</b> → Finance 3 · Other 1</summary>
-
-#### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-07 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-fauna-flora-4479347920) | Fauna & Flora | Cambridge, England, United Kingdom | ✅ |
-| 2026-11-06 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-cmc-consulting-ltd-4486271412) | CMC Consulting Ltd | London Area, United Kingdom | ❔ |
-| 2026-11-06 | [Reinsurance Protection Assistant Accountant](https://www.linkedin.com/jobs/view/reinsurance-protection-assistant-accountant-at-standard-life-plc-4488408328) | Standard Life plc | Birmingham, England, United Kingdom | ❔ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127680087) | S1Jobs | Scotland | ❔ |
-
-<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (405)](#finance-fpa-cv-405) · [Credit (90)](#credit-cv-90) · [Equity (36)](#equity-cv-36) · [Investment (72)](#investment-ib--pe-cv-72) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (93)](#other-fits-no-cv-closely-may-still-be-worth-a-look-93)
+Everything matched so far, newest first within each CV: [Finance (405)](#finance-fpa-cv-405) · [Credit (90)](#credit-cv-90) · [Equity (36)](#equity-cv-36) · [Investment (74)](#investment-ib--pe-cv-74) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (93)](#other-fits-no-cv-closely-may-still-be-worth-a-look-93)
 
 ### Finance (FP&A) CV: 405
 
@@ -3061,12 +3053,14 @@ Everything matched so far, newest first within each CV: [Finance (405)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 72
+### Investment (IB / PE) CV: 74
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-14 | [Corporate Finance Executive](https://www.linkedin.com/jobs/view/corporate-finance-executive-at-xeinadin-4463967912) | Xeinadin | London, England, United Kingdom | ✅ |
 | 2026-11-14 | [Investment Banking - EMEA Diversified Industries - Analyst - London](https://www.linkedin.com/jobs/view/investment-banking-emea-diversified-industries-analyst-london-at-jpmorganchase-4491053037) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-14 | [Investment Banking - Central & Eastern Europe Coverage - Analyst - London](https://www.linkedin.com/jobs/view/investment-banking-central-eastern-europe-coverage-analyst-london-at-jpmorganchase-4483309056) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+| 2026-11-14 | [Capital Markets Operations Analyst](https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-octopus-energy-4474762507) | Octopus Energy | London, England, United Kingdom | ✅ |
 | 2026-11-14 | [Industrials / Business Services - Investment Banking Coverage & Advisory](https://www.adzuna.co.uk/jobs/details/5965592299) | Deutsche Bank | London, UK | ❔ |
 | 2026-11-14 | [Private Markets Analytics, Associate](https://www.adzuna.co.uk/jobs/land/ad/5965623252) | Hackajob Ltd | Edinburgh City Centre, Edinburgh | ✅ |
 | 2026-11-13 | [Investment Banking M&A FIG Analyst - Entry-Level](https://www.linkedin.com/jobs/view/investment-banking-m-a-fig-analyst-entry-level-at-selby-jennings-4490734348) | Selby Jennings | London, England, United Kingdom | ❔ |

@@ -1100,5 +1100,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.adzuna.co.uk/jobs/details/5965262420 | GC Partners | FP&A Analyst | St Paul's, Central London | posted: 2026-11-14 | note: via Adzuna
 - [ ] https://www.adzuna.co.uk/jobs/details/5965262392 | Valor Real Estate Partners | Investment Analyst (Spanish Speaking) | St James's, South West London | posted: 2026-11-14 | note: via Adzuna
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-halliday-marx-4488961524 | Halliday Marx | Finance Business Partner | United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-executive-at-xeinadin-4463967912 | Xeinadin | Corporate Finance Executive | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-octopus-energy-4474762507 | Octopus Energy | Capital Markets Operations Analyst | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed

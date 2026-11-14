@@ -3192,6 +3192,11 @@
    "register_name": "XTX Research LLP",
    "match": "alias"
   },
+  "Xeinadin": {
+   "licensed": true,
+   "register_name": "Xeinadin Group Limited",
+   "match": "exact"
+  },
   "Yolk Recruitment Ltd": {
    "licensed": false,
    "register_name": null,
