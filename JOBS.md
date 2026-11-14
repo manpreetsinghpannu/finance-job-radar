@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 14 Nov, 08:10** (UK time) · **702 open roles** at 395 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 14 Nov, 09:10** (UK time) · **702 open roles** at 395 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,14 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 14 Nov, 08:07** · hourly scan · checked 200 boards · **2 new roles**
+**Sat 14 Nov, 09:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-catalyst-4489309896) | Catalyst | Gateshead, England, United Kingdom | ✅ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57568505) | Sheridan Maine | London | ❔ |
+Nothing new this time. The last scan that found something was **Sat 14 Nov, 08:07** (2: Finance 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -63,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<sub>Nothing new at: 09:07</sub>
 
 <details>
 <summary><b>08:07</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -2676,7 +2673,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 12:07, 11:07, 10:07, 09:07</sub>
+<sub>Nothing new at: 12:07, 11:07, 10:07</sub>
 
 ## All open roles by CV
 
