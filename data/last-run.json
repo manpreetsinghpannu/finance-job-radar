@@ -1,21 +1,21 @@
 {
-  "finished_at": "2026-11-14T01:13:00.666Z",
+  "finished_at": "2026-11-14T02:10:39.312Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 30808,
-  "filtered_out": 30783,
-  "new_matches": 1,
-  "boards_failed": 40,
+  "postings_seen": 30667,
+  "filtered_out": 30642,
+  "new_matches": 0,
+  "boards_failed": 44,
   "failed": [
     {
-      "company": "Moelis",
+      "company": "Moelis (University)",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Moelis (University)",
+      "company": "Moelis",
       "error": "HTTP 521 <none>"
     },
     {
@@ -39,11 +39,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Vanguard",
+      "company": "Franklin Templeton",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Franklin Templeton",
+      "company": "Vanguard",
       "error": "HTTP 521 <none>"
     },
     {
@@ -67,6 +67,10 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Blackstone",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Dimensional Fund Advisors",
       "error": "HTTP 521 <none>"
     },
@@ -75,19 +79,19 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Blackstone",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "Ares Management",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Nasdaq",
+      "company": "Bain Capital",
       "error": "HTTP 521 <none>"
     },
     {
       "company": "S&P Global",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Nasdaq",
       "error": "HTTP 521 <none>"
     },
     {
@@ -96,6 +100,10 @@
     },
     {
       "company": "Aviva",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "AIG",
       "error": "HTTP 521 <none>"
     },
     {
@@ -127,7 +135,19 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Houlihan Lokey (Campus)",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Houlihan Lokey (Lateral)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Universal Music UK",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Mizuho",
       "error": "HTTP 521 <none>"
     },
     {
@@ -139,10 +159,6 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Mizuho",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "Northern Trust",
       "error": "HTTP 521 <none>"
     },
@@ -151,11 +167,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "BT Group",
+      "company": "Royal London",
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "Royal London",
+      "company": "BT Group",
       "error": "HTTP 404 Not Found"
     },
     {
