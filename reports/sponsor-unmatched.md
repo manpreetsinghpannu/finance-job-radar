@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 629 firms checked, 375 matched, 254 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 650 firms checked, 388 matched, 262 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (254)
+## Not found (262)
 
 - 93 MGMT
 - ACL Partners
@@ -22,6 +22,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Alignerr
 - All About Food Ltd
 - Altum Consulting
+- Ameriprise
 - Anderson Knight
 - Apollo Global Management, Inc.
 - Appcastenterprise
@@ -87,11 +88,13 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Everet Marsh
 - Executive Talent Solutions
 - FT Recruitment Group
+- Fane Valley Cooperative Society Ltd
 - Financial Divisions
 - Finatal
 - Fletcher George Recruitment Ltd
 - Flex
 - Forge Talent
+- GC Partners
 - GP Fund Solutions
 - GSR Markets
 - Gemini
@@ -103,6 +106,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Greenwich Partners
 - Gresham Hunt
 - HSBC Innovation Banking
+- Hain Daniels
 - Halliday Marx
 - Handpicked Recruitment Limited
 - Hargreaves Land
@@ -148,6 +152,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lord Accounting & Finance
 - Lorien
 - Lottie
+- Lyreco
 - Mackie Myers
 - Macquarie Group
 - ManpowerGroup Talent Solutions
@@ -177,6 +182,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Octavius Finance
 - Octopus Money
 - Oliver Smith Recruitment
+- Onmo
 - Orla Rose Associates
 - PA Consulting
 - PARALLEL RECRUITMENT LTD
@@ -221,8 +227,10 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Sowena Group
 - Standard Life plc
 - Stanford Real Estate Partners
+- Starfish Search Limited
 - Strand Hill
 - Swoop Funding
+- TAMESIDE COLLEGE
 - TCR
 - TCS
 - TUI

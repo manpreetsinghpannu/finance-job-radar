@@ -1,19 +1,15 @@
 {
-  "finished_at": "2026-11-14T16:09:41.978Z",
+  "finished_at": "2026-11-14T16:39:26.921Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 34031,
-  "filtered_out": 33991,
-  "new_matches": 9,
-  "boards_failed": 5,
+  "postings_seen": 34137,
+  "filtered_out": 34097,
+  "new_matches": 1,
+  "boards_failed": 3,
   "failed": [
-    {
-      "company": "Nasdaq",
-      "error": "fetch failed"
-    },
     {
       "company": "Marsh McLennan",
       "error": "fetch failed"
@@ -24,10 +20,6 @@
     },
     {
       "company": "PayPal",
-      "error": "fetch failed"
-    },
-    {
-      "company": "State Street",
       "error": "fetch failed"
     }
   ]

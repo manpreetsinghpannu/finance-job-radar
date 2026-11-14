@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T16:09:41.264Z",
+ "generated_at": "2026-11-14T16:39:26.136Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 156,
+   "matching": 166,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 65,
+   "matching": 67,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -73,11 +73,11 @@
      "sponsor": true
     },
     {
-     "title": "Credit Risk Analyst",
-     "company": "Premier Foods",
-     "location": "Manchester, England, United Kingdom",
-     "posted": "2026-11-13",
-     "url": "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-premier-foods-4472770244",
+     "title": "Credit Risk Analyst - 12 month FTC",
+     "company": "Hackajob Ltd",
+     "location": "Belgrave, Leicester",
+     "posted": "2026-11-14",
+     "url": "https://www.adzuna.co.uk/jobs/land/ad/5965487971",
      "score": 25,
      "why": [
       "Credit Risk",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 30,
+   "matching": 31,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 52,
+   "matching": 53,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 22,
+   "matching": 23,
    "picks": [
     {
      "title": "Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory",
@@ -3837,6 +3837,126 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965915370": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965914846": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5965623252": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5965621628": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5965598407": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965597084": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965595373": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 27
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965593971": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965593317": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965592299": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965576944": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965576699": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5965576084": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965566818": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5965487971": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 25
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5965431375": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5965404584": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5965404580": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965264903": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965264237": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965262639": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965262420": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.adzuna.co.uk/jobs/details/5965262392": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-halliday-marx-4488961524": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

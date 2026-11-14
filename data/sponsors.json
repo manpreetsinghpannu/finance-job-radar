@@ -172,6 +172,11 @@
    "register_name": "Ambition Europe Limited",
    "match": "exact"
   },
+  "Ameriprise": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Anderson Knight": {
    "licensed": false,
    "register_name": null,
@@ -186,6 +191,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Apollo Management Holdings": {
+   "licensed": true,
+   "register_name": "Apollo Management International LLP",
+   "match": "exact"
   },
   "Appcastenterprise": {
    "licensed": false,
@@ -942,12 +952,22 @@
    "register_name": "EXPERIAN LIMITED",
    "match": "alias"
   },
+  "FNZ": {
+   "licensed": true,
+   "register_name": "FNZ (UK) Limited",
+   "match": "exact"
+  },
   "FRP Advisory": {
    "licensed": true,
    "register_name": "FRP Advisory Group PLC",
    "match": "exact"
   },
   "FT Recruitment Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Fane Valley Cooperative Society Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1052,6 +1072,11 @@
    "register_name": "FUNDING CIRCLE LTD",
    "match": "exact"
   },
+  "GC Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "GKN Aerospace": {
    "licensed": true,
    "register_name": "GKN Aerospace Services",
@@ -1148,6 +1173,16 @@
    "match": "exact"
   },
   "HSBC Innovation Banking": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Hackajob Ltd": {
+   "licensed": true,
+   "register_name": "HACKAJOB LTD",
+   "match": "exact"
+  },
+  "Hain Daniels": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1256,6 +1291,11 @@
    "licensed": true,
    "register_name": "Holland & Barrett Retail Limited",
    "match": "prefix"
+  },
+  "Hologic": {
+   "licensed": true,
+   "register_name": "Hologic Ltd",
+   "match": "exact"
   },
   "Hologic, Inc.": {
    "licensed": true,
@@ -1552,6 +1592,11 @@
    "register_name": "LEGEND SERVICES UK LTD",
    "match": "exact"
   },
+  "Leisure Employment Services": {
+   "licensed": true,
+   "register_name": "Leisure Employment Services",
+   "match": "exact"
+  },
   "Lemonade": {
    "licensed": false,
    "register_name": null,
@@ -1597,6 +1642,11 @@
    "register_name": "LLOYD'S OF LONDON",
    "match": "alias"
   },
+  "Lloyds Bank": {
+   "licensed": true,
+   "register_name": "Lloyds Bank plc",
+   "match": "exact"
+  },
   "Lloyds Banking Group": {
    "licensed": true,
    "register_name": "Lloyds Bank plc",
@@ -1641,6 +1691,11 @@
    "licensed": true,
    "register_name": "LucaNet (UK) Limited",
    "match": "exact"
+  },
+  "Lyreco": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "M&G": {
    "licensed": true,
@@ -2072,6 +2127,11 @@
    "register_name": "One Stop Healthcare",
    "match": "exact"
   },
+  "Onmo": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ophelos": {
    "licensed": true,
    "register_name": "Ophelos Ltd",
@@ -2211,6 +2271,11 @@
    "licensed": true,
    "register_name": "Phoenix Group Management Services Limited",
    "match": "alias"
+  },
+  "Pilgrim's Europe": {
+   "licensed": true,
+   "register_name": "Pilgrims Group Ltd",
+   "match": "exact"
   },
   "Pleo": {
    "licensed": true,
@@ -2612,6 +2677,11 @@
    "register_name": "Societe Generale Equipment Finance Ltd",
    "match": "alias"
   },
+  "Sophos": {
+   "licensed": true,
+   "register_name": "SOPHOS LIMITED",
+   "match": "exact"
+  },
   "Sopra Steria": {
    "licensed": true,
    "register_name": "Sopra Steria Limited",
@@ -2653,6 +2723,11 @@
    "match": "none"
   },
   "Stanford Real Estate Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Starfish Search Limited": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2716,6 +2791,16 @@
    "licensed": true,
    "register_name": "T Rowe Price  International Ltd",
    "match": "alias"
+  },
+  "TALENT INTERNATIONAL UK LTD": {
+   "licensed": true,
+   "register_name": "Talent International (UK) Limited",
+   "match": "exact"
+  },
+  "TAMESIDE COLLEGE": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "TCR": {
    "licensed": false,
@@ -2887,6 +2972,11 @@
    "register_name": "Trinity House",
    "match": "exact"
   },
+  "TrinityBridge": {
+   "licensed": true,
+   "register_name": "TrinityBridge Holdings Limited",
+   "match": "exact"
+  },
   "TrueLayer": {
    "licensed": true,
    "register_name": "TrueLayer Limited",
@@ -2927,6 +3017,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Valor Real Estate Partners": {
+   "licensed": true,
+   "register_name": "Valor Real Estate Partners LLP",
+   "match": "exact"
+  },
   "Vanguard": {
    "licensed": true,
    "register_name": "VANGUARD BUILDING COMPLIANCE LIMITED",
@@ -2951,6 +3046,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Vertu Motors": {
+   "licensed": true,
+   "register_name": "Vertu Motors plc",
+   "match": "exact"
   },
   "Virgin Media O2": {
    "licensed": true,
@@ -3026,6 +3126,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Wave": {
+   "licensed": true,
+   "register_name": "Wave UK Services Limited",
+   "match": "exact"
   },
   "Wayflyer": {
    "licensed": true,

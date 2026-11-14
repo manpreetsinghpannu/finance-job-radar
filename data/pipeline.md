@@ -1076,5 +1076,29 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/junior-finance-business-partner-at-totum-partners-4490755248 | Totum Partners | Junior Finance Business Partner | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-targetjobs-uk-4489897501 | targetjobs UK | Allianz UK Graduate Finance Scheme 2027 | Guildford, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commodities-trading-analyst-programme-rolling-application-for-0-3-years-experience-at-castleton-commodities-international-4488996040 | Castleton Commodities International | Commodities Trading Analyst Programme [Rolling Application for 0-3 Years Experience] | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.adzuna.co.uk/jobs/details/5965915370 | Vertu Motors | Assistant Accountant | Plympton, Plymouth | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965914846 | TAMESIDE COLLEGE | Financial Controller | UK | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5965623252 | Hackajob Ltd | Private Markets Analytics, Associate | Edinburgh City Centre, Edinburgh | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5965621628 | Starfish Search Limited | Part Qualified Accountant | Leeds, West Yorkshire | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5965598407 | Apollo Management Holdings | Associate - IG Credit (Financials) | London, UK | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965597084 | Sophos | Group Financial Accountant | UK | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965595373 | Hologic | Commercial Finance Business Partner | Manchester, Greater Manchester | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965593971 | Ameriprise | Trading Analyst - London based | London, UK | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965593317 | Lyreco | Commercial Analyst | Telford, Shropshire | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965592299 | Deutsche Bank | Industrials / Business Services - Investment Banking Coverage & Advisory | London, UK | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965576944 | FNZ | Finance Analyst | Edinburgh, Scotland | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965576699 | Hain Daniels | Operations Accountant | Histon, Cambridge | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5965576084 | Lloyds Bank | Finance Analyst | UK | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965566818 | Leisure Employment Services | Assistant Accountant, Treasury and Banking | Shendish, Hemel Hempstead | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5965487971 | Hackajob Ltd | Credit Risk Analyst - 12 month FTC | Belgrave, Leicester | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5965431375 | Fane Valley Cooperative Society Ltd | Management Accountant | Craigavon, Northern Ireland | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5965404584 | Pilgrim's Europe | Finance Analyst | UK | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5965404580 | TALENT INTERNATIONAL UK LTD | Finance Analyst | UK | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965264903 | TrinityBridge | Treasury Accountant | Marlston-Cum-Lache, Chester | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965264237 | Wave | FP&A Analyst | Aykley Heads, Durham | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965262639 | Onmo | Financial Accountant | Spitalfields, East London | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965262420 | GC Partners | FP&A Analyst | St Paul's, Central London | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5965262392 | Valor Real Estate Partners | Investment Analyst (Spanish Speaking) | St James's, South West London | posted: 2026-11-14 | note: via Adzuna
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-halliday-marx-4488961524 | Halliday Marx | Finance Business Partner | United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed
