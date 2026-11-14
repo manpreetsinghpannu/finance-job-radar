@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T23:11:26.300Z",
+ "generated_at": "2026-11-14T00:03:44.325Z",
  "order": [
   "finance",
   "credit",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 29,
+   "matching": 28,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -106,14 +106,14 @@
      "sponsor": true
     },
     {
-     "title": "EMEA Equity Research - Real Estate - Analyst or Associate",
-     "company": "JPMorgan Chase",
-     "location": "LONDON, LONDON, United Kingdom",
-     "posted": "2026-10-23",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210802518",
+     "title": "Quantitative Research Analyst, Mortgages",
+     "company": "PIMCO",
+     "location": "London, GBR",
+     "posted": null,
+     "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106492",
      "score": 18,
      "why": [
-      "Equity Research"
+      "Research Analyst"
      ],
      "sponsor": true
     }
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 53,
+   "matching": 52,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 21,
+   "matching": 20,
    "picks": [
     {
      "title": "Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory",
@@ -3692,6 +3692,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-hometree-4490796256": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/risk-analyst-at-brit-insurance-4488977853": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
   }
  }
 }

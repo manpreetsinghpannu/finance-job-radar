@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 13 Nov, 23:11** (UK time) · **689 open roles** at 391 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 14 Nov, 00:03** (UK time) · **691 open roles** at 393 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 13 Nov, 23:08** · hourly scan · checked 200 boards · **0 new roles**
+**Sat 14 Nov, 00:00** · hourly scan · checked 200 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Fri 13 Nov, 20:09** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-13 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-hometree-4490796256) | Hometree | London, England, United Kingdom | ❔ |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-13 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-brit-insurance-4488977853) | Brit Insurance | London Area, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -28,12 +38,12 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817) · Brook Green Supply · London Area, United Kingdom · posted 2026-11-13 · ✅
 2. [Credit Risk Underwriter - Structured Lending](https://www.linkedin.com/jobs/view/credit-risk-underwriter-structured-lending-at-morgan-mckinley-4486985902) · Morgan McKinley · London Area, United Kingdom · posted 2026-11-06 · ✅
 
-**Equity CV** (29 matching)
+**Equity CV** (28 matching)
 
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
-2. [EMEA Equity Research - Real Estate - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210802518) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-10-23 · ✅
+2. [Quantitative Research Analyst, Mortgages](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106492) · PIMCO · London, GBR · ✅
 
-**Investment (IB / PE) CV** (53 matching)
+**Investment (IB / PE) CV** (52 matching)
 
 1. [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) · eFinancialCareers · London · ✅
 2. [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-06 · ✅
@@ -43,7 +53,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [VAIB Strategy Analyst](https://job-boards.greenhouse.io/monzo/jobs/8359155) · Monzo · Cardiff, London or Remote (UK) · posted 2026-11-09 · ✅
 2. [Credit Strategy Analyst](https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-funding-circle-uk-4488400686) · Funding Circle UK · London, England, United Kingdom · posted 2026-11-06 · ✅
 
-**Real Estate CV** (21 matching)
+**Real Estate CV** (20 matching)
 
 1. [Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695) · Rothschild & Co · London · posted 2026-11-12 · ✅
 2. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
@@ -56,6 +66,25 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Saturday 14 November
+
+<details>
+<summary><b>00:00</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-13 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-hometree-4490796256) | Hometree | London, England, United Kingdom | ❔ |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-13 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-brit-insurance-4488977853) | Brit Insurance | London Area, United Kingdom | ❔ |
+
+</details>
 
 ### Friday 13 November
 
@@ -2584,9 +2613,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (371)](#finance-fpa-cv-371) · [Credit (83)](#credit-cv-83) · [Equity (33)](#equity-cv-33) · [Investment (68)](#investment-ib--pe-cv-68) · [Consulting (15)](#consulting-cv-15) · [Real Estate (11)](#real-estate-cv-11) · [Fund (18)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-18) · [Other (90)](#other-fits-no-cv-closely-may-still-be-worth-a-look-90)
+Everything matched so far, newest first within each CV: [Finance (372)](#finance-fpa-cv-372) · [Credit (84)](#credit-cv-84) · [Equity (33)](#equity-cv-33) · [Investment (68)](#investment-ib--pe-cv-68) · [Consulting (15)](#consulting-cv-15) · [Real Estate (11)](#real-estate-cv-11) · [Fund (18)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-18) · [Other (90)](#other-fits-no-cv-closely-may-still-be-worth-a-look-90)
 
-### Finance (FP&A) CV: 371
+### Finance (FP&A) CV: 372
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2599,6 +2628,7 @@ Everything matched so far, newest first within each CV: [Finance (371)](#finance
 | 2026-11-13 | [Finance Analyst](https://lbg.wd3.myworkdayjobs.com/lbg_careers/job/Leeds/Finance-Analyst_165558-3) | Lloyds Banking Group | Leeds | ✅ |
 | 2026-11-13 | [Group FP&A Analyst](https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-thg-4489561644) | THG | Manchester, England, United Kingdom | ✅ |
 | — | [FP&A Analyst - Treasury](https://www.reed.co.uk/jobs/fp-a-analyst-treasury/57567724) | INGRAM MICRO (UK) LIMITED | Milton Keynes, Buckinghamshire | ✅ |
+| 2026-11-13 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-hometree-4490796256) | Hometree | London, England, United Kingdom | ❔ |
 | 2026-11-13 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-djh-4488593304) | DJH | Stoke-On-Trent, England, United Kingdom | ❔ |
 | 2026-11-13 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-2-sisters-food-group-4489580102) | 2 Sisters Food Group | Newport, Wales, United Kingdom | ✅ |
 | 2026-11-13 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-hologic-inc-4481381921) | Hologic, Inc. | Manchester, England, United Kingdom | ✅ |
@@ -2962,7 +2992,7 @@ Everything matched so far, newest first within each CV: [Finance (371)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 83
+### Credit CV: 84
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2971,6 +3001,7 @@ Everything matched so far, newest first within each CV: [Finance (371)](#finance
 | 2026-11-13 | [Non-Financial Risk Analyst (11 month FTC)](https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Non-Financial-Risk-Analyst--11-month-FTC-_R20521) | M&G | London · Stirling · Edinburgh | ✅ |
 | 2026-11-13 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-turner-townsend-4444583435) | Turner & Townsend | Greater Glasgow Area | ✅ |
 | 2026-11-13 | [Credit Secondaries Associate/ Senior Associate](https://www.linkedin.com/jobs/view/credit-secondaries-associate-senior-associate-at-partners-group-4478181782) | Partners Group | London, England, United Kingdom | ✅ |
+| 2026-11-13 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-brit-insurance-4488977853) | Brit Insurance | London Area, United Kingdom | ❔ |
 | 2026-11-13 | [Payments Risk Analyst](https://www.linkedin.com/jobs/view/payments-risk-analyst-at-lightspeed-commerce-4480043713) | Lightspeed Commerce | Belfast, Northern Ireland, United Kingdom | ❔ |
 | 2026-11-13 | [Risk Analyst](https://scotjobsnet.co.uk/job/risk-analyst/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
 | 2026-11-12 | [Graduate Credit Risk Analyst](https://www.linkedin.com/jobs/view/graduate-credit-risk-analyst-at-radius-4490370202) | Radius | Crewe, England, United Kingdom | ✅ |

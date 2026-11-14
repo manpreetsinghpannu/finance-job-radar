@@ -1,17 +1,17 @@
 {
-  "finished_at": "2026-11-13T23:11:26.735Z",
+  "finished_at": "2026-11-14T00:03:45.030Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 32602,
-  "filtered_out": 32562,
-  "new_matches": 0,
+  "postings_seen": 32569,
+  "filtered_out": 32530,
+  "new_matches": 2,
   "boards_failed": 19,
   "failed": [
     {
-      "company": "Wellington Management",
+      "company": "Vanguard",
       "error": "HTTP 521 <none>"
     },
     {
@@ -23,7 +23,7 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Vanguard",
+      "company": "Wellington Management",
       "error": "HTTP 521 <none>"
     },
     {
@@ -39,15 +39,15 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Squarepoint Capital",
-      "error": "This operation was aborted"
-    },
-    {
       "company": "Simply Business",
       "error": "HTTP 521 <none>"
     },
     {
       "company": "Visa",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Worldpay",
       "error": "HTTP 521 <none>"
     },
     {
@@ -79,12 +79,12 @@
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "ICF",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "EY",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "ICF",
+      "error": "HTTP 521 <none>"
     }
   ]
 }

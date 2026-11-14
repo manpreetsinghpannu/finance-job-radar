@@ -1044,5 +1044,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/risk-analyst/ | via ScotJobsNet | Risk Analyst | Glasgow, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/interim-project-accountant-12-months/ | via ScotJobsNet | Interim Project Accountant (12 months) | Glasgow, Scotland | posted: 2026-11-13 | note: via ScotJobsNet
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-hologic-inc-4481381921 | Hologic, Inc. | Management Accountant | Manchester, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-hometree-4490796256 | Hometree | FP&A Analyst | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-brit-insurance-4488977853 | Brit Insurance | Risk Analyst | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed

@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-07 from https://assets.publishing.service.gov.uk/media/6aed928473a815e62a01b81b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-06.csv. 614 firms checked, 369 matched, 245 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 616 firms checked, 369 matched, 247 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (245)
+## Not found (247)
 
 - 93 MGMT
 - ACL Partners
@@ -38,6 +38,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Blockchain.com
 - Blood Cancer UK
 - Bloom Money
+- Brit Insurance
 - Brock & Decker
 - Broster Buchanan
 - Bruin
@@ -111,6 +112,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Hays Specialist Recruitment Limited
 - Headstar
 - HelloFresh
+- Hometree
 - Hoop Recruitment
 - IAG Transform
 - IMC Trading
@@ -254,7 +256,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 
 ## Matched automatically by close name; worth a glance (36)
 
-- Alfa AI → Alfa Energy Limited (prefix)
+- Alfa AI → Alfa Financial Software Ltd (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Carter Jonas → Carter Jonas Service Company (prefix)
@@ -278,7 +280,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Nium → Nium Fintech Ltd (prefix)
 - Octopus Group → Octopus Energy Limited (prefix)
 - Ohme → Ohme Operations UK Limited (prefix)
-- Pantheon → Pantheon Partners Limited (prefix)
+- Pantheon → Pantheon Platform UK Limited (prefix)
 - Paxos → Paxos Technology Limited (prefix)
 - Pliant → Pliant Payments Limited (prefix)
 - Plum → Plum Fintech (prefix)
