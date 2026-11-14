@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T02:10:38.560Z",
+ "generated_at": "2026-11-14T03:10:13.827Z",
  "order": [
   "finance",
   "credit",
@@ -3732,6 +3732,11 @@
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/financial-solutions-analyst-graduate-at-targetjobs-uk-4489850773": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

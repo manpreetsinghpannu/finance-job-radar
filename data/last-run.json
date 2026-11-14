@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-14T02:10:39.312Z",
+  "finished_at": "2026-11-14T03:10:14.601Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 30667,
-  "filtered_out": 30642,
-  "new_matches": 0,
-  "boards_failed": 44,
+  "postings_seen": 30855,
+  "filtered_out": 30829,
+  "new_matches": 1,
+  "boards_failed": 43,
   "failed": [
     {
       "company": "Moelis (University)",
@@ -67,11 +67,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Blackstone",
+      "company": "Dimensional Fund Advisors",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Dimensional Fund Advisors",
+      "company": "Blackstone",
       "error": "HTTP 521 <none>"
     },
     {
@@ -91,11 +91,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Nasdaq",
+      "company": "CME Group",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "CME Group",
+      "company": "Nasdaq",
       "error": "HTTP 521 <none>"
     },
     {
@@ -167,24 +167,20 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Royal London",
-      "error": "HTTP 404 Not Found"
+      "company": "ICF",
+      "error": "HTTP 521 <none>"
     },
     {
-      "company": "BT Group",
-      "error": "HTTP 404 Not Found"
+      "company": "Royal London",
+      "error": "This operation was aborted"
     },
     {
       "company": "Reckitt",
-      "error": "HTTP 404 Not Found"
+      "error": "This operation was aborted"
     },
     {
       "company": "EY",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "ICF",
-      "error": "HTTP 521 <none>"
+      "error": "This operation was aborted"
     }
   ]
 }
