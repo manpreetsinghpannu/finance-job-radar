@@ -1062,5 +1062,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-djh-4488991960 | DJH | Management Accountant | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/business-and-finance-analyst-at-tvf-media-4490323231 | TVF Media | Business and Finance Analyst | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/operations-accountant-at-banham-poultry-2018-limited-4490709790 | Banham Poultry (2018) Limited | Operations Accountant | Attleborough, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-doncaster-racecourse-and-exhibition-centre-4488940724 | Doncaster Racecourse and Exhibition Centre | Assistant Management Accountant | Doncaster, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-accountant/57565652 | Talk Staff | Financial Accountant | Derby, Derbyshire | posted: 2026-11-13 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57566333 | Pavilion Recruitment Solutions | Management Accountant | London | posted: 2026-11-13 | note: via Reed
 
 ## Processed

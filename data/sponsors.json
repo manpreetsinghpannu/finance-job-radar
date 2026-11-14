@@ -837,6 +837,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Doncaster Racecourse and Exhibition Centre": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Duco": {
    "licensed": true,
    "register_name": "Duco Technology Limited",
@@ -2718,6 +2723,11 @@
    "match": "none"
   },
   "Talentedge": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Talk Staff": {
    "licensed": false,
    "register_name": null,
    "match": "none"
