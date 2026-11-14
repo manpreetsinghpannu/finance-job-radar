@@ -1101,6 +1101,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.adzuna.co.uk/jobs/details/5965262392 | Valor Real Estate Partners | Investment Analyst (Spanish Speaking) | St James's, South West London | posted: 2026-11-14 | note: via Adzuna
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-halliday-marx-4488961524 | Halliday Marx | Finance Business Partner | United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/corporate-finance-executive-at-xeinadin-4463967912 | Xeinadin | Corporate Finance Executive | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-associate-specialty-finance-at-stephens-4447063358 | Stephens | M&A Associate - Specialty Finance | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/experienced-associate-%E2%80%93-investment-banking-technology-services-london-at-guggenheim-securities-4447093008 | Guggenheim Securities | Experienced Associate – Investment Banking, Technology & Services (London) | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-octopus-energy-4474762507 | Octopus Energy | Capital Markets Operations Analyst | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-vitae-financial-recruitment-4488959358 | Vitae Financial Recruitment | Finance Business Partner | Royston, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed

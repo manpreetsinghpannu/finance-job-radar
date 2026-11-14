@@ -1167,6 +1167,11 @@
    "register_name": "Griffin Bank Ltd",
    "match": "prefix"
   },
+  "Guggenheim Securities": {
+   "licensed": true,
+   "register_name": "Guggenheim Securities International Ltd",
+   "match": "exact"
+  },
   "HAYS": {
    "licensed": true,
    "register_name": "Hays PLC",
@@ -2745,6 +2750,11 @@
   "StepStone Group": {
    "licensed": true,
    "register_name": "STEPSTONE GROUP EUROPE LLP",
+   "match": "exact"
+  },
+  "Stephens": {
+   "licensed": true,
+   "register_name": "Stephens Europe Limited",
    "match": "exact"
   },
   "Stifel": {
