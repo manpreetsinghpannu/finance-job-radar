@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 14 Nov, 21:39** (UK time) · **750 open roles** at 431 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 14 Nov, 22:09** (UK time) · **750 open roles** at 431 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 14 Nov, 21:35** · hourly scan · checked 200 boards · **1 new role**
+**Sat 14 Nov, 22:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [Client Accountant](https://www.linkedin.com/jobs/view/client-accountant-at-tpg-ltd-4472547979) | TPG Ltd | Reading, England, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Sat 14 Nov, 21:35** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<sub>Nothing new at: 22:07</sub>
 
 <details>
 <summary><b>21:35</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2439,35 +2437,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127657800) | S1Jobs | Scotland | ❔ |
-
-</details>
-
-<details>
-<summary><b>22:08</b> · hourly scan · <b>3 new</b> → Finance 2 · Other 1</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-07 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-assa-abloy-group-4477708680) | ASSA ABLOY Group | Carlisle, England, United Kingdom | ✅ |
-| 2026-11-06 | [Group Accountant](https://www.linkedin.com/jobs/view/group-accountant-at-bath-north-east-somerset-council-4488441876) | Bath & North East Somerset Council | Keynsham, England, United Kingdom | ✅ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127660487) | S1Jobs | Scotland | ❔ |
-
-</details>
-
-<details>
-<summary><b>21:57</b> · hourly scan · <b>1 new</b> → Other 1</summary>
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127662881) | S1Jobs | Scotland | ❔ |
 
 </details>
 
