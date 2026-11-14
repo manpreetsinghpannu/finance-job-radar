@@ -1106,5 +1106,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-octopus-energy-4474762507 | Octopus Energy | Capital Markets Operations Analyst | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-vitae-financial-recruitment-4488959358 | Vitae Financial Recruitment | Finance Business Partner | Royston, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-lego-digital-play-4491028985 | LEGO Digital Play | Finance Business Partner | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-genius-sports-4473375202 | Genius Sports | Financial Accountant | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed

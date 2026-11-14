@@ -1107,6 +1107,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Genius Sports": {
+   "licensed": true,
+   "register_name": "Genius Sports UK Ltd",
+   "match": "exact"
+  },
   "Gleeson Recruitment Group": {
    "licensed": false,
    "register_name": null,
