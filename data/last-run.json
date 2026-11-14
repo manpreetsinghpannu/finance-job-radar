@@ -1,21 +1,17 @@
 {
-  "finished_at": "2026-11-14T17:19:20.880Z",
+  "finished_at": "2026-11-14T18:11:39.524Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 34295,
-  "filtered_out": 34255,
-  "new_matches": 5,
-  "boards_failed": 2,
+  "postings_seen": 34422,
+  "filtered_out": 34382,
+  "new_matches": 0,
+  "boards_failed": 1,
   "failed": [
     {
       "company": "Marsh McLennan",
-      "error": "fetch failed"
-    },
-    {
-      "company": "PayPal",
       "error": "fetch failed"
     }
   ]
