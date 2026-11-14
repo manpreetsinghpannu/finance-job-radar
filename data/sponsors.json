@@ -1552,6 +1552,11 @@
    "register_name": "LCM Partners Limited",
    "match": "exact"
   },
+  "LEGO Digital Play": {
+   "licensed": true,
+   "register_name": "Lego Digital Play Limited",
+   "match": "exact"
+  },
   "LGPS Central": {
    "licensed": true,
    "register_name": "LGPS Central Limited",

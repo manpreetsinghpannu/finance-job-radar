@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 14 Nov, 18:11** (UK time) · **747 open roles** at 428 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 14 Nov, 19:10** (UK time) · **748 open roles** at 429 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 14 Nov, 18:07** · hourly scan · checked 200 boards · **0 new roles**
+**Sat 14 Nov, 19:07** · hourly scan · checked 200 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sat 14 Nov, 17:16** (5: Finance 1 · Investment 4); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-14 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-lego-digital-play-4491028985) | LEGO Digital Play | London, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (166 matching)
+**Finance (FP&A) CV** (167 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<details>
+<summary><b>19:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-14 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-lego-digital-play-4491028985) | LEGO Digital Play | London, England, United Kingdom | ✅ |
+
+</details>
 
 <sub>Nothing new at: 18:07</sub>
 
@@ -2484,35 +2499,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>18:17</b> · hourly scan · <b>4 new</b> → Finance 1 · Investment 2 · Other 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-07 | [IT – Finance Analyst](https://www.linkedin.com/jobs/view/it-%E2%80%93-finance-analyst-at-simmons-simmons-4449750880) | Simmons & Simmons | Bristol, England, United Kingdom | ✅ |
-
-#### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-07 | [Investment Banking - EMEA Media and Communications Advisory - Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-media-and-communications-advisory-associate-london-at-jpmorganchase-4345917268) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
-| 2026-11-07 | [Central and Eastern Europe, the Middle East, and Africa (CEEMEA) Investment Banking Associate](https://www.linkedin.com/jobs/view/central-and-eastern-europe-the-middle-east-and-africa-ceemea-investment-banking-associate-at-deutsche-bank-4440086223) | Deutsche Bank | London, England, United Kingdom | ❔ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127667698) | S1Jobs | Scotland | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (406)](#finance-fpa-cv-406) · [Credit (90)](#credit-cv-90) · [Equity (36)](#equity-cv-36) · [Investment (76)](#investment-ib--pe-cv-76) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (93)](#other-fits-no-cv-closely-may-still-be-worth-a-look-93)
+Everything matched so far, newest first within each CV: [Finance (407)](#finance-fpa-cv-407) · [Credit (90)](#credit-cv-90) · [Equity (36)](#equity-cv-36) · [Investment (76)](#investment-ib--pe-cv-76) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (93)](#other-fits-no-cv-closely-may-still-be-worth-a-look-93)
 
-### Finance (FP&A) CV: 406
+### Finance (FP&A) CV: 407
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2525,6 +2516,7 @@ Everything matched so far, newest first within each CV: [Finance (406)](#finance
 | 2026-11-14 | [FP&A Analyst](https://www.adzuna.co.uk/jobs/details/5965264237) | Wave | Aykley Heads, Durham | ✅ |
 | 2026-11-14 | [Assistant Accountant, Treasury and Banking](https://www.adzuna.co.uk/jobs/details/5965566818) | Leisure Employment Services | Shendish, Hemel Hempstead | ✅ |
 | 2026-11-14 | [FP&A Analyst](https://www.adzuna.co.uk/jobs/details/5965262420) | GC Partners | St Paul's, Central London | ❔ |
+| 2026-11-14 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-lego-digital-play-4491028985) | LEGO Digital Play | London, England, United Kingdom | ✅ |
 | 2026-11-14 | [Assistant Accountant](https://www.adzuna.co.uk/jobs/details/5965915370) | Vertu Motors | Plympton, Plymouth | ✅ |
 | 2026-11-14 | [Treasury Accountant](https://www.adzuna.co.uk/jobs/details/5965264903) | TrinityBridge | Marlston-Cum-Lache, Chester | ✅ |
 | 2026-11-14 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-djh-4488991960) | DJH | Stoke-On-Trent, England, United Kingdom | ❔ |
