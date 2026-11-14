@@ -1,13 +1,13 @@
 {
-  "finished_at": "2026-11-14T12:09:30.164Z",
+  "finished_at": "2026-11-14T13:10:17.945Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 31891,
-  "filtered_out": 31863,
-  "new_matches": 3,
+  "postings_seen": 31872,
+  "filtered_out": 31844,
+  "new_matches": 0,
   "boards_failed": 42,
   "failed": [
     {
@@ -15,11 +15,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Moelis (University)",
+      "company": "PJT Partners",
       "error": "fetch failed"
     },
     {
-      "company": "PJT Partners",
+      "company": "Moelis (University)",
       "error": "fetch failed"
     },
     {
@@ -39,11 +39,15 @@
       "error": "fetch failed"
     },
     {
+      "company": "Vanguard",
+      "error": "fetch failed"
+    },
+    {
       "company": "Franklin Templeton",
       "error": "fetch failed"
     },
     {
-      "company": "Vanguard",
+      "company": "Wellington Management (Campus)",
       "error": "fetch failed"
     },
     {
@@ -55,15 +59,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "PIMCO",
-      "error": "fetch failed"
-    },
-    {
       "company": "MFS",
       "error": "fetch failed"
     },
     {
-      "company": "Wellington Management (Campus)",
+      "company": "PIMCO",
       "error": "fetch failed"
     },
     {
@@ -71,11 +71,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Blackstone",
+      "company": "Blackstone (Campus)",
       "error": "fetch failed"
     },
     {
-      "company": "Blackstone (Campus)",
+      "company": "Blackstone",
       "error": "fetch failed"
     },
     {
@@ -87,15 +87,15 @@
       "error": "fetch failed"
     },
     {
-      "company": "Nasdaq",
-      "error": "fetch failed"
-    },
-    {
       "company": "S&P Global",
       "error": "fetch failed"
     },
     {
       "company": "CME Group",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Nasdaq",
       "error": "fetch failed"
     },
     {
@@ -123,11 +123,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "PayPal",
+      "company": "Worldpay",
       "error": "fetch failed"
     },
     {
-      "company": "Worldpay",
+      "company": "PayPal",
       "error": "fetch failed"
     },
     {
