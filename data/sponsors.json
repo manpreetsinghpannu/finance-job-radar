@@ -622,6 +622,11 @@
    "register_name": "carwow Ltd.",
    "match": "exact"
   },
+  "Castleton Commodities International": {
+   "licensed": true,
+   "register_name": "Castleton Commodities UK Limited",
+   "match": "exact"
+  },
   "Catalyst": {
    "licensed": true,
    "register_name": "Catalyst Corporation Ltd",
@@ -666,6 +671,11 @@
    "licensed": true,
    "register_name": "Cinven Limited",
    "match": "alias"
+  },
+  "Circle": {
+   "licensed": true,
+   "register_name": "Circle",
+   "match": "exact"
   },
   "Citi": {
    "licensed": true,
@@ -758,6 +768,11 @@
    "match": "none"
   },
   "Cornell Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Crossing Hurdles": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2232,6 +2247,11 @@
    "register_name": "Primer API Limited",
    "match": "alias"
   },
+  "Priory": {
+   "licensed": true,
+   "register_name": "Priory Group",
+   "match": "exact"
+  },
   "Propel Holdings": {
    "licensed": true,
    "register_name": "Propel Holdings Limited",
@@ -2612,6 +2632,11 @@
    "register_name": "Sphere Digital Recruitment Limited",
    "match": "exact"
   },
+  "Spire Healthcare Group plc": {
+   "licensed": true,
+   "register_name": "Spire Healthcare Ltd",
+   "match": "exact"
+  },
   "Squarepoint Capital": {
    "licensed": true,
    "register_name": "Squarepoint Capital LLP",
@@ -2811,6 +2836,11 @@
    "licensed": true,
    "register_name": "Tide Platform Ltd",
    "match": "alias"
+  },
+  "Totum Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Tower Research Capital": {
    "licensed": true,

@@ -1,65 +1,17 @@
 {
-  "finished_at": "2026-11-14T15:09:50.483Z",
+  "finished_at": "2026-11-14T16:09:41.978Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 32380,
-  "filtered_out": 32347,
-  "new_matches": 0,
-  "boards_failed": 26,
+  "postings_seen": 34031,
+  "filtered_out": 33991,
+  "new_matches": 9,
+  "boards_failed": 5,
   "failed": [
     {
-      "company": "BlackRock",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Invesco",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Invesco (Early Careers)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Aviva Investors",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Vanguard",
-      "error": "fetch failed"
-    },
-    {
-      "company": "PIMCO",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Ares Management",
-      "error": "fetch failed"
-    },
-    {
-      "company": "S&P Global",
-      "error": "fetch failed"
-    },
-    {
       "company": "Nasdaq",
-      "error": "fetch failed"
-    },
-    {
-      "company": "CME Group",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Aviva",
-      "error": "fetch failed"
-    },
-    {
-      "company": "AIG",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Simply Business",
       "error": "fetch failed"
     },
     {
@@ -71,47 +23,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Visa",
-      "error": "fetch failed"
-    },
-    {
       "company": "PayPal",
       "error": "fetch failed"
     },
     {
-      "company": "Worldpay",
-      "error": "fetch failed"
-    },
-    {
-      "company": "GSK",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Houlihan Lokey (Campus)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Houlihan Lokey (Lateral)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Citi",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Mizuho",
-      "error": "fetch failed"
-    },
-    {
       "company": "State Street",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Northern Trust",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Calastone",
       "error": "fetch failed"
     }
   ]

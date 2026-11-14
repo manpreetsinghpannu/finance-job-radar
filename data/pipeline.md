@@ -1067,5 +1067,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57566333 | Pavilion Recruitment Solutions | Management Accountant | London | posted: 2026-11-13 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/associate-ig-credit-financials-at-apollo-global-management-inc-4437389647 | Apollo Global Management, Inc. | Associate - IG Credit (Financials) | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-james-d-bilsland-ltd-4490724951 | James D Bilsland Ltd | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-private-debt-investments-at-stepstone-group-4481924081 | StepStone Group | Analyst, Private Debt Investments | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-remote-at-crossing-hurdles-4489857996 | Crossing Hurdles | Financial Analyst | Remote | United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-circle-4463907834 | Circle | Accountant | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-dairy-meal-solutions-at-morrisons-4488987860 | Morrisons | Accountant - Dairy & Meal Solutions | Bradford, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-priory-4490760211 | Priory | Management Accountant | Darlington, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/hospital-accountant-at-spire-healthcare-group-plc-4489595388 | Spire Healthcare Group plc | Hospital Accountant | Manchester, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-finance-business-partner-at-totum-partners-4490755248 | Totum Partners | Junior Finance Business Partner | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-targetjobs-uk-4489897501 | targetjobs UK | Allianz UK Graduate Finance Scheme 2027 | Guildford, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commodities-trading-analyst-programme-rolling-application-for-0-3-years-experience-at-castleton-commodities-international-4488996040 | Castleton Commodities International | Commodities Trading Analyst Programme [Rolling Application for 0-3 Years Experience] | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed
