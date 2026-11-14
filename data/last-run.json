@@ -1,21 +1,21 @@
 {
-  "finished_at": "2026-11-14T03:23:57.394Z",
+  "finished_at": "2026-11-14T04:11:04.851Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 30889,
-  "filtered_out": 30863,
+  "postings_seen": 32395,
+  "filtered_out": 32366,
   "new_matches": 0,
-  "boards_failed": 42,
+  "boards_failed": 40,
   "failed": [
     {
-      "company": "Moelis",
+      "company": "Moelis (University)",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Moelis (University)",
+      "company": "Moelis",
       "error": "HTTP 521 <none>"
     },
     {
@@ -35,11 +35,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Vanguard",
+      "company": "Aviva Investors",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Aviva Investors",
+      "company": "Vanguard",
       "error": "HTTP 521 <none>"
     },
     {
@@ -51,11 +51,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Wellington Management (Campus)",
+      "company": "Wellington Management",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Wellington Management",
+      "company": "Wellington Management (Campus)",
       "error": "HTTP 521 <none>"
     },
     {
@@ -91,11 +91,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "CME Group",
+      "company": "Nasdaq",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Nasdaq",
+      "company": "CME Group",
       "error": "HTTP 521 <none>"
     },
     {
@@ -103,15 +103,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Simply Business",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "AIG",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Visa",
+      "company": "Simply Business",
       "error": "HTTP 521 <none>"
     },
     {
@@ -123,11 +119,15 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Worldpay",
+      "company": "PayPal",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "PayPal",
+      "company": "Visa",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Worldpay",
       "error": "HTTP 521 <none>"
     },
     {
@@ -147,15 +147,15 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Citi",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "Mizuho",
       "error": "HTTP 521 <none>"
     },
     {
       "company": "State Street",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Citi",
       "error": "HTTP 521 <none>"
     },
     {
@@ -169,14 +169,6 @@
     {
       "company": "ICF",
       "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Reckitt",
-      "error": "This operation was aborted"
-    },
-    {
-      "company": "EY",
-      "error": "This operation was aborted"
     }
   ]
 }
