@@ -2842,6 +2842,11 @@
    "register_name": "TP ICAP GROUP SERVICES LIMITED",
    "match": "exact"
   },
+  "TPG Ltd": {
+   "licensed": true,
+   "register_name": "TPG EUROPE, LLP",
+   "match": "exact"
+  },
   "TUI": {
    "licensed": false,
    "register_name": null,
