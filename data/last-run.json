@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-14T04:11:04.851Z",
+  "finished_at": "2026-11-14T05:13:04.544Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 32395,
-  "filtered_out": 32366,
-  "new_matches": 0,
-  "boards_failed": 40,
+  "postings_seen": 30482,
+  "filtered_out": 30458,
+  "new_matches": 1,
+  "boards_failed": 44,
   "failed": [
     {
       "company": "Moelis (University)",
@@ -19,11 +19,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "PJT Partners",
+      "company": "BlackRock",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "BlackRock",
+      "company": "PJT Partners",
       "error": "HTTP 521 <none>"
     },
     {
@@ -103,11 +103,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "AIG",
+      "company": "Simply Business",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Simply Business",
+      "company": "AIG",
       "error": "HTTP 521 <none>"
     },
     {
@@ -119,11 +119,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "PayPal",
+      "company": "Visa",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Visa",
+      "company": "PayPal",
       "error": "HTTP 521 <none>"
     },
     {
@@ -147,15 +147,15 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Citi",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Mizuho",
       "error": "HTTP 521 <none>"
     },
     {
       "company": "State Street",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Citi",
       "error": "HTTP 521 <none>"
     },
     {
@@ -167,8 +167,24 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "SMBC",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Nomura",
+      "error": "HTTP 404 Not Found"
+    },
+    {
       "company": "ICF",
       "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Janus Henderson",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "EY",
+      "error": "This operation was aborted"
     }
   ]
 }
