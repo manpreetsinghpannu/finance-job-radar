@@ -1054,5 +1054,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/property-client-accountant/57566034 | Hays Specialist Recruitment Limited | Property Client Accountant | Birmingham, West Midlands (County) | posted: 2026-11-13 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/financial-solutions-analyst-graduate-at-targetjobs-uk-4489850773 | targetjobs UK | Financial Solutions Analyst Graduate | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-emea-diversified-industries-analyst-london-at-jpmorganchase-4491053037 | JPMorganChase | Investment Banking - EMEA Diversified Industries - Analyst - London | Greater London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-2-5-years-special-situations-at-mondrian-alpha-4488941043 | Mondrian Alpha | Investment Analyst (2-5 Years) - Special Situations | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed

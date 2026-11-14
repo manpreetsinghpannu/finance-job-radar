@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T06:11:17.852Z",
+ "generated_at": "2026-11-14T07:10:47.582Z",
  "order": [
   "finance",
   "credit",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 29,
+   "matching": 30,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 21,
+   "matching": 22,
    "picks": [
     {
      "title": "Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory",
@@ -3742,6 +3742,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-2-5-years-special-situations-at-mondrian-alpha-4488941043": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
   }
  }
 }

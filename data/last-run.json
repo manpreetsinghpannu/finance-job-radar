@@ -1,21 +1,21 @@
 {
-  "finished_at": "2026-11-14T06:11:18.454Z",
+  "finished_at": "2026-11-14T07:10:48.478Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 31062,
-  "filtered_out": 31035,
-  "new_matches": 0,
-  "boards_failed": 44,
+  "postings_seen": 31559,
+  "filtered_out": 31532,
+  "new_matches": 1,
+  "boards_failed": 43,
   "failed": [
     {
-      "company": "Moelis",
+      "company": "Moelis (University)",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Moelis (University)",
+      "company": "Moelis",
       "error": "HTTP 521 <none>"
     },
     {
@@ -35,11 +35,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Vanguard",
+      "company": "Aviva Investors",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Aviva Investors",
+      "company": "Vanguard",
       "error": "HTTP 521 <none>"
     },
     {
@@ -59,11 +59,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "PIMCO",
+      "company": "Dimensional Fund Advisors",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Dimensional Fund Advisors",
+      "company": "PIMCO",
       "error": "HTTP 521 <none>"
     },
     {
@@ -103,15 +103,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Aviva",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "AIG",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Mastercard",
+      "company": "Aviva",
       "error": "HTTP 521 <none>"
     },
     {
@@ -123,11 +119,15 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Worldpay",
+      "company": "Mastercard",
       "error": "HTTP 521 <none>"
     },
     {
       "company": "PayPal",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Worldpay",
       "error": "HTTP 521 <none>"
     },
     {
@@ -167,11 +167,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "SMBC",
+      "company": "Nomura",
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "Nomura",
+      "company": "SMBC",
       "error": "HTTP 404 Not Found"
     },
     {
@@ -181,10 +181,6 @@
     {
       "company": "ICF",
       "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Reckitt",
-      "error": "This operation was aborted"
     }
   ]
 }
