@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 14 Nov, 22:09** (UK time) · **750 open roles** at 431 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 14 Nov, 23:10** (UK time) · **754 open roles** at 433 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,27 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 14 Nov, 22:07** · hourly scan · checked 200 boards · **0 new roles**
+**Sat 14 Nov, 23:07** · hourly scan · checked 200 boards · **4 new roles**
 
-Nothing new this time. The last scan that found something was **Sat 14 Nov, 21:35** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-14 | [FP&A Analyst (Maternity Cover)](https://www.linkedin.com/jobs/view/fp-a-analyst-maternity-cover-at-circana-4480694747) | Circana | Bracknell, England, United Kingdom | ✅ |
+| 2026-11-14 | [Part-Qualified Management Accountant](https://scotjobsnet.co.uk/job/part-qualified-management-accountant-3/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
+| 2026-11-14 | [Commercial Accountant](https://www.linkedin.com/jobs/view/commercial-accountant-at-samworth-brothers-4482461883) | Samworth Brothers | Leicester, England, United Kingdom | ❔ |
+
+### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Portfolio Analyst](https://www.reed.co.uk/jobs/portfolio-analyst/57563120) | eFinancialCareers | London | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (169 matching)
+**Finance (FP&A) CV** (170 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -28,7 +40,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817) · Brook Green Supply · London Area, United Kingdom · posted 2026-11-13 · ✅
 2. [Credit Risk Analyst - 12 month FTC](https://www.adzuna.co.uk/jobs/land/ad/5965487971) · Hackajob Ltd · Belgrave, Leicester · posted 2026-11-14 · ✅
 
-**Equity CV** (31 matching)
+**Equity CV** (32 matching)
 
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Quantitative Research Analyst, Mortgages](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106492) · PIMCO · London, GBR · ✅
@@ -58,6 +70,25 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<details>
+<summary><b>23:07</b> · hourly scan · <b>4 new</b> → Finance 3 · Equity 1</summary>
+
+#### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-14 | [FP&A Analyst (Maternity Cover)](https://www.linkedin.com/jobs/view/fp-a-analyst-maternity-cover-at-circana-4480694747) | Circana | Bracknell, England, United Kingdom | ✅ |
+| 2026-11-14 | [Part-Qualified Management Accountant](https://scotjobsnet.co.uk/job/part-qualified-management-accountant-3/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
+| 2026-11-14 | [Commercial Accountant](https://www.linkedin.com/jobs/view/commercial-accountant-at-samworth-brothers-4482461883) | Samworth Brothers | Leicester, England, United Kingdom | ❔ |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Portfolio Analyst](https://www.reed.co.uk/jobs/portfolio-analyst/57563120) | eFinancialCareers | London | ✅ |
+
+</details>
 
 <sub>Nothing new at: 22:07</sub>
 
@@ -2442,9 +2473,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (409)](#finance-fpa-cv-409) · [Credit (90)](#credit-cv-90) · [Equity (36)](#equity-cv-36) · [Investment (76)](#investment-ib--pe-cv-76) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (93)](#other-fits-no-cv-closely-may-still-be-worth-a-look-93)
+Everything matched so far, newest first within each CV: [Finance (412)](#finance-fpa-cv-412) · [Credit (90)](#credit-cv-90) · [Equity (37)](#equity-cv-37) · [Investment (76)](#investment-ib--pe-cv-76) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (93)](#other-fits-no-cv-closely-may-still-be-worth-a-look-93)
 
-### Finance (FP&A) CV: 409
+### Finance (FP&A) CV: 412
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2455,6 +2486,7 @@ Everything matched so far, newest first within each CV: [Finance (409)](#finance
 | 2026-11-14 | [Finance Analyst](https://www.adzuna.co.uk/jobs/land/ad/5965404584) | Pilgrim's Europe | UK | ✅ |
 | 2026-11-14 | [Finance Analyst](https://www.adzuna.co.uk/jobs/land/ad/5965404580) | TALENT INTERNATIONAL UK LTD | UK | ✅ |
 | 2026-11-14 | [FP&A Analyst](https://www.adzuna.co.uk/jobs/details/5965264237) | Wave | Aykley Heads, Durham | ✅ |
+| 2026-11-14 | [FP&A Analyst (Maternity Cover)](https://www.linkedin.com/jobs/view/fp-a-analyst-maternity-cover-at-circana-4480694747) | Circana | Bracknell, England, United Kingdom | ✅ |
 | 2026-11-14 | [Assistant Accountant, Treasury and Banking](https://www.adzuna.co.uk/jobs/details/5965566818) | Leisure Employment Services | Shendish, Hemel Hempstead | ✅ |
 | 2026-11-14 | [FP&A Analyst](https://www.adzuna.co.uk/jobs/details/5965262420) | GC Partners | St Paul's, Central London | ❔ |
 | 2026-11-14 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-lego-digital-play-4491028985) | LEGO Digital Play | London, England, United Kingdom | ✅ |
@@ -2462,6 +2494,7 @@ Everything matched so far, newest first within each CV: [Finance (409)](#finance
 | 2026-11-14 | [Treasury Accountant](https://www.adzuna.co.uk/jobs/details/5965264903) | TrinityBridge | Marlston-Cum-Lache, Chester | ✅ |
 | 2026-11-14 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-djh-4488991960) | DJH | Stoke-On-Trent, England, United Kingdom | ❔ |
 | 2026-11-14 | [Management Accountant](https://www.adzuna.co.uk/jobs/land/ad/5965431375) | Fane Valley Cooperative Society Ltd | Craigavon, Northern Ireland | ❔ |
+| 2026-11-14 | [Part-Qualified Management Accountant](https://scotjobsnet.co.uk/job/part-qualified-management-accountant-3/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
 | 2026-11-14 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-circle-4463907834) | Circle | London Area, United Kingdom | ✅ |
 | 2026-11-14 | [Commercial Analyst](https://www.adzuna.co.uk/jobs/details/5965593317) | Lyreco | Telford, Shropshire | ❔ |
 | 2026-11-14 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-genius-sports-4473375202) | Genius Sports | London, England, United Kingdom | ✅ |
@@ -2473,6 +2506,7 @@ Everything matched so far, newest first within each CV: [Finance (409)](#finance
 | 2026-11-14 | [Financial Controller](https://www.adzuna.co.uk/jobs/details/5965914846) | TAMESIDE COLLEGE | UK | ❔ |
 | 2026-11-14 | [Part Qualified Accountant](https://www.adzuna.co.uk/jobs/land/ad/5965621628) | Starfish Search Limited | Leeds, West Yorkshire | ❔ |
 | 2026-11-14 | [Operations Accountant](https://www.adzuna.co.uk/jobs/details/5965576699) | Hain Daniels | Histon, Cambridge | ❔ |
+| 2026-11-14 | [Commercial Accountant](https://www.linkedin.com/jobs/view/commercial-accountant-at-samworth-brothers-4482461883) | Samworth Brothers | Leicester, England, United Kingdom | ❔ |
 | 2026-11-13 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-mint-velvet-4479738824) | Mint Velvet | High Wycombe, England, United Kingdom | ❔ |
 | 2026-11-13 | [Junior Management Accountant (12 month FTC)](https://jobs.lever.co/octoenergy/9419f561-6d06-4b1b-8d53-1be03cd9f2f4) | Octopus Energy | London (GB) | ✅ |
 | 2026-11-13 | [Structured Finance Analyst](https://www.linkedin.com/jobs/view/structured-finance-analyst-at-jac-recruitment-4480667323) | JAC Recruitment | London, England, United Kingdom | ✅ |
@@ -2953,13 +2987,14 @@ Everything matched so far, newest first within each CV: [Finance (409)](#finance
 | 2026-10-20 | [Market Risk (Product) Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/London-UK/Market-Risk--Product--Analyst_329916) | S&P Global | London, UK | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 36
+### Equity CV: 37
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-14 | [EMEA Equity Research - Real Estate - Analyst or Associate](https://www.linkedin.com/jobs/view/emea-equity-research-real-estate-analyst-or-associate-at-jpmorganchase-4483189885) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-14 | [Investment Analyst (2-5 Years) - Special Situations](https://www.linkedin.com/jobs/view/investment-analyst-2-5-years-special-situations-at-mondrian-alpha-4488941043) | Mondrian Alpha | London Area, United Kingdom | ✅ |
 | 2026-11-14 | [Investment Analyst (Spanish Speaking)](https://www.adzuna.co.uk/jobs/details/5965262392) | Valor Real Estate Partners | St James's, South West London | ✅ |
+| — | [Portfolio Analyst](https://www.reed.co.uk/jobs/portfolio-analyst/57563120) | eFinancialCareers | London | ✅ |
 | 2026-11-13 | [Equities Quantitative Researcher](https://www.linkedin.com/jobs/view/equities-quantitative-researcher-at-point-one-hedge-fund-talent-4467720194) | Point One - Hedge Fund Talent | London Area, United Kingdom | ❔ |
 | 2026-11-13 | [Portfolio Analytics Specialist](https://www.linkedin.com/jobs/view/portfolio-analytics-specialist-at-arcana-4489575520) | Arcana | London Area, United Kingdom | ❔ |
 | 2026-11-12 | [Equity Capital Markets, Analyst](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/Equity-Capital-Markets--Analyst_10079971-WD-1) | MUFG | London | ✅ |

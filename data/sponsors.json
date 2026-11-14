@@ -682,6 +682,11 @@
    "register_name": "Cinven Limited",
    "match": "alias"
   },
+  "Circana": {
+   "licensed": true,
+   "register_name": "Circana (UK) Ltd",
+   "match": "exact"
+  },
   "Circle": {
    "licensed": true,
    "register_name": "Circle",
@@ -2586,6 +2591,11 @@
    "licensed": true,
    "register_name": "SALT Group Limited",
    "match": "exact"
+  },
+  "Samworth Brothers": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Santander": {
    "licensed": true,
