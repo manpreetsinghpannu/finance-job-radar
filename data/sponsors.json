@@ -372,6 +372,11 @@
    "register_name": "Banham Patent Locks Ltd",
    "match": "exact"
   },
+  "Banham Poultry (2018) Limited": {
+   "licensed": true,
+   "register_name": "Banham Poultry (2018) Ltd",
+   "match": "exact"
+  },
   "Bank of America": {
    "licensed": true,
    "register_name": "Bank of America, N.A.",

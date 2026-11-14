@@ -1,21 +1,21 @@
 {
-  "finished_at": "2026-11-14T10:38:29.555Z",
+  "finished_at": "2026-11-14T11:10:40.603Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 31397,
-  "filtered_out": 31369,
+  "postings_seen": 30867,
+  "filtered_out": 30842,
   "new_matches": 1,
   "boards_failed": 43,
   "failed": [
     {
-      "company": "Moelis",
+      "company": "Moelis (University)",
       "error": "fetch failed"
     },
     {
-      "company": "Moelis (University)",
+      "company": "Moelis",
       "error": "fetch failed"
     },
     {
@@ -51,11 +51,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "PIMCO",
-      "error": "fetch failed"
-    },
-    {
-      "company": "MFS",
+      "company": "Wellington Management (Campus)",
       "error": "fetch failed"
     },
     {
@@ -63,11 +59,15 @@
       "error": "fetch failed"
     },
     {
-      "company": "Wellington Management (Campus)",
+      "company": "MFS",
       "error": "fetch failed"
     },
     {
-      "company": "Blackstone",
+      "company": "Dimensional Fund Advisors",
+      "error": "fetch failed"
+    },
+    {
+      "company": "PIMCO",
       "error": "fetch failed"
     },
     {
@@ -75,7 +75,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "Dimensional Fund Advisors",
+      "company": "Blackstone",
       "error": "fetch failed"
     },
     {
@@ -87,11 +87,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Nasdaq",
+      "company": "S&P Global",
       "error": "fetch failed"
     },
     {
-      "company": "S&P Global",
+      "company": "Nasdaq",
       "error": "fetch failed"
     },
     {
@@ -103,11 +103,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "AIG",
+      "company": "Simply Business",
       "error": "fetch failed"
     },
     {
-      "company": "Simply Business",
+      "company": "AIG",
       "error": "fetch failed"
     },
     {
@@ -119,11 +119,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Visa",
+      "company": "PayPal",
       "error": "fetch failed"
     },
     {
-      "company": "PayPal",
+      "company": "Visa",
       "error": "fetch failed"
     },
     {
@@ -147,7 +147,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "State Street",
+      "company": "Citi",
       "error": "fetch failed"
     },
     {
@@ -155,7 +155,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "Citi",
+      "company": "State Street",
       "error": "fetch failed"
     },
     {
@@ -179,7 +179,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "Reckitt",
+      "company": "EY",
       "error": "This operation was aborted"
     }
   ]
