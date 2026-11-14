@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 14 Nov, 23:10** (UK time) · **754 open roles** at 433 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 14 Nov, 23:32** (UK time) · **754 open roles** at 433 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,21 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 14 Nov, 23:07** · hourly scan · checked 200 boards · **4 new roles**
+**Sat 14 Nov, 23:29** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [FP&A Analyst (Maternity Cover)](https://www.linkedin.com/jobs/view/fp-a-analyst-maternity-cover-at-circana-4480694747) | Circana | Bracknell, England, United Kingdom | ✅ |
-| 2026-11-14 | [Part-Qualified Management Accountant](https://scotjobsnet.co.uk/job/part-qualified-management-accountant-3/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
-| 2026-11-14 | [Commercial Accountant](https://www.linkedin.com/jobs/view/commercial-accountant-at-samworth-brothers-4482461883) | Samworth Brothers | Leicester, England, United Kingdom | ❔ |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Portfolio Analyst](https://www.reed.co.uk/jobs/portfolio-analyst/57563120) | eFinancialCareers | London | ✅ |
+Nothing new this time. The last scan that found something was **Sat 14 Nov, 23:07** (4: Finance 3 · Equity 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -70,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<sub>Nothing new at: 23:29</sub>
 
 <details>
 <summary><b>23:07</b> · hourly scan · <b>4 new</b> → Finance 3 · Equity 1</summary>
@@ -2443,31 +2433,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127651654) | S1Jobs | Scotland | ❔ |
-
-</details>
-
-### Saturday 7 November
-
-<details>
-<summary><b>23:15</b> · hourly scan · <b>3 new</b> → Finance 1 · Fund 1 · Other 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-07 | [FP&A - Private Markets](https://www.linkedin.com/jobs/view/fp-a-private-markets-at-aria-partners-4474790264) | Aria Partners | London Area, United Kingdom | ❔ |
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-07 | [Fund Accountant - Private Markets](https://www.linkedin.com/jobs/view/fund-accountant-private-markets-at-aria-partners-4487503898) | Aria Partners | London Area, United Kingdom | ❔ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127657800) | S1Jobs | Scotland | ❔ |
 
 </details>
 
