@@ -1057,5 +1057,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-analyst-2-5-years-special-situations-at-mondrian-alpha-4488941043 | Mondrian Alpha | Investment Analyst (2-5 Years) - Special Situations | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-catalyst-4489309896 | Catalyst | FP&A Analyst | Gateshead, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57568505 | Sheridan Maine | Management Accountant | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/emea-equity-research-real-estate-analyst-or-associate-at-jpmorganchase-4483189885 | JPMorganChase | EMEA Equity Research - Real Estate - Analyst or Associate | Greater London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-central-eastern-europe-coverage-analyst-london-at-jpmorganchase-4483309056 | JPMorganChase | Investment Banking - Central & Eastern Europe Coverage - Analyst - London | Greater London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-djh-4488991960 | DJH | Management Accountant | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed

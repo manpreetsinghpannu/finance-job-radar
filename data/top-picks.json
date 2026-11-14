@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T09:10:09.436Z",
+ "generated_at": "2026-11-14T10:11:26.918Z",
  "order": [
   "finance",
   "credit",
@@ -3757,6 +3757,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/emea-equity-research-real-estate-analyst-or-associate-at-jpmorganchase-4483189885": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-central-eastern-europe-coverage-analyst-london-at-jpmorganchase-4483309056": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-djh-4488991960": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

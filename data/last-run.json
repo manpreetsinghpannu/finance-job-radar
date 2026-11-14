@@ -1,29 +1,29 @@
 {
-  "finished_at": "2026-11-14T09:10:10.256Z",
+  "finished_at": "2026-11-14T10:11:27.718Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 30302,
-  "filtered_out": 30279,
-  "new_matches": 0,
-  "boards_failed": 47,
+  "postings_seen": 31787,
+  "filtered_out": 31759,
+  "new_matches": 3,
+  "boards_failed": 42,
   "failed": [
-    {
-      "company": "Moelis (University)",
-      "error": "fetch failed"
-    },
     {
       "company": "Moelis",
       "error": "fetch failed"
     },
     {
-      "company": "PJT Partners",
+      "company": "Moelis (University)",
       "error": "fetch failed"
     },
     {
       "company": "BlackRock",
+      "error": "fetch failed"
+    },
+    {
+      "company": "PJT Partners",
       "error": "fetch failed"
     },
     {
@@ -51,15 +51,15 @@
       "error": "fetch failed"
     },
     {
-      "company": "Wellington Management (Campus)",
-      "error": "fetch failed"
-    },
-    {
       "company": "Wellington Management",
       "error": "fetch failed"
     },
     {
       "company": "PIMCO",
+      "error": "fetch failed"
+    },
+    {
+      "company": "MFS",
       "error": "fetch failed"
     },
     {
@@ -75,7 +75,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "MFS",
+      "company": "Wellington Management (Campus)",
       "error": "fetch failed"
     },
     {
@@ -87,15 +87,15 @@
       "error": "fetch failed"
     },
     {
-      "company": "S&P Global",
-      "error": "fetch failed"
-    },
-    {
       "company": "Nasdaq",
       "error": "fetch failed"
     },
     {
       "company": "CME Group",
+      "error": "fetch failed"
+    },
+    {
+      "company": "S&P Global",
       "error": "fetch failed"
     },
     {
@@ -119,15 +119,15 @@
       "error": "fetch failed"
     },
     {
+      "company": "PayPal",
+      "error": "fetch failed"
+    },
+    {
       "company": "Visa",
       "error": "fetch failed"
     },
     {
       "company": "Worldpay",
-      "error": "fetch failed"
-    },
-    {
-      "company": "PayPal",
       "error": "fetch failed"
     },
     {
@@ -163,10 +163,6 @@
       "error": "fetch failed"
     },
     {
-      "company": "OSB Group",
-      "error": "HTTP 520 Unknown"
-    },
-    {
       "company": "Perella Weinberg",
       "error": "fetch failed"
     },
@@ -179,24 +175,8 @@
       "error": "fetch failed"
     },
     {
-      "company": "SMBC",
-      "error": "HTTP 404 Not Found"
-    },
-    {
       "company": "ICF",
       "error": "fetch failed"
-    },
-    {
-      "company": "Janus Henderson",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "Octopus Energy",
-      "error": "This operation was aborted"
-    },
-    {
-      "company": "EY",
-      "error": "This operation was aborted"
     }
   ]
 }
