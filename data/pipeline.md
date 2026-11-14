@@ -1065,5 +1065,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-doncaster-racecourse-and-exhibition-centre-4488940724 | Doncaster Racecourse and Exhibition Centre | Assistant Management Accountant | Doncaster, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-accountant/57565652 | Talk Staff | Financial Accountant | Derby, Derbyshire | posted: 2026-11-13 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57566333 | Pavilion Recruitment Solutions | Management Accountant | London | posted: 2026-11-13 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/associate-ig-credit-financials-at-apollo-global-management-inc-4437389647 | Apollo Global Management, Inc. | Associate - IG Credit (Financials) | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-james-d-bilsland-ltd-4490724951 | James D Bilsland Ltd | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed

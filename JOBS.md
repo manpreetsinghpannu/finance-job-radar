@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 14 Nov, 14:10** (UK time) · **708 open roles** at 398 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 14 Nov, 14:41** (UK time) · **710 open roles** at 399 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 14 Nov, 14:07** · hourly scan · checked 200 boards · **0 new roles**
+**Sat 14 Nov, 14:36** · hourly scan · checked 200 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Sat 14 Nov, 12:07** (3: Finance 3); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-13 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-james-d-bilsland-ltd-4490724951) | James D Bilsland Ltd | Glasgow, Scotland, United Kingdom | ❔ |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-14 | [Associate - IG Credit (Financials)](https://www.linkedin.com/jobs/view/associate-ig-credit-financials-at-apollo-global-management-inc-4437389647) | Apollo Global Management, Inc. | London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<details>
+<summary><b>14:36</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-13 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-james-d-bilsland-ltd-4490724951) | James D Bilsland Ltd | Glasgow, Scotland, United Kingdom | ❔ |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-14 | [Associate - IG Credit (Financials)](https://www.linkedin.com/jobs/view/associate-ig-credit-financials-at-apollo-global-management-inc-4437389647) | Apollo Global Management, Inc. | London, England, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 14:07, 13:07</sub>
 
@@ -2484,30 +2511,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>14:29</b> · hourly scan · <b>4 new</b> → Finance 3 · Other 1</summary>
-
-#### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Finance Analyst](https://www.s1jobs.com/job/finance-analyst-127656275) | S1Jobs | Scotland | ❔ |
-| 2026-11-07 | [Divisional Accountant](https://www.linkedin.com/jobs/view/divisional-accountant-at-lookers-motor-group-limited-4469737810) | Lookers Motor Group Limited | Chester, England, United Kingdom | ❔ |
-| — | [Accountant](https://www.s1jobs.com/job/accountant-127667677) | S1Jobs | Scotland | ❔ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127688563) | S1Jobs | Scotland | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (381)](#finance-fpa-cv-381) · [Credit (86)](#credit-cv-86) · [Equity (35)](#equity-cv-35) · [Investment (70)](#investment-ib--pe-cv-70) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (90)](#other-fits-no-cv-closely-may-still-be-worth-a-look-90)
+Everything matched so far, newest first within each CV: [Finance (382)](#finance-fpa-cv-382) · [Credit (87)](#credit-cv-87) · [Equity (35)](#equity-cv-35) · [Investment (70)](#investment-ib--pe-cv-70) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (90)](#other-fits-no-cv-closely-may-still-be-worth-a-look-90)
 
-### Finance (FP&A) CV: 381
+### Finance (FP&A) CV: 382
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2541,6 +2549,7 @@ Everything matched so far, newest first within each CV: [Finance (381)](#finance
 | 2026-11-13 | [Strategic Projects Management Accountant (Hybrid)](https://scotjobsnet.co.uk/job/strategic-projects-management-accountant-hybrid/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
 | 2026-11-13 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-vitae-financial-recruitment-4488945632) | Vitae Financial Recruitment | Hemel Hempstead, England, United Kingdom | ❔ |
 | 2026-11-13 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-tower-transit-group-4490591514) | Tower Transit Group | Swansea, Wales, United Kingdom | ❔ |
+| 2026-11-13 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-james-d-bilsland-ltd-4490724951) | James D Bilsland Ltd | Glasgow, Scotland, United Kingdom | ❔ |
 | 2026-11-13 | [Temporary Assistant Accountant](https://scotjobsnet.co.uk/job/temporary-assistant-accountant-2/) | via ScotJobsNet | West Lothian, Scotland | ❔ |
 | 2026-11-13 | [Financial Accountant - Gross Margin Accounting](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400098226) | Sainsbury's | London, London, United Kingdom | ✅ |
 | 2026-11-13 | [Financial Reporting, Associate, Fund Services (Glasgow)](https://www.linkedin.com/jobs/view/financial-reporting-associate-fund-services-glasgow-at-morgan-stanley-4472594244) | Morgan Stanley | Glasgow, Scotland, United Kingdom | ✅ |
@@ -2893,10 +2902,11 @@ Everything matched so far, newest first within each CV: [Finance (381)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 86
+### Credit CV: 87
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-14 | [Associate - IG Credit (Financials)](https://www.linkedin.com/jobs/view/associate-ig-credit-financials-at-apollo-global-management-inc-4437389647) | Apollo Global Management, Inc. | London, England, United Kingdom | ❔ |
 | 2026-11-13 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817) | Brook Green Supply | London Area, United Kingdom | ✅ |
 | 2026-11-13 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-premier-foods-4472770244) | Premier Foods | Manchester, England, United Kingdom | ✅ |
 | 2026-11-13 | [Non-Financial Risk Analyst (11 month FTC)](https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Non-Financial-Risk-Analyst--11-month-FTC-_R20521) | M&G | London · Stirling · Edinburgh | ✅ |

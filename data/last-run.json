@@ -1,29 +1,29 @@
 {
-  "finished_at": "2026-11-14T14:10:34.082Z",
+  "finished_at": "2026-11-14T14:41:13.816Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 30851,
-  "filtered_out": 30826,
-  "new_matches": 0,
-  "boards_failed": 43,
+  "postings_seen": 31123,
+  "filtered_out": 31098,
+  "new_matches": 2,
+  "boards_failed": 35,
   "failed": [
-    {
-      "company": "Moelis (University)",
-      "error": "fetch failed"
-    },
     {
       "company": "Moelis",
       "error": "fetch failed"
     },
     {
-      "company": "BlackRock",
+      "company": "Moelis (University)",
       "error": "fetch failed"
     },
     {
       "company": "PJT Partners",
+      "error": "fetch failed"
+    },
+    {
+      "company": "BlackRock",
       "error": "fetch failed"
     },
     {
@@ -43,19 +43,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "T. Rowe Price",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Franklin Templeton",
-      "error": "fetch failed"
-    },
-    {
       "company": "PIMCO",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Wellington Management",
       "error": "fetch failed"
     },
     {
@@ -63,19 +51,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Wellington Management (Campus)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Blackstone",
-      "error": "fetch failed"
-    },
-    {
       "company": "Blackstone (Campus)",
       "error": "fetch failed"
     },
     {
-      "company": "Dimensional Fund Advisors",
+      "company": "Blackstone",
       "error": "fetch failed"
     },
     {
@@ -87,15 +67,15 @@
       "error": "fetch failed"
     },
     {
+      "company": "S&P Global",
+      "error": "fetch failed"
+    },
+    {
       "company": "Nasdaq",
       "error": "fetch failed"
     },
     {
       "company": "CME Group",
-      "error": "fetch failed"
-    },
-    {
-      "company": "S&P Global",
       "error": "fetch failed"
     },
     {
@@ -143,19 +123,15 @@
       "error": "fetch failed"
     },
     {
-      "company": "Universal Music UK",
-      "error": "fetch failed"
-    },
-    {
       "company": "Citi",
       "error": "fetch failed"
     },
     {
-      "company": "State Street",
+      "company": "Mizuho",
       "error": "fetch failed"
     },
     {
-      "company": "Mizuho",
+      "company": "State Street",
       "error": "fetch failed"
     },
     {
@@ -167,15 +143,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "Berkeley Research Group",
-      "error": "fetch failed"
-    },
-    {
       "company": "Calastone",
-      "error": "fetch failed"
-    },
-    {
-      "company": "ICF",
       "error": "fetch failed"
     },
     {

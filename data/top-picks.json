@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T14:10:33.409Z",
+ "generated_at": "2026-11-14T14:41:13.229Z",
  "order": [
   "finance",
   "credit",
@@ -3787,6 +3787,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/associate-ig-credit-financials-at-apollo-global-management-inc-4437389647": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-james-d-bilsland-ltd-4490724951": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }
