@@ -1,15 +1,43 @@
 {
-  "finished_at": "2026-11-14T00:16:06.859Z",
+  "finished_at": "2026-11-14T01:13:00.666Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 32486,
-  "filtered_out": 32450,
-  "new_matches": 7,
-  "boards_failed": 19,
+  "postings_seen": 30808,
+  "filtered_out": 30783,
+  "new_matches": 1,
+  "boards_failed": 40,
   "failed": [
+    {
+      "company": "Moelis",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Moelis (University)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "BlackRock",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "PJT Partners",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Invesco",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Invesco (Early Careers)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Aviva Investors",
+      "error": "HTTP 521 <none>"
+    },
     {
       "company": "Vanguard",
       "error": "HTTP 521 <none>"
@@ -31,7 +59,31 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "PIMCO",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "MFS",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Dimensional Fund Advisors",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Blackstone (Campus)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Blackstone",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Ares Management",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Nasdaq",
       "error": "HTTP 521 <none>"
     },
     {
@@ -39,7 +91,27 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "CME Group",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Aviva",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Simply Business",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Marsh McLennan",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Mastercard",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "PayPal",
       "error": "HTTP 521 <none>"
     },
     {
@@ -55,7 +127,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Universal Music UK",
+      "company": "Houlihan Lokey (Lateral)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "State Street",
       "error": "HTTP 521 <none>"
     },
     {
@@ -63,15 +139,23 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Mizuho",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Northern Trust",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Berkeley Research Group",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Royal London",
+      "company": "BT Group",
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "BT Group",
+      "company": "Royal London",
       "error": "HTTP 404 Not Found"
     },
     {

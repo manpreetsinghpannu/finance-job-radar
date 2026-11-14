@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 14 Nov, 00:16** (UK time) · **696 open roles** at 393 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 14 Nov, 01:12** (UK time) · **697 open roles** at 393 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,29 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 14 Nov, 00:12** · hourly scan · checked 200 boards · **7 new roles**
+**Sat 14 Nov, 01:08** · hourly scan · checked 200 boards · **1 new role**
 
-### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-13 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-hometree-4490796256) | Hometree | London, England, United Kingdom | ❔ |
-| 2026-11-13 | [Operations Intermediate Analyst - Cash Management Treasury Operations - Citi](https://www.reed.co.uk/jobs/operations-intermediate-analyst-cash-management-treasury-operations-citi/57566966) | eFinancialCareers | Belfast, County Antrim | ✅ |
-| 2026-11-13 | [Commercial Analyst](https://www.reed.co.uk/jobs/commercial-analyst/57566232) | Michael Page Finance | Woking, Surrey | ❔ |
-
-### Credit CV: 3
+### Real Estate CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-13 | [Investment Analyst, Debt / Emerging Markets - French speaking - Michael Page](https://www.reed.co.uk/jobs/investment-analyst-debt-emerging-markets-french-speaking-michael-page/57566936) | eFinancialCareers | London | ✅ |
-| 2026-11-13 | [Junior Trading Risk Analyst Systems & Data - CBCX GROUP LTD](https://www.reed.co.uk/jobs/junior-trading-risk-analyst-systems-data-cbcx-group-ltd/57567920) | eFinancialCareers | London | ✅ |
-| 2026-11-13 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-brit-insurance-4488977853) | Brit Insurance | London Area, United Kingdom | ❔ |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-13 | [Interim Investment Operations Analyst 9 month FTC](https://www.reed.co.uk/jobs/interim-investment-operations-analyst-9-month-ftc/57563078) | eFinancialCareers | London | ✅ |
+| 2026-11-13 | [Property Client Accountant](https://www.reed.co.uk/jobs/property-client-accountant/57566034) | Hays Specialist Recruitment Limited | Birmingham, West Midlands (County) | ❔ |
 
 ## Top picks for each CV
 
@@ -48,7 +32,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817) · Brook Green Supply · London Area, United Kingdom · posted 2026-11-13 · ✅
 2. [Credit Risk Underwriter - Structured Lending](https://www.linkedin.com/jobs/view/credit-risk-underwriter-structured-lending-at-morgan-mckinley-4486985902) · Morgan McKinley · London Area, United Kingdom · posted 2026-11-06 · ✅
 
-**Equity CV** (28 matching)
+**Equity CV** (29 matching)
 
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Quantitative Research Analyst, Mortgages](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106492) · PIMCO · London, GBR · ✅
@@ -63,7 +47,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [VAIB Strategy Analyst](https://job-boards.greenhouse.io/monzo/jobs/8359155) · Monzo · Cardiff, London or Remote (UK) · posted 2026-11-09 · ✅
 2. [Credit Strategy Analyst](https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-funding-circle-uk-4488400686) · Funding Circle UK · London, England, United Kingdom · posted 2026-11-06 · ✅
 
-**Real Estate CV** (20 matching)
+**Real Estate CV** (21 matching)
 
 1. [Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695) · Rothschild & Co · London · posted 2026-11-12 · ✅
 2. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
@@ -78,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<details>
+<summary><b>01:08</b> · hourly scan · <b>1 new</b> → Real Estate 1</summary>
+
+#### Real Estate CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-13 | [Property Client Accountant](https://www.reed.co.uk/jobs/property-client-accountant/57566034) | Hays Specialist Recruitment Limited | Birmingham, West Midlands (County) | ❔ |
+
+</details>
 
 <details>
 <summary><b>00:12</b> · hourly scan · <b>7 new</b> → Finance 3 · Credit 3 · Fund 1</summary>
@@ -2629,11 +2624,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 12:07, 11:07, 10:07, 09:07, 08:06, 07:53, 07:10, 06:13, 05:09, 04:09, 03:09, 02:09, 01:24, 01:10, 00:20</sub>
+<sub>Nothing new at: 12:07, 11:07, 10:07, 09:07, 08:06, 07:53, 07:10, 06:13, 05:09, 04:09, 03:09, 02:09, 01:24</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (374)](#finance-fpa-cv-374) · [Credit (86)](#credit-cv-86) · [Equity (33)](#equity-cv-33) · [Investment (68)](#investment-ib--pe-cv-68) · [Consulting (15)](#consulting-cv-15) · [Real Estate (11)](#real-estate-cv-11) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (90)](#other-fits-no-cv-closely-may-still-be-worth-a-look-90)
+Everything matched so far, newest first within each CV: [Finance (374)](#finance-fpa-cv-374) · [Credit (86)](#credit-cv-86) · [Equity (33)](#equity-cv-33) · [Investment (68)](#investment-ib--pe-cv-68) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (90)](#other-fits-no-cv-closely-may-still-be-worth-a-look-90)
 
 ### Finance (FP&A) CV: 374
 
@@ -3236,10 +3231,11 @@ Everything matched so far, newest first within each CV: [Finance (374)](#finance
 | 2026-10-07 | [Oracle ERP Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Oracle-ERP-Finance-Transformation-Consultant_R00361406) | Accenture | London | ❔ |
 | 2026-10-06 | [Intercompany Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Intercompany-Finance-Transformation-Consultant_R00359314) | Accenture | London | ❔ |
 
-### Real Estate CV: 11
+### Real Estate CV: 12
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-13 | [Property Client Accountant](https://www.reed.co.uk/jobs/property-client-accountant/57566034) | Hays Specialist Recruitment Limited | Birmingham, West Midlands (County) | ❔ |
 | 2026-11-13 | [Associate, Investments Client Group - Asset Management](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/London-United-Kingdom/Associate--Investments-Client-Group---Asset-Management_R158225) | Northern Trust | London, United Kingdom | ✅ |
 | 2026-11-11 | [Real Estate Investment Analyst, European Investor, London](https://www.linkedin.com/jobs/view/real-estate-investment-analyst-european-investor-london-at-edgworth-partners-4487243131) | Edgworth Partners | London Area, United Kingdom | ❔ |
 | 2026-11-11 | [2027 Macquarie Asset Management Graduate Programme - Client Solutions Group](https://www.linkedin.com/jobs/view/2027-macquarie-asset-management-graduate-programme-client-solutions-group-at-targetjobs-uk-4487888199) | targetjobs UK | London, England, United Kingdom | ❔ |
@@ -3374,7 +3370,7 @@ Everything matched so far, newest first within each CV: [Finance (374)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>59 roles taken off the list because the firm closed the posting</summary>
+<summary>57 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3435,7 +3431,5 @@ Everything matched so far, newest first within each CV: [Finance (374)](#finance
 | Sun 8 Nov, 09:14 | Investment Banking Analyst (Remote) | Joblet-AI |
 | Sun 8 Nov, 06:09 | 2027 Commodities and Global Markets Graduate Programme | targetjobs UK |
 | Sun 8 Nov, 01:33 | Finance Business Partner | Lloyd's of London |
-| Sat 7 Nov, 01:10 | Management Accountant | Howden |
-| Sat 7 Nov, 00:20 | Private Companies Valuations Analyst | Baillie Gifford |
 
 </details>

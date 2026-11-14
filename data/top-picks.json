@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T00:16:05.762Z",
+ "generated_at": "2026-11-14T01:12:59.747Z",
  "order": [
   "finance",
   "credit",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 28,
+   "matching": 29,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 20,
+   "matching": 21,
    "picks": [
     {
      "title": "Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory",
@@ -3727,6 +3727,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
+  },
+  "https://www.reed.co.uk/jobs/property-client-accountant/57566034": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 14
   }
  }
 }
