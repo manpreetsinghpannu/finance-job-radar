@@ -1,29 +1,29 @@
 {
-  "finished_at": "2026-11-14T03:10:14.601Z",
+  "finished_at": "2026-11-14T03:23:57.394Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 30855,
-  "filtered_out": 30829,
-  "new_matches": 1,
-  "boards_failed": 43,
+  "postings_seen": 30889,
+  "filtered_out": 30863,
+  "new_matches": 0,
+  "boards_failed": 42,
   "failed": [
-    {
-      "company": "Moelis (University)",
-      "error": "HTTP 521 <none>"
-    },
     {
       "company": "Moelis",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "BlackRock",
+      "company": "Moelis (University)",
       "error": "HTTP 521 <none>"
     },
     {
       "company": "PJT Partners",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "BlackRock",
       "error": "HTTP 521 <none>"
     },
     {
@@ -35,6 +35,10 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Vanguard",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Aviva Investors",
       "error": "HTTP 521 <none>"
     },
@@ -43,19 +47,15 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Vanguard",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "T. Rowe Price",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Wellington Management",
+      "company": "Wellington Management (Campus)",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Wellington Management (Campus)",
+      "company": "Wellington Management",
       "error": "HTTP 521 <none>"
     },
     {
@@ -103,11 +103,15 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Simply Business",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "AIG",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Simply Business",
+      "company": "Visa",
       "error": "HTTP 521 <none>"
     },
     {
@@ -119,15 +123,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "PayPal",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Visa",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "Worldpay",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "PayPal",
       "error": "HTTP 521 <none>"
     },
     {
@@ -147,15 +147,15 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Citi",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Mizuho",
       "error": "HTTP 521 <none>"
     },
     {
       "company": "State Street",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Citi",
       "error": "HTTP 521 <none>"
     },
     {
@@ -169,10 +169,6 @@
     {
       "company": "ICF",
       "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Royal London",
-      "error": "This operation was aborted"
     },
     {
       "company": "Reckitt",

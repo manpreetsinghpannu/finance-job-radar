@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 14 Nov, 03:10** (UK time) · **698 open roles** at 393 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 14 Nov, 03:23** (UK time) · **698 open roles** at 393 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 14 Nov, 03:08** · hourly scan · checked 200 boards · **1 new role**
+**Sat 14 Nov, 03:21** · hourly scan · checked 200 boards · **0 new roles**
 
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [Financial Solutions Analyst Graduate](https://www.linkedin.com/jobs/view/financial-solutions-analyst-graduate-at-targetjobs-uk-4489850773) | targetjobs UK | London Area, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Sat 14 Nov, 03:08** (1: Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<sub>Nothing new at: 03:21</sub>
 
 <details>
 <summary><b>03:08</b> · hourly scan · <b>1 new</b> → Other 1</summary>
