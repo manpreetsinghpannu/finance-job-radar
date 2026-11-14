@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 14 Nov, 20:10** (UK time) · **749 open roles** at 430 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 14 Nov, 21:09** (UK time) · **749 open roles** at 430 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 14 Nov, 20:07** · hourly scan · checked 200 boards · **1 new role**
+**Sat 14 Nov, 21:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-genius-sports-4473375202) | Genius Sports | London, England, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Sat 14 Nov, 20:07** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<sub>Nothing new at: 21:07</sub>
 
 <details>
 <summary><b>20:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2455,17 +2453,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127662881) | S1Jobs | Scotland | ❔ |
-
-</details>
-
-<details>
-<summary><b>21:08</b> · hourly scan · <b>1 new</b> → Other 1</summary>
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127667415) | S1Jobs | Scotland | ❔ |
 
 </details>
 
