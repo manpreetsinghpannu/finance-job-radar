@@ -1,21 +1,21 @@
 {
-  "finished_at": "2026-11-14T05:13:04.544Z",
+  "finished_at": "2026-11-14T06:11:18.454Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 30482,
-  "filtered_out": 30458,
-  "new_matches": 1,
+  "postings_seen": 31062,
+  "filtered_out": 31035,
+  "new_matches": 0,
   "boards_failed": 44,
   "failed": [
     {
-      "company": "Moelis (University)",
+      "company": "Moelis",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Moelis",
+      "company": "Moelis (University)",
       "error": "HTTP 521 <none>"
     },
     {
@@ -35,19 +35,19 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Aviva Investors",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "Vanguard",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Franklin Templeton",
+      "company": "Aviva Investors",
       "error": "HTTP 521 <none>"
     },
     {
       "company": "T. Rowe Price",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Franklin Templeton",
       "error": "HTTP 521 <none>"
     },
     {
@@ -63,11 +63,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "MFS",
+      "company": "Dimensional Fund Advisors",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Dimensional Fund Advisors",
+      "company": "MFS",
       "error": "HTTP 521 <none>"
     },
     {
@@ -99,11 +99,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Aviva",
+      "company": "Simply Business",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Simply Business",
+      "company": "Aviva",
       "error": "HTTP 521 <none>"
     },
     {
@@ -111,11 +111,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Marsh McLennan",
+      "company": "Mastercard",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Mastercard",
+      "company": "Marsh McLennan",
       "error": "HTTP 521 <none>"
     },
     {
@@ -123,11 +123,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "PayPal",
+      "company": "Worldpay",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Worldpay",
+      "company": "PayPal",
       "error": "HTTP 521 <none>"
     },
     {
@@ -175,15 +175,15 @@
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "ICF",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "Janus Henderson",
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "EY",
+      "company": "ICF",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Reckitt",
       "error": "This operation was aborted"
     }
   ]
