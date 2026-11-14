@@ -26,6 +26,9 @@ queries:
   - graduate finance
 
 boards:
+  adzuna:              # official API; needs repo secrets ADZUNA_APP_ID and ADZUNA_APP_KEY
+    country: gb
+    days: 2            # posted in the last 2 days
   linkedin:
     hours: 24          # posted in the last 24 hours
   reed: {}

@@ -51,9 +51,11 @@ jobs:
           node "$RUNNER_TEMP/engine/scan.mjs" --since 2 --json --quiet > "$RUNNER_TEMP/receipt.json" 2> "$RUNNER_TEMP/scan.log" || true
           tail -n 40 "$RUNNER_TEMP/scan.log"
 
-      - name: Search UK job boards (LinkedIn, Reed, S1Jobs, MyJobScotland, ScotJobsNet)
+      - name: Search UK job boards (Adzuna, LinkedIn, Reed, S1Jobs, MyJobScotland, ScotJobsNet)
         env:
           CAREER_OPS_ROOT: ${{ github.workspace }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: node scripts/boards.mjs --engine "$RUNNER_TEMP/engine" --receipt "$RUNNER_TEMP/receipt.json"
 
       - name: Search UK startups and SMEs (companies_startups.yaml)
