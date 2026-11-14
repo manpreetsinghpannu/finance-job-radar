@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T10:11:26.918Z",
+ "generated_at": "2026-11-14T10:38:28.932Z",
  "order": [
   "finance",
   "credit",
@@ -3772,6 +3772,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/business-and-finance-analyst-at-tvf-media-4490323231": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
   }
  }
 }

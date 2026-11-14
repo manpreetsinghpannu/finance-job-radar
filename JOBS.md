@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 14 Nov, 10:11** (UK time) · **705 open roles** at 395 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 14 Nov, 10:38** (UK time) · **706 open roles** at 396 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 14 Nov, 10:07** · hourly scan · checked 200 boards · **3 new roles**
+**Sat 14 Nov, 10:34** · hourly scan · checked 200 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-14 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-djh-4488991960) | DJH | Stoke-On-Trent, England, United Kingdom | ❔ |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [EMEA Equity Research - Real Estate - Analyst or Associate](https://www.linkedin.com/jobs/view/emea-equity-research-real-estate-analyst-or-associate-at-jpmorganchase-4483189885) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [Investment Banking - Central & Eastern Europe Coverage - Analyst - London](https://www.linkedin.com/jobs/view/investment-banking-central-eastern-europe-coverage-analyst-london-at-jpmorganchase-4483309056) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+| 2026-11-13 | [Business and Finance Analyst](https://www.linkedin.com/jobs/view/business-and-finance-analyst-at-tvf-media-4490323231) | TVF Media | London Area, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -74,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<details>
+<summary><b>10:34</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-13 | [Business and Finance Analyst](https://www.linkedin.com/jobs/view/business-and-finance-analyst-at-tvf-media-4490323231) | TVF Media | London Area, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>10:07</b> · hourly scan · <b>3 new</b> → Finance 1 · Equity 1 · Investment 1</summary>
@@ -2716,9 +2715,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (377)](#finance-fpa-cv-377) · [Credit (86)](#credit-cv-86) · [Equity (35)](#equity-cv-35) · [Investment (70)](#investment-ib--pe-cv-70) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (91)](#other-fits-no-cv-closely-may-still-be-worth-a-look-91)
+Everything matched so far, newest first within each CV: [Finance (378)](#finance-fpa-cv-378) · [Credit (86)](#credit-cv-86) · [Equity (35)](#equity-cv-35) · [Investment (70)](#investment-ib--pe-cv-70) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (91)](#other-fits-no-cv-closely-may-still-be-worth-a-look-91)
 
-### Finance (FP&A) CV: 377
+### Finance (FP&A) CV: 378
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2735,6 +2734,7 @@ Everything matched so far, newest first within each CV: [Finance (377)](#finance
 | 2026-11-13 | [Group FP&A Analyst](https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-thg-4489561644) | THG | Manchester, England, United Kingdom | ✅ |
 | — | [FP&A Analyst - Treasury](https://www.reed.co.uk/jobs/fp-a-analyst-treasury/57567724) | INGRAM MICRO (UK) LIMITED | Milton Keynes, Buckinghamshire | ✅ |
 | 2026-11-13 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-hometree-4490796256) | Hometree | London, England, United Kingdom | ❔ |
+| 2026-11-13 | [Business and Finance Analyst](https://www.linkedin.com/jobs/view/business-and-finance-analyst-at-tvf-media-4490323231) | TVF Media | London Area, United Kingdom | ❔ |
 | 2026-11-13 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-djh-4488593304) | DJH | Stoke-On-Trent, England, United Kingdom | ❔ |
 | 2026-11-13 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-2-sisters-food-group-4489580102) | 2 Sisters Food Group | Newport, Wales, United Kingdom | ✅ |
 | 2026-11-13 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-hologic-inc-4481381921) | Hologic, Inc. | Manchester, England, United Kingdom | ✅ |
