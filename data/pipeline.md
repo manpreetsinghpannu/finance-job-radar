@@ -1046,5 +1046,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-hologic-inc-4481381921 | Hologic, Inc. | Management Accountant | Manchester, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-hometree-4490796256 | Hometree | FP&A Analyst | London, England, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-brit-insurance-4488977853 | Brit Insurance | Risk Analyst | London Area, United Kingdom | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-analyst/57566232 | Michael Page Finance | Commercial Analyst | Woking, Surrey | posted: 2026-11-13 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/investment-analyst-debt-emerging-markets-french-speaking-michael-page/57566936 | eFinancialCareers | Investment Analyst, Debt / Emerging Markets - French speaking - Michael Page | London | posted: 2026-11-13 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/interim-investment-operations-analyst-9-month-ftc/57563078 | eFinancialCareers | Interim Investment Operations Analyst 9 month FTC | London | posted: 2026-11-13 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/junior-trading-risk-analyst-systems-data-cbcx-group-ltd/57567920 | eFinancialCareers | Junior Trading Risk Analyst Systems & Data - CBCX GROUP LTD | London | posted: 2026-11-13 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/operations-intermediate-analyst-cash-management-treasury-operations-citi/57566966 | eFinancialCareers | Operations Intermediate Analyst - Cash Management Treasury Operations - Citi | Belfast, County Antrim | posted: 2026-11-13 | note: via Reed
 
 ## Processed
