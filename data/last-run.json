@@ -1,29 +1,29 @@
 {
-  "finished_at": "2026-11-14T13:10:17.945Z",
+  "finished_at": "2026-11-14T14:10:34.082Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 31872,
-  "filtered_out": 31844,
+  "postings_seen": 30851,
+  "filtered_out": 30826,
   "new_matches": 0,
-  "boards_failed": 42,
+  "boards_failed": 43,
   "failed": [
-    {
-      "company": "Moelis",
-      "error": "fetch failed"
-    },
-    {
-      "company": "PJT Partners",
-      "error": "fetch failed"
-    },
     {
       "company": "Moelis (University)",
       "error": "fetch failed"
     },
     {
+      "company": "Moelis",
+      "error": "fetch failed"
+    },
+    {
       "company": "BlackRock",
+      "error": "fetch failed"
+    },
+    {
+      "company": "PJT Partners",
       "error": "fetch failed"
     },
     {
@@ -43,23 +43,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Franklin Templeton",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Wellington Management (Campus)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Wellington Management",
-      "error": "fetch failed"
-    },
-    {
       "company": "T. Rowe Price",
       "error": "fetch failed"
     },
     {
-      "company": "MFS",
+      "company": "Franklin Templeton",
       "error": "fetch failed"
     },
     {
@@ -67,7 +55,19 @@
       "error": "fetch failed"
     },
     {
-      "company": "Dimensional Fund Advisors",
+      "company": "Wellington Management",
+      "error": "fetch failed"
+    },
+    {
+      "company": "MFS",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Wellington Management (Campus)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Blackstone",
       "error": "fetch failed"
     },
     {
@@ -75,7 +75,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "Blackstone",
+      "company": "Dimensional Fund Advisors",
       "error": "fetch failed"
     },
     {
@@ -87,7 +87,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "S&P Global",
+      "company": "Nasdaq",
       "error": "fetch failed"
     },
     {
@@ -95,7 +95,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "Nasdaq",
+      "company": "S&P Global",
       "error": "fetch failed"
     },
     {
@@ -119,15 +119,15 @@
       "error": "fetch failed"
     },
     {
+      "company": "PayPal",
+      "error": "fetch failed"
+    },
+    {
       "company": "Visa",
       "error": "fetch failed"
     },
     {
       "company": "Worldpay",
-      "error": "fetch failed"
-    },
-    {
-      "company": "PayPal",
       "error": "fetch failed"
     },
     {
@@ -151,11 +151,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Mizuho",
+      "company": "State Street",
       "error": "fetch failed"
     },
     {
-      "company": "State Street",
+      "company": "Mizuho",
       "error": "fetch failed"
     },
     {
@@ -177,6 +177,10 @@
     {
       "company": "ICF",
       "error": "fetch failed"
+    },
+    {
+      "company": "EY",
+      "error": "This operation was aborted"
     }
   ]
 }

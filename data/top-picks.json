@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T13:10:17.325Z",
+ "generated_at": "2026-11-14T14:10:33.409Z",
  "order": [
   "finance",
   "credit",
@@ -1582,11 +1582,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
-  },
-  "https://www.linkedin.com/jobs/view/graduate-finance-broker-programme-march-2027-at-vecta-4488746235": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://www.s1jobs.com/job/quantity-surveyor-127667636": {
    "id": "other",
@@ -3392,11 +3387,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 13
-  },
-  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-djh-4488593304": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-mint-velvet-4479738824": {
    "id": "finance",
