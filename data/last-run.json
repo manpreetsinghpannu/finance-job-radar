@@ -1,29 +1,21 @@
 {
-  "finished_at": "2026-11-14T07:20:31.939Z",
+  "finished_at": "2026-11-14T08:10:31.502Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 28340,
-  "filtered_out": 28323,
-  "new_matches": 1,
-  "boards_failed": 88,
+  "postings_seen": 28719,
+  "filtered_out": 28703,
+  "new_matches": 2,
+  "boards_failed": 90,
   "failed": [
-    {
-      "company": "Lloyds Banking Group",
-      "error": "fetch failed"
-    },
     {
       "company": "Barclays",
       "error": "fetch failed"
     },
     {
-      "company": "NatWest Group",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Lloyds Banking Group (Graduates)",
+      "company": "Lloyds Banking Group",
       "error": "fetch failed"
     },
     {
@@ -31,11 +23,15 @@
       "error": "fetch failed"
     },
     {
-      "company": "RBC",
+      "company": "Lloyds Banking Group (Graduates)",
       "error": "fetch failed"
     },
     {
       "company": "RBC (Early Talent)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "RBC",
       "error": "fetch failed"
     },
     {
@@ -44,6 +40,10 @@
     },
     {
       "company": "BMO",
+      "error": "fetch failed"
+    },
+    {
+      "company": "NatWest Group",
       "error": "fetch failed"
     },
     {
@@ -79,15 +79,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "PJT Partners",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "Moelis",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "BlackRock",
       "error": "HTTP 521 <none>"
     },
     {
@@ -95,7 +87,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Invesco",
+      "company": "BlackRock",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "PJT Partners",
       "error": "HTTP 521 <none>"
     },
     {
@@ -115,6 +111,10 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Invesco",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Hargreaves Lansdown",
       "error": "fetch failed"
     },
@@ -123,15 +123,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Wellington Management (Campus)",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "T. Rowe Price",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "PIMCO",
+      "company": "Wellington Management (Campus)",
       "error": "HTTP 521 <none>"
     },
     {
@@ -139,7 +135,7 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "MFS",
+      "company": "PIMCO",
       "error": "HTTP 521 <none>"
     },
     {
@@ -147,19 +143,19 @@
       "error": "fetch failed"
     },
     {
-      "company": "Brevan Howard",
-      "error": "fetch failed"
+      "company": "MFS",
+      "error": "HTTP 521 <none>"
     },
     {
       "company": "Dimensional Fund Advisors",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Blackstone",
-      "error": "HTTP 521 <none>"
+      "company": "Brevan Howard",
+      "error": "fetch failed"
     },
     {
-      "company": "Blackstone (Campus)",
+      "company": "Blackstone",
       "error": "HTTP 521 <none>"
     },
     {
@@ -169,6 +165,10 @@
     {
       "company": "LSEG (Graduates)",
       "error": "fetch failed"
+    },
+    {
+      "company": "Blackstone (Campus)",
+      "error": "HTTP 521 <none>"
     },
     {
       "company": "CMC Markets",
@@ -187,11 +187,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "PwC (Campus)",
+      "company": "PwC (Experienced)",
       "error": "fetch failed"
     },
     {
-      "company": "PwC (Experienced)",
+      "company": "PwC (Campus)",
       "error": "fetch failed"
     },
     {
@@ -203,6 +203,10 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "S&P Global",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Nasdaq",
       "error": "HTTP 521 <none>"
     },
@@ -211,7 +215,7 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "S&P Global",
+      "company": "Aviva",
       "error": "HTTP 521 <none>"
     },
     {
@@ -223,10 +227,6 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Marsh McLennan",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "AstraZeneca (Emerging Talent)",
       "error": "fetch failed"
     },
@@ -235,15 +235,23 @@
       "error": "fetch failed"
     },
     {
+      "company": "Marsh McLennan",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Unilever",
       "error": "fetch failed"
+    },
+    {
+      "company": "Visa",
+      "error": "HTTP 521 <none>"
     },
     {
       "company": "Unilever (Early Careers)",
       "error": "fetch failed"
     },
     {
-      "company": "Mastercard",
+      "company": "Worldpay",
       "error": "HTTP 521 <none>"
     },
     {
@@ -251,7 +259,19 @@
       "error": "fetch failed"
     },
     {
+      "company": "PayPal",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Mastercard",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Shell",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Sky",
       "error": "fetch failed"
     },
     {
@@ -263,28 +283,12 @@
       "error": "fetch failed"
     },
     {
-      "company": "Sky",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Visa",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "BBVA",
       "error": "fetch failed"
     },
     {
-      "company": "Worldpay",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "Howden (Hyperion)",
       "error": "fetch failed"
-    },
-    {
-      "company": "PayPal",
-      "error": "HTTP 521 <none>"
     },
     {
       "company": "MS Amlin",
@@ -319,6 +323,10 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Perella Weinberg",
+      "error": "fetch failed"
+    },
+    {
       "company": "Mizuho",
       "error": "HTTP 521 <none>"
     },
@@ -339,11 +347,15 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Calastone",
+      "error": "fetch failed"
+    },
+    {
       "company": "BP",
       "error": "fetch failed"
     },
     {
-      "company": "SMBC",
+      "company": "Nomura",
       "error": "HTTP 404 Not Found"
     },
     {
