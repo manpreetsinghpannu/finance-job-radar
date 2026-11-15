@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 22:10** (UK time) · **804 open roles** at 463 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 23:09** (UK time) · **804 open roles** at 463 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 22:07** · hourly scan · checked 200 boards · **0 new roles**
+**Sun 15 Nov, 23:04** · hourly scan · checked 200 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sun 15 Nov, 21:54** (2: Finance 2); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Finance Business Partner - Technical](https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142) | Atlassian Williams F1 Team | Grove, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<details>
+<summary><b>23:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Finance Business Partner - Technical](https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142) | Atlassian Williams F1 Team | Grove, England, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 22:07</sub>
 
@@ -2167,16 +2182,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 <sub>Nothing new at: 18:07</sub>
 
 <details>
-<summary><b>17:55</b> · hourly scan · <b>9 new</b> → Finance 8 · Other 1</summary>
+<summary><b>17:55</b> · hourly scan · <b>8 new</b> → Finance 7 · Other 1</summary>
 
-#### Finance (FP&A) CV: 8
+#### Finance (FP&A) CV: 7
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | — | [Assistant Management Accountant](https://www.reed.co.uk/jobs/assistant-management-accountant/57547109) | Banham Patent Locks Ltd | London | ✅ |
 | 2026-11-09 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-accountable-recruitment-limited-4488871991) | Accountable Recruitment Limited | Warrington, England, United Kingdom | ❔ |
 | 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-consumer-additions-and-consumer-exec-4483426750) | Consumer Additions and Consumer Exec | London Area, United Kingdom | ❔ |
-| 2026-11-09 | [Management Accountant (Healthcare)](https://www.linkedin.com/jobs/view/management-accountant-healthcare-at-edward-mann-4487155815) | Edward Mann | London Area, United Kingdom | ❔ |
 | 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-sowena-group-4488870883) | Sowena Group | Greater Manchester, England, United Kingdom | ❔ |
 | 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-dana-incorporated-4488878783) | Dana Incorporated | Birmingham, England, United Kingdom | ❔ |
 | 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-thrive-childcare-and-education-4487168867) | Thrive Childcare and Education | Salford, England, United Kingdom | ❔ |
@@ -2187,6 +2201,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | — | [Finance Graduate](https://www.reed.co.uk/jobs/finance-graduate/57547136) | Financial Divisions | London | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2516,6 +2532,7 @@ Everything matched so far, newest first within each CV: [Finance (442)](#finance
 | 2026-11-15 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409) | Retirement Villages Group Ltd | London, England, United Kingdom | ❔ |
 | 2026-11-15 | [Management Accountant - Welsh Desirable](https://www.adzuna.co.uk/jobs/details/5967032697) | Independent Office for Police Conduct | UK | ❔ |
 | 2026-11-15 | [Management Accountant](https://www.adzuna.co.uk/jobs/details/5967026388) | Morgan Hunt | UK | ❔ |
+| 2026-11-15 | [Finance Business Partner - Technical](https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142) | Atlassian Williams F1 Team | Grove, England, United Kingdom | ❔ |
 | 2026-11-15 | [Quantitative Trading & Research - Securities Services, Payments and CIB Treasury - Associate](https://www.adzuna.co.uk/jobs/land/ad/5966664669) | Hackajob Ltd | Charing Cross, Central London | ✅ |
 | 2026-11-15 | [Financial Controller – Integrations Office](https://www.adzuna.co.uk/jobs/details/5966722495) | TP ICAP | London, UK | ✅ |
 | 2026-11-15 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230) | Univar Solutions | Bradford, England, United Kingdom | ❔ |
@@ -2769,7 +2786,6 @@ Everything matched so far, newest first within each CV: [Finance (442)](#finance
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57544170) | Harmonic Group Ltd | Woking, Surrey | ✅ |
 | 2026-11-09 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-pennon-group-plc-4487912043) | Pennon Group Plc | Exeter, England, United Kingdom | ✅ |
 | 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-consumer-additions-and-consumer-exec-4483426750) | Consumer Additions and Consumer Exec | London Area, United Kingdom | ❔ |
-| 2026-11-09 | [Management Accountant (Healthcare)](https://www.linkedin.com/jobs/view/management-accountant-healthcare-at-edward-mann-4487155815) | Edward Mann | London Area, United Kingdom | ❔ |
 | 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-trainline-4489106536) | Trainline | London, England, United Kingdom | ❔ |
 | 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-veracious-talent-partners-4488865220) | Veracious Talent Partners | Peterborough, England, United Kingdom | ❔ |
 | 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-sowena-group-4488870883) | Sowena Group | Greater Manchester, England, United Kingdom | ❔ |
@@ -3344,10 +3360,11 @@ Everything matched so far, newest first within each CV: [Finance (442)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>57 roles taken off the list because the firm closed the posting</summary>
+<summary>58 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 15 Nov, 23:06 | Management Accountant (Healthcare) | Edward Mann |
 | Sun 15 Nov, 21:09 | Investment Analyst - Debt Purchasing/ Collection - £70,000 + bonus | Salt |
 | Sun 15 Nov, 13:08 | Equity Research Analyst, European Real Estate, Global Bank | Greenwich Partners |
 | Sun 15 Nov, 09:10 | Portfolio Risk Analyst , Investment Monitoring , Wealth Management | JJ SEARCH LIMITED |

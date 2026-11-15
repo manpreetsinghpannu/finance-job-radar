@@ -1165,5 +1165,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482 | Aria Partners | Financial Controller - Private Credit | London Area, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409 | Retirement Villages Group Ltd | Management Accountant | London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/regulatory-capital-reporting-accountant-m-g-plc/57569649 | eFinancialCareers | Regulatory & Capital Reporting Accountant - M&G plc. | Edinburgh, Midlothian | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142 | Atlassian Williams F1 Team | Finance Business Partner - Technical | Grove, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 
 ## Processed

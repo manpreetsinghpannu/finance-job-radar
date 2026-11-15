@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T22:10:27.232Z",
+ "generated_at": "2026-11-15T23:09:16.356Z",
  "order": [
   "finance",
   "credit",
@@ -2158,11 +2158,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-healthcare-at-edward-mann-4487155815": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-accountable-recruitment-limited-4488871991": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -4267,6 +4262,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }
