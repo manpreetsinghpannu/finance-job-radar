@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 09:34** (UK time) · **759 open roles** at 436 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 10:09** (UK time) · **760 open roles** at 436 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 09:31** · hourly scan · checked 200 boards · **0 new roles**
+**Sun 15 Nov, 10:06** · hourly scan · checked 200 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sun 15 Nov, 08:06** (2: Fund 1 · Other 1); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Global Research - Credit Research Analyst, Retail & Consumer - Analyst or Associate](https://www.linkedin.com/jobs/view/global-research-credit-research-analyst-retail-consumer-analyst-or-associate-at-jpmorganchase-4456174490) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<details>
+<summary><b>10:06</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Global Research - Credit Research Analyst, Retail & Consumer - Analyst or Associate](https://www.linkedin.com/jobs/view/global-research-credit-research-analyst-retail-consumer-analyst-or-associate-at-jpmorganchase-4456174490) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 09:31, 09:07</sub>
 
@@ -2389,31 +2404,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>10:07</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-08 | [Investment Operations Analyst](https://www.linkedin.com/jobs/view/investment-operations-analyst-at-lgps-central-4488771441) | LGPS Central | Wolverhampton, England, United Kingdom | ✅ |
-
-</details>
-
-<details>
-<summary><b>09:35</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-07 | [Credit Risk Analyst- (6 Months Maternity Cover)](https://www.linkedin.com/jobs/view/credit-risk-analyst-6-months-maternity-cover-at-harley-davidson-motor-company-4479358900) | Harley-Davidson Motor Company | Oxford, England, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (414)](#finance-fpa-cv-414) · [Credit (90)](#credit-cv-90) · [Equity (37)](#equity-cv-37) · [Investment (76)](#investment-ib--pe-cv-76) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (95)](#other-fits-no-cv-closely-may-still-be-worth-a-look-95)
+Everything matched so far, newest first within each CV: [Finance (414)](#finance-fpa-cv-414) · [Credit (91)](#credit-cv-91) · [Equity (37)](#equity-cv-37) · [Investment (76)](#investment-ib--pe-cv-76) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (95)](#other-fits-no-cv-closely-may-still-be-worth-a-look-95)
 
 ### Finance (FP&A) CV: 414
 
@@ -2834,10 +2827,11 @@ Everything matched so far, newest first within each CV: [Finance (414)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 90
+### Credit CV: 91
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-15 | [Global Research - Credit Research Analyst, Retail & Consumer - Analyst or Associate](https://www.linkedin.com/jobs/view/global-research-credit-research-analyst-retail-consumer-analyst-or-associate-at-jpmorganchase-4456174490) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | — | [Market Risk Product Analyst](https://www.reed.co.uk/jobs/market-risk-product-analyst/57562979) | eFinancialCareers | London | ✅ |
 | 2026-11-14 | [Credit Risk Analyst - 12 month FTC](https://www.adzuna.co.uk/jobs/land/ad/5965487971) | Hackajob Ltd | Belgrave, Leicester | ✅ |
 | 2026-11-14 | [Analyst, Private Debt Investments](https://www.linkedin.com/jobs/view/analyst-private-debt-investments-at-stepstone-group-4481924081) | StepStone Group | London Area, United Kingdom | ✅ |

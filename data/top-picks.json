@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T09:34:26.146Z",
+ "generated_at": "2026-11-15T10:09:13.969Z",
  "order": [
   "finance",
   "credit",
@@ -4042,6 +4042,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/global-research-credit-research-analyst-retail-consumer-analyst-or-associate-at-jpmorganchase-4456174490": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
   }
  }
 }

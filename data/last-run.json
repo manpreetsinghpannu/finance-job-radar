@@ -1,13 +1,38 @@
 {
-  "finished_at": "2026-11-15T09:34:26.767Z",
+  "finished_at": "2026-11-15T10:09:14.614Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 33147,
-  "filtered_out": 33120,
-  "new_matches": 0,
-  "boards_failed": 0,
-  "failed": []
+  "postings_seen": 33125,
+  "filtered_out": 33098,
+  "new_matches": 1,
+  "boards_failed": 6,
+  "failed": [
+    {
+      "company": "Revolut",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Starling Bank",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Interpath Advisory",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Interactive Investor",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "10x Banking",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Moneyfarm",
+      "error": "HTTP 429 Too Many Requests"
+    }
+  ]
 }
