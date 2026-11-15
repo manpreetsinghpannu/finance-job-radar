@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T12:09:47.305Z",
+ "generated_at": "2026-11-15T13:10:21.914Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 68,
+   "matching": 69,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -842,11 +842,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-european-real-estate-global-bank-at-greenwich-partners-4488192274": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 25
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-perigus-energy-4479390755": {
    "id": "finance",
@@ -4052,6 +4047,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-european-media-global-bank-at-greenwich-partners-4491250168": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/commodities-market-risk-analyst-lng-power-emissions-at-morgan-mckinley-4490218918": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 20
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-global-private-equity-secondaries-fund-at-greenwich-partners-4491249186": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-associate-technology-coverage-global-investment-bank-central-london-at-greenwich-partners-4491237792": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 20
+  },
+  "https://www.linkedin.com/jobs/view/m-a-corporate-development-associate-oil-and-gas-global-firm-at-greenwich-partners-4491244463": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
   }
  }
 }
