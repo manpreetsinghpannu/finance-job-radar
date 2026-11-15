@@ -2102,6 +2102,11 @@
    "register_name": null,
    "match": "none"
   },
+  "OCS": {
+   "licensed": true,
+   "register_name": "OCS Consulting plc",
+   "match": "prefix"
+  },
   "OJK Business Management": {
    "licensed": false,
    "register_name": null,
