@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T16:09:34.686Z",
+ "generated_at": "2026-11-15T17:10:51.775Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 173,
+   "matching": 184,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 33,
+   "matching": 34,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -106,12 +106,12 @@
      "sponsor": true
     },
     {
-     "title": "Quantitative Research Analyst, Mortgages",
+     "title": "Quantitative Research Analyst - PIMCO",
      "company": "PIMCO",
-     "location": "London, GBR",
-     "posted": null,
-     "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106492",
-     "score": 18,
+     "location": "London, UK",
+     "posted": "2026-11-15",
+     "url": "https://www.adzuna.co.uk/jobs/land/ad/5966879623",
+     "score": 22,
      "why": [
       "Research Analyst"
      ],
@@ -4097,6 +4097,116 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 18
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5966911680": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5966896610": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5966879842": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5966879743": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5966879623": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 22
+  },
+  "https://www.adzuna.co.uk/jobs/details/5966733020": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.adzuna.co.uk/jobs/details/5966732795": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.adzuna.co.uk/jobs/details/5966731154": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5966729165": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.adzuna.co.uk/jobs/details/5966728417": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.adzuna.co.uk/jobs/details/5966728317": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.adzuna.co.uk/jobs/details/5966722495": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5966719456": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/details/5966719393": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.adzuna.co.uk/jobs/details/5966717153": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.adzuna.co.uk/jobs/details/5966716807": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5966664669": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5966405877": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5966258083": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5966233161": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/pricing-analyst-loan-portfolio-s-sql-python-%C2%A370-000-at-salt-4489700326": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-tala-4489392620": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
   }
  }
 }

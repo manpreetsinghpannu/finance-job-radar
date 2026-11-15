@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 665 firms checked, 398 matched, 267 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 677 firms checked, 406 matched, 271 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (267)
+## Not found (271)
 
 - 7IM
 - 93 MGMT
@@ -123,8 +123,10 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - HelloFresh
 - Hometree
 - Hoop Recruitment
+- Howmet Aerospace
 - IAG Transform
 - IMC Trading
+- IPOE Consulting
 - IVC Evidensia
 - In2 Consult
 - Insight Recruitment Solutions Limited
@@ -156,6 +158,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lorien
 - Lottie
 - Lyreco
+- M&G FA Limited
 - Mackie Myers
 - Macquarie Group
 - ManpowerGroup Talent Solutions
@@ -173,6 +176,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Monmouthshire Building Society
 - Montpellier Resourcing
 - Morgan Hunt Recruitment
+- Morson Edge
 - Motorway
 - NC Associates
 - New Avenues
@@ -274,7 +278,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (37)
+## Matched automatically by close name; worth a glance (40)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
@@ -299,10 +303,12 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Network Rail → Network Rail Infrastructure (prefix)
 - Nium → Nium Fintech Ltd (prefix)
 - OCS → OCS Consulting plc (prefix)
+- OCS Group → OCS Consulting plc (prefix)
 - Octopus Group → Octopus Energy Limited (prefix)
 - Ohme → Ohme Operations UK Limited (prefix)
 - Pantheon → Pantheon Platform UK Limited (prefix)
 - Paxos → Paxos Technology Limited (prefix)
+- People First → People First Care (Rennington) Ltd (prefix)
 - Pliant → Pliant Payments Limited (prefix)
 - Plum → Plum Fintech (prefix)
 - Radius → Radius Systems Limited (prefix)
@@ -311,5 +317,6 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Silverfin → Silverfin Software Ltd (prefix)
 - Standard Chartered → Standard Chartered Bank (prefix)
 - SumUp → SumUp Payments Limited (prefix)
+- TALA → Tala Energy Ltd (prefix)
 - The Dune Group → Dune Advisors Limited (prefix)
 - We Do Group → WE DO CARE (LONDON) LTD (prefix)

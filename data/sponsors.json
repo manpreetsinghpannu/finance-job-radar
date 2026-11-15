@@ -92,6 +92,11 @@
    "register_name": "Achieve together Limited",
    "match": "exact"
   },
+  "Acis Group": {
+   "licensed": true,
+   "register_name": "Acis Group Ltd",
+   "match": "exact"
+  },
   "Acumen": {
    "licensed": true,
    "register_name": "Acumen Inc",
@@ -1357,6 +1362,11 @@
    "register_name": "Howden Group Holdings Limited",
    "match": "alias"
   },
+  "Howmet Aerospace": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Hunter Bond": {
    "licensed": true,
    "register_name": "HUNTER BOND LIMITED",
@@ -1396,6 +1406,11 @@
    "licensed": true,
    "register_name": "Ingram Micro (UK) Ltd",
    "match": "exact"
+  },
+  "IPOE Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "IPS Group": {
    "licensed": true,
@@ -1747,6 +1762,16 @@
    "register_name": "M & G PlC",
    "match": "alias"
   },
+  "M&G FA Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "M&G plc.": {
+   "licensed": true,
+   "register_name": "M & G PlC",
+   "match": "exact"
+  },
   "MFS": {
    "licensed": true,
    "register_name": "MFS International (UK) Ltd",
@@ -2007,6 +2032,11 @@
    "register_name": "Bharat Ventures Limited T/A Morrisons",
    "match": "trading name"
   },
+  "Morson Edge": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Moss": {
    "licensed": true,
    "register_name": "Moss Europe Limited",
@@ -2122,6 +2152,11 @@
    "register_name": "OCS Consulting plc",
    "match": "prefix"
   },
+  "OCS Group": {
+   "licensed": true,
+   "register_name": "OCS Consulting plc",
+   "match": "prefix"
+  },
   "OJK Business Management": {
    "licensed": false,
    "register_name": null,
@@ -2146,6 +2181,11 @@
    "licensed": true,
    "register_name": "Octopus Energy Limited",
    "match": "alias"
+  },
+  "Octopus Energy Group": {
+   "licensed": true,
+   "register_name": "Octopus Energy Limited",
+   "match": "exact"
   },
   "Octopus Group": {
    "licensed": true,
@@ -2301,6 +2341,11 @@
    "licensed": true,
    "register_name": "Pennon Group",
    "match": "exact"
+  },
+  "People First": {
+   "licensed": true,
+   "register_name": "People First Care (Rennington) Ltd",
+   "match": "prefix"
   },
   "Perch Group": {
    "licensed": true,
@@ -2757,6 +2802,11 @@
    "register_name": "Sphere Digital Recruitment Limited",
    "match": "exact"
   },
+  "Spire Healthcare": {
+   "licensed": true,
+   "register_name": "Spire Healthcare Ltd",
+   "match": "exact"
+  },
   "Spire Healthcare Group plc": {
    "licensed": true,
    "register_name": "Spire Healthcare Ltd",
@@ -2857,6 +2907,11 @@
    "register_name": "T Rowe Price  International Ltd",
    "match": "alias"
   },
+  "TALA": {
+   "licensed": true,
+   "register_name": "Tala Energy Ltd",
+   "match": "prefix"
+  },
   "TALENT INTERNATIONAL UK LTD": {
    "licensed": true,
    "register_name": "Talent International (UK) Limited",
@@ -2940,6 +2995,11 @@
   "Teya": {
    "licensed": true,
    "register_name": "Teya Europe Ltd",
+   "match": "exact"
+  },
+  "The Citco Group": {
+   "licensed": true,
+   "register_name": "Citco London Ltd",
    "match": "exact"
   },
   "The Citco Group Limited": {
