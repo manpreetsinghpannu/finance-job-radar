@@ -482,6 +482,11 @@
    "register_name": "The Boston Consulting Group UK LLP",
    "match": "alias"
   },
+  "Brainkind": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Brevan Howard": {
    "licensed": true,
    "register_name": "BREVAN HOWARD ASSET MANAGEMENT SERVICES LIMITED",
@@ -1437,6 +1442,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Independent Office for Police Conduct": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Informa": {
    "licensed": true,
    "register_name": "Informa UK Limited",
@@ -1722,9 +1732,19 @@
    "register_name": "LOMBARD ODIER ASSET MANAGEMENT (EUROPE) LIMITED",
    "match": "alias"
   },
+  "Lomond": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "London Borough of Havering": {
    "licensed": true,
    "register_name": "London Borough of Havering",
+   "match": "exact"
+  },
+  "London and Quadrant Housing Trust": {
+   "licensed": true,
+   "register_name": "London & Quadrant Housing Trust",
    "match": "exact"
   },
   "Lookers Motor Group Limited": {
@@ -2011,6 +2031,11 @@
    "licensed": true,
    "register_name": "MoonPay (UK) Limited",
    "match": "exact"
+  },
+  "Morgan Hunt": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Morgan Hunt Recruitment": {
    "licensed": false,
@@ -2402,6 +2427,11 @@
    "register_name": "Premier Foods",
    "match": "exact"
   },
+  "Preventx": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Primer": {
    "licensed": true,
    "register_name": "Primer API Limited",
@@ -2787,6 +2817,11 @@
    "register_name": "Sopra Steria Limited",
    "match": "exact"
   },
+  "South West London and St. George's Mental Health NHS Trust": {
+   "licensed": true,
+   "register_name": "South West London & St George's Mental Health NHS Trust",
+   "match": "exact"
+  },
   "Sowena Group": {
    "licensed": false,
    "register_name": null,
@@ -2816,6 +2851,11 @@
    "licensed": true,
    "register_name": "Squarepoint Capital LLP",
    "match": "alias"
+  },
+  "St. Helens and Knowsley Teaching Hospitals NHS Trust": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Standard Chartered": {
    "licensed": true,

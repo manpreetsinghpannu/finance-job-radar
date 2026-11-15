@@ -1130,6 +1130,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-division-fig-benelux-associate-at-morgan-stanley-4437562989 | Morgan Stanley | Investment Banking Division - FIG Benelux - Associate - | London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-foodbuy-group-at-foodbuy-group-4483356378 | Foodbuy Group | Finance Business Partner - Foodbuy Group | London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/quantitative-research-analyst-pimco/57569658 | eFinancialCareers | Quantitative Research Analyst - PIMCO | London | note: via Reed
+- [ ] https://www.adzuna.co.uk/jobs/details/5967033991 | South West London and St. George's Mental Health NHS Trust | Finance Business Partner | UK | posted: 2026-11-15 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967033713 | Lomond | Debt Recovery Assistant | UK | posted: 2026-11-15 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967032697 | Independent Office for Police Conduct | Management Accountant - Welsh Desirable | UK | posted: 2026-11-15 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967029037 | London and Quadrant Housing Trust | Accountant (Property Services) | UK | posted: 2026-11-15 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967027390 | Preventx | Assistant Management Accountant (Maternity Cover) | UK | posted: 2026-11-15 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967027148 | St. Helens and Knowsley Teaching Hospitals NHS Trust | Deputy Financial Accountant | UK | posted: 2026-11-15 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967026633 | Brainkind | Financial Controller | UK | posted: 2026-11-15 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967026388 | Morgan Hunt | Management Accountant | UK | posted: 2026-11-15 | note: via Adzuna
 - [ ] https://www.adzuna.co.uk/jobs/land/ad/5966911680 | IPOE Consulting | Treasury Operations | London, UK | posted: 2026-11-15 | note: via Adzuna
 - [ ] https://www.adzuna.co.uk/jobs/land/ad/5966896610 | Morson Edge | Financial Accountant | Ormeau, Belfast | posted: 2026-11-15 | note: via Adzuna
 - [ ] https://www.adzuna.co.uk/jobs/land/ad/5966879842 | Macquarie Group | Quantitative Analyst, Pricing Risk Model Validation - Macquarie Group | London, UK | posted: 2026-11-15 | note: via Adzuna
@@ -1149,7 +1157,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.adzuna.co.uk/jobs/land/ad/5966664669 | Hackajob Ltd | Quantitative Trading & Research - Securities Services, Payments and CIB Treasury - Associate | Charing Cross, Central London | posted: 2026-11-15 | note: via Adzuna
 - [ ] https://www.adzuna.co.uk/jobs/land/ad/5966405877 | Harnham - Data & Analytics Recruitment | Credit Risk Analyst | West Midlands, UK | posted: 2026-11-15 | note: via Adzuna
 - [ ] https://www.adzuna.co.uk/jobs/land/ad/5966258083 | People First | Mandarin speaking Treasury dealer | London, UK | posted: 2026-11-14 | note: via Adzuna
-- [ ] https://www.adzuna.co.uk/jobs/land/ad/5966233161 | Accountable Recruitment | Project Accountant | Stanley, Liverpool | posted: 2026-11-14 | note: via Adzuna
 - [ ] https://www.linkedin.com/jobs/view/pricing-analyst-loan-portfolio-s-sql-python-%C2%A370-000-at-salt-4489700326 | Salt | Pricing Analyst (Loan Portfolio's) - SQL & Python - £70,000 | London Area, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-tala-4489392620 | TALA | Assistant Management Accountant | London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 
