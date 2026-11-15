@@ -1115,5 +1115,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/market-risk-product-analyst/57562979 | eFinancialCareers | Market Risk Product Analyst | London | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/graduate-finance-broker-programme-september-2027-at-vecta-4491057785 | Vecta | Graduate Finance Broker Programme - September 2027 | Northampton, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/local-financial-controller-junior-at-dfds-4482872824 | DFDS | Local Financial Controller (Junior) | Peterborough, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-integrity360-4481691915 | Integrity360 | Financial Accountant | Chester, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed

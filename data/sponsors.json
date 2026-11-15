@@ -1417,6 +1417,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Integrity360": {
+   "licensed": true,
+   "register_name": "Integrity360 Limited",
+   "match": "exact"
+  },
   "Interactive Investor": {
    "licensed": false,
    "register_name": null,
