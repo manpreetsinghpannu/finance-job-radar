@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T18:19:36.991Z",
+ "generated_at": "2026-11-15T19:10:19.854Z",
  "order": [
   "finance",
   "credit",
@@ -4252,6 +4252,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

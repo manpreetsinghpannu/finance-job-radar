@@ -3172,6 +3172,11 @@
    "register_name": "Unilever UK Limited",
    "match": "alias"
   },
+  "Univar Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Universal Music UK": {
    "licensed": true,
    "register_name": "Universal Music Operations Ltd",

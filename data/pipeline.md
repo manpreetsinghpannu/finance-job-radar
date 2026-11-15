@@ -1161,5 +1161,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-tala-4489392620 | TALA | Assistant Management Accountant | London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-arm-4482656414 | Arm | Treasury Analyst | Cambridge, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/project-cost-accountant-project-controls-energy-projects-at-turner-townsend-4438324549 | Turner & Townsend | Project Cost Accountant - Project Controls - Energy Projects | Lancing, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230 | Univar Solutions | Assistant Financial Accountant | Bradford, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 
 ## Processed
