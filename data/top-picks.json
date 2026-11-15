@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T21:09:44.861Z",
+ "generated_at": "2026-11-15T21:57:11.786Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 188,
+   "matching": 189,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -4257,6 +4257,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/regulatory-capital-reporting-accountant-m-g-plc/57569649": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
   }
  }
 }

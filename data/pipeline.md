@@ -1163,5 +1163,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/project-cost-accountant-project-controls-energy-projects-at-turner-townsend-4438324549 | Turner & Townsend | Project Cost Accountant - Project Controls - Energy Projects | Lancing, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230 | Univar Solutions | Assistant Financial Accountant | Bradford, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482 | Aria Partners | Financial Controller - Private Credit | London Area, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409 | Retirement Villages Group Ltd | Management Accountant | London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/regulatory-capital-reporting-accountant-m-g-plc/57569649 | eFinancialCareers | Regulatory & Capital Reporting Accountant - M&G plc. | Edinburgh, Midlothian | note: via Reed
 
 ## Processed

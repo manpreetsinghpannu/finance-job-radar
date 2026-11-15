@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 21:09** (UK time) · **802 open roles** at 462 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 21:57** (UK time) · **804 open roles** at 463 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 21:07** · hourly scan · checked 200 boards · **0 new roles**
+**Sun 15 Nov, 21:54** · hourly scan · checked 200 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Sun 15 Nov, 20:07** (1: Credit 1); open it in the scan log below.
+### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409) | Retirement Villages Group Ltd | London, England, United Kingdom | ❔ |
+| — | [Regulatory & Capital Reporting Accountant - M&G plc.](https://www.reed.co.uk/jobs/regulatory-capital-reporting-accountant-m-g-plc/57569649) | eFinancialCareers | Edinburgh, Midlothian | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (188 matching)
+**Finance (FP&A) CV** (189 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -58,6 +63,18 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<details>
+<summary><b>21:54</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409) | Retirement Villages Group Ltd | London, England, United Kingdom | ❔ |
+| — | [Regulatory & Capital Reporting Accountant - M&G plc.](https://www.reed.co.uk/jobs/regulatory-capital-reporting-accountant-m-g-plc/57569649) | eFinancialCareers | Edinburgh, Midlothian | ✅ |
+
+</details>
 
 <sub>Nothing new at: 21:07</sub>
 
@@ -2481,9 +2498,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (440)](#finance-fpa-cv-440) · [Credit (96)](#credit-cv-96) · [Equity (40)](#equity-cv-40) · [Investment (80)](#investment-ib--pe-cv-80) · [Consulting (15)](#consulting-cv-15) · [Real Estate (13)](#real-estate-cv-13) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (98)](#other-fits-no-cv-closely-may-still-be-worth-a-look-98)
+Everything matched so far, newest first within each CV: [Finance (442)](#finance-fpa-cv-442) · [Credit (96)](#credit-cv-96) · [Equity (40)](#equity-cv-40) · [Investment (80)](#investment-ib--pe-cv-80) · [Consulting (15)](#consulting-cv-15) · [Real Estate (13)](#real-estate-cv-13) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (98)](#other-fits-no-cv-closely-may-still-be-worth-a-look-98)
 
-### Finance (FP&A) CV: 440
+### Finance (FP&A) CV: 442
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2499,6 +2516,7 @@ Everything matched so far, newest first within each CV: [Finance (440)](#finance
 | 2026-11-15 | [Regulatory & Capital Reporting Accountant - M&G plc.](https://www.adzuna.co.uk/jobs/land/ad/5966879743) | M&G plc. | Edinburgh, Scotland | ✅ |
 | 2026-11-15 | [Assistant Accountant](https://www.adzuna.co.uk/jobs/details/5966732795) | Acis Group | UK | ✅ |
 | 2026-11-15 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-arm-4482656414) | Arm | Cambridge, England, United Kingdom | ✅ |
+| 2026-11-15 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409) | Retirement Villages Group Ltd | London, England, United Kingdom | ❔ |
 | 2026-11-15 | [Management Accountant - Welsh Desirable](https://www.adzuna.co.uk/jobs/details/5967032697) | Independent Office for Police Conduct | UK | ❔ |
 | 2026-11-15 | [Management Accountant](https://www.adzuna.co.uk/jobs/details/5967026388) | Morgan Hunt | UK | ❔ |
 | 2026-11-15 | [Quantitative Trading & Research - Securities Services, Payments and CIB Treasury - Associate](https://www.adzuna.co.uk/jobs/land/ad/5966664669) | Hackajob Ltd | Charing Cross, Central London | ✅ |
@@ -2506,6 +2524,7 @@ Everything matched so far, newest first within each CV: [Finance (440)](#finance
 | 2026-11-15 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230) | Univar Solutions | Bradford, England, United Kingdom | ❔ |
 | 2026-11-15 | [Hospital Accountant](https://www.adzuna.co.uk/jobs/details/5966728317) | Spire Healthcare | Manchester, Greater Manchester | ✅ |
 | 2026-11-15 | [Project Cost Accountant - Project Controls - Energy Projects](https://www.linkedin.com/jobs/view/project-cost-accountant-project-controls-energy-projects-at-turner-townsend-4438324549) | Turner & Townsend | Lancing, England, United Kingdom | ✅ |
+| — | [Regulatory & Capital Reporting Accountant - M&G plc.](https://www.reed.co.uk/jobs/regulatory-capital-reporting-accountant-m-g-plc/57569649) | eFinancialCareers | Edinburgh, Midlothian | ✅ |
 | 2026-11-15 | [Treasury Operations](https://www.adzuna.co.uk/jobs/land/ad/5966911680) | IPOE Consulting | London, UK | ❔ |
 | 2026-11-15 | [Deputy Financial Accountant](https://www.adzuna.co.uk/jobs/details/5967027148) | St. Helens and Knowsley Teaching Hospitals NHS Trust | UK | ❔ |
 | 2026-11-15 | [Financial Controller](https://www.adzuna.co.uk/jobs/details/5967026633) | Brainkind | UK | ❔ |
