@@ -1,13 +1,18 @@
 {
-  "finished_at": "2026-11-14T23:32:52.005Z",
+  "finished_at": "2026-11-15T00:10:31.176Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 34513,
-  "filtered_out": 34473,
-  "new_matches": 0,
-  "boards_failed": 0,
-  "failed": []
+  "postings_seen": 34357,
+  "filtered_out": 34323,
+  "new_matches": 1,
+  "boards_failed": 1,
+  "failed": [
+    {
+      "company": "Octopus Energy",
+      "error": "HTTP 500 Internal Server Error"
+    }
+  ]
 }

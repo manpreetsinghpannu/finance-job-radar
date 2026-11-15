@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T23:32:51.355Z",
+ "generated_at": "2026-11-15T00:10:30.262Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 67,
+   "matching": 68,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -4017,6 +4017,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.reed.co.uk/jobs/market-risk-product-analyst/57562979": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }

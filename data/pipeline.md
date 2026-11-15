@@ -1112,5 +1112,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-maternity-cover-at-circana-4480694747 | Circana | FP&A Analyst (Maternity Cover) | Bracknell, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/portfolio-analyst/57563120 | eFinancialCareers | Portfolio Analyst | London | note: via Reed
 - [ ] https://scotjobsnet.co.uk/job/part-qualified-management-accountant-3/ | via ScotJobsNet | Part-Qualified Management Accountant | Lanarkshire, Scotland | posted: 2026-11-14 | note: via ScotJobsNet
+- [ ] https://www.reed.co.uk/jobs/market-risk-product-analyst/57562979 | eFinancialCareers | Market Risk Product Analyst | London | note: via Reed
 
 ## Processed
