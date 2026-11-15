@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T19:10:19.854Z",
+ "generated_at": "2026-11-15T20:10:28.351Z",
  "order": [
   "finance",
   "credit",
@@ -4257,6 +4257,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
   }
  }
 }

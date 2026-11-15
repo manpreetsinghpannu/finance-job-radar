@@ -1162,5 +1162,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-arm-4482656414 | Arm | Treasury Analyst | Cambridge, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/project-cost-accountant-project-controls-energy-projects-at-turner-townsend-4438324549 | Turner & Townsend | Project Cost Accountant - Project Controls - Energy Projects | Lancing, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230 | Univar Solutions | Assistant Financial Accountant | Bradford, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482 | Aria Partners | Financial Controller - Private Credit | London Area, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 
 ## Processed
