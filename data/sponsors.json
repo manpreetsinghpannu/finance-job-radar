@@ -2777,6 +2777,11 @@
    "register_name": "State Street Bank and Trust Company",
    "match": "alias"
   },
+  "Statera Talent": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "StepStone Group": {
    "licensed": true,
    "register_name": "STEPSTONE GROUP EUROPE LLP",

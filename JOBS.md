@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 07:10** (UK time) · **758 open roles** at 436 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 08:11** (UK time) · **760 open roles** at 437 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 07:07** · hourly scan · checked 200 boards · **1 new role**
+**Sun 15 Nov, 08:06** · hourly scan · checked 200 boards · **2 new roles**
 
-### Finance (FP&A) CV: 1
+### Fund CV (written for India; tweak the header for UK roles): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-14 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-integrity360-4481691915) | Integrity360 | Chester, England, United Kingdom | ✅ |
+| 2026-11-14 | [Quantitative Researcher - Hedge Fund](https://www.linkedin.com/jobs/view/quantitative-researcher-hedge-fund-at-statera-talent-4491066165) | Statera Talent | London Area, United Kingdom | ❔ |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-14 | [Quantitative Analyst](https://www.reed.co.uk/jobs/quantitative-analyst/57568736) | eFinancialCareers | London | ✅ |
 
 ## Top picks for each CV
 
@@ -62,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<details>
+<summary><b>08:06</b> · hourly scan · <b>2 new</b> → Fund 1 · Other 1</summary>
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-14 | [Quantitative Researcher - Hedge Fund](https://www.linkedin.com/jobs/view/quantitative-researcher-hedge-fund-at-statera-talent-4491066165) | Statera Talent | London Area, United Kingdom | ❔ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-14 | [Quantitative Analyst](https://www.reed.co.uk/jobs/quantitative-analyst/57568736) | eFinancialCareers | London | ✅ |
+
+</details>
 
 <details>
 <summary><b>07:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2413,11 +2436,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 08:07</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (414)](#finance-fpa-cv-414) · [Credit (91)](#credit-cv-91) · [Equity (37)](#equity-cv-37) · [Investment (76)](#investment-ib--pe-cv-76) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (94)](#other-fits-no-cv-closely-may-still-be-worth-a-look-94)
+Everything matched so far, newest first within each CV: [Finance (414)](#finance-fpa-cv-414) · [Credit (91)](#credit-cv-91) · [Equity (37)](#equity-cv-37) · [Investment (76)](#investment-ib--pe-cv-76) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (95)](#other-fits-no-cv-closely-may-still-be-worth-a-look-95)
 
 ### Finance (FP&A) CV: 414
 
@@ -3094,10 +3115,11 @@ Everything matched so far, newest first within each CV: [Finance (414)](#finance
 | — | [Associate, Real Estate Asset Management Operations](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Associate--Real-Estate-Asset-Management-Operations_R8113) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 19
+### Fund CV (written for India; tweak the header for UK roles): 20
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-14 | [Quantitative Researcher - Hedge Fund](https://www.linkedin.com/jobs/view/quantitative-researcher-hedge-fund-at-statera-talent-4491066165) | Statera Talent | London Area, United Kingdom | ❔ |
 | 2026-11-13 | [Asset Management – Investment Operations Middle Office, Fund Administration/ Fund Accounting Associate – 12-month FTC - (Cash Equities & Private Equity: strong possibility to permanent)](https://www.linkedin.com/jobs/view/asset-management-%E2%80%93-investment-operations-middle-office-fund-administration-fund-accounting-associate-%E2%80%93-12-month-ftc-cash-equities-private-equity-strong-possibility-to-permanent-at-martis-search-4482484116) | Martis Search | London Area, United Kingdom | ❔ |
 | 2026-11-13 | [Interim Investment Operations Analyst 9 month FTC](https://www.reed.co.uk/jobs/interim-investment-operations-analyst-9-month-ftc/57563078) | eFinancialCareers | London | ✅ |
 | — | [Investment Operations Analyst](https://www.reed.co.uk/jobs/investment-operations-analyst/57567722) | AJ Bell | Salford, Lancashire | ✅ |
@@ -3118,7 +3140,7 @@ Everything matched so far, newest first within each CV: [Finance (414)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 94
+### Other (fits no CV closely, may still be worth a look): 95
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3126,6 +3148,7 @@ Everything matched so far, newest first within each CV: [Finance (414)](#finance
 | 2026-11-14 | [Allianz UK Graduate Finance Scheme 2027](https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-targetjobs-uk-4489897501) | targetjobs UK | Guildford, England, United Kingdom | ❔ |
 | 2026-11-14 | [Trading Analyst - London based](https://www.adzuna.co.uk/jobs/details/5965593971) | Ameriprise | London, UK | ❔ |
 | 2026-11-14 | [Graduate Finance Broker Programme - September 2027](https://www.linkedin.com/jobs/view/graduate-finance-broker-programme-september-2027-at-vecta-4491057785) | Vecta | Northampton, England, United Kingdom | ❔ |
+| 2026-11-14 | [Quantitative Analyst](https://www.reed.co.uk/jobs/quantitative-analyst/57568736) | eFinancialCareers | London | ✅ |
 | 2026-11-13 | [Allianz Finance Graduate Scheme 2027](https://www.linkedin.com/jobs/view/allianz-finance-graduate-scheme-2027-at-targetjobs-uk-4489524353) | targetjobs UK | Guildford, England, United Kingdom | ❔ |
 | 2026-11-13 | [Associate Quantity Surveyor](https://www.s1jobs.com/job/associate-quantity-surveyor-127746797) | Conrad Consulting | Glasgow Area, Scotland | ❔ |
 | 2026-11-13 | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127746796) | Conrad Consulting | Glasgow Area, Scotland | ❔ |

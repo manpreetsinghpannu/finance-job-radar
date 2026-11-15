@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T07:10:15.971Z",
+ "generated_at": "2026-11-15T08:11:19.554Z",
  "order": [
   "finance",
   "credit",
@@ -4037,6 +4037,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-researcher-hedge-fund-at-statera-talent-4491066165": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 9
+  },
+  "https://www.reed.co.uk/jobs/quantitative-analyst/57568736": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
