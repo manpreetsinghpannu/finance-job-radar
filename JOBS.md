@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 13:10** (UK time) · **765 open roles** at 437 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 14:10** (UK time) · **766 open roles** at 438 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,27 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 13:06** · hourly scan · checked 200 boards · **5 new roles**
+**Sun 15 Nov, 14:07** · hourly scan · checked 200 boards · **1 new role**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Commodities Market Risk Analyst - LNG, Power & Emissions](https://www.linkedin.com/jobs/view/commodities-market-risk-analyst-lng-power-emissions-at-morgan-mckinley-4490218918) | Morgan McKinley | London Area, United Kingdom | ✅ |
-
-### Equity CV: 2
+### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-15 | [Equity Research Analyst, European Media, Global Bank](https://www.linkedin.com/jobs/view/equity-research-analyst-european-media-global-bank-at-greenwich-partners-4491250168) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
-| 2026-11-15 | [Equity Research Associate, Technology coverage, Global Investment Bank - Central London](https://www.linkedin.com/jobs/view/equity-research-associate-technology-coverage-global-investment-bank-central-london-at-greenwich-partners-4491237792) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
-
-### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Investment Analyst - Global Private Equity Secondaries Fund](https://www.linkedin.com/jobs/view/investment-analyst-global-private-equity-secondaries-fund-at-greenwich-partners-4491249186) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
-| 2026-11-15 | [M&A/ Corporate Development Associate, Oil and Gas, Global Firm](https://www.linkedin.com/jobs/view/m-a-corporate-development-associate-oil-and-gas-global-firm-at-greenwich-partners-4491244463) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
+| 2026-11-14 | [Investment Associate](https://www.linkedin.com/jobs/view/investment-associate-at-7im-4489887655) | 7IM | London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -76,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<details>
+<summary><b>14:07</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-14 | [Investment Associate](https://www.linkedin.com/jobs/view/investment-associate-at-7im-4489887655) | 7IM | London, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>13:06</b> · hourly scan · <b>5 new</b> → Credit 1 · Equity 2 · Investment 2</summary>
@@ -2420,21 +2417,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>14:07</b> · hourly scan · <b>2 new</b> → Equity 2</summary>
-
-#### Equity CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-08 | [Buy side investment analyst](https://www.linkedin.com/jobs/view/buy-side-investment-analyst-at-oak-life-science-ltd-4488788086) | OAK LIFE SCIENCE LTD | London, England, United Kingdom | ❔ |
-| 2026-11-08 | [Buy side investment analyst assistent](https://www.linkedin.com/jobs/view/buy-side-investment-analyst-assistent-at-oak-life-science-ltd-4488781457) | OAK LIFE SCIENCE LTD | London, England, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (415)](#finance-fpa-cv-415) · [Credit (92)](#credit-cv-92) · [Equity (38)](#equity-cv-38) · [Investment (78)](#investment-ib--pe-cv-78) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (95)](#other-fits-no-cv-closely-may-still-be-worth-a-look-95)
+Everything matched so far, newest first within each CV: [Finance (415)](#finance-fpa-cv-415) · [Credit (92)](#credit-cv-92) · [Equity (38)](#equity-cv-38) · [Investment (79)](#investment-ib--pe-cv-79) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (95)](#other-fits-no-cv-closely-may-still-be-worth-a-look-95)
 
 ### Finance (FP&A) CV: 415
 
@@ -2996,7 +2981,7 @@ Everything matched so far, newest first within each CV: [Finance (415)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 78
+### Investment (IB / PE) CV: 79
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3010,6 +2995,7 @@ Everything matched so far, newest first within each CV: [Finance (415)](#finance
 | 2026-11-14 | [Industrials / Business Services - Investment Banking Coverage & Advisory](https://www.adzuna.co.uk/jobs/details/5965592299) | Deutsche Bank | London, UK | ❔ |
 | 2026-11-14 | [Experienced Associate – Investment Banking, Technology & Services (London)](https://www.linkedin.com/jobs/view/experienced-associate-%E2%80%93-investment-banking-technology-services-london-at-guggenheim-securities-4447093008) | Guggenheim Securities | London Area, United Kingdom | ✅ |
 | 2026-11-14 | [Private Markets Analytics, Associate](https://www.adzuna.co.uk/jobs/land/ad/5965623252) | Hackajob Ltd | Edinburgh City Centre, Edinburgh | ✅ |
+| 2026-11-14 | [Investment Associate](https://www.linkedin.com/jobs/view/investment-associate-at-7im-4489887655) | 7IM | London, England, United Kingdom | ❔ |
 | 2026-11-13 | [Investment Banking M&A FIG Analyst - Entry-Level](https://www.linkedin.com/jobs/view/investment-banking-m-a-fig-analyst-entry-level-at-selby-jennings-4490734348) | Selby Jennings | London, England, United Kingdom | ❔ |
 | — | [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) | eFinancialCareers | London | ✅ |
 | 2026-11-13 | [Investment Banking - EMEA Diversified Industries - Analyst - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809195) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |

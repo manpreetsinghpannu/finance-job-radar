@@ -12,6 +12,11 @@
    "register_name": "2 Sisters Food Group Limited",
    "match": "exact"
   },
+  "7IM": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "93 MGMT": {
    "licensed": false,
    "register_name": null,
