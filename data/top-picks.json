@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T20:10:28.351Z",
+ "generated_at": "2026-11-15T21:09:44.861Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 69,
+   "matching": 68,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 34,
+   "matching": 33,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 24,
+   "matching": 23,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -2432,11 +2432,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 17
-  },
-  "https://www.linkedin.com/jobs/view/investment-analyst-debt-purchasing-collection-%C2%A370-000-%2B-bonus-at-salt-4487483932": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/leveraged-finance-specialist-at-kennedy-pearce-consulting-4487499010": {
    "id": "investment",

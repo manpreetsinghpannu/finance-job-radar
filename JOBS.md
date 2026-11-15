@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 20:10** (UK time) · **803 open roles** at 462 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 21:09** (UK time) · **802 open roles** at 462 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 20:07** · hourly scan · checked 200 boards · **1 new role**
+**Sun 15 Nov, 21:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Financial Controller - Private Credit](https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482) | Aria Partners | London Area, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 20:07** (1: Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -27,12 +23,12 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
 
-**Credit CV** (69 matching)
+**Credit CV** (68 matching)
 
 1. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817) · Brook Green Supply · London Area, United Kingdom · posted 2026-11-13 · ✅
 2. [Credit Risk Analyst - 12 month FTC](https://www.adzuna.co.uk/jobs/land/ad/5965487971) · Hackajob Ltd · Belgrave, Leicester · posted 2026-11-14 · ✅
 
-**Equity CV** (34 matching)
+**Equity CV** (33 matching)
 
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Quantitative Research Analyst - PIMCO](https://www.adzuna.co.uk/jobs/land/ad/5966879623) · PIMCO · London, UK · posted 2026-11-15 · ✅
@@ -47,7 +43,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [VAIB Strategy Analyst](https://job-boards.greenhouse.io/monzo/jobs/8359155) · Monzo · Cardiff, London or Remote (UK) · posted 2026-11-09 · ✅
 2. [Credit Strategy Analyst](https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-funding-circle-uk-4488400686) · Funding Circle UK · London, England, United Kingdom · posted 2026-11-06 · ✅
 
-**Real Estate CV** (24 matching)
+**Real Estate CV** (23 matching)
 
 1. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
 2. [Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695) · Rothschild & Co · London · posted 2026-11-12 · ✅
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 21:07</sub>
 
 <details>
 <summary><b>20:07</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -1841,13 +1839,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>15:07</b> · hourly scan · <b>4 new</b> → Credit 1 · Investment 2 · Fund 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Investment Analyst - Debt Purchasing/ Collection - £70,000 + bonus](https://www.linkedin.com/jobs/view/investment-analyst-debt-purchasing-collection-%C2%A370-000-%2B-bonus-at-salt-4487483932) | Salt | London Area, United Kingdom | ✅ |
+<summary><b>15:07</b> · hourly scan · <b>3 new</b> → Investment 2 · Fund 1</summary>
 
 #### Investment (IB / PE) CV: 2
 
@@ -1862,7 +1854,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | — | [Fund Accountant](https://www.reed.co.uk/jobs/fund-accountant/57553811) | Hays Specialist Recruitment Limited | London | ❔ |
 
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2485,11 +2477,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Sunday 8 November
 
-<sub>Nothing new at: 23:09, 22:09, 21:08, 20:53, 20:36</sub>
+<sub>Nothing new at: 23:09, 22:09</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (440)](#finance-fpa-cv-440) · [Credit (97)](#credit-cv-97) · [Equity (40)](#equity-cv-40) · [Investment (80)](#investment-ib--pe-cv-80) · [Consulting (15)](#consulting-cv-15) · [Real Estate (13)](#real-estate-cv-13) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (98)](#other-fits-no-cv-closely-may-still-be-worth-a-look-98)
+Everything matched so far, newest first within each CV: [Finance (440)](#finance-fpa-cv-440) · [Credit (96)](#credit-cv-96) · [Equity (40)](#equity-cv-40) · [Investment (80)](#investment-ib--pe-cv-80) · [Consulting (15)](#consulting-cv-15) · [Real Estate (13)](#real-estate-cv-13) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (98)](#other-fits-no-cv-closely-may-still-be-worth-a-look-98)
 
 ### Finance (FP&A) CV: 440
 
@@ -2936,7 +2928,7 @@ Everything matched so far, newest first within each CV: [Finance (440)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 97
+### Credit CV: 96
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2991,7 +2983,6 @@ Everything matched so far, newest first within each CV: [Finance (440)](#finance
 | 2026-11-10 | [Market Risk Analyst (Analytics)](https://www.linkedin.com/jobs/view/market-risk-analyst-analytics-at-richard-james-recruitment-specialists-ltd-4489449041) | Richard James Recruitment Specialists Ltd | London Area, United Kingdom | ❔ |
 | 2026-11-10 | [Associate Credit Risk Consultant](https://www.linkedin.com/jobs/view/associate-credit-risk-consultant-at-harnham-4488300888) | Harnham | London, England, United Kingdom | ❔ |
 | 2026-11-10 | [Capital Modeling Risk Analyst - Model Development](https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modeling-Risk-Analyst---Model-Development_JR2604272) | AIG | London | ✅ |
-| 2026-11-10 | [Investment Analyst - Debt Purchasing/ Collection - £70,000 + bonus](https://www.linkedin.com/jobs/view/investment-analyst-debt-purchasing-collection-%C2%A370-000-%2B-bonus-at-salt-4487483932) | Salt | London Area, United Kingdom | ✅ |
 | — | [Associate Credit Risk Consultant](https://www.reed.co.uk/jobs/associate-credit-risk-consultant/57551993) | Harnham - Data & Analytics Recruitment | London | ❔ |
 | 2026-11-10 | [Information Security Risk Analyst](https://www.linkedin.com/jobs/view/information-security-risk-analyst-at-client-server-4489464424) | Client Server | London, England, United Kingdom | ❔ |
 | 2026-11-10 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-at-citi-4489409787) | Citi | London, England, United Kingdom | ✅ |
@@ -3337,10 +3328,11 @@ Everything matched so far, newest first within each CV: [Finance (440)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>56 roles taken off the list because the firm closed the posting</summary>
+<summary>57 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 15 Nov, 21:09 | Investment Analyst - Debt Purchasing/ Collection - £70,000 + bonus | Salt |
 | Sun 15 Nov, 13:08 | Equity Research Analyst, European Real Estate, Global Bank | Greenwich Partners |
 | Sun 15 Nov, 09:10 | Portfolio Risk Analyst , Investment Monitoring , Wealth Management | JJ SEARCH LIMITED |
 | Sat 14 Nov, 14:10 | FP&A Analyst | DJH |
