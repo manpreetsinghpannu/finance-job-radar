@@ -1042,6 +1042,11 @@
    "register_name": "Flow Traders UK Services Ltd",
    "match": "alias"
   },
+  "Foodbuy Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Forge Talent": {
    "licensed": false,
    "register_name": null,

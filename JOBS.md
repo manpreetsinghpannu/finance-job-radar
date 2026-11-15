@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 15:09** (UK time) · **767 open roles** at 439 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 16:09** (UK time) · **770 open roles** at 440 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 15:06** · hourly scan · checked 200 boards · **1 new role**
+**Sun 15 Nov, 16:07** · hourly scan · checked 200 boards · **3 new roles**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-14 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-frontier-economics-4481942310) | Frontier Economics | London Area, United Kingdom | ✅ |
+| 2026-11-15 | [Finance Business Partner - Foodbuy Group](https://www.linkedin.com/jobs/view/finance-business-partner-foodbuy-group-at-foodbuy-group-4483356378) | Foodbuy Group | London, England, United Kingdom | ❔ |
+
+### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Quantitative Research Analyst - PIMCO](https://www.reed.co.uk/jobs/quantitative-research-analyst-pimco/57569658) | eFinancialCareers | London | ✅ |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Investment Banking Division - FIG Benelux - Associate -](https://www.linkedin.com/jobs/view/investment-banking-division-fig-benelux-associate-at-morgan-stanley-4437562989) | Morgan Stanley | London, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -32,12 +44,12 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817) · Brook Green Supply · London Area, United Kingdom · posted 2026-11-13 · ✅
 2. [Credit Risk Analyst - 12 month FTC](https://www.adzuna.co.uk/jobs/land/ad/5965487971) · Hackajob Ltd · Belgrave, Leicester · posted 2026-11-14 · ✅
 
-**Equity CV** (32 matching)
+**Equity CV** (33 matching)
 
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Quantitative Research Analyst, Mortgages](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106492) · PIMCO · London, GBR · ✅
 
-**Investment (IB / PE) CV** (57 matching)
+**Investment (IB / PE) CV** (58 matching)
 
 1. [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) · eFinancialCareers · London · ✅
 2. [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-06 · ✅
@@ -62,6 +74,29 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<details>
+<summary><b>16:07</b> · hourly scan · <b>3 new</b> → Finance 1 · Equity 1 · Investment 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Finance Business Partner - Foodbuy Group](https://www.linkedin.com/jobs/view/finance-business-partner-foodbuy-group-at-foodbuy-group-4483356378) | Foodbuy Group | London, England, United Kingdom | ❔ |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Quantitative Research Analyst - PIMCO](https://www.reed.co.uk/jobs/quantitative-research-analyst-pimco/57569658) | eFinancialCareers | London | ✅ |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Investment Banking Division - FIG Benelux - Associate -](https://www.linkedin.com/jobs/view/investment-banking-division-fig-benelux-associate-at-morgan-stanley-4437562989) | Morgan Stanley | London, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>15:06</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2417,13 +2452,14 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (416)](#finance-fpa-cv-416) · [Credit (92)](#credit-cv-92) · [Equity (38)](#equity-cv-38) · [Investment (79)](#investment-ib--pe-cv-79) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (95)](#other-fits-no-cv-closely-may-still-be-worth-a-look-95)
+Everything matched so far, newest first within each CV: [Finance (417)](#finance-fpa-cv-417) · [Credit (92)](#credit-cv-92) · [Equity (39)](#equity-cv-39) · [Investment (80)](#investment-ib--pe-cv-80) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (95)](#other-fits-no-cv-closely-may-still-be-worth-a-look-95)
 
-### Finance (FP&A) CV: 416
+### Finance (FP&A) CV: 417
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-15 | [Assistant Finance Business Partner](https://www.linkedin.com/jobs/view/assistant-finance-business-partner-at-ocs-4491099863) | OCS | Ipswich, England, United Kingdom | ✅ |
+| 2026-11-15 | [Finance Business Partner - Foodbuy Group](https://www.linkedin.com/jobs/view/finance-business-partner-foodbuy-group-at-foodbuy-group-4483356378) | Foodbuy Group | London, England, United Kingdom | ❔ |
 | 2026-11-14 | [Commercial Finance Business Partner](https://www.adzuna.co.uk/jobs/details/5965595373) | Hologic | Manchester, Greater Manchester | ✅ |
 | 2026-11-14 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-catalyst-4489309896) | Catalyst | Gateshead, England, United Kingdom | ✅ |
 | 2026-11-14 | [Finance Analyst](https://www.adzuna.co.uk/jobs/details/5965576944) | FNZ | Edinburgh, Scotland | ✅ |
@@ -2937,12 +2973,13 @@ Everything matched so far, newest first within each CV: [Finance (416)](#finance
 | 2026-10-20 | [Market Risk (Product) Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/London-UK/Market-Risk--Product--Analyst_329916) | S&P Global | London, UK | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 38
+### Equity CV: 39
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-15 | [Equity Research Analyst, European Media, Global Bank](https://www.linkedin.com/jobs/view/equity-research-analyst-european-media-global-bank-at-greenwich-partners-4491250168) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | 2026-11-15 | [Equity Research Associate, Technology coverage, Global Investment Bank - Central London](https://www.linkedin.com/jobs/view/equity-research-associate-technology-coverage-global-investment-bank-central-london-at-greenwich-partners-4491237792) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
+| — | [Quantitative Research Analyst - PIMCO](https://www.reed.co.uk/jobs/quantitative-research-analyst-pimco/57569658) | eFinancialCareers | London | ✅ |
 | 2026-11-14 | [EMEA Equity Research - Real Estate - Analyst or Associate](https://www.linkedin.com/jobs/view/emea-equity-research-real-estate-analyst-or-associate-at-jpmorganchase-4483189885) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-14 | [Investment Analyst (2-5 Years) - Special Situations](https://www.linkedin.com/jobs/view/investment-analyst-2-5-years-special-situations-at-mondrian-alpha-4488941043) | Mondrian Alpha | London Area, United Kingdom | ✅ |
 | 2026-11-14 | [Investment Analyst (Spanish Speaking)](https://www.adzuna.co.uk/jobs/details/5965262392) | Valor Real Estate Partners | St James's, South West London | ✅ |
@@ -2980,11 +3017,12 @@ Everything matched so far, newest first within each CV: [Finance (416)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 79
+### Investment (IB / PE) CV: 80
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-15 | [Investment Analyst - Global Private Equity Secondaries Fund](https://www.linkedin.com/jobs/view/investment-analyst-global-private-equity-secondaries-fund-at-greenwich-partners-4491249186) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
+| 2026-11-15 | [Investment Banking Division - FIG Benelux - Associate -](https://www.linkedin.com/jobs/view/investment-banking-division-fig-benelux-associate-at-morgan-stanley-4437562989) | Morgan Stanley | London, England, United Kingdom | ✅ |
 | 2026-11-15 | [M&A/ Corporate Development Associate, Oil and Gas, Global Firm](https://www.linkedin.com/jobs/view/m-a-corporate-development-associate-oil-and-gas-global-firm-at-greenwich-partners-4491244463) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | 2026-11-14 | [Corporate Finance Executive](https://www.linkedin.com/jobs/view/corporate-finance-executive-at-xeinadin-4463967912) | Xeinadin | London, England, United Kingdom | ✅ |
 | 2026-11-14 | [Investment Banking - EMEA Diversified Industries - Analyst - London](https://www.linkedin.com/jobs/view/investment-banking-emea-diversified-industries-analyst-london-at-jpmorganchase-4491053037) | JPMorganChase | Greater London, England, United Kingdom | ❔ |

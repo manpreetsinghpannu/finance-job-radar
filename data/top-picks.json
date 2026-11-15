@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T15:09:16.866Z",
+ "generated_at": "2026-11-15T16:09:34.686Z",
  "order": [
   "finance",
   "credit",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 32,
+   "matching": 33,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 57,
+   "matching": 58,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -4082,6 +4082,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-division-fig-benelux-associate-at-morgan-stanley-4437562989": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-foodbuy-group-at-foodbuy-group-4483356378": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/quantitative-research-analyst-pimco/57569658": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
   }
  }
 }

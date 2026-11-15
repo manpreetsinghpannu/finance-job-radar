@@ -1127,5 +1127,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/m-a-corporate-development-associate-oil-and-gas-global-firm-at-greenwich-partners-4491244463 | Greenwich Partners | M&A/ Corporate Development Associate, Oil and Gas, Global Firm | Greater London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-associate-at-7im-4489887655 | 7IM | Investment Associate | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-controller-at-frontier-economics-4481942310 | Frontier Economics | Financial Controller | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-division-fig-benelux-associate-at-morgan-stanley-4437562989 | Morgan Stanley | Investment Banking Division - FIG Benelux - Associate - | London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-foodbuy-group-at-foodbuy-group-4483356378 | Foodbuy Group | Finance Business Partner - Foodbuy Group | London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/quantitative-research-analyst-pimco/57569658 | eFinancialCareers | Quantitative Research Analyst - PIMCO | London | note: via Reed
 
 ## Processed
