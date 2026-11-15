@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 09:10** (UK time) · **759 open roles** at 436 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 09:34** (UK time) · **759 open roles** at 436 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 09:07** · hourly scan · checked 200 boards · **0 new roles**
+**Sun 15 Nov, 09:31** · hourly scan · checked 200 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sun 15 Nov, 08:06** (2: Fund 1 · Other 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Sunday 15 November
 
-<sub>Nothing new at: 09:07</sub>
+<sub>Nothing new at: 09:31, 09:07</sub>
 
 <details>
 <summary><b>08:06</b> · hourly scan · <b>2 new</b> → Fund 1 · Other 1</summary>
@@ -2411,23 +2411,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>09:14</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-08 | [Finance Analyst - Private Equity](https://www.linkedin.com/jobs/view/finance-analyst-private-equity-at-goodman-masson-4487640427) | Goodman Masson | London Area, United Kingdom | ✅ |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-07 | [Fund Controller - Private Markets](https://www.linkedin.com/jobs/view/fund-controller-private-markets-at-aria-partners-4479818826) | Aria Partners | London Area, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (414)](#finance-fpa-cv-414) · [Credit (90)](#credit-cv-90) · [Equity (37)](#equity-cv-37) · [Investment (76)](#investment-ib--pe-cv-76) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (95)](#other-fits-no-cv-closely-may-still-be-worth-a-look-95)
@@ -3234,7 +3217,7 @@ Everything matched so far, newest first within each CV: [Finance (414)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>58 roles taken off the list because the firm closed the posting</summary>
+<summary>57 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3295,6 +3278,5 @@ Everything matched so far, newest first within each CV: [Finance (414)](#finance
 | Mon 9 Nov, 09:07 | Investment Banking Analyst, M&A | Citi |
 | Sun 8 Nov, 13:08 | Equity Research Analyst (Remote) | Joblet-AI |
 | Sun 8 Nov, 13:08 | M&A Research Analyst (Remote) | Joblet-AI |
-| Sun 8 Nov, 09:14 | Investment Banking Analyst (Remote) | Joblet-AI |
 
 </details>
