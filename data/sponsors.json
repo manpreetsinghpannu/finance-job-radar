@@ -252,6 +252,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Arm": {
+   "licensed": true,
+   "register_name": "Arm Limited",
+   "match": "exact"
+  },
   "Armstrong Watson": {
    "licensed": false,
    "register_name": null,
