@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 01:10** (UK time) · **757 open roles** at 435 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 02:04** (UK time) · **757 open roles** at 435 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 01:07** · hourly scan · checked 200 boards · **2 new roles**
+**Sun 15 Nov, 02:00** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [Local Financial Controller (Junior)](https://www.linkedin.com/jobs/view/local-financial-controller-junior-at-dfds-4482872824) | DFDS | Peterborough, England, United Kingdom | ❔ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [Graduate Finance Broker Programme - September 2027](https://www.linkedin.com/jobs/view/graduate-finance-broker-programme-september-2027-at-vecta-4491057785) | Vecta | Northampton, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 01:07** (2: Finance 1 · Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -68,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 02:00</sub>
 
 <details>
 <summary><b>01:07</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
@@ -2425,17 +2417,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>01:33</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-07 | [Quantitative Researcher Equities](https://www.linkedin.com/jobs/view/quantitative-researcher-equities-at-drw-4408269115) | DRW | London, England, United Kingdom | ✅ |
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (413)](#finance-fpa-cv-413) · [Credit (91)](#credit-cv-91) · [Equity (37)](#equity-cv-37) · [Investment (76)](#investment-ib--pe-cv-76) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (94)](#other-fits-no-cv-closely-may-still-be-worth-a-look-94)
@@ -3240,7 +3221,7 @@ Everything matched so far, newest first within each CV: [Finance (413)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>59 roles taken off the list because the firm closed the posting</summary>
+<summary>58 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3302,6 +3283,5 @@ Everything matched so far, newest first within each CV: [Finance (413)](#finance
 | Sun 8 Nov, 13:08 | M&A Research Analyst (Remote) | Joblet-AI |
 | Sun 8 Nov, 09:14 | Investment Banking Analyst (Remote) | Joblet-AI |
 | Sun 8 Nov, 06:09 | 2027 Commodities and Global Markets Graduate Programme | targetjobs UK |
-| Sun 8 Nov, 01:33 | Finance Business Partner | Lloyd's of London |
 
 </details>
