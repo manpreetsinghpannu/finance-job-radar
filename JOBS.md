@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 23:09** (UK time) · **804 open roles** at 463 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 23:16** (UK time) · **804 open roles** at 463 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 23:04** · hourly scan · checked 200 boards · **1 new role**
+**Sun 15 Nov, 23:13** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Finance Business Partner - Technical](https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142) | Atlassian Williams F1 Team | Grove, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 23:04** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 23:13</sub>
 
 <details>
 <summary><b>23:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2504,10 +2502,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 <sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
-
-### Sunday 8 November
-
-<sub>Nothing new at: 23:09</sub>
 
 ## All open roles by CV
 
