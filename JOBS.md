@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 14:10** (UK time) · **766 open roles** at 438 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 15:09** (UK time) · **767 open roles** at 439 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 14:07** · hourly scan · checked 200 boards · **1 new role**
+**Sun 15 Nov, 15:06** · hourly scan · checked 200 boards · **1 new role**
 
-### Investment (IB / PE) CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-14 | [Investment Associate](https://www.linkedin.com/jobs/view/investment-associate-at-7im-4489887655) | 7IM | London, England, United Kingdom | ❔ |
+| 2026-11-14 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-frontier-economics-4481942310) | Frontier Economics | London Area, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (172 matching)
+**Finance (FP&A) CV** (173 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<details>
+<summary><b>15:06</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-14 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-frontier-economics-4481942310) | Frontier Economics | London Area, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>14:07</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -2404,24 +2415,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>15:07</b> · hourly scan · <b>3 new</b> → Finance 3</summary>
-
-#### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-08 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-brown-brown-4427951209) | Brown & Brown | Basildon, England, United Kingdom | ✅ |
-| 2026-11-07 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-leonardo-4479378893) | Leonardo | Yeovil, England, United Kingdom | ✅ |
-| 2026-11-08 | [International Business Partner Accountant](https://www.linkedin.com/jobs/view/international-business-partner-accountant-at-flex-4444326963) | Flex | Warrington, England, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (415)](#finance-fpa-cv-415) · [Credit (92)](#credit-cv-92) · [Equity (38)](#equity-cv-38) · [Investment (79)](#investment-ib--pe-cv-79) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (95)](#other-fits-no-cv-closely-may-still-be-worth-a-look-95)
+Everything matched so far, newest first within each CV: [Finance (416)](#finance-fpa-cv-416) · [Credit (92)](#credit-cv-92) · [Equity (38)](#equity-cv-38) · [Investment (79)](#investment-ib--pe-cv-79) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (95)](#other-fits-no-cv-closely-may-still-be-worth-a-look-95)
 
-### Finance (FP&A) CV: 415
+### Finance (FP&A) CV: 416
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2446,6 +2444,7 @@ Everything matched so far, newest first within each CV: [Finance (415)](#finance
 | 2026-11-14 | [Commercial Analyst](https://www.adzuna.co.uk/jobs/details/5965593317) | Lyreco | Telford, Shropshire | ❔ |
 | 2026-11-14 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-genius-sports-4473375202) | Genius Sports | London, England, United Kingdom | ✅ |
 | 2026-11-14 | [Local Financial Controller (Junior)](https://www.linkedin.com/jobs/view/local-financial-controller-junior-at-dfds-4482872824) | DFDS | Peterborough, England, United Kingdom | ❔ |
+| 2026-11-14 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-frontier-economics-4481942310) | Frontier Economics | London Area, United Kingdom | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57568505) | Sheridan Maine | London | ❔ |
 | 2026-11-14 | [Accountant - Dairy & Meal Solutions](https://www.linkedin.com/jobs/view/accountant-dairy-meal-solutions-at-morrisons-4488987860) | Morrisons | Bradford, England, United Kingdom | ✅ |
 | 2026-11-14 | [Group Financial Accountant](https://www.adzuna.co.uk/jobs/details/5965597084) | Sophos | UK | ✅ |

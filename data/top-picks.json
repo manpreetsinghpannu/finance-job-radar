@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T14:10:14.463Z",
+ "generated_at": "2026-11-15T15:09:16.866Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 172,
+   "matching": 173,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -4077,6 +4077,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/financial-controller-at-frontier-economics-4481942310": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

@@ -1072,6 +1072,11 @@
    "register_name": "Freetrade Limited",
    "match": "alias"
   },
+  "Frontier Economics": {
+   "licensed": true,
+   "register_name": "Frontier Economics",
+   "match": "exact"
+  },
   "FundApps": {
    "licensed": true,
    "register_name": "FundApps Ltd",

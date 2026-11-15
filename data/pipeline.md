@@ -1126,5 +1126,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/equity-research-associate-technology-coverage-global-investment-bank-central-london-at-greenwich-partners-4491237792 | Greenwich Partners | Equity Research Associate, Technology coverage, Global Investment Bank - Central London | Greater London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/m-a-corporate-development-associate-oil-and-gas-global-firm-at-greenwich-partners-4491244463 | Greenwich Partners | M&A/ Corporate Development Associate, Oil and Gas, Global Firm | Greater London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-associate-at-7im-4489887655 | 7IM | Investment Associate | London, England, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-at-frontier-economics-4481942310 | Frontier Economics | Financial Controller | London Area, United Kingdom | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed
