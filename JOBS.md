@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 21:57** (UK time) · **804 open roles** at 463 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 22:10** (UK time) · **804 open roles** at 463 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,14 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 21:54** · hourly scan · checked 200 boards · **2 new roles**
+**Sun 15 Nov, 22:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409) | Retirement Villages Group Ltd | London, England, United Kingdom | ❔ |
-| — | [Regulatory & Capital Reporting Accountant - M&G plc.](https://www.reed.co.uk/jobs/regulatory-capital-reporting-accountant-m-g-plc/57569649) | eFinancialCareers | Edinburgh, Midlothian | ✅ |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 21:54** (2: Finance 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -63,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 22:07</sub>
 
 <details>
 <summary><b>21:54</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -2494,7 +2491,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Sunday 8 November
 
-<sub>Nothing new at: 23:09, 22:09</sub>
+<sub>Nothing new at: 23:09</sub>
 
 ## All open roles by CV
 
