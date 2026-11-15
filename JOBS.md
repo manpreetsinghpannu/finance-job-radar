@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 15 Nov, 08:11** (UK time) · **760 open roles** at 437 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 15 Nov, 09:10** (UK time) · **759 open roles** at 436 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 15 Nov, 08:06** · hourly scan · checked 200 boards · **2 new roles**
+**Sun 15 Nov, 09:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [Quantitative Researcher - Hedge Fund](https://www.linkedin.com/jobs/view/quantitative-researcher-hedge-fund-at-statera-talent-4491066165) | Statera Talent | London Area, United Kingdom | ❔ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [Quantitative Analyst](https://www.reed.co.uk/jobs/quantitative-analyst/57568736) | eFinancialCareers | London | ✅ |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 08:06** (2: Fund 1 · Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -68,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 09:07</sub>
 
 <details>
 <summary><b>08:06</b> · hourly scan · <b>2 new</b> → Fund 1 · Other 1</summary>
@@ -2438,7 +2430,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (414)](#finance-fpa-cv-414) · [Credit (91)](#credit-cv-91) · [Equity (37)](#equity-cv-37) · [Investment (76)](#investment-ib--pe-cv-76) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (95)](#other-fits-no-cv-closely-may-still-be-worth-a-look-95)
+Everything matched so far, newest first within each CV: [Finance (414)](#finance-fpa-cv-414) · [Credit (90)](#credit-cv-90) · [Equity (37)](#equity-cv-37) · [Investment (76)](#investment-ib--pe-cv-76) · [Consulting (15)](#consulting-cv-15) · [Real Estate (12)](#real-estate-cv-12) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (95)](#other-fits-no-cv-closely-may-still-be-worth-a-look-95)
 
 ### Finance (FP&A) CV: 414
 
@@ -2859,7 +2851,7 @@ Everything matched so far, newest first within each CV: [Finance (414)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 91
+### Credit CV: 90
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2936,7 +2928,6 @@ Everything matched so far, newest first within each CV: [Finance (414)](#finance
 | 2026-11-06 | [Hedge Fund Risk Analyst](https://www.linkedin.com/jobs/view/hedge-fund-risk-analyst-at-black-swan-group-4488409544) | Black Swan Group | London Area, United Kingdom | ✅ |
 | 2026-11-06 | [Associate, Credit Analysis](https://icg.wd3.myworkdayjobs.com/external_careers/job/London/Associate--Credit-Analysis_R3367-1) | ICG | London | ✅ |
 | 2026-11-06 | [Corporate Banking Global Capital Management (GCM) - Associate/Senior Associate - LONDON](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Global-Capital-Management--GCM----Senior-Associate---LONDON_261008574-1) | Citi | London United Kingdom | ✅ |
-| 2026-11-06 | [Portfolio Risk Analyst , Investment Monitoring , Wealth Management](https://www.linkedin.com/jobs/view/portfolio-risk-analyst-investment-monitoring-wealth-management-at-jj-search-limited-4487339986) | JJ SEARCH LIMITED | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Credit Operations Support Graduate](https://www.reed.co.uk/jobs/credit-operations-support-graduate/57536031) | Connect Recruitment Consultants Ltd. | Slough, Berkshire | ❔ |
 | 2026-11-05 | [Wholesale Credit Risk Strategy, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820) | JPMorgan Chase | LONDON, United Kingdom | ✅ |
 | 2026-11-05 | [Credit Risk Analyst](https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77310) | Next | Leicester, Leicestershire, United Kingdom | ✅ |
@@ -3243,10 +3234,11 @@ Everything matched so far, newest first within each CV: [Finance (414)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>57 roles taken off the list because the firm closed the posting</summary>
+<summary>58 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 15 Nov, 09:10 | Portfolio Risk Analyst , Investment Monitoring , Wealth Management | JJ SEARCH LIMITED |
 | Sat 14 Nov, 14:10 | FP&A Analyst | DJH |
 | Sat 14 Nov, 14:09 | Graduate Finance Broker Programme - March 2027 | Vecta |
 | Fri 13 Nov, 20:09 | Financial Analyst | ivee |

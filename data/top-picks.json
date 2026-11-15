@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T08:11:19.554Z",
+ "generated_at": "2026-11-15T09:10:49.511Z",
  "order": [
   "finance",
   "credit",
@@ -1242,11 +1242,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/portfolio-risk-analyst-investment-monitoring-wealth-management-at-jj-search-limited-4487339986": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 9
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-royal-united-hospitals-bath-nhs-foundation-trust-4487368140": {
    "id": "finance",
