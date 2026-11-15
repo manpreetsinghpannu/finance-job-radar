@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T00:10:30.262Z",
+ "generated_at": "2026-11-15T01:10:02.020Z",
  "order": [
   "finance",
   "credit",
@@ -4021,6 +4021,16 @@
   "https://www.reed.co.uk/jobs/market-risk-product-analyst/57562979": {
    "id": "credit",
    "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/graduate-finance-broker-programme-september-2027-at-vecta-4491057785": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/local-financial-controller-junior-at-dfds-4482872824": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
    "score": 12
   }
  }
