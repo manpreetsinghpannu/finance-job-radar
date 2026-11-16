@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T00:06:49.052Z",
+ "generated_at": "2026-11-16T01:07:18.585Z",
  "order": [
   "finance",
   "credit",
@@ -4277,6 +4277,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/junior-trader-at-aej-consulting-ltd-4488408312": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57568104": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

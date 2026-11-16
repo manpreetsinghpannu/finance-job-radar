@@ -32,6 +32,11 @@
    "register_name": null,
    "match": "none"
   },
+  "AEJ Consulting Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "AIG": {
    "licensed": true,
    "register_name": "American International Group UK Limited",
@@ -1966,6 +1971,11 @@
    "licensed": true,
    "register_name": "Millennium Capital Management Limited",
    "match": "alias"
+  },
+  "Milton Keynes City Council": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Mint Velvet": {
    "licensed": false,

@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 16 Nov, 00:06** (UK time) · **806 open roles** at 464 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 16 Nov, 01:07** (UK time) · **808 open roles** at 466 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 16 Nov, 00:04** · hourly scan · checked 200 boards · **2 new roles**
+**Mon 16 Nov, 01:04** · hourly scan · checked 200 boards · **2 new roles**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57567575) | Vermelo RPO | Salford, Lancashire | ❔ |
+| 2026-11-15 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57568104) | Milton Keynes City Council | Milton Keynes, Buckinghamshire | ❔ |
 
-### Credit CV: 1
+### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| — | [Trading Risk Analyst Execution & Monitoring](https://www.reed.co.uk/jobs/trading-risk-analyst-execution-monitoring/57567924) | eFinancialCareers | London | ✅ |
+| 2026-11-15 | [Junior Trader](https://www.linkedin.com/jobs/view/junior-trader-at-aej-consulting-ltd-4488408312) | AEJ Consulting Ltd | London Area, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -68,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 16 November
+
+<details>
+<summary><b>01:04</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57568104) | Milton Keynes City Council | Milton Keynes, Buckinghamshire | ❔ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-15 | [Junior Trader](https://www.linkedin.com/jobs/view/junior-trader-at-aej-consulting-ltd-4488408312) | AEJ Consulting Ltd | London Area, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>00:04</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
@@ -2508,35 +2525,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 03:08, 02:07, 01:08</sub>
 
-<details>
-<summary><b>00:16</b> · hourly scan · <b>7 new</b> → Finance 6 · Other 1</summary>
-
-#### Finance (FP&A) CV: 6
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-08 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-vodafone-4487122100) | Vodafone | London, England, United Kingdom | ✅ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540744) | We Do Group | London | ✅ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539782) | Robert Walters | St. Albans, Hertfordshire | ✅ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540093) | Kenneth Brian Associates Limited | Surbiton, Surrey | ❔ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57539612) | Hoop Recruitment | Cardiff, South Glamorgan | ❔ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57537365) | Capital Outsourcing Group Ltd | York, North Yorkshire | ❔ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Finance Graduate](https://www.reed.co.uk/jobs/finance-graduate/57537108) | Tarmac Trading Limited | Solihull, West Midlands (County) | ✅ |
-
-<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (443)](#finance-fpa-cv-443) · [Credit (97)](#credit-cv-97) · [Equity (40)](#equity-cv-40) · [Investment (80)](#investment-ib--pe-cv-80) · [Consulting (15)](#consulting-cv-15) · [Real Estate (13)](#real-estate-cv-13) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (98)](#other-fits-no-cv-closely-may-still-be-worth-a-look-98)
+Everything matched so far, newest first within each CV: [Finance (444)](#finance-fpa-cv-444) · [Credit (97)](#credit-cv-97) · [Equity (40)](#equity-cv-40) · [Investment (80)](#investment-ib--pe-cv-80) · [Consulting (15)](#consulting-cv-15) · [Real Estate (13)](#real-estate-cv-13) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (99)](#other-fits-no-cv-closely-may-still-be-worth-a-look-99)
 
-### Finance (FP&A) CV: 443
+### Finance (FP&A) CV: 444
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2557,6 +2550,7 @@ Everything matched so far, newest first within each CV: [Finance (443)](#finance
 | 2026-11-15 | [Management Accountant - Welsh Desirable](https://www.adzuna.co.uk/jobs/details/5967032697) | Independent Office for Police Conduct | UK | ❔ |
 | 2026-11-15 | [Management Accountant](https://www.adzuna.co.uk/jobs/details/5967026388) | Morgan Hunt | UK | ❔ |
 | 2026-11-15 | [Finance Business Partner - Technical](https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142) | Atlassian Williams F1 Team | Grove, England, United Kingdom | ❔ |
+| 2026-11-15 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57568104) | Milton Keynes City Council | Milton Keynes, Buckinghamshire | ❔ |
 | 2026-11-15 | [Quantitative Trading & Research - Securities Services, Payments and CIB Treasury - Associate](https://www.adzuna.co.uk/jobs/land/ad/5966664669) | Hackajob Ltd | Charing Cross, Central London | ✅ |
 | 2026-11-15 | [Financial Controller – Integrations Office](https://www.adzuna.co.uk/jobs/details/5966722495) | TP ICAP | London, UK | ✅ |
 | 2026-11-15 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230) | Univar Solutions | Bradford, England, United Kingdom | ❔ |
@@ -3279,13 +3273,14 @@ Everything matched so far, newest first within each CV: [Finance (443)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 98
+### Other (fits no CV closely, may still be worth a look): 99
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-15 | [Quantitative Analyst, Pricing Risk Model Validation - Macquarie Group](https://www.adzuna.co.uk/jobs/land/ad/5966879842) | Macquarie Group | London, UK | ❔ |
 | 2026-11-15 | [Quant Analyst – 5 months Fixed Term Contract](https://www.adzuna.co.uk/jobs/details/5966733020) | TP ICAP | London, UK | ✅ |
 | 2026-11-15 | [Quantitative Strategist](https://www.adzuna.co.uk/jobs/details/5966728417) | Deutsche Bank | London, UK | ❔ |
+| 2026-11-15 | [Junior Trader](https://www.linkedin.com/jobs/view/junior-trader-at-aej-consulting-ltd-4488408312) | AEJ Consulting Ltd | London Area, United Kingdom | ❔ |
 | 2026-11-14 | [Financial Solutions Analyst Graduate](https://www.linkedin.com/jobs/view/financial-solutions-analyst-graduate-at-targetjobs-uk-4489850773) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-14 | [Allianz UK Graduate Finance Scheme 2027](https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-targetjobs-uk-4489897501) | targetjobs UK | Guildford, England, United Kingdom | ❔ |
 | 2026-11-14 | [Trading Analyst - London based](https://www.adzuna.co.uk/jobs/details/5965593971) | Ameriprise | London, UK | ❔ |
