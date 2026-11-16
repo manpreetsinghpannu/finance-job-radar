@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T09:08:17.676Z",
+ "generated_at": "2026-11-16T09:49:54.796Z",
  "order": [
   "finance",
   "credit",
@@ -4312,6 +4312,36 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210807232": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-and-adaptive-planning-analyst-at-select-tech-4491507238": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/shipping-accountant-at-handpicked-recruitment-4490762222": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/shipping-accountant-at-richard-james-recruitment-specialists-ltd-4491293805": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/finance-graduate-at-macgregor-black-4489722710": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/accountant/57570816": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
   }
  }
 }

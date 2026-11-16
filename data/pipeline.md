@@ -1178,4 +1178,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/2027-quantitative-analytics-associate-graduate-programme-at-targetjobs-uk-4490247886 | targetjobs UK | 2027 Quantitative Analytics Associate Graduate Programme | London, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/group-financial-accountant-at-michael-page-4491289954 | Michael Page | Group Financial Accountant | Nottingham, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210807232 | JPMorgan Chase | Quantitative Trading & Research - London - 2027 ReEntry Program | LONDON, LONDON, United Kingdom | posted: 2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/fp-a-and-adaptive-planning-analyst-at-select-tech-4491507238 | Select Tech | FP&A and Adaptive Planning Analyst | United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/costing-accountant-falkirk-%C2%A360k-%C2%A375k-at-meraki-talent-4490280325 | Meraki Talent | Costing Accountant | Falkirk | £60k - £75k | West Lothian, Scotland, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/shipping-accountant-at-handpicked-recruitment-4490762222 | Handpicked Recruitment | Shipping Accountant | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/shipping-accountant-at-richard-james-recruitment-specialists-ltd-4491293805 | Richard James Recruitment Specialists Ltd | Shipping Accountant | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-macgregor-black-4489722710 | MacGregor Black | Finance Graduate | Grimsby, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/accountant/57570816 | Warner Recruitment Limited | Accountant | Northampton, Northamptonshire | note: via Reed
+
 ## Processed

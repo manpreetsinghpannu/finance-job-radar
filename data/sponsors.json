@@ -1257,6 +1257,11 @@
    "register_name": "Handle Recruitment",
    "match": "exact"
   },
+  "Handpicked Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Handpicked Recruitment Limited": {
    "licensed": false,
    "register_name": null,
@@ -1832,6 +1837,11 @@
    "register_name": "MUFG Bank, Ltd.",
    "match": "alias"
   },
+  "MacGregor Black": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Mackie Myers": {
    "licensed": false,
    "register_name": null,
@@ -1931,6 +1941,11 @@
    "licensed": true,
    "register_name": "Mears Group PLC",
    "match": "exact"
+  },
+  "Meraki Talent": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Meraki Talent Limited": {
    "licensed": false,
@@ -2768,6 +2783,11 @@
    "match": "none"
   },
   "Selby Jennings": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Select Tech": {
    "licensed": false,
    "register_name": null,
    "match": "none"

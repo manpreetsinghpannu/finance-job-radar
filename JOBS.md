@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 16 Nov, 09:08** (UK time) · **813 open roles** at 466 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 16 Nov, 09:49** (UK time) · **819 open roles** at 469 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,23 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 16 Nov, 09:04** · hourly scan · checked 200 boards · **1 new role**
+**Mon 16 Nov, 09:45** · hourly scan · checked 200 boards · **6 new roles**
 
-### Finance (FP&A) CV: 1
+### Finance (FP&A) CV: 4
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-16 | [Group Financial Accountant](https://www.linkedin.com/jobs/view/group-financial-accountant-at-michael-page-4491289954) | Michael Page | Nottingham, England, United Kingdom | ✅ |
+| 2026-11-16 | [FP&A and Adaptive Planning Analyst](https://www.linkedin.com/jobs/view/fp-a-and-adaptive-planning-analyst-at-select-tech-4491507238) | Select Tech | United Kingdom | ❔ |
+| 2026-11-16 | [Shipping Accountant](https://www.linkedin.com/jobs/view/shipping-accountant-at-handpicked-recruitment-4490762222) | Handpicked Recruitment | London Area, United Kingdom | ❔ |
+| 2026-11-16 | [Shipping Accountant](https://www.linkedin.com/jobs/view/shipping-accountant-at-richard-james-recruitment-specialists-ltd-4491293805) | Richard James Recruitment Specialists Ltd | London Area, United Kingdom | ❔ |
+| — | [Accountant](https://www.reed.co.uk/jobs/accountant/57570816) | Warner Recruitment Limited | Northampton, Northamptonshire | ❔ |
+
+### Other (fits no CV closely, may still be worth a look): 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-16 | [Quantitative Trading & Research - London - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210807232) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
+| 2026-11-16 | [Finance Graduate](https://www.linkedin.com/jobs/view/finance-graduate-at-macgregor-black-4489722710) | MacGregor Black | Grimsby, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -62,6 +72,29 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 16 November
+
+<details>
+<summary><b>09:45</b> · hourly scan · <b>6 new</b> → Finance 4 · Other 2</summary>
+
+#### Finance (FP&A) CV: 4
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-16 | [FP&A and Adaptive Planning Analyst](https://www.linkedin.com/jobs/view/fp-a-and-adaptive-planning-analyst-at-select-tech-4491507238) | Select Tech | United Kingdom | ❔ |
+| 2026-11-16 | [Shipping Accountant](https://www.linkedin.com/jobs/view/shipping-accountant-at-handpicked-recruitment-4490762222) | Handpicked Recruitment | London Area, United Kingdom | ❔ |
+| 2026-11-16 | [Shipping Accountant](https://www.linkedin.com/jobs/view/shipping-accountant-at-richard-james-recruitment-specialists-ltd-4491293805) | Richard James Recruitment Specialists Ltd | London Area, United Kingdom | ❔ |
+| — | [Accountant](https://www.reed.co.uk/jobs/accountant/57570816) | Warner Recruitment Limited | Northampton, Northamptonshire | ❔ |
+
+#### Other (fits no CV closely, may still be worth a look): 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-16 | [Quantitative Trading & Research - London - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210807232) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
+| 2026-11-16 | [Finance Graduate](https://www.linkedin.com/jobs/view/finance-graduate-at-macgregor-black-4489722710) | MacGregor Black | Grimsby, England, United Kingdom | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+
+</details>
 
 <details>
 <summary><b>09:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2537,15 +2570,19 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (446)](#finance-fpa-cv-446) · [Credit (97)](#credit-cv-97) · [Equity (40)](#equity-cv-40) · [Investment (81)](#investment-ib--pe-cv-81) · [Consulting (15)](#consulting-cv-15) · [Real Estate (14)](#real-estate-cv-14) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (100)](#other-fits-no-cv-closely-may-still-be-worth-a-look-100)
+Everything matched so far, newest first within each CV: [Finance (450)](#finance-fpa-cv-450) · [Credit (97)](#credit-cv-97) · [Equity (40)](#equity-cv-40) · [Investment (81)](#investment-ib--pe-cv-81) · [Consulting (15)](#consulting-cv-15) · [Real Estate (14)](#real-estate-cv-14) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (102)](#other-fits-no-cv-closely-may-still-be-worth-a-look-102)
 
-### Finance (FP&A) CV: 446
+### Finance (FP&A) CV: 450
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-16 | [FP&A Graduate](https://www.linkedin.com/jobs/view/fp-a-graduate-at-targetjobs-uk-4490254367) | targetjobs UK | Oxted, England, United Kingdom | ❔ |
+| 2026-11-16 | [FP&A and Adaptive Planning Analyst](https://www.linkedin.com/jobs/view/fp-a-and-adaptive-planning-analyst-at-select-tech-4491507238) | Select Tech | United Kingdom | ❔ |
 | 2026-11-16 | [Group Financial Accountant](https://www.linkedin.com/jobs/view/group-financial-accountant-at-michael-page-4491289954) | Michael Page | Nottingham, England, United Kingdom | ✅ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57567575) | Vermelo RPO | Salford, Lancashire | ❔ |
+| 2026-11-16 | [Shipping Accountant](https://www.linkedin.com/jobs/view/shipping-accountant-at-handpicked-recruitment-4490762222) | Handpicked Recruitment | London Area, United Kingdom | ❔ |
+| 2026-11-16 | [Shipping Accountant](https://www.linkedin.com/jobs/view/shipping-accountant-at-richard-james-recruitment-specialists-ltd-4491293805) | Richard James Recruitment Specialists Ltd | London Area, United Kingdom | ❔ |
+| — | [Accountant](https://www.reed.co.uk/jobs/accountant/57570816) | Warner Recruitment Limited | Northampton, Northamptonshire | ❔ |
 | 2026-11-15 | [Junior Financial Analyst](https://www.adzuna.co.uk/jobs/details/5966719393) | The Citco Group | London, UK | ✅ |
 | 2026-11-15 | [Junior Management Accountant (12 month FTC)](https://www.adzuna.co.uk/jobs/details/5966717153) | Octopus Energy Group | London, UK | ✅ |
 | 2026-11-15 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-tala-4489392620) | TALA | London, England, United Kingdom | ✅ |
@@ -3287,12 +3324,14 @@ Everything matched so far, newest first within each CV: [Finance (446)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 100
+### Other (fits no CV closely, may still be worth a look): 102
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-16 | [Finance Graduate](https://www.linkedin.com/jobs/view/finance-graduate-at-targetjobs-uk-4490265104) | targetjobs UK | Hemel Hempstead, England, United Kingdom | ❔ |
 | 2026-11-16 | [2027 Quantitative Analytics Associate Graduate Programme](https://www.linkedin.com/jobs/view/2027-quantitative-analytics-associate-graduate-programme-at-targetjobs-uk-4490247886) | targetjobs UK | London, England, United Kingdom | ❔ |
+| 2026-11-16 | [Quantitative Trading & Research - London - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210807232) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
+| 2026-11-16 | [Finance Graduate](https://www.linkedin.com/jobs/view/finance-graduate-at-macgregor-black-4489722710) | MacGregor Black | Grimsby, England, United Kingdom | ❔ |
 | 2026-11-15 | [Quantitative Analyst, Pricing Risk Model Validation - Macquarie Group](https://www.adzuna.co.uk/jobs/land/ad/5966879842) | Macquarie Group | London, UK | ❔ |
 | 2026-11-15 | [Quant Analyst – 5 months Fixed Term Contract](https://www.adzuna.co.uk/jobs/details/5966733020) | TP ICAP | London, UK | ✅ |
 | 2026-11-15 | [Quantitative Strategist](https://www.adzuna.co.uk/jobs/details/5966728417) | Deutsche Bank | London, UK | ❔ |
