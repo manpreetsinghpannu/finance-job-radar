@@ -1205,4 +1205,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/finance-analyst-12-month-fixed-term-contract-127761902 | LHH Recruitment Solutions | Finance Analyst 12 Month Fixed Term Contract | City of Edinburgh, Scotland | posted: 2026-11-16 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127761895 | Gibson Recruitment Limited | Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-16 | note: via S1Jobs
 
+- [ ] https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1071 | Aztec Group | Trainee Fund Accountant | Southampton | posted: 2026-11-16
+- [ ] https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-Accountant---Private-Equity_R1066 | Aztec Group | Fund Accountant - Private Equity | Southampton | posted: 2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-forge-talent-4490295605 | Forge Talent | Financial Planning Analyst | Wythenshawe, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-analyst-at-undisclosed-4489736705 | Undisclosed | Quantitative Analyst | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-the-scottish-national-investment-bank-4489732714 | The Scottish National Investment Bank | Finance Analyst | Edinburgh, Scotland, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-statutory-at-orbit-group-4489728751 | Orbit Group | Financial Accountant - Statutory | Coventry, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-investigo-4490294395 | Investigo | Assistant Accountant | Hertfordshire, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-venture-recruitment-partners-4489727981 | Venture Recruitment Partners | Management Accountant | Farnborough, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57571523 | Michael Page Finance | Finance Analyst | Leicester, Leicestershire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57571916 | Kenton Black Finance | Management Accountant | Preston, Lancashire | note: via Reed
+- [ ] https://www.s1jobs.com/job/finance-analyst-12-month-fixed-term-contract-127761902 | LHH Recruitment Solutions | Finance Analyst 12 Month Fixed Term Contract | City of Edinburgh, Scotland | posted: 2026-11-16 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127761895 | Gibson Recruitment Limited | Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-16 | note: via S1Jobs
+
 ## Processed

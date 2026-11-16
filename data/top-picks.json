@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T12:08:06.749Z",
+ "generated_at": "2026-11-16T12:15:15.961Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 195,
+   "matching": 197,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 33,
+   "matching": 34,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -218,8 +218,20 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 22,
+   "matching": 24,
    "picks": [
+    {
+     "title": "Trainee Fund Accountant",
+     "company": "Aztec Group",
+     "location": "Southampton",
+     "posted": "2026-11-16",
+     "url": "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1071",
+     "score": 21,
+     "why": [
+      "Fund Accountant"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Interim Investment Operations Analyst 9 month FTC",
      "company": "eFinancialCareers",
@@ -227,18 +239,6 @@
      "posted": "2026-11-13",
      "url": "https://www.reed.co.uk/jobs/interim-investment-operations-analyst-9-month-ftc/57563078",
      "score": 20,
-     "why": [
-      "Investment Operations"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Investment Operations Technical Analyst",
-     "company": "Phoenix Group",
-     "location": "Edinburgh, Scotland, United Kingdom · Hybrid",
-     "posted": "2026-11-10",
-     "url": "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003",
-     "score": 19,
      "why": [
       "Investment Operations"
      ],
@@ -4378,6 +4378,26 @@
    "cv": "Finance (FP&A) CV",
    "score": 17
   },
+  "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1071": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 21
+  },
+  "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-Accountant---Private-Equity_R1066": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-forge-talent-4490295605": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-analyst-at-undisclosed-4489736705": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-the-scottish-national-investment-bank-4489732714": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -4393,10 +4413,20 @@
    "cv": "Finance (FP&A) CV",
    "score": 15
   },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-venture-recruitment-partners-4489727981": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
   "https://www.reed.co.uk/jobs/finance-analyst/57571523": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57571916": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   },
   "https://www.s1jobs.com/job/finance-analyst-12-month-fixed-term-contract-127761902": {
    "id": "finance",

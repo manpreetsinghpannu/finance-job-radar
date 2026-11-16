@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 707 firms checked, 414 matched, 293 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 710 firms checked, 414 matched, 296 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (293)
+## Not found (296)
 
 - 7IM
 - 93 MGMT
@@ -151,6 +151,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Keepmoat
 - Kennedy Pearce Consulting
 - Kenneth Brian Associates Limited
+- Kenton Black Finance
 - Klarna
 - Landbay
 - Language Matters
@@ -274,11 +275,13 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Trainline
 - TransUnion
 - UCEA - Family Office Group
+- Undisclosed
 - Univar Solutions
 - VIA MATCH LIMITED
 - Valeo Foods UK
 - Vecta
 - Ventula Consulting
+- Venture Recruitment Partners
 - Veracious Talent Partners
 - Veracious Talent Partners Ltd
 - Vermelo RPO

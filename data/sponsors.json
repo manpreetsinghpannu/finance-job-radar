@@ -1617,6 +1617,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Kenton Black Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Kier Group": {
    "licensed": true,
    "register_name": "Kier Group plc",
@@ -3257,6 +3262,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Undisclosed": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Unilever": {
    "licensed": true,
    "register_name": "Unilever UK Limited",
@@ -3303,6 +3313,11 @@
    "match": "none"
   },
   "Ventula Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Venture Recruitment Partners": {
    "licensed": false,
    "register_name": null,
    "match": "none"
