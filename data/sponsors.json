@@ -2597,6 +2597,11 @@
    "register_name": "Robert Walters PLC",
    "match": "exact"
   },
+  "Robertson Wright": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Rolls-Royce": {
    "licensed": true,
    "register_name": "Rolls-Royce plc",

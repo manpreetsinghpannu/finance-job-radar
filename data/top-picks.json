@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T01:07:18.585Z",
+ "generated_at": "2026-11-16T02:16:32.879Z",
  "order": [
   "finance",
   "credit",
@@ -4287,6 +4287,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-robertson-wright-4491284002": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
   }
  }
 }

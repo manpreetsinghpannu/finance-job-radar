@@ -1170,5 +1170,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/finance-business-partner/57567575 | Vermelo RPO | Finance Business Partner | Salford, Lancashire | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/junior-trader-at-aej-consulting-ltd-4488408312 | AEJ Consulting Ltd | Junior Trader | London Area, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57568104 | Milton Keynes City Council | Management Accountant | Milton Keynes, Buckinghamshire | posted: 2026-11-15 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-robertson-wright-4491284002 | Robertson Wright | Investment Banking Associate - Technology | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed
