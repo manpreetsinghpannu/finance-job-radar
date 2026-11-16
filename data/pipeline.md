@@ -1222,5 +1222,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-arup-4489748521 | Arup | Treasury Analyst | London, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-at-targetjobs-uk-4490247890 | targetjobs UK | Financial Planning Graduate Trainee | Birmingham, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-perigus-energy-4482906037 | Perigus Energy | Commercial Analyst | London, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-%E2%80%93-private-credit-at-everet-marsh-4490610984 | Everet Marsh | Investment Analyst – Private Credit | Greater London, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-financial-modelling-at-mdm-resourcing-4489755233 | MDM Resourcing | M&A Analyst (Financial Modelling) | Manchester Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-aej-consulting-ltd-4490297712 | AEJ Consulting Ltd | Research Analyst | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-management-accountant-consumer-scale-up-london-at-better-placed-4490659069 | Better Placed | Junior Management Accountant | Consumer Scale-Up | London | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed
