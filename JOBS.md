@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 16 Nov, 02:22** (UK time) · **809 open roles** at 467 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 16 Nov, 03:11** (UK time) · **809 open roles** at 467 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 16 Nov, 02:20** · hourly scan · checked 200 boards · **1 new role**
+**Mon 16 Nov, 03:07** · hourly scan · checked 200 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Investment Banking Associate - Technology](https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-robertson-wright-4491284002) | Robertson Wright | London Area, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Mon 16 Nov, 02:20** (1: Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 16 November
+
+<sub>Nothing new at: 03:07</sub>
 
 <details>
 <summary><b>02:20</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -2527,8 +2525,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-09 | [2027 Risk Management Group Graduate Programme](https://www.linkedin.com/jobs/view/2027-risk-management-group-graduate-programme-at-targetjobs-uk-4487663748) | targetjobs UK | London, England, United Kingdom | ❔ |
 
 </details>
-
-<sub>Nothing new at: 03:08</sub>
 
 ## All open roles by CV
 
