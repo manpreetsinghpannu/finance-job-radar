@@ -1173,5 +1173,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-robertson-wright-4491284002 | Robertson Wright | Investment Banking Associate - Technology | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/2027-graduate-programme-investment-banking-analyst-at-targetjobs-uk-4490249818 | targetjobs UK | 2027 Graduate Programme - Investment Banking Analyst | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-targetjobs-uk-4490265104 | targetjobs UK | Finance Graduate | Hemel Hempstead, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-graduate-at-targetjobs-uk-4490254367 | targetjobs UK | FP&A Graduate | Oxted, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-targetjobs-uk-4490269019 | targetjobs UK | Graduate Analyst - Puma Property Finance | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/2027-quantitative-analytics-associate-graduate-programme-at-targetjobs-uk-4490247886 | targetjobs UK | 2027 Quantitative Analytics Associate Graduate Programme | London, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed
