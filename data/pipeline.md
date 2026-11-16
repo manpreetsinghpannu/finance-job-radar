@@ -1311,5 +1311,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/non-financial-risk-analyst-11-month-ftc/ | via ScotJobsNet | Non-Financial Risk Analyst (11 month FTC) | Midlothian, Scotland | posted: 2026-11-16 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/management-accountant-finance-b6/ | via ScotJobsNet | Management Accountant Finance B6 | Glasgow, Scotland | posted: 2026-11-16 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/assistant-accountant-3/ | via ScotJobsNet | Assistant Accountant | Glasgow, Scotland | posted: 2026-11-16 | note: via ScotJobsNet
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57580553 | Reed | FP&A Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/operations-analyst-macro-credit/57580545 | eFinancialCareers | Operations Analyst - Macro / Credit | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/restructuring-analyst-to-associate-investment-bank/57574373 | eFinancialCareers | Restructuring Analyst to Associate Investment bank | London | note: via Reed
 
 ## Processed

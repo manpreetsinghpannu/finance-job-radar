@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:12:46.491Z",
+ "generated_at": "2026-11-16T20:36:09.473Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 83,
+   "matching": 84,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 68,
+   "matching": 69,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -2408,11 +2408,6 @@
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 19
   },
-  "https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-systematic-equities-at-octavius-finance-4488376412": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 7
-  },
   "https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-technology-media-and-telecommunications-london-analyst-at-goldman-sachs-4462969815": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -4208,6 +4203,11 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
+  "https://www.linkedin.com/jobs/view/junior-trader-at-aej-consulting-ltd-4488408312": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
   "https://www.reed.co.uk/jobs/management-accountant/57568104": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -4801,6 +4801,31 @@
   "https://scotjobsnet.co.uk/job/assistant-accountant-3/": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-allianz-uk-4487533028": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/fp-a-analyst/57580553": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/operations-analyst-macro-credit/57580545": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/restructuring-analyst-to-associate-investment-bank/57574373": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
    "score": 12
   }
  }
