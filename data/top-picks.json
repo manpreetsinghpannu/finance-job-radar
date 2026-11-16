@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:36:09.473Z",
+ "generated_at": "2026-11-16T21:09:29.186Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 84,
+   "matching": 85,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -4827,6 +4827,21 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-gfp-at-magmas-4490940057": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/graduate-accountant-at-aria-finance-4490120785": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/credit-risk-associate-fx-forwards-3s-money/57580537": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
   }
  }
 }

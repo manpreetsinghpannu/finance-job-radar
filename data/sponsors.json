@@ -262,6 +262,11 @@
    "register_name": "Ares Management Limited",
    "match": "alias"
   },
+  "Aria Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Aria Partners": {
    "licensed": false,
    "register_name": null,
@@ -1961,6 +1966,11 @@
    "licensed": true,
    "register_name": "M & G PlC",
    "match": "exact"
+  },
+  "MAGMAS": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "MDM Resourcing": {
    "licensed": false,

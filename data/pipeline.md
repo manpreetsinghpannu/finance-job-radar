@@ -1314,5 +1314,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57580553 | Reed | FP&A Analyst | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/operations-analyst-macro-credit/57580545 | eFinancialCareers | Operations Analyst - Macro / Credit | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/restructuring-analyst-to-associate-investment-bank/57574373 | eFinancialCareers | Restructuring Analyst to Associate Investment bank | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-gfp-at-magmas-4490940057 | MAGMAS | Management Accountant - GFP | Brigg, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-accountant-at-aria-finance-4490120785 | Aria Finance | Graduate Accountant | Watford, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/credit-risk-associate-fx-forwards-3s-money/57580537 | eFinancialCareers | Credit Risk Associate - FX Forwards - 3S Money | London | note: via Reed
 
 ## Processed
