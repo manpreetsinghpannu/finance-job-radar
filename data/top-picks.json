@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:02:26.805Z",
+ "generated_at": "2026-11-16T20:12:46.491Z",
  "order": [
   "finance",
   "credit",
@@ -4783,20 +4783,10 @@
    "cv": "Finance (FP&A) CV",
    "score": 11
   },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 21
-  },
   "https://www.linkedin.com/jobs/view/analyst-healthcare-m-a-at-lincoln-international-4456606508": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 22
-  },
-  "https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-allianz-uk-4487533028": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://scotjobsnet.co.uk/job/non-financial-risk-analyst-11-month-ftc/": {
    "id": "credit",

@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 16 Nov, 20:02** (UK time) · **913 open roles** at 514 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 16 Nov, 20:12** (UK time) · **912 open roles** at 513 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 16 Nov, 19:59** · hourly scan · checked 201 boards · **6 new roles**
+**Mon 16 Nov, 20:10** · hourly scan · checked 201 boards · **4 new roles**
 
 ### Finance (FP&A) CV: 2
 
@@ -30,18 +30,6 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-16 | [Analyst, Healthcare M&A](https://www.linkedin.com/jobs/view/analyst-healthcare-m-a-at-lincoln-international-4456606508) | Lincoln International | London, England, United Kingdom | ✅ |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Investment Operations Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1) | Barclays | Glasgow Campus | ✅ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Allianz UK Graduate Finance Scheme 2027](https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-allianz-uk-4487533028) | Allianz UK | Guildford, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -89,7 +77,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Monday 16 November
 
 <details>
-<summary><b>19:59</b> · hourly scan · <b>6 new</b> → Finance 2 · Credit 1 · Investment 1 · Fund 1 · Other 1</summary>
+<summary><b>20:10</b> · hourly scan · <b>4 new</b> → Finance 2 · Credit 1 · Investment 1</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -109,18 +97,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-16 | [Analyst, Healthcare M&A](https://www.linkedin.com/jobs/view/analyst-healthcare-m-a-at-lincoln-international-4456606508) | Lincoln International | London, England, United Kingdom | ✅ |
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Investment Operations Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1) | Barclays | Glasgow Campus | ✅ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Allianz UK Graduate Finance Scheme 2027](https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-allianz-uk-4487533028) | Allianz UK | Guildford, England, United Kingdom | ✅ |
 
 </details>
 
@@ -2610,20 +2586,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 21:07</sub>
 
-<details>
-<summary><b>20:07</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Debt Advisory - Analyst - eFinancialCareers](https://www.reed.co.uk/jobs/debt-advisory-analyst-efinancialcareers/57547309) | eFinancialCareers | London | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (498)](#finance-fpa-cv-498) · [Credit (113)](#credit-cv-113) · [Equity (48)](#equity-cv-48) · [Investment (91)](#investment-ib--pe-cv-91) · [Consulting (15)](#consulting-cv-15) · [Real Estate (16)](#real-estate-cv-16) · [Fund (24)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-24) · [Other (108)](#other-fits-no-cv-closely-may-still-be-worth-a-look-108)
+Everything matched so far, newest first within each CV: [Finance (498)](#finance-fpa-cv-498) · [Credit (113)](#credit-cv-113) · [Equity (48)](#equity-cv-48) · [Investment (91)](#investment-ib--pe-cv-91) · [Consulting (15)](#consulting-cv-15) · [Real Estate (16)](#real-estate-cv-16) · [Fund (23)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-23) · [Other (108)](#other-fits-no-cv-closely-may-still-be-worth-a-look-108)
 
 ### Finance (FP&A) CV: 498
 
@@ -3581,7 +3546,7 @@ Everything matched so far, newest first within each CV: [Finance (498)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>71 roles taken off the list because the firm closed the posting</summary>
+<summary>69 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3655,6 +3620,5 @@ Everything matched so far, newest first within each CV: [Finance (498)](#finance
 | Tue 10 Nov, 12:08 | of Management Accountant - Freehold | Frasers Group |
 | Tue 10 Nov, 02:14 | Financial Reporting & Control Analyst | abrdn |
 | Tue 10 Nov, 00:08 | Portfolio Management Assistant | RBC |
-| Mon 9 Nov, 20:08 | Associate - Corporate Finance (Technology M&A) | Houlihan Lokey |
 
 </details>
