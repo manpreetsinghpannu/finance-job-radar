@@ -1198,5 +1198,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/mergers-and-acquisitions-analyst-at-mdm-resourcing-4488505883 | MDM Resourcing | Mergers and Acquisitions Analyst | Manchester Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/valuation-finance-operations-co-ordinator-12-months-ftc-at-cbre-uk-4491510415 | CBRE UK | Valuation Finance Operations Co-ordinator (12 months FTC) | London, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/finance-analyst-12-month-fixed-term-contract/57571492 | LHH Recruitment Solutions | Finance Analyst (12-month Fixed Term Contract) | Edinburgh, Midlothian | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-the-scottish-national-investment-bank-4489732714 | The Scottish National Investment Bank | Finance Analyst | Edinburgh, Scotland, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-statutory-at-orbit-group-4489728751 | Orbit Group | Financial Accountant - Statutory | Coventry, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-investigo-4490294395 | Investigo | Assistant Accountant | Hertfordshire, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57571523 | Michael Page Finance | Finance Analyst | Leicester, Leicestershire | note: via Reed
+- [ ] https://www.s1jobs.com/job/finance-analyst-12-month-fixed-term-contract-127761902 | LHH Recruitment Solutions | Finance Analyst 12 Month Fixed Term Contract | City of Edinburgh, Scotland | posted: 2026-11-16 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127761895 | Gibson Recruitment Limited | Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-16 | note: via S1Jobs
 
 ## Processed

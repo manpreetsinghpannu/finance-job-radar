@@ -1172,6 +1172,11 @@
    "register_name": "Genius Sports UK Ltd",
    "match": "exact"
   },
+  "Gibson Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Gleeson Recruitment Group": {
    "licensed": false,
    "register_name": null,
@@ -2307,6 +2312,11 @@
    "register_name": "Ophelos Ltd",
    "match": "exact"
   },
+  "Orbit Group": {
+   "licensed": true,
+   "register_name": "Orbit Partners Limited",
+   "match": "prefix"
+  },
   "Orla Rose Associates": {
    "licensed": false,
    "register_name": null,
@@ -3141,6 +3151,11 @@
    "licensed": true,
    "register_name": "Noble Restaurant Group Limited",
    "match": "exact"
+  },
+  "The Scottish National Investment Bank": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "The University of Manchester": {
    "licensed": true,

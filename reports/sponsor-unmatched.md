@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 704 firms checked, 413 matched, 291 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 707 firms checked, 414 matched, 293 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (291)
+## Not found (293)
 
 - 7IM
 - 93 MGMT
@@ -104,6 +104,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - GP Fund Solutions
 - GSR Markets
 - Gemini
+- Gibson Recruitment Limited
 - Gleeson Recruitment Group
 - Global Accounting Network
 - Graphite Partners
@@ -264,6 +265,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Talent Guardian
 - Talentedge
 - Talk Staff
+- The Scottish National Investment Bank
 - ThinkMarkets
 - Thrive Childcare and Education
 - Thunes
@@ -298,7 +300,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (40)
+## Matched automatically by close name; worth a glance (41)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
@@ -326,6 +328,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - OCS Group → OCS Consulting plc (prefix)
 - Octopus Group → Octopus Energy Limited (prefix)
 - Ohme → Ohme Operations UK Limited (prefix)
+- Orbit Group → Orbit Partners Limited (prefix)
 - Pantheon → Pantheon Platform UK Limited (prefix)
 - Paxos → Paxos Technology Limited (prefix)
 - People First → People First Care (Rennington) Ltd (prefix)
