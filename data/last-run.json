@@ -1,17 +1,25 @@
 {
-  "finished_at": "2026-11-16T02:16:33.563Z",
+  "finished_at": "2026-11-16T02:22:57.303Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 31963,
-  "filtered_out": 31941,
+  "postings_seen": 31819,
+  "filtered_out": 31797,
   "new_matches": 1,
-  "boards_failed": 4,
+  "boards_failed": 5,
   "failed": [
     {
       "company": "Ardian",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Brevan Howard",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Accenture",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -20,10 +28,6 @@
     },
     {
       "company": "Aztec Group",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "IG Group",
       "error": "HTTP 429 Too Many Requests"
     }
   ]
