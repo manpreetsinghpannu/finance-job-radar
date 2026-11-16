@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 697 firms checked, 409 matched, 288 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 700 firms checked, 410 matched, 290 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (288)
+## Not found (290)
 
 - 7IM
 - 93 MGMT
@@ -260,6 +260,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TUI
 - TVF Media
 - Talan
+- Talent Guardian
 - Talentedge
 - Talk Staff
 - ThinkMarkets
@@ -293,6 +294,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - abrdn
 - ivee
 - targetjobs UK
+- twentyAI
 - via ScotJobsNet
 
 ## Matched automatically by close name; worth a glance (40)

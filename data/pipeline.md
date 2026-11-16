@@ -1186,4 +1186,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-macgregor-black-4489722710 | MacGregor Black | Finance Graduate | Grimsby, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/accountant/57570816 | Warner Recruitment Limited | Accountant | Northampton, Northamptonshire | note: via Reed
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808905 | JPMorgan Chase | Investment Banking - London - 2027 ReEntry Program | LONDON, LONDON, United Kingdom | posted: 2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/graduate-risk-at-sefe-marketing-trading-ltd-4489723861 | SEFE Marketing & Trading Ltd | Graduate - Risk | Manchester, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-finance-analyst-twe47728-at-twentyai-4491294702 | twentyAI | Portfolio Finance Analyst (TWE47728) | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57571031 | Talent Guardian | Management Accountant | Guildford, Surrey | note: via Reed
+
 ## Processed

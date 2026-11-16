@@ -2672,6 +2672,11 @@
    "register_name": null,
    "match": "none"
   },
+  "SEFE Marketing & Trading Ltd": {
+   "licensed": true,
+   "register_name": "SEFE Marketing & Trading Limited",
+   "match": "exact"
+  },
   "SF Partners": {
    "licensed": false,
    "register_name": null,
@@ -3048,6 +3053,11 @@
    "match": "none"
   },
   "Talan": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Talent Guardian": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3478,6 +3488,11 @@
    "match": "exact"
   },
   "targetjobs UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "twentyAI": {
    "licensed": false,
    "register_name": null,
    "match": "none"
