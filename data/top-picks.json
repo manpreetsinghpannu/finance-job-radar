@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T08:07:56.297Z",
+ "generated_at": "2026-11-16T09:08:17.676Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 189,
+   "matching": 190,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -4307,6 +4307,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/group-financial-accountant-at-michael-page-4491289954": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
   }
  }
 }

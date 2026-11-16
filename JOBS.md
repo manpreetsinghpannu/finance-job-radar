@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 16 Nov, 08:07** (UK time) · **812 open roles** at 466 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 16 Nov, 09:08** (UK time) · **813 open roles** at 466 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 16 Nov, 08:05** · hourly scan · checked 200 boards · **0 new roles**
+**Mon 16 Nov, 09:04** · hourly scan · checked 200 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Mon 16 Nov, 04:04** (3: Finance 1 · Real Estate 1 · Other 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-16 | [Group Financial Accountant](https://www.linkedin.com/jobs/view/group-financial-accountant-at-michael-page-4491289954) | Michael Page | Nottingham, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (189 matching)
+**Finance (FP&A) CV** (190 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462) · The Consultancy Group · London Area, United Kingdom · posted 2026-11-10 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-herbert-smith-freehills-kramer-4487699247) · Herbert Smith Freehills Kramer · City Of London, England, United Kingdom · posted 2026-11-09 · ✅
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 16 November
+
+<details>
+<summary><b>09:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-16 | [Group Financial Accountant](https://www.linkedin.com/jobs/view/group-financial-accountant-at-michael-page-4491289954) | Michael Page | Nottingham, England, United Kingdom | ✅ |
+
+</details>
 
 <sub>Nothing new at: 08:05, 07:11, 06:04, 05:04</sub>
 
@@ -2520,37 +2535,16 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>09:07</b> · hourly scan · <b>5 new</b> → Finance 4 · Investment 1</summary>
-
-#### Finance (FP&A) CV: 4
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-09 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-hays-4488822847) | Hays | Gloucestershire, England, United Kingdom | ✅ |
-| 2026-11-09 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-halliday-marx-4487138535) | Halliday Marx | London Area, United Kingdom | ❔ |
-| 2026-11-09 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-robert-half-4487146141) | Robert Half | Cardiff, Wales, United Kingdom | ✅ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57543746) | Zachary Daniels | South Croydon, Surrey | ❔ |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-09 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-everet-marsh-4488841226) | Everet Marsh | London Area, United Kingdom | ❔ |
-
-</details>
-
-<sub>Nothing new at: 08:10</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (445)](#finance-fpa-cv-445) · [Credit (97)](#credit-cv-97) · [Equity (40)](#equity-cv-40) · [Investment (81)](#investment-ib--pe-cv-81) · [Consulting (15)](#consulting-cv-15) · [Real Estate (14)](#real-estate-cv-14) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (100)](#other-fits-no-cv-closely-may-still-be-worth-a-look-100)
+Everything matched so far, newest first within each CV: [Finance (446)](#finance-fpa-cv-446) · [Credit (97)](#credit-cv-97) · [Equity (40)](#equity-cv-40) · [Investment (81)](#investment-ib--pe-cv-81) · [Consulting (15)](#consulting-cv-15) · [Real Estate (14)](#real-estate-cv-14) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (100)](#other-fits-no-cv-closely-may-still-be-worth-a-look-100)
 
-### Finance (FP&A) CV: 445
+### Finance (FP&A) CV: 446
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-16 | [FP&A Graduate](https://www.linkedin.com/jobs/view/fp-a-graduate-at-targetjobs-uk-4490254367) | targetjobs UK | Oxted, England, United Kingdom | ❔ |
+| 2026-11-16 | [Group Financial Accountant](https://www.linkedin.com/jobs/view/group-financial-accountant-at-michael-page-4491289954) | Michael Page | Nottingham, England, United Kingdom | ✅ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57567575) | Vermelo RPO | Salford, Lancashire | ❔ |
 | 2026-11-15 | [Junior Financial Analyst](https://www.adzuna.co.uk/jobs/details/5966719393) | The Citco Group | London, UK | ✅ |
 | 2026-11-15 | [Junior Management Accountant (12 month FTC)](https://www.adzuna.co.uk/jobs/details/5966717153) | Octopus Energy Group | London, UK | ✅ |
@@ -3401,7 +3395,7 @@ Everything matched so far, newest first within each CV: [Finance (445)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>60 roles taken off the list because the firm closed the posting</summary>
+<summary>59 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3464,6 +3458,5 @@ Everything matched so far, newest first within each CV: [Finance (445)](#finance
 | Mon 9 Nov, 16:09 | Associate - Corporate Finance (Healthcare) | Houlihan Lokey |
 | Mon 9 Nov, 13:08 | Management Consultant - Insurance | Accenture |
 | Mon 9 Nov, 11:09 | Management Accountant - Property | Frasers Group |
-| Mon 9 Nov, 09:07 | Investment Banking Analyst, M&A | Citi |
 
 </details>
