@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 727 firms checked, 418 matched, 309 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 749 firms checked, 424 matched, 325 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (309)
+## Not found (325)
 
 - 7IM
 - 93 MGMT
@@ -31,6 +31,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Arcade Food Halls
 - Arcana
 - Aria Partners
+- Arlington Resource Management
 - Armstrong Watson
 - Arup
 - Aster Group
@@ -38,6 +39,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Atlassian Williams F1 Team
 - Atom Bank
 - Avove Utilities
+- Axon Moore
+- Axon Moore Group Ltd
 - B&Q
 - Better Placed
 - Bield Housing Association
@@ -66,6 +69,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Carousel Consultancy Ltd
 - Checkatrade
 - Checkout.com
+- Citibank
 - City Recruitment Associates
 - ClearScore
 - Client Server
@@ -89,6 +93,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Distinct Recruitment
 - Dojo
 - Doncaster Racecourse and Exhibition Centre
+- Eaton Syalon Limited
 - Echo
 - Edgworth Partners
 - Edward Mann
@@ -113,6 +118,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Gibson Recruitment Limited
 - Gleeson Recruitment Group
 - Global Accounting Network
+- Global Corporate Investment Bank
 - Graphite Partners
 - Greencore
 - Greenhill
@@ -128,10 +134,12 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Harnham
 - Harnham - Data & Analytics Recruitment
 - Harper May Ltd
+- Havering Schools
 - Hawke Search
 - Hays Specialist Recruitment Limited
 - Headstar
 - HelloFresh
+- High Finance (UK) Limited T/A HFG
 - Hometree
 - Hoop Recruitment
 - Howmet Aerospace
@@ -177,16 +185,20 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - MFS Investment Management
 - MacGregor Black
 - Mackie Myers
+- Macklin Care Homes Ltd
 - Macquarie Group
 - ManpowerGroup Talent Solutions
 - Market Harborough Building Society
 - Marks Sattin
+- Marks Sattin FS
 - Marlin Selection Recruitment
 - Martis Search
 - Matched Group
 - McGinnis Loy Associates Ltd
+- Melior Capital
 - Meraki Talent
 - Meraki Talent Limited
+- Mercor
 - Metis Search
 - Michael Page Finance
 - Milton Keynes City Council
@@ -200,6 +212,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Morgan Law
 - Morson Edge
 - Motorway
+- Murphy
 - NC Associates
 - New Avenues
 - Newlon Housing Trust
@@ -249,6 +262,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - STEP Fusion
 - STONEMONT PARTNERS LIMITED
 - STORMX RECRUITMENT LIMITED
+- Salutem Care And Education
 - Samworth Brothers
 - Satispay
 - Scottish public sector
@@ -285,9 +299,11 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Tower Transit Group
 - Trainline
 - TransUnion
+- Trident International Associates
 - UCEA - Family Office Group
 - Undisclosed
 - Univar Solutions
+- VANRATH
 - VIA MATCH LIMITED
 - Valeo Foods UK
 - Vecta
@@ -316,8 +332,9 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (43)
+## Matched automatically by close name; worth a glance (44)
 
+- 3S Money → 3S Money Club Limited (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)

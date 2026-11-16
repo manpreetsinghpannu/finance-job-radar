@@ -1270,4 +1270,35 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57579905 | Candidate Source - TEAM | Management Accountant | Chertsey, Surrey | note: via Reed
 - [ ] https://www.s1jobs.com/job/systems-accountant-elite-3e-127761944 | Ashurst Perkins Coie | Systems Accountant Elite 3e | Glasgow Area, Scotland | posted: 2026-11-16 | note: via S1Jobs
 
+- [ ] https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400098222 | Sainsbury's | Financial Accountant - Gross Margin Accounting (9-12M FTC) | London, London, United Kingdom | posted: 2026-11-16
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5968034719 | Vitae Financial Recruitment | Financial Controller | The City, Central London | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5968018960 | 3S Money | Credit Risk Associate – FX Forwards - 3S Money | London, UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5968001043 | Avove | Commercial Finance Analyst | UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5968000819 | Havering Schools | Finance Analyst | UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967998004 | Croud | Group FP&A Business Partner | UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5967946526 | Trident International Associates | Financial Accountant - 1 Year FTC | The City, Central London | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5967945840 | Axon Moore | Financial Reporting Accountant | Penwortham, Preston | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5967945366 | Michael Page | Finance Analyst | Humberstone, Leicester | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967944338 | Salutem Care And Education | Operational Finance Analyst – Growth & Development | Windsor, Windsor & Maidenhead | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967837496 | Michael Page | Trainee Accountant | West Bradford, Clitheroe | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5967831777 | Axon Moore | Assistant Accountant | Dean Clough Industrial Park, Halifax | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5967807201 | Hays | Company Accountant | London, UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5967807193 | VANRATH | Commercial Accountant (Belfast) | Belfast, Northern Ireland | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5967794162 | PIMCO | European Rates Trader - PIMCO | London, UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967678484 | Global Corporate Investment Bank | Leveraged Finance Credit Risk Analyst | London, UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5967652977 | Eaton Syalon Limited | Management Accountant | East Midlands, UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967606421 | Melior Capital | Investment Analyst | London, UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967605682 | Citibank | Corporate Banking Global Capital Management (GCM) - Associate/Senior Associate - LONDON | London, UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967514325 | Macklin Care Homes Ltd | Group Financial Controller | UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967346509 | Mercor | Investment Banking Specialist - M&A | London, UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5967250664 | Marks Sattin FS | Valuations / Pricing Analyst - 12 Contract - Marks Sattin FS | London, UK | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5967246211 | Arlington Resource Management | Project Accountant | Harrow, London | posted: 2026-11-16 | note: via Adzuna
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614 | Vallum Associates | Credit Risk Analyst - Energy | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-4489791899 | CFP Energy | Credit Risk Analyst | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-fig-m-a-advisory-at-dartmouth-partners-4490916163 | Dartmouth Partners | Investment Banking Associate (FIG M&A) Advisory | Greater London, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-murphy-4490689907 | Murphy | Finance Graduate | Golborne, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fund-accounting-opportunities/57574534 | eFinancialCareers | Fund Accounting Opportunities | Edinburgh, Midlothian | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57580223 | Axon Moore Group Ltd | Management Accountant | Preston, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57580298 | High Finance (UK) Limited T/A HFG | Management Accountant | London | note: via Reed
+
 ## Processed

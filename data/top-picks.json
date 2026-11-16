@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T17:08:46.494Z",
+ "generated_at": "2026-11-16T18:07:46.249Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 204,
+   "matching": 209,
    "picks": [
     {
      "title": "Finance Analyst (FP&A)",
@@ -41,11 +41,11 @@
     },
     {
      "title": "Commercial Finance Analyst",
-     "company": "The Consultancy Group",
-     "location": "London Area, United Kingdom",
-     "posted": "2026-11-10",
-     "url": "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-the-consultancy-group-london-4487470462",
-     "score": 30,
+     "company": "Avove",
+     "location": "UK",
+     "posted": "2026-11-16",
+     "url": "https://www.adzuna.co.uk/jobs/details/5968001043",
+     "score": 31,
      "why": [
       "Finance Analyst",
       "Commercial Finance"
@@ -57,15 +57,15 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 81,
+   "matching": 83,
    "picks": [
     {
-     "title": "Credit Risk Analyst - 12 month FTC",
-     "company": "Hackajob Ltd",
-     "location": "Belgrave, Leicester",
-     "posted": "2026-11-14",
-     "url": "https://www.adzuna.co.uk/jobs/land/ad/5965487971",
-     "score": 25,
+     "title": "Credit Risk Analyst - Energy",
+     "company": "Vallum Associates",
+     "location": "London Area, United Kingdom",
+     "posted": "2026-11-16",
+     "url": "https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614",
+     "score": 26,
      "why": [
       "Credit Risk",
       "Risk Analyst"
@@ -73,15 +73,15 @@
      "sponsor": true
     },
     {
-     "title": "Wholesale Credit Risk Strategy, Associate",
-     "company": "JPMorgan Chase",
-     "location": "LONDON, United Kingdom",
-     "posted": "2026-11-05",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820",
-     "score": 25,
+     "title": "Credit Risk Analyst",
+     "company": "CFP Energy",
+     "location": "London Area, United Kingdom",
+     "posted": "2026-11-16",
+     "url": "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-4489791899",
+     "score": 26,
      "why": [
       "Credit Risk",
-      "Wholesale Credit"
+      "Risk Analyst"
      ],
      "sponsor": true
     }
@@ -122,15 +122,15 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 66,
+   "matching": 67,
    "picks": [
     {
-     "title": "Investment Banking Analyst, M&A - Citi",
-     "company": "eFinancialCareers",
-     "location": "London",
-     "posted": null,
-     "url": "https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952",
-     "score": 28,
+     "title": "Investment Banking Associate (FIG M&A) Advisory",
+     "company": "Dartmouth Partners",
+     "location": "Greater London, England, United Kingdom",
+     "posted": "2026-11-16",
+     "url": "https://www.linkedin.com/jobs/view/investment-banking-associate-fig-m-a-advisory-at-dartmouth-partners-4490916163",
+     "score": 29,
      "why": [
       "Investment Banking",
       "M&A"
@@ -138,12 +138,12 @@
      "sponsor": true
     },
     {
-     "title": "Investment Banking - EMEA M&A Diversified Industries - Associate - London",
-     "company": "JPMorgan Chase",
-     "location": "LONDON, LONDON, United Kingdom",
-     "posted": "2026-11-06",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761",
-     "score": 25,
+     "title": "Investment Banking Analyst, M&A - Citi",
+     "company": "eFinancialCareers",
+     "location": "London",
+     "posted": null,
+     "url": "https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952",
+     "score": 28,
      "why": [
       "Investment Banking",
       "M&A"
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 30,
+   "matching": 31,
    "picks": [
     {
      "title": "Trainee Fund Accountant",
@@ -382,11 +382,6 @@
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 19
-  },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806820": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 25
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210771123": {
    "id": "investment",
@@ -2292,11 +2287,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-malaberg-4487476241": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
   },
   "https://www.reed.co.uk/jobs/treasury-analyst-edinburgh/57552369": {
    "id": "finance",
@@ -4644,6 +4634,156 @@
    "score": 10
   },
   "https://www.s1jobs.com/job/systems-accountant-elite-3e-127761944": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400098222": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5968034719": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5968018960": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 23
+  },
+  "https://www.adzuna.co.uk/jobs/details/5968001043": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 31
+  },
+  "https://www.adzuna.co.uk/jobs/details/5968000819": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.adzuna.co.uk/jobs/details/5967998004": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5967946526": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5967945840": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5967945366": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.adzuna.co.uk/jobs/details/5967944338": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.adzuna.co.uk/jobs/details/5967837496": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5967831777": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5967807201": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5967807193": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5967794162": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.adzuna.co.uk/jobs/details/5967678484": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 27
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5967652977": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.adzuna.co.uk/jobs/details/5967606421": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 13
+  },
+  "https://www.adzuna.co.uk/jobs/details/5967605682": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
+  },
+  "https://www.adzuna.co.uk/jobs/details/5967514325": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/details/5967346509": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5967250664": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.adzuna.co.uk/jobs/details/5967246211": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 26
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-4489791899": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 26
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-fig-m-a-advisory-at-dartmouth-partners-4490916163": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/finance-graduate-at-murphy-4490689907": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/fund-accounting-opportunities/57574534": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 13
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57580223": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57580298": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11

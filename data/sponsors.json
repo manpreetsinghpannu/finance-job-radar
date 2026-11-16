@@ -12,6 +12,11 @@
    "register_name": "2 Sisters Food Group Limited",
    "match": "exact"
   },
+  "3S Money": {
+   "licensed": true,
+   "register_name": "3S Money Club Limited",
+   "match": "prefix"
+  },
   "7IM": {
    "licensed": false,
    "register_name": null,
@@ -257,6 +262,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Arlington Resource Management": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Arm": {
    "licensed": true,
    "register_name": "Arm Limited",
@@ -322,7 +332,22 @@
    "register_name": "AVIVA DENTISTRY LIMITED",
    "match": "alias"
   },
+  "Avove": {
+   "licensed": true,
+   "register_name": "Avove Ltd",
+   "match": "exact"
+  },
   "Avove Utilities": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Axon Moore": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Axon Moore Group Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -572,6 +597,11 @@
    "register_name": "CBRE Limited",
    "match": "exact"
   },
+  "CFP Energy": {
+   "licensed": true,
+   "register_name": "CFP Energy (UK) Limited",
+   "match": "exact"
+  },
   "CGI": {
    "licensed": true,
    "register_name": "Logica Ltd t/a CGI",
@@ -757,6 +787,11 @@
    "register_name": "Citi Group",
    "match": "exact"
   },
+  "Citibank": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "City Recruitment Associates": {
    "licensed": false,
    "register_name": null,
@@ -852,6 +887,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Croud": {
+   "licensed": true,
+   "register_name": "Croud Inc Ltd",
+   "match": "exact"
+  },
   "Culina": {
    "licensed": false,
    "register_name": null,
@@ -886,6 +926,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Dartmouth Partners": {
+   "licensed": true,
+   "register_name": "Dartmouth Partners Limited",
+   "match": "exact"
   },
   "Datalink Recruitment": {
    "licensed": false,
@@ -966,6 +1011,11 @@
    "licensed": true,
    "register_name": "Eaton Ltd",
    "match": "exact"
+  },
+  "Eaton Syalon Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Ebury": {
    "licensed": true,
@@ -1232,6 +1282,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Global Corporate Investment Bank": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "GoCardless": {
    "licensed": true,
    "register_name": "GoCardless Limited",
@@ -1377,6 +1432,11 @@
    "register_name": "Harvey Nash Limited",
    "match": "exact"
   },
+  "Havering Schools": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Hawke Search": {
    "licensed": false,
    "register_name": null,
@@ -1411,6 +1471,11 @@
    "licensed": true,
    "register_name": "Herbert Smith Freehills Kramer LLP",
    "match": "exact"
+  },
+  "High Finance (UK) Limited T/A HFG": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Hiscox": {
    "licensed": true,
@@ -1932,6 +1997,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Macklin Care Homes Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Macquarie Group": {
    "licensed": false,
    "register_name": null,
@@ -1987,6 +2057,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Marks Sattin FS": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Marlin Selection Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -2032,12 +2107,22 @@
    "register_name": "Mears Group PLC",
    "match": "exact"
   },
+  "Melior Capital": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Meraki Talent": {
    "licensed": false,
    "register_name": null,
    "match": "none"
   },
   "Meraki Talent Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Mercor": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2206,6 +2291,11 @@
    "licensed": true,
    "register_name": "Multiverse Group Limited",
    "match": "exact"
+  },
+  "Murphy": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "NBCUniversal": {
    "licensed": true,
@@ -2857,6 +2947,11 @@
    "register_name": "SALT Group Limited",
    "match": "exact"
   },
+  "Salutem Care And Education": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Samworth Brothers": {
    "licensed": false,
    "register_name": null,
@@ -3312,6 +3407,11 @@
    "register_name": "TRIDENT EUROPE LIMITED",
    "match": "exact"
   },
+  "Trident International Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Trinity House Group": {
    "licensed": true,
    "register_name": "Trinity House",
@@ -3362,6 +3462,11 @@
    "register_name": "University of Strathclyde",
    "match": "exact"
   },
+  "VANRATH": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "VIA MATCH LIMITED": {
    "licensed": false,
    "register_name": null,
@@ -3371,6 +3476,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Vallum Associates": {
+   "licensed": true,
+   "register_name": "Vallum Associates Limited",
+   "match": "exact"
   },
   "Valor Real Estate Partners": {
    "licensed": true,
