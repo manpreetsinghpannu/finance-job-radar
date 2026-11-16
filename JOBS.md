@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 16 Nov, 05:07** (UK time) · **813 open roles** at 466 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 16 Nov, 06:07** (UK time) · **812 open roles** at 466 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 16 Nov, 05:04** · hourly scan · checked 200 boards · **0 new roles**
+**Mon 16 Nov, 06:04** · hourly scan · checked 200 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Mon 16 Nov, 04:04** (3: Finance 1 · Real Estate 1 · Other 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Monday 16 November
 
-<sub>Nothing new at: 05:04</sub>
+<sub>Nothing new at: 06:04, 05:04</sub>
 
 <details>
 <summary><b>04:04</b> · hourly scan · <b>3 new</b> → Finance 1 · Real Estate 1 · Other 1</summary>
@@ -2553,11 +2553,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 05:08</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (445)](#finance-fpa-cv-445) · [Credit (97)](#credit-cv-97) · [Equity (40)](#equity-cv-40) · [Investment (81)](#investment-ib--pe-cv-81) · [Consulting (15)](#consulting-cv-15) · [Real Estate (14)](#real-estate-cv-14) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (101)](#other-fits-no-cv-closely-may-still-be-worth-a-look-101)
+Everything matched so far, newest first within each CV: [Finance (445)](#finance-fpa-cv-445) · [Credit (97)](#credit-cv-97) · [Equity (40)](#equity-cv-40) · [Investment (81)](#investment-ib--pe-cv-81) · [Consulting (15)](#consulting-cv-15) · [Real Estate (14)](#real-estate-cv-14) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (100)](#other-fits-no-cv-closely-may-still-be-worth-a-look-100)
 
 ### Finance (FP&A) CV: 445
 
@@ -3306,7 +3304,7 @@ Everything matched so far, newest first within each CV: [Finance (445)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 101
+### Other (fits no CV closely, may still be worth a look): 100
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3402,7 +3400,6 @@ Everything matched so far, newest first within each CV: [Finance (445)](#finance
 | — | [Modeling & Quant Analytics - AI & Agentic Model Validation](https://careers.moodys.com/en/job/london/modeling-and-quant-analytics-ai-and-agentic-model-validation/49841/100813569712) | Moody's | London, England | ✅ |
 | 2026-11-03 | [Quantitative Researcher – Market Impact Modeling](https://mlp.eightfold.ai/careers/job/755959590097) | Millennium | London, United Kingdom | ✅ |
 | 2026-11-02 | [2027 Quantitative Analytics Associate Graduate Programme London](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-London_JR-0000129352) | Barclays | Canary Wharf, 1 Churchill Place | ✅ |
-| 2026-11-02 | [Quantitative Trading & Research – Securities Services – Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804850) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-29 | [Specialist, Quantitative Analysis](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Guernsey-GG/Specialist--Quantitative-Analysis_332357-1) | S&P Global | Guernsey, GG · London, UK | ✅ |
 | 2026-10-28 | [Product & Market Planning Graduate Programme (Risk Intelligence)](https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/London-United-Kingdom/Product---Market-Planning-Graduate-Programme--Risk-Intelligence-_R0124725) | LSEG | London, United Kingdom | ✅ |
 | 2026-10-26 | [Quantitative Trading & Research – Fixed Income – Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210778053) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
@@ -3415,10 +3412,11 @@ Everything matched so far, newest first within each CV: [Finance (445)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>59 roles taken off the list because the firm closed the posting</summary>
+<summary>60 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 16 Nov, 06:07 | Quantitative Trading & Research – Securities Services – Analyst or Associate | JPMorgan Chase |
 | Mon 16 Nov, 05:06 | Partnerships - Private Equity | ElevenLabs |
 | Sun 15 Nov, 23:06 | Management Accountant (Healthcare) | Edward Mann |
 | Sun 15 Nov, 21:09 | Investment Analyst - Debt Purchasing/ Collection - £70,000 + bonus | Salt |

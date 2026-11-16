@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T05:07:32.705Z",
+ "generated_at": "2026-11-16T06:07:15.858Z",
  "order": [
   "finance",
   "credit",
@@ -412,11 +412,6 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 15
-  },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804850": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210778053": {
    "id": "other",
