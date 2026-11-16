@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 16 Nov, 04:09** (UK time) · **814 open roles** at 467 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 16 Nov, 05:07** (UK time) · **813 open roles** at 466 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 16 Nov, 04:04** · hourly scan · checked 200 boards · **3 new roles**
+**Mon 16 Nov, 05:04** · hourly scan · checked 200 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [FP&A Graduate](https://www.linkedin.com/jobs/view/fp-a-graduate-at-targetjobs-uk-4490254367) | targetjobs UK | Oxted, England, United Kingdom | ❔ |
-
-### Real Estate CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Graduate Analyst - Puma Property Finance](https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-targetjobs-uk-4490269019) | targetjobs UK | London Area, United Kingdom | ❔ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [2027 Quantitative Analytics Associate Graduate Programme](https://www.linkedin.com/jobs/view/2027-quantitative-analytics-associate-graduate-programme-at-targetjobs-uk-4490247886) | targetjobs UK | London, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Mon 16 Nov, 04:04** (3: Finance 1 · Real Estate 1 · Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -44,12 +28,12 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-brook-green-supply-4488905817) · Brook Green Supply · London Area, United Kingdom · posted 2026-11-13 · ✅
 2. [Credit Risk Analyst - 12 month FTC](https://www.adzuna.co.uk/jobs/land/ad/5965487971) · Hackajob Ltd · Belgrave, Leicester · posted 2026-11-14 · ✅
 
-**Equity CV** (33 matching)
+**Equity CV** (32 matching)
 
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Quantitative Research Analyst - PIMCO](https://www.adzuna.co.uk/jobs/land/ad/5966879623) · PIMCO · London, UK · posted 2026-11-15 · ✅
 
-**Investment (IB / PE) CV** (58 matching)
+**Investment (IB / PE) CV** (57 matching)
 
 1. [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) · eFinancialCareers · London · ✅
 2. [Investment Banking - EMEA M&A Diversified Industries - Associate - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210728761) · JPMorgan Chase · LONDON, LONDON, United Kingdom · posted 2026-11-06 · ✅
@@ -74,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 16 November
+
+<sub>Nothing new at: 05:04</sub>
 
 <details>
 <summary><b>04:04</b> · hourly scan · <b>3 new</b> → Finance 1 · Real Estate 1 · Other 1</summary>
@@ -2571,7 +2557,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (445)](#finance-fpa-cv-445) · [Credit (97)](#credit-cv-97) · [Equity (40)](#equity-cv-40) · [Investment (82)](#investment-ib--pe-cv-82) · [Consulting (15)](#consulting-cv-15) · [Real Estate (14)](#real-estate-cv-14) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (101)](#other-fits-no-cv-closely-may-still-be-worth-a-look-101)
+Everything matched so far, newest first within each CV: [Finance (445)](#finance-fpa-cv-445) · [Credit (97)](#credit-cv-97) · [Equity (40)](#equity-cv-40) · [Investment (81)](#investment-ib--pe-cv-81) · [Consulting (15)](#consulting-cv-15) · [Real Estate (14)](#real-estate-cv-14) · [Fund (20)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-20) · [Other (101)](#other-fits-no-cv-closely-may-still-be-worth-a-look-101)
 
 ### Finance (FP&A) CV: 445
 
@@ -3170,7 +3156,7 @@ Everything matched so far, newest first within each CV: [Finance (445)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 82
+### Investment (IB / PE) CV: 81
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3249,7 +3235,6 @@ Everything matched so far, newest first within each CV: [Finance (445)](#finance
 | 2026-11-04 | [Global Capital Markets – Analyst/Associate, Corporate Derivatives Group (London)](https://morganstanley.eightfold.ai/careers?pid=549800996444&domain=morganstanley.com) | Morgan Stanley | London, United Kingdom | ✅ |
 | 2026-11-03 | [Associate, Primary Capital Advisory](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate--Primary-Capital-Advisory_R3421-1) | Houlihan Lokey | London, UK | ✅ |
 | 2026-11-03 | [Private Markets Analytics, Associate](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Private-Analytics-Stewardship--Associate_R260598) | BlackRock | Edinburgh, Scotland | ✅ |
-| 2026-11-02 | [Partnerships - Private Equity](https://jobs.ashbyhq.com/ElevenLabs/f1427164-3037-47d1-a768-11cfb87953ae) | ElevenLabs · startup/SME | New York · United States · United Kingdom · London | ✅ |
 | 2026-10-28 | [Associate - Financial Restructuring](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Financial-Restructuring_R3583-1) | Houlihan Lokey | London, UK | ✅ |
 | 2026-10-23 | [Investment Banking – Central & Eastern Europe Coverage – Analyst – London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210775931) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-22 | [Investment Banking - EMEA Strategic Investors Group (SIG) – Associate – Family Investment Firms Coverage – London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210790735) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
@@ -3430,10 +3415,11 @@ Everything matched so far, newest first within each CV: [Finance (445)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>58 roles taken off the list because the firm closed the posting</summary>
+<summary>59 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 16 Nov, 05:06 | Partnerships - Private Equity | ElevenLabs |
 | Sun 15 Nov, 23:06 | Management Accountant (Healthcare) | Edward Mann |
 | Sun 15 Nov, 21:09 | Investment Analyst - Debt Purchasing/ Collection - £70,000 + bonus | Salt |
 | Sun 15 Nov, 13:08 | Equity Research Analyst, European Real Estate, Global Bank | Greenwich Partners |
