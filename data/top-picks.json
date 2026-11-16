@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T12:15:15.961Z",
+ "generated_at": "2026-11-16T13:08:58.192Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 197,
+   "matching": 198,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 59,
+   "matching": 61,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -3078,11 +3078,6 @@
    "cv": "Credit CV",
    "score": 10
   },
-  "https://www.linkedin.com/jobs/view/corporate-credit-analyst-at-montpellier-resourcing-4488242581": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 17
-  },
   "https://www.linkedin.com/jobs/view/market-risk-analyst-analytics-at-eni-4470928662": {
    "id": "credit",
    "cv": "Credit CV",
@@ -4378,6 +4373,36 @@
    "cv": "Finance (FP&A) CV",
    "score": 17
   },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-the-scottish-national-investment-bank-4489732714": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-statutory-at-orbit-group-4489728751": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-investigo-4490294395": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst/57571523": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.s1jobs.com/job/finance-analyst-12-month-fixed-term-contract-127761902": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127761895": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
   "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1071": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
@@ -4398,27 +4423,7 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://www.linkedin.com/jobs/view/finance-analyst-at-the-scottish-national-investment-bank-4489732714": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/financial-accountant-statutory-at-orbit-group-4489728751": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
-  },
-  "https://www.linkedin.com/jobs/view/assistant-accountant-at-investigo-4490294395": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 15
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-at-venture-recruitment-partners-4489727981": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
-  "https://www.reed.co.uk/jobs/finance-analyst/57571523": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
@@ -4428,15 +4433,25 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://www.s1jobs.com/job/finance-analyst-12-month-fixed-term-contract-127761902": {
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210790747": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/treasury-analyst-at-arup-4489748521": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 21
+   "score": 13
   },
-  "https://www.s1jobs.com/job/quantity-surveyor-127761895": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
+  "https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-at-targetjobs-uk-4490247890": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/commercial-analyst-at-perigus-energy-4482906037": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
   }
  }
 }

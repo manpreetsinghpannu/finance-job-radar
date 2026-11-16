@@ -272,6 +272,11 @@
    "register_name": "Artemis Investment Management LLP",
    "match": "alias"
   },
+  "Arup": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ashurst Perkins Coie": {
    "licensed": true,
    "register_name": "Ashurst Perkins Coie (International) LLP",
