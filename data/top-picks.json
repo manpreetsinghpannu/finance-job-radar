@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T23:16:36.381Z",
+ "generated_at": "2026-11-16T00:06:49.052Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 68,
+   "matching": 69,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -4267,6 +4267,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.reed.co.uk/jobs/trading-risk-analyst-execution-monitoring/57567924": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/finance-business-partner/57567575": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }

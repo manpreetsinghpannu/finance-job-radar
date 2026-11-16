@@ -1166,5 +1166,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409 | Retirement Villages Group Ltd | Management Accountant | London, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/regulatory-capital-reporting-accountant-m-g-plc/57569649 | eFinancialCareers | Regulatory & Capital Reporting Accountant - M&G plc. | Edinburgh, Midlothian | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142 | Atlassian Williams F1 Team | Finance Business Partner - Technical | Grove, England, United Kingdom | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/trading-risk-analyst-execution-monitoring/57567924 | eFinancialCareers | Trading Risk Analyst Execution & Monitoring | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57567575 | Vermelo RPO | Finance Business Partner | Salford, Lancashire | note: via Reed
 
 ## Processed

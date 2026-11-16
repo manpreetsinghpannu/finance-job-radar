@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-15T23:16:37.179Z",
+  "finished_at": "2026-11-16T00:06:49.899Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 200,
-  "postings_seen": 32157,
-  "filtered_out": 32130,
-  "new_matches": 0,
-  "boards_failed": 4,
+  "postings_seen": 32018,
+  "filtered_out": 31996,
+  "new_matches": 2,
+  "boards_failed": 5,
   "failed": [
     {
       "company": "Ardian",
@@ -24,6 +24,10 @@
     },
     {
       "company": "Aztec Group",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "IG Group",
       "error": "HTTP 429 Too Many Requests"
     }
   ]
