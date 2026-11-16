@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 723 firms checked, 417 matched, 306 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 727 firms checked, 418 matched, 309 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (306)
+## Not found (309)
 
 - 7IM
 - 93 MGMT
@@ -60,6 +60,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CVC Marathon
 - Calastone
 - Camino Search
+- Candidate Source - TEAM
 - Capital Outsourcing Group Ltd
 - Card Factory
 - Carousel Consultancy Ltd
@@ -77,6 +78,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Core3
 - Cornell Search
 - Crossing Hurdles
+- Culina
 - Cumberland Farms UK
 - DFDS
 - DJH
@@ -304,6 +306,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Warner Recruitment Limited
 - Watson-Marlow Fluid Technology Solutions
 - WorldQuant
+- XPS Group
 - Yolk Recruitment Ltd
 - Zachary Daniels
 - Zego

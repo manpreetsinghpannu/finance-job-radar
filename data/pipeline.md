@@ -1261,5 +1261,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57575957 | Broadstone Resourcing | Management Accountant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57576092 | Michael Page Finance | Assistant Management Accountant | Bradford, West Yorkshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57575889 | Robert Walters | Assistant management accountant | St. Albans, Hertfordshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-culina-4489783593 | Culina | Finance Analyst | Warrington, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-associate-investment-m-a-at-brookfield-4490679788 | Brookfield | Analyst/Associate, Investment M&A | London, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-asset-management-at-greystar-international-4489799344 | Greystar (International) | Analyst, Asset Management | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/pension-fund-accountant-at-xps-group-4490686616 | XPS Group | Pension Fund Accountant | Reading, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57579760 | No1 Legal and Professional | FP&A Analyst | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/structured-credit-product-control/57575350 | eFinancialCareers | Structured Credit Product Control | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57579905 | Candidate Source - TEAM | Management Accountant | Chertsey, Surrey | note: via Reed
+- [ ] https://www.s1jobs.com/job/systems-accountant-elite-3e-127761944 | Ashurst Perkins Coie | Systems Accountant Elite 3e | Glasgow Area, Scotland | posted: 2026-11-16 | note: via S1Jobs
 
 ## Processed

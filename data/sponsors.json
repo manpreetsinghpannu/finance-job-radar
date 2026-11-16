@@ -637,6 +637,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Candidate Source - TEAM": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Capgemini": {
    "licensed": true,
    "register_name": "Capgemini UK PLC",
@@ -843,6 +848,11 @@
    "match": "none"
   },
   "Crossing Hurdles": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Culina": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1266,6 +1276,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Greystar": {
+   "licensed": true,
+   "register_name": "Greystar Europe Holdings Ltd",
+   "match": "exact"
   },
   "Griffin": {
    "licensed": true,
@@ -3541,6 +3556,11 @@
    "licensed": true,
    "register_name": "WorldPay (UK) Ltd",
    "match": "alias"
+  },
+  "XPS Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "XTX Markets": {
    "licensed": true,
