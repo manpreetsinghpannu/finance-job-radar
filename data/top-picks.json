@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:36:53.125Z",
+ "generated_at": "2026-11-16T23:07:16.098Z",
  "order": [
   "finance",
   "credit",
@@ -4837,6 +4837,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
+  },
+  "https://www.reed.co.uk/jobs/futures-macro-quant-researcher-london-base-bonus/57575816": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://scotjobsnet.co.uk/job/associate-accountant-healthcare-edinburgh-uk-2/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }

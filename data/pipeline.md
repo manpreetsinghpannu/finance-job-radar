@@ -1318,5 +1318,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/graduate-accountant-at-aria-finance-4490120785 | Aria Finance | Graduate Accountant | Watford, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/credit-risk-associate-fx-forwards-3s-money/57580537 | eFinancialCareers | Credit Risk Associate - FX Forwards - 3S Money | London | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-maceo-search-limited-4490143167 | Maceo Search Limited | Management Accountant | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/futures-macro-quant-researcher-london-base-bonus/57575816 | eFinancialCareers | Futures Macro Quant Researcher/ London / Base Bonus | London | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/associate-accountant-healthcare-edinburgh-uk-2/ | via ScotJobsNet | Associate Accountant – Healthcare – Edinburgh, UK | Midlothian, Scotland | posted: 2026-11-16 | note: via ScotJobsNet
 
 ## Processed

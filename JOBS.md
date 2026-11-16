@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 16 Nov, 22:36** (UK time) · **918 open roles** at 514 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 16 Nov, 23:07** (UK time) · **920 open roles** at 514 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 16 Nov, 22:34** · hourly scan · checked 201 boards · **0 new roles**
+**Mon 16 Nov, 23:04** · hourly scan · checked 201 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Mon 16 Nov, 22:05** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-16 | [Associate Accountant – Healthcare – Edinburgh, UK](https://scotjobsnet.co.uk/job/associate-accountant-healthcare-edinburgh-uk-2/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Futures Macro Quant Researcher/ London / Base Bonus](https://www.reed.co.uk/jobs/futures-macro-quant-researcher-london-base-bonus/57575816) | eFinancialCareers | London | ✅ |
 
 ## Top picks for each CV
 
@@ -58,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 16 November
+
+<details>
+<summary><b>23:04</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-16 | [Associate Accountant – Healthcare – Edinburgh, UK](https://scotjobsnet.co.uk/job/associate-accountant-healthcare-edinburgh-uk-2/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Futures Macro Quant Researcher/ London / Base Bonus](https://www.reed.co.uk/jobs/futures-macro-quant-researcher-london-base-bonus/57575816) | eFinancialCareers | London | ✅ |
+
+</details>
 
 <sub>Nothing new at: 22:34</sub>
 
@@ -2602,15 +2629,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-### Monday 9 November
-
-<sub>Nothing new at: 23:06</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (501)](#finance-fpa-cv-501) · [Credit (114)](#credit-cv-114) · [Equity (47)](#equity-cv-47) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (15)](#consulting-cv-15) · [Real Estate (16)](#real-estate-cv-16) · [Fund (24)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-24) · [Other (109)](#other-fits-no-cv-closely-may-still-be-worth-a-look-109)
+Everything matched so far, newest first within each CV: [Finance (502)](#finance-fpa-cv-502) · [Credit (114)](#credit-cv-114) · [Equity (47)](#equity-cv-47) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (15)](#consulting-cv-15) · [Real Estate (16)](#real-estate-cv-16) · [Fund (24)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-24) · [Other (110)](#other-fits-no-cv-closely-may-still-be-worth-a-look-110)
 
-### Finance (FP&A) CV: 501
+### Finance (FP&A) CV: 502
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2673,6 +2696,7 @@ Everything matched so far, newest first within each CV: [Finance (501)](#finance
 | 2026-11-16 | [Financial Controller](https://www.adzuna.co.uk/jobs/land/ad/5968034719) | Vitae Financial Recruitment | The City, Central London | ❔ |
 | 2026-11-16 | [Financial Accountant - 1 Year FTC](https://www.adzuna.co.uk/jobs/land/ad/5967946526) | Trident International Associates | The City, Central London | ❔ |
 | 2026-11-16 | [Project Accountant](https://www.adzuna.co.uk/jobs/details/5967246211) | Arlington Resource Management | Harrow, London | ❔ |
+| 2026-11-16 | [Associate Accountant – Healthcare – Edinburgh, UK](https://scotjobsnet.co.uk/job/associate-accountant-healthcare-edinburgh-uk-2/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
 | — | [Structured Credit Product Control](https://www.reed.co.uk/jobs/structured-credit-product-control/57575350) | eFinancialCareers | London | ✅ |
 | 2026-11-16 | [Commercial Accountant (Belfast)](https://www.adzuna.co.uk/jobs/land/ad/5967807193) | VANRATH | Belfast, Northern Ireland | ❔ |
 | 2026-11-16 | [Group Financial Controller](https://www.adzuna.co.uk/jobs/details/5967514325) | Macklin Care Homes Ltd | UK | ❔ |
@@ -3454,7 +3478,7 @@ Everything matched so far, newest first within each CV: [Finance (501)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 109
+### Other (fits no CV closely, may still be worth a look): 110
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3469,6 +3493,7 @@ Everything matched so far, newest first within each CV: [Finance (501)](#finance
 | 2026-11-16 | [European Rates Trader - PIMCO](https://www.adzuna.co.uk/jobs/land/ad/5967794162) | PIMCO | London, UK | ✅ |
 | 2026-11-16 | [Finance Graduate](https://www.linkedin.com/jobs/view/finance-graduate-at-murphy-4490689907) | Murphy | Golborne, England, United Kingdom | ❔ |
 | 2026-11-16 | [Allianz UK Graduate Finance Scheme 2027](https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-allianz-uk-4487533028) | Allianz UK | Guildford, England, United Kingdom | ✅ |
+| — | [Futures Macro Quant Researcher/ London / Base Bonus](https://www.reed.co.uk/jobs/futures-macro-quant-researcher-london-base-bonus/57575816) | eFinancialCareers | London | ✅ |
 | 2026-11-15 | [Quantitative Analyst, Pricing Risk Model Validation - Macquarie Group](https://www.adzuna.co.uk/jobs/land/ad/5966879842) | Macquarie Group | London, UK | ❔ |
 | 2026-11-15 | [Quant Analyst – 5 months Fixed Term Contract](https://www.adzuna.co.uk/jobs/details/5966733020) | TP ICAP | London, UK | ✅ |
 | 2026-11-15 | [Quantitative Strategist](https://www.adzuna.co.uk/jobs/details/5966728417) | Deutsche Bank | London, UK | ❔ |
