@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:07:46.249Z",
+ "generated_at": "2026-11-16T20:02:26.805Z",
  "order": [
   "finance",
   "credit",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 67,
+   "matching": 68,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 31,
+   "matching": 32,
    "picks": [
     {
      "title": "Trainee Fund Accountant",
@@ -233,12 +233,12 @@
      "sponsor": true
     },
     {
-     "title": "Interim Investment Operations Analyst 9 month FTC",
-     "company": "eFinancialCareers",
-     "location": "London",
-     "posted": "2026-11-13",
-     "url": "https://www.reed.co.uk/jobs/interim-investment-operations-analyst-9-month-ftc/57563078",
-     "score": 20,
+     "title": "Investment Operations Analyst",
+     "company": "Barclays",
+     "location": "Glasgow Campus",
+     "posted": "2026-11-16",
+     "url": "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1",
+     "score": 21,
      "why": [
       "Investment Operations"
      ],
@@ -4208,11 +4208,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://www.linkedin.com/jobs/view/junior-trader-at-aej-consulting-ltd-4488408312": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
   "https://www.reed.co.uk/jobs/management-accountant/57568104": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -4787,6 +4782,36 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/analyst-healthcare-m-a-at-lincoln-international-4456606508": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-allianz-uk-4487533028": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://scotjobsnet.co.uk/job/non-financial-risk-analyst-11-month-ftc/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://scotjobsnet.co.uk/job/management-accountant-finance-b6/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://scotjobsnet.co.uk/job/assistant-accountant-3/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

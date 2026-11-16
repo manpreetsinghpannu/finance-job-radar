@@ -172,6 +172,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Allianz UK": {
+   "licensed": true,
+   "register_name": "Allianz Insurance plc",
+   "match": "prefix"
+  },
   "Allica Bank": {
    "licensed": true,
    "register_name": "Allica Bank",
@@ -1861,6 +1866,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Lincoln International": {
+   "licensed": true,
+   "register_name": "Lincoln International LLP",
+   "match": "exact"
   },
   "Linear Partners": {
    "licensed": false,

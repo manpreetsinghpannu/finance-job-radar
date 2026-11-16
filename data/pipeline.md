@@ -1301,4 +1301,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57580223 | Axon Moore Group Ltd | Management Accountant | Preston, Lancashire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57580298 | High Finance (UK) Limited T/A HFG | Management Accountant | London | note: via Reed
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1 | Barclays | Investment Operations Analyst | Glasgow Campus | posted: 2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/analyst-healthcare-m-a-at-lincoln-international-4456606508 | Lincoln International | Analyst, Healthcare M&A | London, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-allianz-uk-4487533028 | Allianz UK | Allianz UK Graduate Finance Scheme 2027 | Guildford, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/non-financial-risk-analyst-11-month-ftc/ | via ScotJobsNet | Non-Financial Risk Analyst (11 month FTC) | Midlothian, Scotland | posted: 2026-11-16 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/management-accountant-finance-b6/ | via ScotJobsNet | Management Accountant Finance B6 | Glasgow, Scotland | posted: 2026-11-16 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/assistant-accountant-3/ | via ScotJobsNet | Assistant Accountant | Glasgow, Scotland | posted: 2026-11-16 | note: via ScotJobsNet
+
 ## Processed
