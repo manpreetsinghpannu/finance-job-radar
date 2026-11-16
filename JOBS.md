@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 16 Nov, 22:09** (UK time) · **919 open roles** at 515 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 16 Nov, 22:36** (UK time) · **918 open roles** at 514 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,15 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 16 Nov, 22:05** · hourly scan · checked 201 boards · **1 new role**
+**Mon 16 Nov, 22:34** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-maceo-search-limited-4490143167) | Maceo Search Limited | London Area, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Mon 16 Nov, 22:05** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (209 matching)
+**Finance (FP&A) CV** (208 matching)
 
 1. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
 2. [Commercial Finance Analyst](https://www.adzuna.co.uk/jobs/details/5968001043) · Avove · UK · posted 2026-11-16 · ✅
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 16 November
+
+<sub>Nothing new at: 22:34</sub>
 
 <details>
 <summary><b>22:05</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -240,14 +238,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 <sub>Nothing new at: 16:34</sub>
 
 <details>
-<summary><b>16:05</b> · hourly scan · <b>30 new</b> → Finance 7 · Credit 11 · Equity 6 · Investment 4 · Real Estate 1 · Other 1</summary>
+<summary><b>16:05</b> · hourly scan · <b>29 new</b> → Finance 6 · Credit 11 · Equity 6 · Investment 4 · Real Estate 1 · Other 1</summary>
 
-#### Finance (FP&A) CV: 7
+#### Finance (FP&A) CV: 6
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | — | [Assistant management accountant](https://www.reed.co.uk/jobs/assistant-management-accountant/57575889) | Robert Walters | St. Albans, Hertfordshire | ✅ |
-| 2026-11-16 | [Graduate Accountant](https://www.linkedin.com/jobs/view/graduate-accountant-at-enra-specialist-finance-4489771873) | Enra Specialist Finance | Watford, England, United Kingdom | ✅ |
 | 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-nick-buick-associates-4490675209) | Nick Buick Associates | London Area, United Kingdom | ❔ |
 | 2026-11-16 | [Management Accountant - GFP](https://www.linkedin.com/jobs/view/management-accountant-gfp-at-frontier-agriculture-4490673365) | Frontier Agriculture | Brigg, England, United Kingdom | ❔ |
 | 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-frontier-agriculture-4490670888) | Frontier Agriculture | Witham St Hughs, England, United Kingdom | ❔ |
@@ -301,6 +298,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | — | [Macro Quantitative Researcher](https://www.reed.co.uk/jobs/macro-quantitative-researcher/57573810) | eFinancialCareers | London | ✅ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2609,9 +2608,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (502)](#finance-fpa-cv-502) · [Credit (114)](#credit-cv-114) · [Equity (47)](#equity-cv-47) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (15)](#consulting-cv-15) · [Real Estate (16)](#real-estate-cv-16) · [Fund (24)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-24) · [Other (109)](#other-fits-no-cv-closely-may-still-be-worth-a-look-109)
+Everything matched so far, newest first within each CV: [Finance (501)](#finance-fpa-cv-501) · [Credit (114)](#credit-cv-114) · [Equity (47)](#equity-cv-47) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (15)](#consulting-cv-15) · [Real Estate (16)](#real-estate-cv-16) · [Fund (24)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-24) · [Other (109)](#other-fits-no-cv-closely-may-still-be-worth-a-look-109)
 
-### Finance (FP&A) CV: 502
+### Finance (FP&A) CV: 501
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2636,7 +2635,6 @@ Everything matched so far, newest first within each CV: [Finance (502)](#finance
 | 2026-11-16 | [Financial Reporting Accountant](https://www.adzuna.co.uk/jobs/land/ad/5967945840) | Axon Moore | Penwortham, Preston | ❔ |
 | 2026-11-16 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-investigo-4490294395) | Investigo | Hertfordshire, England, United Kingdom | ✅ |
 | 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-vertex-associates-accountancy-and-finance-recruitment-4489776379) | Vertex Associates - Accountancy and Finance Recruitment | London Area, United Kingdom | ❔ |
-| 2026-11-16 | [Graduate Accountant](https://www.linkedin.com/jobs/view/graduate-accountant-at-enra-specialist-finance-4489771873) | Enra Specialist Finance | Watford, England, United Kingdom | ✅ |
 | 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-nick-buick-associates-4490675209) | Nick Buick Associates | London Area, United Kingdom | ❔ |
 | 2026-11-16 | [Trainee Accountant](https://www.adzuna.co.uk/jobs/details/5967837496) | Michael Page | West Bradford, Clitheroe | ✅ |
 | — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57580553) | Reed | London | ❔ |
@@ -3573,10 +3571,11 @@ Everything matched so far, newest first within each CV: [Finance (502)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>71 roles taken off the list because the firm closed the posting</summary>
+<summary>72 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 16 Nov, 22:35 | Graduate Accountant | Enra Specialist Finance |
 | Mon 16 Nov, 22:06 | Information Security Risk Analyst | Client Server |
 | Mon 16 Nov, 20:33 | Quantitative Researcher – Systematic Equities | Octavius Finance |
 | Mon 16 Nov, 18:06 | Management Accountant | Malaberg |
