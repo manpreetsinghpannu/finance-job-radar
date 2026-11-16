@@ -1226,5 +1226,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/m-a-analyst-financial-modelling-at-mdm-resourcing-4489755233 | MDM Resourcing | M&A Analyst (Financial Modelling) | Manchester Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-at-aej-consulting-ltd-4490297712 | AEJ Consulting Ltd | Research Analyst | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/junior-management-accountant-consumer-scale-up-london-at-better-placed-4490659069 | Better Placed | Junior Management Accountant | Consumer Scale-Up | London | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-sf-partners-4489765786 | SF Partners | Financial Analyst | Walsall, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941 | Element Materials Technology | Finance Analyst (FP&A) | Edinburgh, Scotland, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-vertex-associates-accountancy-and-finance-recruitment-4489776379 | Vertex Associates - Accountancy and Finance Recruitment | Management Accountant | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-pure-search-4490639378 | Pure Search | Treasury Analyst | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57572729 | Morgan Law | Finance Business Partner | London | note: via Reed
 
 ## Processed

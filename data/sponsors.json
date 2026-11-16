@@ -967,6 +967,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Element Materials Technology": {
+   "licensed": true,
+   "register_name": "ELEMENT MATERIALS TECHNOLOGY SHARED SERVICES LIMITED",
+   "match": "prefix"
+  },
   "Elevation Recruitment Group": {
    "licensed": false,
    "register_name": null,
@@ -2117,6 +2122,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Morgan Law": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Morgan McKinley": {
    "licensed": true,
    "register_name": "Morgan McKinley",
@@ -2528,6 +2538,11 @@
    "match": "exact"
   },
   "Puma Capital Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Pure Search": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3343,6 +3358,11 @@
    "match": "none"
   },
   "Vermelo RPO": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Vertex Associates - Accountancy and Finance Recruitment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
