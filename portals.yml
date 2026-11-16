@@ -987,3 +987,7 @@ tracked_companies:
     careers_url: https://careers.ey.com
     provider: successfactors
     # added by hand 2026-11-07 (SAP SuccessFactors career site)
+  - name: "Wipro"
+    careers_url: https://careers.wipro.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-16

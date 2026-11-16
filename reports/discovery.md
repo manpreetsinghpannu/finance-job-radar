@@ -1,11 +1,11 @@
-# Discovery report: 2026-11-09 16:56 UTC
+# Discovery report: 2026-11-16 16:32 UTC
 
-Checked 140 companies that the name lookup could not resolve.
-Added to portals.yml: **0**. Still not scannable: **130**.
+Checked 141 companies that the name lookup could not resolve.
+Added to portals.yml: **1**. Still not scannable: **130**.
 
 ## Added
 
-- none this run
+- **Wipro**: successfactors → https://careers.wipro.com
 
 ## Not scannable automatically
 
@@ -56,7 +56,7 @@ Set a job alert on their own site, or follow them on LinkedIn.
 | FTI Consulting | no hiring system link found | https://www.fticonsulting.com/careers |
 | TP ICAP | no hiring system link found | tpicap.com |
 | Plus500 | no hiring system link found | plus500.com |
-| KPMG UK | no hiring system link found | https://www.kpmgcareers.co.uk/ |
+| KPMG UK | cornerstone | https://www.instagram.com/kpmgukcareers/ |
 | Grant Thornton UK | no hiring system link found | grantthornton.co.uk |
 | Forvis Mazars | no hiring system link found | forvismazars.com |
 | RSM UK | no hiring system link found | rsmuk.com |
@@ -145,13 +145,91 @@ Set a job alert on their own site, or follow them on LinkedIn.
 | National Grid | no hiring system link found | nationalgrid.com |
 | SSE | no hiring system link found | sse.com |
 
-## Boards that could not be read this week (6)
+## Boards that could not be read this week (84)
 
 The hourly scan keeps trying these, but they return nothing until fixed. Usually the company moved to a new careers site.
 
-- **Revolut**: HTTP 429 Too Many Requests
-- **Starling Bank**: HTTP 429 Too Many Requests
-- **Interpath Advisory**: HTTP 429 Too Many Requests
-- **Interactive Investor**: HTTP 429 Too Many Requests
-- **10x Banking**: HTTP 429 Too Many Requests
-- **Moneyfarm**: HTTP 429 Too Many Requests
+- **Barclays**: HTTP 429 Too Many Requests
+- **Lloyds Banking Group (Graduates)**: HTTP 429 Too Many Requests
+- **NatWest Group**: HTTP 429 Too Many Requests
+- **Lloyds Banking Group**: HTTP 429 Too Many Requests
+- **Skipton Building Society**: HTTP 429 Too Many Requests
+- **Santander**: HTTP 429 Too Many Requests
+- **RBC**: HTTP 429 Too Many Requests
+- **RBC (Early Talent)**: HTTP 429 Too Many Requests
+- **BMO**: HTTP 429 Too Many Requests
+- **PJT Partners**: HTTP 429 Too Many Requests
+- **Moelis (University)**: HTTP 429 Too Many Requests
+- **Moelis**: HTTP 429 Too Many Requests
+- **BlackRock**: HTTP 429 Too Many Requests
+- **Lombard Odier**: HTTP 429 Too Many Requests
+- **Rothschild & Co**: HTTP 429 Too Many Requests
+- **MUFG**: HTTP 429 Too Many Requests
+- **Julius Baer**: HTTP 429 Too Many Requests
+- **abrdn**: HTTP 429 Too Many Requests
+- **Franklin Templeton**: HTTP 429 Too Many Requests
+- **Fidelity International**: HTTP 429 Too Many Requests
+- **Vanguard**: HTTP 429 Too Many Requests
+- **T. Rowe Price**: HTTP 429 Too Many Requests
+- **Baillie Gifford**: HTTP 429 Too Many Requests
+- **Baillie Gifford (Early Careers)**: HTTP 429 Too Many Requests
+- **Wellington Management (Campus)**: HTTP 429 Too Many Requests
+- **Wellington Management**: HTTP 429 Too Many Requests
+- **PIMCO**: HTTP 429 Too Many Requests
+- **Dimensional Fund Advisors**: HTTP 429 Too Many Requests
+- **MFS**: HTTP 429 Too Many Requests
+- **Blackstone**: HTTP 429 Too Many Requests
+- **Blackstone (Campus)**: HTTP 429 Too Many Requests
+- **Hargreaves Lansdown**: HTTP 429 Too Many Requests
+- **Ares Management**: HTTP 429 Too Many Requests
+- **Bain Capital**: HTTP 429 Too Many Requests
+- **ICG**: HTTP 429 Too Many Requests
+- **Ardian**: HTTP 429 Too Many Requests
+- **Man Group**: HTTP 429 Too Many Requests
+- **Brevan Howard**: HTTP 429 Too Many Requests
+- **S&P Global**: HTTP 429 Too Many Requests
+- **Nasdaq**: HTTP 429 Too Many Requests
+- **LSEG (Graduates)**: HTTP 429 Too Many Requests
+- **CME Group**: HTTP 429 Too Many Requests
+- **LSEG**: HTTP 429 Too Many Requests
+- **CMC Markets**: HTTP 429 Too Many Requests
+- **AIG**: HTTP 429 Too Many Requests
+- **Simply Business**: HTTP 429 Too Many Requests
+- **Hiscox**: HTTP 429 Too Many Requests
+- **Lloyd's of London**: HTTP 429 Too Many Requests
+- **PwC (Experienced)**: HTTP 429 Too Many Requests
+- **BDO UK**: HTTP 429 Too Many Requests
+- **Accenture**: HTTP 429 Too Many Requests
+- **Marsh McLennan**: HTTP 429 Too Many Requests
+- **Mastercard**: HTTP 429 Too Many Requests
+- **Visa**: HTTP 429 Too Many Requests
+- **PayPal**: HTTP 429 Too Many Requests
+- **Worldpay**: HTTP 429 Too Many Requests
+- **GSK**: HTTP 429 Too Many Requests
+- **AstraZeneca**: HTTP 429 Too Many Requests
+- **AstraZeneca (Emerging Talent)**: HTTP 429 Too Many Requests
+- **Unilever**: HTTP 429 Too Many Requests
+- **Unilever (Early Careers)**: HTTP 429 Too Many Requests
+- **Diageo**: HTTP 429 Too Many Requests
+- **Shell**: HTTP 429 Too Many Requests
+- **Houlihan Lokey (Lateral)**: HTTP 429 Too Many Requests
+- **Houlihan Lokey (Campus)**: HTTP 429 Too Many Requests
+- **Centrica**: HTTP 429 Too Many Requests
+- **Sky**: HTTP 429 Too Many Requests
+- **BBVA**: HTTP 429 Too Many Requests
+- **Capital One UK**: HTTP 429 Too Many Requests
+- **Howden (Hyperion)**: HTTP 429 Too Many Requests
+- **MS Amlin**: HTTP 429 Too Many Requests
+- **Aztec Group**: HTTP 429 Too Many Requests
+- **Landsec**: HTTP 429 Too Many Requests
+- **Universal Music UK**: HTTP 429 Too Many Requests
+- **Ayvens**: HTTP 429 Too Many Requests
+- **Citi**: HTTP 429 Too Many Requests
+- **Mizuho**: HTTP 429 Too Many Requests
+- **State Street**: HTTP 429 Too Many Requests
+- **Northern Trust**: HTTP 429 Too Many Requests
+- **Berkeley Research Group**: HTTP 429 Too Many Requests
+- **IG Group**: HTTP 429 Too Many Requests
+- **M&G**: HTTP 429 Too Many Requests
+- **BP**: HTTP 429 Too Many Requests
+- **ICF**: HTTP 429 Too Many Requests

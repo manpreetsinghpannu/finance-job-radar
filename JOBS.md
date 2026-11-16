@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 16 Nov, 16:08** (UK time) · **873 open roles** at 488 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 16 Nov, 16:34** (UK time) · **873 open roles** at 488 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,67 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 16 Nov, 16:05** · hourly scan · checked 200 boards · **30 new roles**
+**Mon 16 Nov, 16:34** · new firms added: roles already open at firms added this day (no alerts sent) · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 7
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Assistant management accountant](https://www.reed.co.uk/jobs/assistant-management-accountant/57575889) | Robert Walters | St. Albans, Hertfordshire | ✅ |
-| 2026-11-16 | [Graduate Accountant](https://www.linkedin.com/jobs/view/graduate-accountant-at-enra-specialist-finance-4489771873) | Enra Specialist Finance | Watford, England, United Kingdom | ✅ |
-| 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-nick-buick-associates-4490675209) | Nick Buick Associates | London Area, United Kingdom | ❔ |
-| 2026-11-16 | [Management Accountant - GFP](https://www.linkedin.com/jobs/view/management-accountant-gfp-at-frontier-agriculture-4490673365) | Frontier Agriculture | Brigg, England, United Kingdom | ❔ |
-| 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-frontier-agriculture-4490670888) | Frontier Agriculture | Witham St Hughs, England, United Kingdom | ❔ |
-| — | [Assistant Management Accountant](https://www.reed.co.uk/jobs/assistant-management-accountant/57576092) | Michael Page Finance | Bradford, West Yorkshire | ❔ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57575957) | Broadstone Resourcing | London | ❔ |
-
-### Credit CV: 11
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Quantitative Analyst - Counterparty Credit Risk PFE - Quanteam](https://www.reed.co.uk/jobs/quantitative-analyst-counterparty-credit-risk-pfe-quanteam/57574282) | eFinancialCareers | London | ✅ |
-| 2026-11-16 | [Graduate Credit Policy Analyst](https://www.linkedin.com/jobs/view/graduate-credit-policy-analyst-at-targetjobs-uk-4489768712) | targetjobs UK | Bristol, England, United Kingdom | ❔ |
-| — | [International Credit Officer Credit Analyst - Cameron Kennedy](https://www.reed.co.uk/jobs/international-credit-officer-credit-analyst-cameron-kennedy/57574376) | eFinancialCareers | London | ✅ |
-| — | [Credit Analyst - Structured/Project Finance](https://www.reed.co.uk/jobs/credit-analyst-structured-project-finance/57574511) | eFinancialCareers | London | ✅ |
-| — | [Credit Analyst - European Financials - Man Group plc](https://www.reed.co.uk/jobs/credit-analyst-european-financials-man-group-plc/57575803) | eFinancialCareers | London | ✅ |
-| 2026-11-16 | [Ratings Analyst, Credit](https://www.linkedin.com/jobs/view/ratings-analyst-credit-at-brookfield-4483554191) | Brookfield | London, England, United Kingdom | ✅ |
-| — | [Front Office Risk Analyst, Credit, Multi-Strategy Hedge Fund, London - JMD Reg Consultancy LTD](https://www.reed.co.uk/jobs/front-office-risk-analyst-credit-multi-strategy-hedge-fund-london-jmd-reg-consultancy-ltd/57573919) | eFinancialCareers | London | ✅ |
-| — | [Credit Assurance Analyst - Macquarie Group](https://www.reed.co.uk/jobs/credit-assurance-analyst-macquarie-group/57574284) | eFinancialCareers | London | ✅ |
-| — | [Quant Risk Analyst - CCR - Contract - Inside IR35 - London - Investigo](https://www.reed.co.uk/jobs/quant-risk-analyst-ccr-contract-inside-ir35-london-investigo/57575365) | eFinancialCareers | London | ✅ |
-| 2026-11-16 | [Consumer Credit Underwriter](https://www.linkedin.com/jobs/view/consumer-credit-underwriter-at-market-harborough-building-society-4490654663) | Market Harborough Building Society | Market Harborough, England, United Kingdom | ❔ |
-| — | [Investment Specialist Analyst - Private Debt - London - Tikehau Capital](https://www.reed.co.uk/jobs/investment-specialist-analyst-private-debt-london-tikehau-capital/57574647) | eFinancialCareers | London | ✅ |
-
-### Equity CV: 6
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-mfs-investment-management-4466316823) | MFS Investment Management | London Area, United Kingdom | ❔ |
-| — | [Equity Research Associate - European Telecom Services - Bernstein Research](https://www.reed.co.uk/jobs/equity-research-associate-european-telecom-services-bernstein-research/57574165) | eFinancialCareers | London | ✅ |
-| — | [Investment Analyst - Macdonald & Company](https://www.reed.co.uk/jobs/investment-analyst-macdonald-company/57575446) | eFinancialCareers | London | ✅ |
-| — | [Quantitative Analyst - Equity - Execuzen](https://www.reed.co.uk/jobs/quantitative-analyst-equity-execuzen/57575795) | eFinancialCareers | London | ✅ |
-| — | [Quantitative Researcher - Equity Volatility- Global Hedge Fund](https://www.reed.co.uk/jobs/quantitative-researcher-equity-volatility-global-hedge-fund/57574526) | eFinancialCareers | London | ✅ |
-| — | [Quantitative Researcher, Equity Derivatives, Global Hedge Fund - JMD Reg Consultancy LTD](https://www.reed.co.uk/jobs/quantitative-researcher-equity-derivatives-global-hedge-fund-jmd-reg-consultancy-ltd/57575643) | eFinancialCareers | London | ✅ |
-
-### Investment (IB / PE) CV: 4
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Analyst - European Leveraged Finance - eFinancialCareers](https://www.reed.co.uk/jobs/analyst-european-leveraged-finance-efinancialcareers/57575519) | eFinancialCareers | London | ✅ |
-| — | [Fund Accountant - Global Private Equity Firm - Up to £110k TC](https://www.reed.co.uk/jobs/fund-accountant-global-private-equity-firm-up-to-110k-tc/57574652) | eFinancialCareers | London | ✅ |
-| — | [Fund Controller - Private Equity Firm - 15 month FTC](https://www.reed.co.uk/jobs/fund-controller-private-equity-firm-15-month-ftc/57574565) | eFinancialCareers | London | ✅ |
-| — | [Fund Accountant Private Equity Fund CFO Specialist - AMS Deutsche Bank](https://www.reed.co.uk/jobs/fund-accountant-private-equity-fund-cfo-specialist-ams-deutsche-bank/57575355) | eFinancialCareers | London | ✅ |
-
-### Real Estate CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Financial Accountant Real Estate](https://www.reed.co.uk/jobs/financial-accountant-real-estate/57575908) | Trident | London | ✅ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Macro Quantitative Researcher](https://www.reed.co.uk/jobs/macro-quantitative-researcher/57573810) | eFinancialCareers | London | ✅ |
+Nothing new this time. The last scan that found something was **Mon 16 Nov, 16:05** (30: Finance 7 · Credit 11 · Equity 6 · Investment 4 · Real Estate 1 · Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -116,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 16 November
+
+<sub>Nothing new at: 16:34</sub>
 
 <details>
 <summary><b>16:05</b> · hourly scan · <b>30 new</b> → Finance 7 · Credit 11 · Equity 6 · Investment 4 · Real Estate 1 · Other 1</summary>
@@ -3532,7 +3476,7 @@ Everything matched so far, newest first within each CV: [Finance (473)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>68 roles taken off the list because the firm closed the posting</summary>
+<summary>67 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3603,6 +3547,5 @@ Everything matched so far, newest first within each CV: [Finance (473)](#finance
 | Tue 10 Nov, 02:14 | Financial Reporting & Control Analyst | abrdn |
 | Tue 10 Nov, 00:08 | Portfolio Management Assistant | RBC |
 | Mon 9 Nov, 20:08 | Associate - Corporate Finance (Technology M&A) | Houlihan Lokey |
-| Mon 9 Nov, 16:09 | Associate - Corporate Finance (Healthcare) | Houlihan Lokey |
 
 </details>
