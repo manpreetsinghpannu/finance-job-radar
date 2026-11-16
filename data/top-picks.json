@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T10:07:51.836Z",
+ "generated_at": "2026-11-16T11:07:38.251Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 190,
+   "matching": 192,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 69,
+   "matching": 70,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 32,
+   "matching": 33,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -106,11 +106,11 @@
      "sponsor": true
     },
     {
-     "title": "Quantitative Research Analyst - PIMCO",
-     "company": "PIMCO",
-     "location": "London, UK",
-     "posted": "2026-11-15",
-     "url": "https://www.adzuna.co.uk/jobs/land/ad/5966879623",
+     "title": "Research Analyst - Financial Services & M&A",
+     "company": "Dyer Baade & Company",
+     "location": "London Area, United Kingdom",
+     "posted": "2026-11-16",
+     "url": "https://www.linkedin.com/jobs/view/research-analyst-financial-services-m-a-at-dyer-baade-company-4491298802",
      "score": 22,
      "why": [
       "Research Analyst"
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 58,
+   "matching": 60,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -155,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 18,
+   "matching": 19,
    "picks": [
     {
      "title": "VAIB Strategy Analyst",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 23,
+   "matching": 24,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -4357,6 +4357,41 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://careers.ey.com/ey/job/Enterprise-Risk-AssociateSenior-Associate%2C-Risk-Consulting-048583/697394801/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-macgregor-black-4489734559": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-12-month-ftc-at-hays-4490290182": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-financial-services-m-a-at-dyer-baade-company-4491298802": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/mergers-and-acquisitions-analyst-at-mdm-resourcing-4488505883": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/valuation-finance-operations-co-ordinator-12-months-ftc-at-cbre-uk-4491510415": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst-12-month-fixed-term-contract/57571492": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
   }
  }
 }

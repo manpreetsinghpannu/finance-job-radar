@@ -1191,4 +1191,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/portfolio-finance-analyst-twe47728-at-twentyai-4491294702 | twentyAI | Portfolio Finance Analyst (TWE47728) | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57571031 | Talent Guardian | Management Accountant | Guildford, Surrey | note: via Reed
 
+- [ ] https://careers.ey.com/ey/job/Enterprise-Risk-AssociateSenior-Associate%2C-Risk-Consulting-048583/697394801/ | EY | Enterprise Risk Associate/Senior Associate, Risk Consulting
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-macgregor-black-4489734559 | MacGregor Black | Management Accountant | Newcastle Upon Tyne, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-12-month-ftc-at-hays-4490290182 | Hays | Management Accountant (12-Month FTC) | Milton Keynes, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-financial-services-m-a-at-dyer-baade-company-4491298802 | Dyer Baade & Company | Research Analyst - Financial Services & M&A | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/mergers-and-acquisitions-analyst-at-mdm-resourcing-4488505883 | MDM Resourcing | Mergers and Acquisitions Analyst | Manchester Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/valuation-finance-operations-co-ordinator-12-months-ftc-at-cbre-uk-4491510415 | CBRE UK | Valuation Finance Operations Co-ordinator (12 months FTC) | London, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-analyst-12-month-fixed-term-contract/57571492 | LHH Recruitment Solutions | Finance Analyst (12-month Fixed Term Contract) | Edinburgh, Midlothian | note: via Reed
+
 ## Processed

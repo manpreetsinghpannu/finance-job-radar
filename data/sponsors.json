@@ -547,6 +547,11 @@
    "register_name": "Bupa",
    "match": "exact"
   },
+  "CBRE UK": {
+   "licensed": true,
+   "register_name": "CBRE Limited",
+   "match": "exact"
+  },
   "CGI": {
    "licensed": true,
    "register_name": "Logica Ltd t/a CGI",
@@ -911,6 +916,11 @@
    "licensed": true,
    "register_name": "Duco Technology Limited",
    "match": "prefix"
+  },
+  "Dyer Baade & Company": {
+   "licensed": true,
+   "register_name": "Dyer Baade & Company Limited",
+   "match": "exact"
   },
   "EQT": {
    "licensed": true,
@@ -1642,6 +1652,11 @@
    "register_name": "LGPS Central Limited",
    "match": "exact"
   },
+  "LHH Recruitment Solutions": {
+   "licensed": true,
+   "register_name": "Badenoch and Clark Limited T/A LHH Recruitment Solutions",
+   "match": "trading name"
+  },
   "LSEG": {
    "licensed": true,
    "register_name": "London Stock Exchange Group plc",
@@ -1811,6 +1826,11 @@
    "licensed": true,
    "register_name": "M & G PlC",
    "match": "exact"
+  },
+  "MDM Resourcing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "MFS": {
    "licensed": true,
