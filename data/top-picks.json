@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T15:09:13.928Z",
+ "generated_at": "2026-11-16T16:08:41.418Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 198,
+   "matching": 202,
    "picks": [
     {
      "title": "Finance Analyst (FP&A)",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 70,
+   "matching": 80,
    "picks": [
     {
      "title": "Credit Risk Analyst - 12 month FTC",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 34,
+   "matching": 42,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 61,
+   "matching": 65,
    "picks": [
     {
      "title": "Investment Banking Analyst, M&A - Citi",
@@ -155,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 19,
+   "matching": 20,
    "picks": [
     {
      "title": "VAIB Strategy Analyst",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 24,
+   "matching": 26,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 24,
+   "matching": 30,
    "picks": [
     {
      "title": "Trainee Fund Accountant",
@@ -882,11 +882,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-trinity-house-group-4484382193": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-echo-4487345742": {
    "id": "finance",
@@ -3733,11 +3728,6 @@
    "cv": "Credit CV",
    "score": 10
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-james-d-bilsland-ltd-4490724951": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/analyst-private-debt-investments-at-stepstone-group-4481924081": {
    "id": "credit",
    "cv": "Credit CV",
@@ -4253,11 +4243,6 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://www.linkedin.com/jobs/view/fp-a-graduate-at-targetjobs-uk-4490254367": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-targetjobs-uk-4490269019": {
    "id": "real_estate",
    "cv": "Real Estate CV",
@@ -4477,6 +4462,156 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/graduate-credit-policy-analyst-at-targetjobs-uk-4489768712": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/consumer-credit-underwriter-at-market-harborough-building-society-4490654663": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/ratings-analyst-credit-at-brookfield-4483554191": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-mfs-investment-management-4466316823": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/graduate-accountant-at-enra-specialist-finance-4489771873": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-nick-buick-associates-4490675209": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-gfp-at-frontier-agriculture-4490673365": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-frontier-agriculture-4490670888": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/analyst-european-leveraged-finance-efinancialcareers/57575519": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/international-credit-officer-credit-analyst-cameron-kennedy/57574376": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/credit-analyst-structured-project-finance/57574511": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/credit-analyst-european-financials-man-group-plc/57575803": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/credit-assurance-analyst-macquarie-group/57574284": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/quantitative-analyst-counterparty-credit-risk-pfe-quanteam/57574282": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
+  },
+  "https://www.reed.co.uk/jobs/front-office-risk-analyst-credit-multi-strategy-hedge-fund-london-jmd-reg-consultancy-ltd/57573919": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/quant-risk-analyst-ccr-contract-inside-ir35-london-investigo/57575365": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/investment-analyst-macdonald-company/57575446": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/investment-specialist-analyst-private-debt-london-tikehau-capital/57574647": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 6
+  },
+  "https://www.reed.co.uk/jobs/equity-research-associate-european-telecom-services-bernstein-research/57574165": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
+  },
+  "https://www.reed.co.uk/jobs/quantitative-researcher-equity-volatility-global-hedge-fund/57574526": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/quantitative-researcher-equity-derivatives-global-hedge-fund-jmd-reg-consultancy-ltd/57575643": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/quantitative-analyst-equity-execuzen/57575795": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/macro-quantitative-researcher/57573810": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/financial-accountant-real-estate/57575908": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/fund-accountant-private-equity-fund-cfo-specialist-ams-deutsche-bank/57575355": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/fund-accountant-global-private-equity-firm-up-to-110k-tc/57574652": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/fund-controller-private-equity-firm-15-month-ftc/57574565": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57575957": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant/57576092": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant/57575889": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
   }
  }
 }

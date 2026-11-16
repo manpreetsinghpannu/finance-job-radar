@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 716 firms checked, 415 matched, 301 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 723 firms checked, 417 matched, 306 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (301)
+## Not found (306)
 
 - 7IM
 - 93 MGMT
@@ -46,6 +46,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Bloom Money
 - Brainkind
 - Brit Insurance
+- Broadstone Resourcing
 - Brock & Decker
 - Broster Buchanan
 - Bruin
@@ -102,6 +103,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Flex
 - Foodbuy Group
 - Forge Talent
+- Frontier Agriculture
 - GC Partners
 - GP Fund Solutions
 - GSR Markets
@@ -170,10 +172,12 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lyreco
 - M&G FA Limited
 - MDM Resourcing
+- MFS Investment Management
 - MacGregor Black
 - Mackie Myers
 - Macquarie Group
 - ManpowerGroup Talent Solutions
+- Market Harborough Building Society
 - Marks Sattin
 - Marlin Selection Recruitment
 - Martis Search
@@ -197,6 +201,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - NC Associates
 - New Avenues
 - Newlon Housing Trust
+- Nick Buick Associates
 - No1 Legal and Professional
 - Novuna
 - Nucleus Commercial Finance
@@ -308,11 +313,12 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (42)
+## Matched automatically by close name; worth a glance (43)
 
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
+- Brookfield → Brookfield Global Asset Management Limited (prefix)
 - Carter Jonas → Carter Jonas Service Company (prefix)
 - Cedar → Cedar Capital Partners Ltd (prefix)
 - Cobalt → Cobalt Labs UK Limited (prefix)

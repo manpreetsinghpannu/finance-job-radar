@@ -522,6 +522,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Broadstone Resourcing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Brock & Decker": {
    "licensed": false,
    "register_name": null,
@@ -531,6 +536,11 @@
    "licensed": true,
    "register_name": "Brook Green Supply Limited",
    "match": "exact"
+  },
+  "Brookfield": {
+   "licensed": true,
+   "register_name": "Brookfield Global Asset Management Limited",
+   "match": "prefix"
   },
   "Broster Buchanan": {
    "licensed": false,
@@ -987,6 +997,11 @@
    "register_name": "ENI UK Limited",
    "match": "exact"
   },
+  "Enra Specialist Finance": {
+   "licensed": true,
+   "register_name": "Enra Specialist Finance Ltd",
+   "match": "exact"
+  },
   "Equifind": {
    "licensed": false,
    "register_name": null,
@@ -1126,6 +1141,11 @@
    "licensed": true,
    "register_name": "Freetrade Limited",
    "match": "alias"
+  },
+  "Frontier Agriculture": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Frontier Economics": {
    "licensed": true,
@@ -1862,6 +1882,11 @@
    "register_name": "MFS International (UK) Ltd",
    "match": "alias"
   },
+  "MFS Investment Management": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MLC Partners": {
    "licensed": true,
    "register_name": "MLC PARTNERS LTD",
@@ -1926,6 +1951,11 @@
    "licensed": true,
    "register_name": "Markel International Services Limited",
    "match": "alias"
+  },
+  "Market Harborough Building Society": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "MarketAxess": {
    "licensed": true,
@@ -2216,6 +2246,11 @@
    "licensed": true,
    "register_name": "Next Retail Ltd",
    "match": "alias"
+  },
+  "Nick Buick Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Nium": {
    "licensed": true,
