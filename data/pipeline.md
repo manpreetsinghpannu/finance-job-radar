@@ -1317,5 +1317,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-gfp-at-magmas-4490940057 | MAGMAS | Management Accountant - GFP | Brigg, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/graduate-accountant-at-aria-finance-4490120785 | Aria Finance | Graduate Accountant | Watford, England, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/credit-risk-associate-fx-forwards-3s-money/57580537 | eFinancialCareers | Credit Risk Associate - FX Forwards - 3S Money | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-maceo-search-limited-4490143167 | Maceo Search Limited | Management Accountant | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed

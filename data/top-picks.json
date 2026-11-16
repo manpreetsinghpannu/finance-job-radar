@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T21:09:29.186Z",
+ "generated_at": "2026-11-16T22:09:41.945Z",
  "order": [
   "finance",
   "credit",
@@ -2337,11 +2337,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 30
-  },
-  "https://www.linkedin.com/jobs/view/information-security-risk-analyst-at-client-server-4489464424": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 11
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-sheridan-maine-accounting-audit-tax-recruitment-4487487470": {
    "id": "finance",
@@ -4842,6 +4837,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-maceo-search-limited-4490143167": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
   }
  }
 }
