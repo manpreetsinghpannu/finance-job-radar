@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T05:07:45.271Z",
+ "generated_at": "2026-11-17T06:07:25.596Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 87,
+   "matching": 88,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -155,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 21,
+   "matching": 22,
    "picks": [
     {
      "title": "VAIB Strategy Analyst",
@@ -4877,6 +4877,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://visa.wd5.myworkdayjobs.com/visa/job/GB---London-United-Kingdom/Consultant--Client-Success--Credit-Specialist-_REF090076W": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 6
   }
  }
 }

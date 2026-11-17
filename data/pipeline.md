@@ -1329,4 +1329,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/graduate-accountant-at-targetjobs-uk-4490169813 | targetjobs UK | Graduate Accountant | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-accountant/57572548 | No1 Legal and Professional | Financial Accountant | Reading, Berkshire | posted: 2026-11-16 | note: via Reed
 
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/GB---London-United-Kingdom/Consultant--Client-Success--Credit-Specialist-_REF090076W | Visa | Consultant, Client Success (Credit Specialist) | GB - London, United Kingdom | posted: 2026-11-17
+
 ## Processed

@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 05:07** (UK time) · **926 open roles** at 513 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 06:07** (UK time) · **927 open roles** at 514 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 05:04** · hourly scan · checked 201 boards · **0 new roles**
+**Tue 17 Nov, 06:04** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Tue 17 Nov, 04:11** (2: Finance 2); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-17 | [Consultant, Client Success (Credit Specialist)](https://visa.wd5.myworkdayjobs.com/visa/job/GB---London-United-Kingdom/Consultant--Client-Success--Credit-Specialist-_REF090076W) | Visa | GB - London, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -23,7 +27,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
 2. [Commercial Finance Analyst](https://www.adzuna.co.uk/jobs/details/5968001043) · Avove · UK · posted 2026-11-16 · ✅
 
-**Credit CV** (87 matching)
+**Credit CV** (88 matching)
 
 1. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-4489791899) · CFP Energy · London Area, United Kingdom · posted 2026-11-16 · ✅
@@ -38,7 +42,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Investment Banking Associate (FIG M&A) Advisory](https://www.linkedin.com/jobs/view/investment-banking-associate-fig-m-a-advisory-at-dartmouth-partners-4490916163) · Dartmouth Partners · Greater London, England, United Kingdom · posted 2026-11-16 · ✅
 2. [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) · eFinancialCareers · London · ✅
 
-**Consulting CV** (21 matching)
+**Consulting CV** (22 matching)
 
 1. [VAIB Strategy Analyst](https://job-boards.greenhouse.io/monzo/jobs/8359155) · Monzo · Cardiff, London or Remote (UK) · posted 2026-11-09 · ✅
 2. [Credit Strategy Analyst](https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-funding-circle-uk-4488400686) · Funding Circle UK · London, England, United Kingdom · posted 2026-11-06 · ✅
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<details>
+<summary><b>06:04</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-17 | [Consultant, Client Success (Credit Specialist)](https://visa.wd5.myworkdayjobs.com/visa/job/GB---London-United-Kingdom/Consultant--Client-Success--Credit-Specialist-_REF090076W) | Visa | GB - London, United Kingdom | ✅ |
+
+</details>
 
 <sub>Nothing new at: 05:04, 04:50</sub>
 
@@ -2605,7 +2620,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (506)](#finance-fpa-cv-506) · [Credit (116)](#credit-cv-116) · [Equity (47)](#equity-cv-47) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (15)](#consulting-cv-15) · [Real Estate (16)](#real-estate-cv-16) · [Fund (24)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-24) · [Other (110)](#other-fits-no-cv-closely-may-still-be-worth-a-look-110)
+Everything matched so far, newest first within each CV: [Finance (506)](#finance-fpa-cv-506) · [Credit (117)](#credit-cv-117) · [Equity (47)](#equity-cv-47) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (15)](#consulting-cv-15) · [Real Estate (16)](#real-estate-cv-16) · [Fund (24)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-24) · [Other (110)](#other-fits-no-cv-closely-may-still-be-worth-a-look-110)
 
 ### Finance (FP&A) CV: 506
 
@@ -3118,10 +3133,11 @@ Everything matched so far, newest first within each CV: [Finance (506)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 116
+### Credit CV: 117
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-17 | [Consultant, Client Success (Credit Specialist)](https://visa.wd5.myworkdayjobs.com/visa/job/GB---London-United-Kingdom/Consultant--Client-Success--Credit-Specialist-_REF090076W) | Visa | GB - London, United Kingdom | ✅ |
 | 2026-11-16 | [Leveraged Finance Credit Risk Analyst](https://www.adzuna.co.uk/jobs/details/5967678484) | Global Corporate Investment Bank | London, UK | ❔ |
 | 2026-11-16 | [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) | Vallum Associates | London Area, United Kingdom | ✅ |
 | 2026-11-16 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-4489791899) | CFP Energy | London Area, United Kingdom | ✅ |
