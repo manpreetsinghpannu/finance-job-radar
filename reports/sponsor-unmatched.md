@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 780 firms checked, 434 matched, 346 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 789 firms checked, 434 matched, 355 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (346)
+## Not found (355)
 
 - 7IM
 - 93 MGMT
@@ -21,6 +21,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Addington Ball Recruitment Ltd
 - Adyen
 - Agility
+- Alan Mitchell
 - Alexander Chapman
 - Alexander Daniels Finance Recruitment
 - Alignerr
@@ -45,6 +46,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Axon Moore
 - Axon Moore Group Ltd
 - B&Q
+- Belmont Search Ltd
 - Better Placed
 - Bield Housing Association
 - Blockchain.com
@@ -52,11 +54,13 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Bloom Money
 - Brainkind
 - Brit Insurance
+- Broaden
 - Broadstone Resourcing
 - Brock & Decker
 - Broster Buchanan
 - Bruin
 - Bruntwood SciTech
+- CAMMACH BRYANT LIMITED
 - CIBC
 - CLARC Recruitment
 - CM Law Recruitment
@@ -148,6 +152,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Headstar
 - HelloFresh
 - High Finance (UK) Limited T/A HFG
+- HireForce
 - Hometree
 - Hoop Recruitment
 - Howmet Aerospace
@@ -255,8 +260,10 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Puma Capital Group
 - Pure Search
 - Qh4 Consulting
+- RG Consultancy Ltd
 - Randstad Finance
 - Reckitt
+- Redress Scotland
 - Reed
 - Rendall & Rittner
 - Resourcery Group
@@ -326,6 +333,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - VANRATH
 - VIA MATCH LIMITED
 - Valeo Foods UK
+- Valuations
 - Vecta
 - Ventula Consulting
 - Venture Recruitment Partners
@@ -341,6 +349,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Walker Dendle Financial Recruitment
 - Warner Recruitment Limited
 - Watson-Marlow Fluid Technology Solutions
+- Wilkinson and Associates
 - WorldQuant
 - XPS Group
 - Yolk Recruitment Ltd

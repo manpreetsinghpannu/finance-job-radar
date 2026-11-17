@@ -1376,5 +1376,20 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/interim-finance-analyst/57583753 | Michael Page Finance | Interim Finance Analyst | Bournemouth, Dorset | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/interim-financial-planning-analysis/57583885 | Sellick Partnership | Interim Financial Planning & Analysis | Liverpool, Merseyside | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57583774 | TMR Group Ltd | Management Accountant | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/portfolio-underwriting-analyst-at-broaden-4490460264 | Broaden | Portfolio Underwriting Analyst | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-real-estate-private-equity-at-belmont-search-ltd-4491177792 | Belmont Search Ltd | Investment Analyst - Real Estate Private Equity | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-portfolio-valuations-4491179811 | Valuations | Analyst, Portfolio Valuations | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-fig-at-alan-mitchell-4480787999 | Alan Mitchell | M&A Analyst - FIG | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-private-equity-alternative-investments-at-hireforce-4490471172 | HireForce | Financial Accountant (Private Equity & Alternative Investments) | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/credit-analyst-data-reporting-cer-financial/57584124 | eFinancialCareers | Credit Analyst / Data Reporting - CER Financial | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/risk-analyst-lorien/57584116 | eFinancialCareers | Risk Analyst - Lorien | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57584184 | RG Consultancy Ltd | Management Accountant | Liverpool, Merseyside | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/graduate-finance-assistant/57584419 | Reed | Graduate Finance Assistant | Cambridge, Cambridgeshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/financial-accountant-127766618 | CAMMACH BRYANT LIMITED | Financial Accountant | Aberdeen Area, Scotland | posted: 2026-11-17 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/finance-analyst-127766612 | Wilkinson and Associates | Finance Analyst | Moray, Scotland | posted: 2026-11-17 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-accountant-127766440 | S1Jobs | Financial Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/corporate-finance-specialist-127766439 | S1Jobs | Corporate Finance Specialist | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-xero-127766454 | Redress Scotland | Accountant Xero | Glasgow Area, Scotland | posted: 2026-11-17 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-controller-127766449 | Redress Scotland | Financial Controller | Glasgow Area, Scotland | posted: 2026-11-17 | note: via S1Jobs
 
 ## Processed

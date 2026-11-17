@@ -157,6 +157,11 @@
    "register_name": "Airwallex (UK) Limited",
    "match": "alias"
   },
+  "Alan Mitchell": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Alexander Chapman": {
    "licensed": false,
    "register_name": null,
@@ -482,6 +487,11 @@
    "register_name": "Beamery Ltd",
    "match": "exact"
   },
+  "Belmont Search Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Berenberg": {
    "licensed": true,
    "register_name": "Joh. Berenberg, Gossler & Co. KG, London Branch",
@@ -567,6 +577,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Broaden": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Broadstone Resourcing": {
    "licensed": false,
    "register_name": null,
@@ -611,6 +626,11 @@
    "licensed": true,
    "register_name": "Bupa",
    "match": "exact"
+  },
+  "CAMMACH BRYANT LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "CBRE UK": {
    "licensed": true,
@@ -1528,6 +1548,11 @@
    "match": "exact"
   },
   "High Finance (UK) Limited T/A HFG": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "HireForce": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2837,6 +2862,11 @@
    "register_name": "RBC Group",
    "match": "exact"
   },
+  "RG Consultancy Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Radius": {
    "licensed": true,
    "register_name": "Radius Systems Limited",
@@ -2861,6 +2891,11 @@
    "licensed": true,
    "register_name": "Recognise Bank Limited",
    "match": "exact"
+  },
+  "Redress Scotland": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Reed": {
    "licensed": false,
@@ -3632,6 +3667,11 @@
    "register_name": "Valor Real Estate Partners LLP",
    "match": "exact"
   },
+  "Valuations": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Vanguard": {
    "licensed": true,
    "register_name": "VANGUARD BUILDING COMPLIANCE LIMITED",
@@ -3771,6 +3811,11 @@
    "licensed": true,
    "register_name": "Wellington Management International Limited",
    "match": "alias"
+  },
+  "Wilkinson and Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "William Blair": {
    "licensed": true,
