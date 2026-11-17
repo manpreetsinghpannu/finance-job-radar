@@ -32,6 +32,11 @@
    "register_name": "9fin Limited",
    "match": "exact"
   },
+  "AAA Global": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ACL Partners": {
    "licensed": false,
    "register_name": null,

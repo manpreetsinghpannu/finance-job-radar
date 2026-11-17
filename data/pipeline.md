@@ -1330,5 +1330,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/financial-accountant/57572548 | No1 Legal and Professional | Financial Accountant | Reading, Berkshire | posted: 2026-11-16 | note: via Reed
 
 - [ ] https://visa.wd5.myworkdayjobs.com/visa/job/GB---London-United-Kingdom/Consultant--Client-Success--Credit-Specialist-_REF090076W | Visa | Consultant, Client Success (Credit Specialist) | GB - London, United Kingdom | posted: 2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-aaa-global-4491110614 | AAA Global | Quantitative Risk Analyst | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T06:07:25.596Z",
+ "generated_at": "2026-11-17T07:08:32.578Z",
  "order": [
   "finance",
   "credit",
@@ -4882,6 +4882,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 6
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-aaa-global-4491110614": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
   }
  }
 }
