@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 04:53** (UK time) · **926 open roles** at 513 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 05:07** (UK time) · **926 open roles** at 513 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 04:50** · hourly scan · checked 201 boards · **0 new roles**
+**Tue 17 Nov, 05:04** · hourly scan · checked 201 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Tue 17 Nov, 04:11** (2: Finance 2); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 17 November
 
-<sub>Nothing new at: 04:50</sub>
+<sub>Nothing new at: 05:04, 04:50</sub>
 
 <details>
 <summary><b>04:11</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -2600,23 +2600,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-10 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-at-citi-4489409787) | Citi | London, England, United Kingdom | ✅ |
-
-</details>
-
-<details>
-<summary><b>05:07</b> · hourly scan · <b>2 new</b> → Finance 1 · Consulting 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Financial Analyst AI Researcher](https://www.linkedin.com/jobs/view/financial-analyst-ai-researcher-at-alignerr-4489189865) | Alignerr | United Kingdom | ❔ |
-
-#### Consulting CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Investment Strategy Analyst](https://www.linkedin.com/jobs/view/investment-strategy-analyst-at-alignerr-4489405468) | Alignerr | United Kingdom | ❔ |
 
 </details>
 
