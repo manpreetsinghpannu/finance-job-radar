@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 22:46** (UK time) · **994 open roles** at 558 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 23:07** (UK time) · **995 open roles** at 559 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 22:42** · hourly scan · checked 201 boards · **2 new roles**
+**Tue 17 Nov, 23:04** · hourly scan · checked 201 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Pricing Analyst, Container Shipping, Asia Europe Trade](https://www.reed.co.uk/jobs/pricing-analyst-container-shipping-asia-europe-trade/57579945) | Ocean Network Express (Europe) Ltd | London | ✅ |
-
-### Investment (IB / PE) CV: 1
+### Consulting CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-17 | [Early Careers Program - Private Equity/Marine](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/_R0020308) | Howden |  | ✅ |
+| 2026-11-16 | [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) | Hargreaves Lansdown | Bristol - Welcome Building | ✅ |
 
 ## Top picks for each CV
 
@@ -48,10 +42,10 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Investment Banking Associate (FIG M&A) Advisory](https://www.linkedin.com/jobs/view/investment-banking-associate-fig-m-a-advisory-at-dartmouth-partners-4490916163) · Dartmouth Partners · Greater London, England, United Kingdom · posted 2026-11-16 · ✅
 2. [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) · eFinancialCareers · London · ✅
 
-**Consulting CV** (23 matching)
+**Consulting CV** (24 matching)
 
-1. [Commercial Strategy Associate](https://ig.wd103.myworkdayjobs.com/EXT_IG/job/City-of-London---United-Kingdom/Commercial-Strategy-Associate_R_17859) · IG Group · City of London - United Kingdom · posted 2026-11-17 · ✅
-2. [VAIB Strategy Analyst](https://job-boards.greenhouse.io/monzo/jobs/8359155) · Monzo · Cardiff, London or Remote (UK) · posted 2026-11-09 · ✅
+1. [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) · Hargreaves Lansdown · Bristol - Welcome Building · posted 2026-11-16 · ✅
+2. [Commercial Strategy Associate](https://ig.wd103.myworkdayjobs.com/EXT_IG/job/City-of-London---United-Kingdom/Commercial-Strategy-Associate_R_17859) · IG Group · City of London - United Kingdom · posted 2026-11-17 · ✅
 
 **Real Estate CV** (28 matching)
 
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<details>
+<summary><b>23:04</b> · hourly scan · <b>1 new</b> → Consulting 1</summary>
+
+#### Consulting CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-16 | [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) | Hargreaves Lansdown | Bristol - Welcome Building | ✅ |
+
+</details>
 
 <details>
 <summary><b>22:42</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
@@ -2659,11 +2664,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 10 November
 
-<sub>Nothing new at: 23:26, 23:07</sub>
+<sub>Nothing new at: 23:26</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (540)](#finance-fpa-cv-540) · [Credit (129)](#credit-cv-129) · [Equity (51)](#equity-cv-51) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (16)](#consulting-cv-16) · [Real Estate (17)](#real-estate-cv-17) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (114)](#other-fits-no-cv-closely-may-still-be-worth-a-look-114)
+Everything matched so far, newest first within each CV: [Finance (540)](#finance-fpa-cv-540) · [Credit (129)](#credit-cv-129) · [Equity (51)](#equity-cv-51) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (17)](#consulting-cv-17) · [Real Estate (17)](#real-estate-cv-17) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (114)](#other-fits-no-cv-closely-may-still-be-worth-a-look-114)
 
 ### Finance (FP&A) CV: 540
 
@@ -3505,11 +3510,12 @@ Everything matched so far, newest first within each CV: [Finance (540)](#finance
 | 2026-10-20 | [Investment Banking – France & Benelux Corp DCM - Analyst - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210801986) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-20 | [Associate, Private Markets Data Management](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R265839) | BlackRock | London, Greater London | ✅ |
 
-### Consulting CV: 16
+### Consulting CV: 17
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-17 | [Commercial Strategy Associate](https://ig.wd103.myworkdayjobs.com/EXT_IG/job/City-of-London---United-Kingdom/Commercial-Strategy-Associate_R_17859) | IG Group | City of London - United Kingdom | ✅ |
+| 2026-11-16 | [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) | Hargreaves Lansdown | Bristol - Welcome Building | ✅ |
 | — | [Finance Transformation - Associate/Senior Associate, Business Consulting - Finance](https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/) | EY |  | ✅ |
 | 2026-11-12 | [Customer Data Strategy Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Customer-Data-Strategy-Consultant_R00346003) | Accenture | London | ❔ |
 | — | [Management Consultant Banking](https://www.s1jobs.com/job/management-consultant-banking-127718277) | S1Jobs | Scotland | ❔ |

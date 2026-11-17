@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T22:46:14.115Z",
+ "generated_at": "2026-11-17T23:07:46.545Z",
  "order": [
   "finance",
   "credit",
@@ -155,8 +155,20 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 23,
+   "matching": 24,
    "picks": [
+    {
+     "title": "Strategy Analyst",
+     "company": "Hargreaves Lansdown",
+     "location": "Bristol - Welcome Building",
+     "posted": "2026-11-16",
+     "url": "https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070",
+     "score": 21,
+     "why": [
+      "Strategy Analyst"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Commercial Strategy Associate",
      "company": "IG Group",
@@ -166,18 +178,6 @@
      "score": 19,
      "why": [
       "Strategy Associate"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "VAIB Strategy Analyst",
-     "company": "Monzo",
-     "location": "Cardiff, London or Remote (UK)",
-     "posted": "2026-11-09",
-     "url": "https://job-boards.greenhouse.io/monzo/jobs/8359155",
-     "score": 18,
-     "why": [
-      "Strategy Analyst"
      ],
      "sponsor": true
     }
@@ -5217,6 +5217,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 16
+  },
+  "https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 21
   }
  }
 }
