@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 04:14** (UK time) · **926 open roles** at 513 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 04:53** (UK time) · **926 open roles** at 513 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,14 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 04:11** · hourly scan · checked 201 boards · **2 new roles**
+**Tue 17 Nov, 04:50** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [Graduate Accountant](https://www.linkedin.com/jobs/view/graduate-accountant-at-targetjobs-uk-4490169813) | targetjobs UK | London Area, United Kingdom | ❔ |
-| 2026-11-16 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57572548) | No1 Legal and Professional | Reading, Berkshire | ❔ |
+Nothing new this time. The last scan that found something was **Tue 17 Nov, 04:11** (2: Finance 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -63,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<sub>Nothing new at: 04:50</sub>
 
 <details>
 <summary><b>04:11</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
