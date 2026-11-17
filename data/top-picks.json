@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T18:08:04.351Z",
+ "generated_at": "2026-11-17T19:08:24.046Z",
  "order": [
   "finance",
   "credit",
@@ -5187,6 +5187,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-kos-international-talent-group-4491180232": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-private-equity-at-gen-ii-fund-services-4491591911": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
   }
  }
 }

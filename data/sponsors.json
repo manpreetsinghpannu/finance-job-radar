@@ -1342,6 +1342,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Gen II Fund Services": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Genius Sports": {
    "licensed": true,
    "register_name": "Genius Sports UK Ltd",
@@ -1808,6 +1813,11 @@
    "match": "none"
   },
   "KDR Talent Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "KOS International Talent Group": {
    "licensed": false,
    "register_name": null,
    "match": "none"

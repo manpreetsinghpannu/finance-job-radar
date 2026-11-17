@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 18:08** (UK time) · **988 open roles** at 555 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 19:08** (UK time) · **990 open roles** at 557 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,46 +10,14 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 18:05** · hourly scan · checked 201 boards · **19 new roles**
+**Tue 17 Nov, 19:05** · hourly scan · checked 201 boards · **2 new roles**
 
-### Finance (FP&A) CV: 14
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [SodaStream: FP&A Analyst](https://www.adzuna.co.uk/jobs/details/5969244687) | PepsiCo | Bloomsbury, Central London | ✅ |
-| 2026-11-17 | [Assistant Finance Business Partner](https://www.adzuna.co.uk/jobs/land/ad/5969085887) | Sellick Partnership | Balsall Heath, Birmingham | ❔ |
-| 2026-11-17 | [Management Accountant](https://www.adzuna.co.uk/jobs/land/ad/5969295013) | TMRG | Bournville, Birmingham | ❔ |
-| 2026-11-17 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-johnsons-workwear-4490462963) | Johnsons Workwear | Fulwood, England, United Kingdom | ❔ |
-| 2026-11-17 | [Commercial Analyst (12-month FTC)](https://www.adzuna.co.uk/jobs/details/5969022299) | Lomond Group | Bishopsgate, Central London | ❔ |
-| 2026-11-17 | [Assistant Accountant](https://www.adzuna.co.uk/jobs/details/5968989821) | Searchability Ltd | Orpington, London | ❔ |
-| 2026-11-17 | [Fully Remote Part - Qualified Assistant Accountant](https://www.adzuna.co.uk/jobs/details/5969083891) | VANRATH | Belfast, Northern Ireland | ❔ |
-| 2026-11-17 | [Financial Controller](https://www.adzuna.co.uk/jobs/land/ad/5969079106) | HAYS | Fenham, Newcastle Upon Tyne | ✅ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57584814) | Mitchell Adam | Birmingham, West Midlands (County) | ❔ |
-| 2026-11-17 | [Company Accountant](https://www.adzuna.co.uk/jobs/details/5969083880) | Artemis Human Capital | London, UK | ❔ |
-| 2026-11-17 | [Accountant](https://www.adzuna.co.uk/jobs/land/ad/5969295011) | WH Finance Ltd | Harpenden, Hertfordshire | ❔ |
-| 2026-11-17 | [In-House Accountant](https://www.adzuna.co.uk/jobs/land/ad/5969208285) | Lloyd Recruitment - Epsom | Warnham, Horsham | ❔ |
-| 2026-11-17 | [Financial Controller](https://www.adzuna.co.uk/jobs/land/ad/5969085907) | Service Service | West Pottergate, Norwich | ❔ |
-| 2026-11-17 | [Cluster Financial Controller](https://www.adzuna.co.uk/jobs/land/ad/5969079407) | CV SCREEN LTD. | Collyhurst, Manchester | ❔ |
-
-### Credit CV: 3
+### Investment (IB / PE) CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-17 | [Corporate Credit Research Analyst](https://www.adzuna.co.uk/jobs/details/5969280677) | Bank of America | London, UK | ✅ |
-| 2026-11-17 | [Credit Analyst / Data Reporting - CER Financial](https://www.adzuna.co.uk/jobs/land/ad/5969192887) | CER Financial | London, UK | ❔ |
-| 2026-11-17 | [Credit Underwriter Assistant - 6 month contract](https://www.adzuna.co.uk/jobs/details/5969089800) | Marks Sattin | London, UK | ❔ |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107014) | PIMCO | London, GBR | ✅ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [Valuations Associate - Universities Superannuation Scheme Limited](https://www.adzuna.co.uk/jobs/land/ad/5969286923) | Universities Superannuation Scheme Limited | London, UK | ✅ |
+| 2026-11-17 | [Mergers and Acquisitions Associate](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-kos-international-talent-group-4491180232) | KOS International Talent Group | United Kingdom | ❔ |
+| 2026-11-17 | [Fund Accountant, Private Equity](https://www.linkedin.com/jobs/view/fund-accountant-private-equity-at-gen-ii-fund-services-4491591911) | Gen II Fund Services | Southampton, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -95,6 +63,18 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<details>
+<summary><b>19:05</b> · hourly scan · <b>2 new</b> → Investment 2</summary>
+
+#### Investment (IB / PE) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-17 | [Mergers and Acquisitions Associate](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-kos-international-talent-group-4491180232) | KOS International Talent Group | United Kingdom | ❔ |
+| 2026-11-17 | [Fund Accountant, Private Equity](https://www.linkedin.com/jobs/view/fund-accountant-private-equity-at-gen-ii-fund-services-4491591911) | Gen II Fund Services | Southampton, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>18:05</b> · hourly scan · <b>19 new</b> → Finance 14 · Credit 3 · Equity 1 · Other 1</summary>
@@ -2646,40 +2626,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 22:07, 21:07, 20:07</sub>
 
-<details>
-<summary><b>19:07</b> · hourly scan · <b>11 new</b> → Finance 9 · Equity 1 · Real Estate 1</summary>
-
-#### Finance (FP&A) CV: 9
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-wates-group-4489170284) | Wates Group | London, England, United Kingdom | ✅ |
-| 2026-11-10 | [FP&A Data and Automation Analyst](https://www.linkedin.com/jobs/view/fp-a-data-and-automation-analyst-at-rider-levett-bucknall-rlb-4473268159) | Rider Levett Bucknall RLB | London, England, United Kingdom | ✅ |
-| 2026-11-10 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-the-university-of-manchester-4488392694) | The University of Manchester | Manchester, England, United Kingdom | ✅ |
-| 2026-11-10 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-rushlift-gse-4481217005) | Rushlift GSE | London, England, United Kingdom | ❔ |
-| 2026-11-10 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-all-about-food-ltd-4488374535) | All About Food Ltd | Manchester, England, United Kingdom | ❔ |
-| 2026-11-10 | [Assistant Accountant](https://www.s1jobs.com/job/assistant-accountant-127727854) | Bield Housing Association | City of Edinburgh, Scotland | ❔ |
-| 2026-11-10 | [Financial Controller](https://www.s1jobs.com/job/financial-controller-127727844) | FT Recruitment Group | Aberdeen Area, Scotland | ❔ |
-| 2026-11-10 | [Accountant Xero](https://www.s1jobs.com/job/accountant-xero-127727840) | FT Recruitment Group | Aberdeen Area, Scotland | ❔ |
-| — | [Treasury Ap](https://www.s1jobs.com/job/treasury-ap-127727833) | S1Jobs | Scotland | ❔ |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Bloomberg Intelligence European Quantitative Equity Research Strategist](https://www.linkedin.com/jobs/view/bloomberg-intelligence-european-quantitative-equity-research-strategist-at-bloomberg-4487806859) | Bloomberg | London, England, United Kingdom | ✅ |
-
-#### Real Estate CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Real Estate Investment Analyst, Global Real Estate Investor, London](https://www.linkedin.com/jobs/view/real-estate-investment-analyst-global-real-estate-investor-london-at-edgworth-partners-4489630112) | Edgworth Partners | London Area, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (539)](#finance-fpa-cv-539) · [Credit (129)](#credit-cv-129) · [Equity (51)](#equity-cv-51) · [Investment (95)](#investment-ib--pe-cv-95) · [Consulting (16)](#consulting-cv-16) · [Real Estate (17)](#real-estate-cv-17) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (114)](#other-fits-no-cv-closely-may-still-be-worth-a-look-114)
+Everything matched so far, newest first within each CV: [Finance (539)](#finance-fpa-cv-539) · [Credit (129)](#credit-cv-129) · [Equity (51)](#equity-cv-51) · [Investment (97)](#investment-ib--pe-cv-97) · [Consulting (16)](#consulting-cv-16) · [Real Estate (17)](#real-estate-cv-17) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (114)](#other-fits-no-cv-closely-may-still-be-worth-a-look-114)
 
 ### Finance (FP&A) CV: 539
 
@@ -3415,12 +3364,14 @@ Everything matched so far, newest first within each CV: [Finance (539)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 95
+### Investment (IB / PE) CV: 97
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-17 | [M&A Analyst - FIG](https://www.linkedin.com/jobs/view/m-a-analyst-fig-at-alan-mitchell-4480787999) | Alan Mitchell | London Area, United Kingdom | ❔ |
 | 2026-11-17 | [Financial Accountant (Private Equity & Alternative Investments)](https://www.linkedin.com/jobs/view/financial-accountant-private-equity-alternative-investments-at-hireforce-4490471172) | HireForce | London Area, United Kingdom | ❔ |
+| 2026-11-17 | [Mergers and Acquisitions Associate](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-kos-international-talent-group-4491180232) | KOS International Talent Group | United Kingdom | ❔ |
+| 2026-11-17 | [Fund Accountant, Private Equity](https://www.linkedin.com/jobs/view/fund-accountant-private-equity-at-gen-ii-fund-services-4491591911) | Gen II Fund Services | Southampton, England, United Kingdom | ❔ |
 | — | [Junior Investment Associate](https://www.reed.co.uk/jobs/junior-investment-associate/57581186) | PGS LTD | London | ❔ |
 | — | [Business Development Specialist (Private Equity)](https://www.reed.co.uk/jobs/business-development-specialist-private-equity/57581398) | Larbey Evans | London | ❔ |
 | — | [Corporate Finance Specialist](https://www.s1jobs.com/job/corporate-finance-specialist-127766439) | S1Jobs | Scotland | ❔ |

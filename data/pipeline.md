@@ -1412,5 +1412,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.adzuna.co.uk/jobs/details/5968989821 | Searchability Ltd | Assistant Accountant | Orpington, London | posted: 2026-11-17 | note: via Adzuna
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-johnsons-workwear-4490462963 | Johnsons Workwear | Management Accountant | Fulwood, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57584814 | Mitchell Adam | Management Accountant | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-kos-international-talent-group-4491180232 | KOS International Talent Group | Mergers and Acquisitions Associate | United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-private-equity-at-gen-ii-fund-services-4491591911 | Gen II Fund Services | Fund Accountant, Private Equity | Southampton, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 
 ## Processed
