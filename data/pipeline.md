@@ -1366,4 +1366,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57583084 | Platinum Recruitment Group | Management Accountant | Salford, Lancashire | note: via Reed
 - [ ] https://scotjobsnet.co.uk/job/junior-finance-transformation-analyst-cigna-healthcare-2/ | via ScotJobsNet | Junior Finance Transformation Analyst – Cigna Healthcare | Glasgow, Scotland | posted: 2026-11-17 | note: via ScotJobsNet
 
+- [ ] https://morganstanley.eightfold.ai/careers?pid=549800576733&domain=morganstanley.com | Morgan Stanley | Fund Services - Associate, Financial Reporting (Glasgow) | Glasgow, United Kingdom
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-chalk-hill-group-4491559945 | Chalk Hill Group | Financial Planning Analyst | Wareham, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-centalion-4484018952 | Centalion | Credit Analyst | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-deverellsmith-4490462516 | deverellsmith | Fund Accountant | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-eaton-syalon-ltd-4491565629 | Eaton Syalon Ltd | Management Accountant | Derby, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-itsu-4491574598 | itsu | Assistant Management Accountant | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trainee-equity-research-associate-global-investment-bank-london-at-greenwich-partners-4491582257 | Greenwich Partners | Trainee Equity Research Associate - Global Investment Bank - London | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/interim-finance-analyst/57583753 | Michael Page Finance | Interim Finance Analyst | Bournemouth, Dorset | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/interim-financial-planning-analysis/57583885 | Sellick Partnership | Interim Financial Planning & Analysis | Liverpool, Merseyside | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57583774 | TMR Group Ltd | Management Accountant | Birmingham, West Midlands (County) | note: via Reed
+
 ## Processed

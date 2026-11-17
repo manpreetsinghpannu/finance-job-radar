@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 773 firms checked, 433 matched, 340 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 780 firms checked, 434 matched, 346 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (340)
+## Not found (346)
 
 - 7IM
 - 93 MGMT
@@ -71,6 +71,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Card Factory
 - Carousel Consultancy Ltd
 - Carr Lyons Search & Selection
+- Centalion
+- Chalk Hill Group
 - Checkatrade
 - Checkout.com
 - Citibank
@@ -98,6 +100,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Dojo
 - Doncaster Racecourse and Exhibition Centre
 - Eaton Syalon Limited
+- Eaton Syalon Ltd
 - Echo
 - Edgworth Partners
 - Edward Mann
@@ -283,6 +286,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Seccl
 - Selby Jennings
 - Select Tech
+- Sellick Partnership
 - Seymour John
 - Sheridan Maine
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
@@ -299,6 +303,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TAMESIDE COLLEGE
 - TCR
 - TCS
+- TMR Group Ltd
 - TUI
 - TVF Media
 - Talan
@@ -342,6 +347,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Zachary Daniels
 - Zego
 - abrdn
+- deverellsmith
 - ivee
 - targetjobs UK
 - twentyAI

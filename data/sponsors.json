@@ -762,10 +762,20 @@
    "register_name": "Cedar Capital Partners Ltd",
    "match": "prefix"
   },
+  "Centalion": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Centrica": {
    "licensed": true,
    "register_name": "Centrica plc",
    "match": "alias"
+  },
+  "Chalk Hill Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Charles Hurst Group Ltd": {
    "licensed": true,
@@ -1038,6 +1048,11 @@
    "match": "exact"
   },
   "Eaton Syalon Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Eaton Syalon Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3102,6 +3117,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Sellick Partnership": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Seymour John": {
    "licensed": false,
    "register_name": null,
@@ -3341,6 +3361,11 @@
    "licensed": true,
    "register_name": "THG PLC",
    "match": "exact"
+  },
+  "TMR Group Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "TP ICAP": {
    "licensed": true,
@@ -3832,6 +3857,11 @@
    "register_name": null,
    "match": "none"
   },
+  "deverellsmith": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "eFinancialCareers": {
    "licensed": true,
    "register_name": "eFinancialCareers Ltd",
@@ -3841,6 +3871,11 @@
    "licensed": true,
    "register_name": "iCapital UK International Limited",
    "match": "alias"
+  },
+  "itsu": {
+   "licensed": true,
+   "register_name": "Itsu Limited",
+   "match": "exact"
   },
   "ivee": {
    "licensed": false,
