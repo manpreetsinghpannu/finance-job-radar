@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 02:08** (UK time) · **924 open roles** at 513 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 03:09** (UK time) · **924 open roles** at 513 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 02:04** · hourly scan · checked 201 boards · **0 new roles**
+**Tue 17 Nov, 03:04** · hourly scan · checked 201 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Tue 17 Nov, 00:04** (6: Finance 3 · Credit 2 · Other 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 17 November
 
-<sub>Nothing new at: 02:04, 01:04</sub>
+<sub>Nothing new at: 03:04, 02:04, 01:04</sub>
 
 <details>
 <summary><b>00:04</b> · hourly scan · <b>6 new</b> → Finance 3 · Credit 2 · Other 1</summary>
@@ -2608,19 +2608,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 04:07</sub>
 
-<details>
-<summary><b>03:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Company Accountant](https://scotjobsnet.co.uk/job/company-accountant/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
-
-</details>
-
-<sub>Nothing new at: 02:14</sub>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (504)](#finance-fpa-cv-504) · [Credit (116)](#credit-cv-116) · [Equity (47)](#equity-cv-47) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (15)](#consulting-cv-15) · [Real Estate (16)](#real-estate-cv-16) · [Fund (24)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-24) · [Other (110)](#other-fits-no-cv-closely-may-still-be-worth-a-look-110)
@@ -3592,7 +3579,7 @@ Everything matched so far, newest first within each CV: [Finance (504)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>73 roles taken off the list because the firm closed the posting</summary>
+<summary>72 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3668,6 +3655,5 @@ Everything matched so far, newest first within each CV: [Finance (504)](#finance
 | Tue 10 Nov, 17:08 | Credit Strategy Analyst | Funding Circle |
 | Tue 10 Nov, 12:08 | Trainee Fund Accountant | Aztec Group |
 | Tue 10 Nov, 12:08 | of Management Accountant - Freehold | Frasers Group |
-| Tue 10 Nov, 02:14 | Financial Reporting & Control Analyst | abrdn |
 
 </details>
