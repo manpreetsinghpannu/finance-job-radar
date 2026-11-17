@@ -1326,6 +1326,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/analyst-associate-private-credit-french-speaker-efinancialcareers/57574595 | eFinancialCareers | Analyst / Associate - Private Credit - French speaker - eFinancialCareers | London | posted: 2026-11-16 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/financial-analyst-educate2trade-ltd/57574460 | eFinancialCareers | Financial Analyst - Educate2trade Ltd | London | posted: 2026-11-16 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/discretionary-trader/57573877 | eFinancialCareers | Discretionary Trader | London | posted: 2026-11-16 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/graduate-accountant-at-targetjobs-uk-4490169813 | targetjobs UK | Graduate Accountant | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-accountant/57572548 | No1 Legal and Professional | Financial Accountant | Reading, Berkshire | posted: 2026-11-16 | note: via Reed
 
 ## Processed
