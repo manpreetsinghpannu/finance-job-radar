@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 01:07** (UK time) · **924 open roles** at 513 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 02:08** (UK time) · **924 open roles** at 513 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 01:04** · hourly scan · checked 201 boards · **0 new roles**
+**Tue 17 Nov, 02:04** · hourly scan · checked 201 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Tue 17 Nov, 00:04** (6: Finance 3 · Credit 2 · Other 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 17 November
 
-<sub>Nothing new at: 01:04</sub>
+<sub>Nothing new at: 02:04, 01:04</sub>
 
 <details>
 <summary><b>00:04</b> · hourly scan · <b>6 new</b> → Finance 3 · Credit 2 · Other 1</summary>
@@ -2620,19 +2620,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <sub>Nothing new at: 02:14</sub>
-
-<details>
-<summary><b>02:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-09 | [Group Management Accountant](https://www.reed.co.uk/jobs/group-management-accountant/57544816) | Robert Half | Leeds, West Yorkshire | ✅ |
-
-</details>
-
-<sub>Nothing new at: 01:51</sub>
 
 ## All open roles by CV
 
