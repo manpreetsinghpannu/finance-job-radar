@@ -307,6 +307,11 @@
    "register_name": "Artemis Investment Management LLP",
    "match": "alias"
   },
+  "Artemis Human Capital": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Arup": {
    "licensed": false,
    "register_name": null,
@@ -637,6 +642,11 @@
    "register_name": "CBRE Limited",
    "match": "exact"
   },
+  "CER Financial": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CFP Energy": {
    "licensed": true,
    "register_name": "CFP Energy (UK) Limited",
@@ -683,6 +693,11 @@
    "match": "none"
   },
   "CONTRACT SCOTLAND LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "CV SCREEN LTD.": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1767,6 +1782,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Johnsons Workwear": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Julius Baer": {
    "licensed": true,
    "register_name": "Julius Baer International Limited",
@@ -1957,6 +1977,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Lloyd Recruitment - Epsom": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Lloyd's of London": {
    "licensed": true,
    "register_name": "LLOYD'S OF LONDON",
@@ -1983,6 +2008,11 @@
    "match": "alias"
   },
   "Lomond": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Lomond Group": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2727,6 +2757,11 @@
    "register_name": "People First Care (Rennington) Ltd",
    "match": "prefix"
   },
+  "PepsiCo": {
+   "licensed": true,
+   "register_name": "PepsiCo International Ltd",
+   "match": "exact"
+  },
   "Perch Group": {
    "licensed": true,
    "register_name": "Perch Group Limited",
@@ -3137,6 +3172,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Searchability Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Seccl": {
    "licensed": false,
    "register_name": null,
@@ -3153,6 +3193,11 @@
    "match": "none"
   },
   "Sellick Partnership": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Service Service": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3402,6 +3447,11 @@
    "register_name": null,
    "match": "none"
   },
+  "TMRG": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "TP ICAP": {
    "licensed": true,
    "register_name": "TP ICAP GROUP SERVICES LIMITED",
@@ -3637,6 +3687,11 @@
    "register_name": "Universal Music Operations Ltd",
    "match": "alias"
   },
+  "Universities Superannuation Scheme Limited": {
+   "licensed": true,
+   "register_name": "Universities Superannuation Scheme Limited",
+   "match": "exact"
+  },
   "University of Strathclyde": {
    "licensed": true,
    "register_name": "University of Strathclyde",
@@ -3758,6 +3813,11 @@
    "match": "none"
   },
   "Vonage": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "WH Finance Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"

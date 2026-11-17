@@ -1392,4 +1392,25 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/accountant-xero-127766454 | Redress Scotland | Accountant Xero | Glasgow Area, Scotland | posted: 2026-11-17 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/financial-controller-127766449 | Redress Scotland | Financial Controller | Glasgow Area, Scotland | posted: 2026-11-17 | note: via S1Jobs
 
+- [ ] https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107014 | PIMCO | Quantitative Research Analyst | London, GBR | posted: 2026-11-17
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5969295013 | TMRG | Management Accountant | Bournville, Birmingham | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5969295011 | WH Finance Ltd | Accountant | Harpenden, Hertfordshire | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5969286952 | eFinancialCareers | Systematic Macro Quantitative Researcher | Multi-Strat Hedge Fund - eFinancialCareers | London, UK | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5969286923 | Universities Superannuation Scheme Limited | Valuations Associate - Universities Superannuation Scheme Limited | London, UK | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5969280677 | Bank of America | Corporate Credit Research Analyst | London, UK | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5969244687 | PepsiCo | SodaStream: FP&A Analyst | Bloomsbury, Central London | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5969208285 | Lloyd Recruitment - Epsom | In-House Accountant | Warnham, Horsham | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5969192887 | CER Financial | Credit Analyst / Data Reporting - CER Financial | London, UK | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5969089800 | Marks Sattin | Credit Underwriter Assistant - 6 month contract | London, UK | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5969085907 | Service Service | Financial Controller | West Pottergate, Norwich | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5969085887 | Sellick Partnership | Assistant Finance Business Partner | Balsall Heath, Birmingham | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5969083891 | VANRATH | Fully Remote Part - Qualified Assistant Accountant | Belfast, Northern Ireland | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5969083880 | Artemis Human Capital | Company Accountant | London, UK | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5969079407 | CV SCREEN LTD. | Cluster Financial Controller | Collyhurst, Manchester | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5969079106 | HAYS | Financial Controller | Fenham, Newcastle Upon Tyne | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5969022299 | Lomond Group | Commercial Analyst (12-month FTC) | Bishopsgate, Central London | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5968989821 | Searchability Ltd | Assistant Accountant | Orpington, London | posted: 2026-11-17 | note: via Adzuna
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-johnsons-workwear-4490462963 | Johnsons Workwear | Management Accountant | Fulwood, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57584814 | Mitchell Adam | Management Accountant | Birmingham, West Midlands (County) | note: via Reed
+
 ## Processed

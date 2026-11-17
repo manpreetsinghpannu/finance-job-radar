@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 789 firms checked, 434 matched, 355 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 801 firms checked, 436 matched, 365 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (355)
+## Not found (365)
 
 - 7IM
 - 93 MGMT
@@ -37,6 +37,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Aria Partners
 - Arlington Resource Management
 - Armstrong Watson
+- Artemis Human Capital
 - Arup
 - Aster Group
 - Atkinson Moss
@@ -61,12 +62,14 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Bruin
 - Bruntwood SciTech
 - CAMMACH BRYANT LIMITED
+- CER Financial
 - CIBC
 - CLARC Recruitment
 - CM Law Recruitment
 - CMC Consulting Ltd
 - CMS UK
 - CONTRACT SCOTLAND LIMITED
+- CV SCREEN LTD.
 - CVC Marathon
 - Calastone
 - Camino Search
@@ -171,6 +174,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Janus Henderson Investors
 - JasperRose
 - Joblet-AI
+- Johnsons Workwear
 - KBRA
 - KBS Corporate
 - KDR Talent Solutions
@@ -187,8 +191,10 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lightsource bp
 - Lightspeed Commerce
 - Linear Partners
+- Lloyd Recruitment - Epsom
 - Lochead Sandford Recruitment
 - Lomond
+- Lomond Group
 - Lookers Motor Group Limited
 - Lord Accounting & Finance
 - Lorien
@@ -290,10 +296,12 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Satispay
 - Scottish public sector
 - Scout Global
+- Searchability Ltd
 - Seccl
 - Selby Jennings
 - Select Tech
 - Sellick Partnership
+- Service Service
 - Seymour John
 - Sheridan Maine
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
@@ -311,6 +319,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TCR
 - TCS
 - TMR Group Ltd
+- TMRG
 - TUI
 - TVF Media
 - Talan
@@ -346,6 +355,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Vitae Financial Recruitment Limited
 - VodafoneThree
 - Vonage
+- WH Finance Ltd
 - Walker Dendle Financial Recruitment
 - Warner Recruitment Limited
 - Watson-Marlow Fluid Technology Solutions
