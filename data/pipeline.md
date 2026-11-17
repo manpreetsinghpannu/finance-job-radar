@@ -1334,5 +1334,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-europe-at-univers-4490195978 | Univers | FP&A Analyst, Europe | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-revenue-cogs-at-mediakind-4479984422 | MediaKind | FP&A Analyst (Revenue & COGS) | United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/junior-investment-associate/57581186 | PGS LTD | Junior Investment Associate | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-summit-energy-europe-4490409871 | Summit Energy Europe | Credit Analyst | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-operations-associate-%E2%80%93-model-portfolio-service-mps-at-cameron-kennedy-4480650397 | Cameron Kennedy | Investment Operations Associate – Model Portfolio Service (MPS) | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-founder-led-beauty-brand-central-london-up-to-%C2%A365k-at-harmonic-finance%E2%84%A2-certified-b-corp-4490686775 | Harmonic Finance™ | Certified B Corp | Management Accountant | Founder-Led Beauty Brand | Central London | Up to £65k | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57581424 | Trial Balance Consulting | Management Accountant | Plymouth, Devon | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/business-development-specialist-private-equity/57581398 | Larbey Evans | Business Development Specialist (Private Equity) | London | note: via Reed
 
 ## Processed

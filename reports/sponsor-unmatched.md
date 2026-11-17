@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 758 firms checked, 428 matched, 330 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 761 firms checked, 428 matched, 333 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (330)
+## Not found (333)
 
 - 7IM
 - 93 MGMT
@@ -171,6 +171,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Klarna
 - Landbay
 - Language Matters
+- Larbey Evans
 - Lemonade
 - Lightsource bp
 - Lightspeed Commerce
@@ -286,6 +287,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Starfish Search Limited
 - Statera Talent
 - Strand Hill
+- Summit Energy Europe
 - Swoop Funding
 - TAMESIDE COLLEGE
 - TCR
@@ -304,6 +306,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Tower Transit Group
 - Trainline
 - TransUnion
+- Trial Balance Consulting
 - Trident International Associates
 - UCEA - Family Office Group
 - Undisclosed

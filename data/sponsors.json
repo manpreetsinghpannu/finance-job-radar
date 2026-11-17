@@ -1822,6 +1822,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Larbey Evans": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Lazard": {
    "licensed": true,
    "register_name": "Lazard & Co., Services Limited",
@@ -3222,6 +3227,11 @@
    "register_name": "SumUp Payments Limited",
    "match": "prefix"
   },
+  "Summit Energy Europe": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Super Payments": {
    "licensed": true,
    "register_name": "Super Payments Ltd",
@@ -3438,6 +3448,11 @@
    "match": "none"
   },
   "TransUnion": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Trial Balance Consulting": {
    "licensed": false,
    "register_name": null,
    "match": "none"

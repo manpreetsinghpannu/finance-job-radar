@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T09:08:17.177Z",
+ "generated_at": "2026-11-17T10:08:43.433Z",
  "order": [
   "finance",
   "credit",
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 32,
+   "matching": 33,
    "picks": [
     {
      "title": "Trainee Fund Accountant",
@@ -4902,6 +4902,26 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-at-summit-energy-europe-4490409871": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/investment-operations-associate-%E2%80%93-model-portfolio-service-mps-at-cameron-kennedy-4480650397": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 19
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57581424": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/business-development-specialist-private-equity/57581398": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 5
   }
  }
 }
