@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 22:29** (UK time) · **992 open roles** at 557 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 22:46** (UK time) · **994 open roles** at 558 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 22:26** · hourly scan · checked 201 boards · **0 new roles**
+**Tue 17 Nov, 22:42** · hourly scan · checked 201 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Tue 17 Nov, 22:04** (1: Investment 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-16 | [Pricing Analyst, Container Shipping, Asia Europe Trade](https://www.reed.co.uk/jobs/pricing-analyst-container-shipping-asia-europe-trade/57579945) | Ocean Network Express (Europe) Ltd | London | ✅ |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-17 | [Early Careers Program - Private Equity/Marine](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/_R0020308) | Howden |  | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (218 matching)
+**Finance (FP&A) CV** (219 matching)
 
 1. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
 2. [Commercial Finance Analyst](https://www.adzuna.co.uk/jobs/details/5968001043) · Avove · UK · posted 2026-11-16 · ✅
@@ -28,12 +38,12 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-4489791899) · CFP Energy · London Area, United Kingdom · posted 2026-11-16 · ✅
 
-**Equity CV** (46 matching)
+**Equity CV** (47 matching)
 
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107014) · PIMCO · London, GBR · posted 2026-11-17 · ✅
 
-**Investment (IB / PE) CV** (71 matching)
+**Investment (IB / PE) CV** (72 matching)
 
 1. [Investment Banking Associate (FIG M&A) Advisory](https://www.linkedin.com/jobs/view/investment-banking-associate-fig-m-a-advisory-at-dartmouth-partners-4490916163) · Dartmouth Partners · Greater London, England, United Kingdom · posted 2026-11-16 · ✅
 2. [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) · eFinancialCareers · London · ✅
@@ -58,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<details>
+<summary><b>22:42</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-16 | [Pricing Analyst, Container Shipping, Asia Europe Trade](https://www.reed.co.uk/jobs/pricing-analyst-container-shipping-asia-europe-trade/57579945) | Ocean Network Express (Europe) Ltd | London | ✅ |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-17 | [Early Careers Program - Private Equity/Marine](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/_R0020308) | Howden |  | ✅ |
+
+</details>
 
 <sub>Nothing new at: 22:26</sub>
 
@@ -2634,22 +2661,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 23:26, 23:07</sub>
 
-<details>
-<summary><b>22:37</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [Executive - Corporate Finance](https://www.linkedin.com/jobs/view/executive-corporate-finance-at-frp-advisory-4487497721) | FRP Advisory | Brighton, England, United Kingdom | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (539)](#finance-fpa-cv-539) · [Credit (129)](#credit-cv-129) · [Equity (51)](#equity-cv-51) · [Investment (99)](#investment-ib--pe-cv-99) · [Consulting (16)](#consulting-cv-16) · [Real Estate (17)](#real-estate-cv-17) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (114)](#other-fits-no-cv-closely-may-still-be-worth-a-look-114)
+Everything matched so far, newest first within each CV: [Finance (540)](#finance-fpa-cv-540) · [Credit (129)](#credit-cv-129) · [Equity (51)](#equity-cv-51) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (16)](#consulting-cv-16) · [Real Estate (17)](#real-estate-cv-17) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (114)](#other-fits-no-cv-closely-may-still-be-worth-a-look-114)
 
-### Finance (FP&A) CV: 539
+### Finance (FP&A) CV: 540
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2715,6 +2731,7 @@ Everything matched so far, newest first within each CV: [Finance (539)](#finance
 | 2026-11-16 | [Interim Management Accountant](https://www.reed.co.uk/jobs/interim-management-accountant/57576001) | Robert Walters | Manchester, Lancashire | ✅ |
 | 2026-11-16 | [Commercial Analyst](https://www.linkedin.com/jobs/view/commercial-analyst-at-perigus-energy-4482906037) | Perigus Energy | London, England, United Kingdom | ✅ |
 | 2026-11-16 | [Financial Reporting Accountant](https://www.adzuna.co.uk/jobs/land/ad/5967945840) | Axon Moore | Penwortham, Preston | ❔ |
+| 2026-11-16 | [Pricing Analyst, Container Shipping, Asia Europe Trade](https://www.reed.co.uk/jobs/pricing-analyst-container-shipping-asia-europe-trade/57579945) | Ocean Network Express (Europe) Ltd | London | ✅ |
 | 2026-11-16 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-investigo-4490294395) | Investigo | Hertfordshire, England, United Kingdom | ✅ |
 | 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-vertex-associates-accountancy-and-finance-recruitment-4489776379) | Vertex Associates - Accountancy and Finance Recruitment | London Area, United Kingdom | ❔ |
 | 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-nick-buick-associates-4490675209) | Nick Buick Associates | London Area, United Kingdom | ❔ |
@@ -3383,10 +3400,11 @@ Everything matched so far, newest first within each CV: [Finance (539)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 99
+### Investment (IB / PE) CV: 100
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-17 | [Early Careers Program - Private Equity/Marine](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/_R0020308) | Howden |  | ✅ |
 | 2026-11-17 | [M&A Analyst - FIG](https://www.linkedin.com/jobs/view/m-a-analyst-fig-at-alan-mitchell-4480787999) | Alan Mitchell | London Area, United Kingdom | ❔ |
 | 2026-11-17 | [Investment Banking - EMEA Strategic Investors Group (SIG) - Analyst / Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-strategic-investors-group-sig-analyst-associate-london-at-jpmorganchase-4490194192) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | — | [Analyst, Portfolio Valuation - Goodman Masson](https://www.reed.co.uk/jobs/analyst-portfolio-valuation-goodman-masson/57585022) | eFinancialCareers | London | ✅ |

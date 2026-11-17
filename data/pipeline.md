@@ -1417,4 +1417,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-emea-strategic-investors-group-sig-analyst-associate-london-at-jpmorganchase-4490194192 | JPMorganChase | Investment Banking - EMEA Strategic Investors Group (SIG) - Analyst / Associate - London | Greater London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/analyst-portfolio-valuation-goodman-masson/57585022 | eFinancialCareers | Analyst, Portfolio Valuation - Goodman Masson | London | note: via Reed
 
+- [ ] https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/_R0020308 | Howden (Hyperion) | Early Careers Program - Private Equity/Marine | posted: 2026-11-17
+- [ ] https://www.reed.co.uk/jobs/pricing-analyst-container-shipping-asia-europe-trade/57579945 | Ocean Network Express (Europe) Ltd | Pricing Analyst, Container Shipping, Asia Europe Trade | London | posted: 2026-11-16 | note: via Reed
+
 ## Processed

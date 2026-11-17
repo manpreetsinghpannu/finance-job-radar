@@ -2577,6 +2577,11 @@
    "register_name": "OakNorth Bank Plc",
    "match": "alias"
   },
+  "Ocean Network Express (Europe) Ltd": {
+   "licensed": true,
+   "register_name": "Ocean Network Express (Europe) Limited",
+   "match": "exact"
+  },
   "Octavius Finance": {
    "licensed": false,
    "register_name": null,

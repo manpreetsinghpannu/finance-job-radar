@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T22:29:09.804Z",
+ "generated_at": "2026-11-17T22:46:14.115Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 218,
+   "matching": 219,
    "picks": [
     {
      "title": "Finance Analyst (FP&A)",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 46,
+   "matching": 47,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 71,
+   "matching": 72,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -5207,6 +5207,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
+  },
+  "https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/_R0020308": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 21
+  },
+  "https://www.reed.co.uk/jobs/pricing-analyst-container-shipping-asia-europe-trade/57579945": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
   }
  }
 }
