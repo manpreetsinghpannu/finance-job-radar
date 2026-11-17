@@ -1347,5 +1347,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-harbour-energy-4491136603 | Harbour Energy | Finance Graduate | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-controller/57581792 | SENSIBAL RECRUITMENT LTD | Financial Controller | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57581779 | AD Finance | Management Accountant | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-finatal-4490454182 | Finatal | Financial Planning Analyst | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-associate-long-short-hedge-fund-london-at-greenwich-partners-4490422952 | Greenwich Partners | Equity Research Associate, Long Short Hedge Fund, London | Greater London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-analyst/57582463 | Keeler Recruitment | Financial Analyst | Norwich, Norfolk | note: via Reed
 
 ## Processed
