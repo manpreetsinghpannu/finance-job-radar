@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 19:08** (UK time) · **990 open roles** at 557 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 20:09** (UK time) · **990 open roles** at 557 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,14 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 19:05** · hourly scan · checked 201 boards · **2 new roles**
+**Tue 17 Nov, 20:05** · hourly scan · checked 201 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [Mergers and Acquisitions Associate](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-kos-international-talent-group-4491180232) | KOS International Talent Group | United Kingdom | ❔ |
-| 2026-11-17 | [Fund Accountant, Private Equity](https://www.linkedin.com/jobs/view/fund-accountant-private-equity-at-gen-ii-fund-services-4491591911) | Gen II Fund Services | Southampton, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Tue 17 Nov, 19:05** (2: Investment 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -63,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<sub>Nothing new at: 20:05</sub>
 
 <details>
 <summary><b>19:05</b> · hourly scan · <b>2 new</b> → Investment 2</summary>
@@ -2624,7 +2621,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 22:07, 21:07, 20:07</sub>
+<sub>Nothing new at: 22:07, 21:07</sub>
 
 ## All open roles by CV
 
@@ -3663,7 +3660,7 @@ Everything matched so far, newest first within each CV: [Finance (539)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>81 roles taken off the list because the firm closed the posting</summary>
+<summary>80 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3747,6 +3744,5 @@ Everything matched so far, newest first within each CV: [Finance (539)](#finance
 | Wed 11 Nov, 09:59 | Associate - Strategic Advisory (Industrials) | PJT Partners |
 | Wed 11 Nov, 03:07 | Experienced Financial Analyst, Financial and Valuation Advisory - London | Houlihan Lokey |
 | Wed 11 Nov, 03:07 | Accountant (Elite Financial Services Firm) - Up to £55k Base + Bonus! - London | Hunter Bond |
-| Tue 10 Nov, 20:08 | Corporate Finance Associate / Healthcare | Brock & Decker |
 
 </details>
