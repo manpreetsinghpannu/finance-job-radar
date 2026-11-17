@@ -1,15 +1,16 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 761 firms checked, 428 matched, 333 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 766 firms checked, 430 matched, 336 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (333)
+## Not found (336)
 
 - 7IM
 - 93 MGMT
 - AAA Global
 - ACL Partners
+- AD Finance
 - AEJ Consulting Ltd
 - ASC Connections Ltd
 - ASDA
@@ -69,6 +70,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Capital Outsourcing Group Ltd
 - Card Factory
 - Carousel Consultancy Ltd
+- Carr Lyons Search & Selection
 - Checkatrade
 - Checkout.com
 - Citibank
@@ -260,6 +262,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Rushlift GSE
 - S1Jobs
 - SD Business Management
+- SENSIBAL RECRUITMENT LTD
 - SF Partners
 - SJC Partners
 - SOCOTEC UK & Ireland
@@ -340,7 +343,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (46)
+## Matched automatically by close name; worth a glance (47)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
@@ -379,6 +382,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - People First → People First Care (Rennington) Ltd (prefix)
 - Pliant → Pliant Payments Limited (prefix)
 - Plum → Plum Fintech (prefix)
+- Quantum → Quantum Services Management Ltd (prefix)
 - Radius → Radius Systems Limited (prefix)
 - Rider Levett Bucknall RLB → Rider Levett Bucknall UK Limited (similar (0.92))
 - SMBC → SMBC Bank International plc (prefix)

@@ -1340,4 +1340,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57581424 | Trial Balance Consulting | Management Accountant | Plymouth, Devon | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/business-development-specialist-private-equity/57581398 | Larbey Evans | Business Development Specialist (Private Equity) | London | note: via Reed
 
+- [ ] https://ig.wd103.myworkdayjobs.com/EXT_IG/job/City-of-London---United-Kingdom/Commercial-Strategy-Associate_R_17859 | IG Group | Commercial Strategy Associate | City of London - United Kingdom | posted: 2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-carr-lyons-search-selection-4490428536 | Carr Lyons Search & Selection | Leveraged Finance Credit Analyst | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-associate-pharma-coverage-global-bank-strategy-consultant-wanted-at-greenwich-partners-4490442054 | Greenwich Partners | Equity Research Associate, Pharma coverage, Global Bank - Strategy consultant wanted | Greater London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-quantum-4490437236 | Quantum | Management Accountant | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-harbour-energy-4491136603 | Harbour Energy | Finance Graduate | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-controller/57581792 | SENSIBAL RECRUITMENT LTD | Financial Controller | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57581779 | AD Finance | Management Accountant | Birmingham, West Midlands (County) | note: via Reed
+
 ## Processed
