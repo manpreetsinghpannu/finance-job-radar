@@ -1358,5 +1358,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-galliford-try-4483635189 | Galliford Try | Management Accountant | Coventry, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-united-infrastructure-ltd-4490439656 | United Infrastructure Ltd | Management Accountant | Rochdale, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/investment-associate-debt-emerging-markets-french-speaking/57582704 | Michael Page Banking | Investment Associate, Debt / Emerging Markets - French speaking | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/interim-financial-accountant/57582939 | Gleeson Recruitment Group | Interim Financial Accountant | Leicester, Leicestershire | note: via Reed
 
 ## Processed
