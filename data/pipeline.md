@@ -1360,8 +1360,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/investment-associate-debt-emerging-markets-french-speaking/57582704 | Michael Page Banking | Investment Associate, Debt / Emerging Markets - French speaking | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/interim-financial-accountant/57582939 | Gleeson Recruitment Group | Interim Financial Accountant | Leicester, Leicestershire | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-hb-partners-limited-4491571239 | HB Partners Limited | Financial Analyst | Portsmouth, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/leveraged-finance-credit-risk-2lod-at-michael-page-4491565380 | Michael Page | Leveraged Finance Credit Risk (2LoD) | City Of London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst--property/57583097 | Hays Specialist Recruitment Limited | FP&A Analyst | Property | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/leveraged-finance-credit-risk-2lod/57582934 | Michael Page Banking | Leveraged Finance Credit Risk (2LoD) | London | note: via Reed
-- [ ] https://www.reed.co.uk/jobs/financial-accountant/57571430 | Sheridan Maine | Financial Accountant | Poole, Dorset | posted: 2026-11-16 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57583084 | Platinum Recruitment Group | Management Accountant | Salford, Lancashire | note: via Reed
 
 ## Processed

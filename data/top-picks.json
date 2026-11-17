@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T14:02:21.347Z",
+ "generated_at": "2026-11-17T14:10:51.152Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 216,
+   "matching": 215,
    "picks": [
     {
      "title": "Finance Analyst (FP&A)",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 88,
+   "matching": 89,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 69,
+   "matching": 70,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -2778,11 +2778,6 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--FP-A-Tech---Ops_R266687-1": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
   "https://www.s1jobs.com/job/financial-controller-127733037": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -4993,15 +4988,15 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
+  "https://www.linkedin.com/jobs/view/leveraged-finance-credit-risk-2lod-at-michael-page-4491565380": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
+  },
   "https://www.reed.co.uk/jobs/leveraged-finance-credit-risk-2lod/57582934": {
    "id": "credit",
    "cv": "Credit CV",
    "score": 15
-  },
-  "https://www.reed.co.uk/jobs/financial-accountant/57571430": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
   },
   "https://www.reed.co.uk/jobs/management-accountant/57583084": {
    "id": "finance",

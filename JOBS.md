@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 14:02** (UK time) · **952 open roles** at 529 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 14:10** (UK time) · **951 open roles** at 529 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,32 +10,32 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 13:57** · hourly scan · checked 201 boards · **4 new roles**
+**Tue 17 Nov, 14:06** · hourly scan · checked 201 boards · **4 new roles**
 
-### Finance (FP&A) CV: 3
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hb-partners-limited-4491571239) | HB Partners Limited | Portsmouth, England, United Kingdom | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57583084) | Platinum Recruitment Group | Salford, Lancashire | ❔ |
-| 2026-11-16 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57571430) | Sheridan Maine | Poole, Dorset | ❔ |
 
-### Credit CV: 1
+### Credit CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-17 | [Leveraged Finance Credit Risk (2LoD)](https://www.linkedin.com/jobs/view/leveraged-finance-credit-risk-2lod-at-michael-page-4491565380) | Michael Page | City Of London, England, United Kingdom | ✅ |
 | — | [Leveraged Finance Credit Risk (2LoD)](https://www.reed.co.uk/jobs/leveraged-finance-credit-risk-2lod/57582934) | Michael Page Banking | London | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (216 matching)
+**Finance (FP&A) CV** (215 matching)
 
 1. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
 2. [Commercial Finance Analyst](https://www.adzuna.co.uk/jobs/details/5968001043) · Avove · UK · posted 2026-11-16 · ✅
 
-**Credit CV** (88 matching)
+**Credit CV** (89 matching)
 
 1. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-4489791899) · CFP Energy · London Area, United Kingdom · posted 2026-11-16 · ✅
@@ -45,7 +45,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Research Analyst - Financial Services & M&A](https://www.linkedin.com/jobs/view/research-analyst-financial-services-m-a-at-dyer-baade-company-4491298802) · Dyer Baade & Company · London Area, United Kingdom · posted 2026-11-16 · ✅
 
-**Investment (IB / PE) CV** (69 matching)
+**Investment (IB / PE) CV** (70 matching)
 
 1. [Investment Banking Associate (FIG M&A) Advisory](https://www.linkedin.com/jobs/view/investment-banking-associate-fig-m-a-advisory-at-dartmouth-partners-4490916163) · Dartmouth Partners · Greater London, England, United Kingdom · posted 2026-11-16 · ✅
 2. [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) · eFinancialCareers · London · ✅
@@ -72,21 +72,23 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Tuesday 17 November
 
 <details>
-<summary><b>13:57</b> · hourly scan · <b>4 new</b> → Finance 3 · Credit 1</summary>
+<summary><b>14:06</b> · hourly scan · <b>4 new</b> → Finance 2 · Credit 2</summary>
 
-#### Finance (FP&A) CV: 3
+#### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hb-partners-limited-4491571239) | HB Partners Limited | Portsmouth, England, United Kingdom | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57583084) | Platinum Recruitment Group | Salford, Lancashire | ❔ |
-| 2026-11-16 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57571430) | Sheridan Maine | Poole, Dorset | ❔ |
 
-#### Credit CV: 1
+#### Credit CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-17 | [Leveraged Finance Credit Risk (2LoD)](https://www.linkedin.com/jobs/view/leveraged-finance-credit-risk-2lod-at-michael-page-4491565380) | Michael Page | City Of London, England, United Kingdom | ✅ |
 | — | [Leveraged Finance Credit Risk (2LoD)](https://www.reed.co.uk/jobs/leveraged-finance-credit-risk-2lod/57582934) | Michael Page Banking | London | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2222,14 +2224,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>17:07</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+<summary><b>17:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
 
-#### Finance (FP&A) CV: 2
+#### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-11 | [Associate, FP&A Tech & Ops](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--FP-A-Tech---Ops_R266687-1) | BlackRock | Edinburgh, Scotland | ✅ |
 | 2026-11-11 | [Financial Controller](https://www.s1jobs.com/job/financial-controller-127733037) | Oliver Smith Recruitment | Glasgow Area, Scotland | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2644,34 +2647,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>14:07</b> · hourly scan · <b>8 new</b> → Finance 7 · Credit 1</summary>
-
-#### Finance (FP&A) CV: 7
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-10 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-william-grant-sons-4480239637) | William Grant & Sons | Richmond Upon Thames, England, United Kingdom | ✅ |
-| 2026-11-09 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-vistry-group-4487170827) | Vistry Group | Redhill, England, United Kingdom | ❔ |
-| 2026-11-09 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-resourcery-group-4488895526) | Resourcery Group | Wrexham, Wales, United Kingdom | ❔ |
-| 2026-11-10 | [Assistant Accountant](https://www.s1jobs.com/job/assistant-accountant-127727625) | Royal College Of Physicians & Surgeons Of Glasgow | Glasgow Area, Scotland | ❔ |
-| 2026-11-10 | [Qualified Accountant](https://www.s1jobs.com/job/qualified-accountant-127727626) | SPRINGFIELD PROPERTIES PLC | Moray, Scotland | ✅ |
-| — | [Treasury analyst](https://www.reed.co.uk/jobs/treasury-analyst/57553478) | Distinct Recruitment | Leeds, West Yorkshire | ❔ |
-| 2026-11-10 | [Qualified Accountant](https://www.s1jobs.com/job/qualified-accountant-127727627) | Lochead Sandford Recruitment | Glasgow Area, Scotland | ❔ |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-09 | [Controller, Acumen Ventures Debt Partners Limited](https://www.linkedin.com/jobs/view/controller-acumen-ventures-debt-partners-limited-at-acumen-4487975520) | Acumen | London, England, United Kingdom | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (516)](#finance-fpa-cv-516) · [Credit (122)](#credit-cv-122) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (16)](#consulting-cv-16) · [Real Estate (16)](#real-estate-cv-16) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (111)](#other-fits-no-cv-closely-may-still-be-worth-a-look-111)
+Everything matched so far, newest first within each CV: [Finance (514)](#finance-fpa-cv-514) · [Credit (123)](#credit-cv-123) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (16)](#consulting-cv-16) · [Real Estate (16)](#real-estate-cv-16) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (111)](#other-fits-no-cv-closely-may-still-be-worth-a-look-111)
 
-### Finance (FP&A) CV: 516
+### Finance (FP&A) CV: 514
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2914,7 +2894,6 @@ Everything matched so far, newest first within each CV: [Finance (516)](#finance
 | 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-randstad-4488218702) | Randstad | London Area, United Kingdom | ✅ |
 | 2026-11-11 | [Associate, Financial Planning & Analysis - Private Markets](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--Financial-Planning---Analysis---Private-Markets_R267090) | BlackRock | Edinburgh, Scotland | ✅ |
 | 2026-11-11 | [Performance & Reporting Finance Analyst (Commerical)](https://www.linkedin.com/jobs/view/performance-reporting-finance-analyst-commerical-at-valeo-foods-uk-4480768684) | Valeo Foods UK | Leeds, England, United Kingdom | ❔ |
-| 2026-11-11 | [Associate, FP&A Tech & Ops](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--FP-A-Tech---Ops_R266687-1) | BlackRock | Edinburgh, Scotland | ✅ |
 | 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-px-group-4488238248) | px Group | Stockton-On-Tees, England, United Kingdom | ✅ |
 | 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-kier-group-4462967894) | Kier Group | Glasgow, Scotland, United Kingdom | ✅ |
 | 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-laing-o-rourke-4463299560) | Laing O'Rourke | Dartford, England, United Kingdom | ✅ |
@@ -3192,11 +3171,12 @@ Everything matched so far, newest first within each CV: [Finance (516)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 122
+### Credit CV: 123
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-17 | [Leveraged Finance Credit Analyst](https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-carr-lyons-search-selection-4490428536) | Carr Lyons Search & Selection | London Area, United Kingdom | ❔ |
+| 2026-11-17 | [Leveraged Finance Credit Risk (2LoD)](https://www.linkedin.com/jobs/view/leveraged-finance-credit-risk-2lod-at-michael-page-4491565380) | Michael Page | City Of London, England, United Kingdom | ✅ |
 | 2026-11-17 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-summit-energy-europe-4490409871) | Summit Energy Europe | London Area, United Kingdom | ❔ |
 | — | [Leveraged Finance Credit Risk (2LoD)](https://www.reed.co.uk/jobs/leveraged-finance-credit-risk-2lod/57582934) | Michael Page Banking | London | ❔ |
 | 2026-11-17 | [Quantitative Risk Analyst](https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-aaa-global-4491110614) | AAA Global | London Area, United Kingdom | ❔ |
@@ -3666,12 +3646,13 @@ Everything matched so far, newest first within each CV: [Finance (516)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>75 roles taken off the list because the firm closed the posting</summary>
+<summary>76 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Tue 17 Nov, 13:59 | Finance Analyst - Business Partnering | Walker Dendle Financial Recruitment |
-| Tue 17 Nov, 13:59 | Management Accountant | Veracious Talent Partners |
+| Tue 17 Nov, 14:08 | Associate, FP&A Tech & Ops | BlackRock |
+| Tue 17 Nov, 14:08 | Finance Analyst - Business Partnering | Walker Dendle Financial Recruitment |
+| Tue 17 Nov, 14:07 | Management Accountant | Veracious Talent Partners |
 | Tue 17 Nov, 13:31 | Financial Analyst - Retail/Wholesale | New Avenues |
 | Tue 17 Nov, 13:31 | Graduate Finance Accountant - Investment Startup | Carousel Consultancy Ltd |
 | Tue 17 Nov, 13:31 | FP&A Analyst | Hometree |
