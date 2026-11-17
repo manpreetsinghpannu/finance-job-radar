@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 22:07** (UK time) · **992 open roles** at 557 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 22:29** (UK time) · **992 open roles** at 557 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 22:04** · hourly scan · checked 201 boards · **1 new role**
+**Tue 17 Nov, 22:26** · hourly scan · checked 201 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Analyst, Portfolio Valuation - Goodman Masson](https://www.reed.co.uk/jobs/analyst-portfolio-valuation-goodman-masson/57585022) | eFinancialCareers | London | ✅ |
+Nothing new this time. The last scan that found something was **Tue 17 Nov, 22:04** (1: Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<sub>Nothing new at: 22:26</sub>
 
 <details>
 <summary><b>22:04</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
