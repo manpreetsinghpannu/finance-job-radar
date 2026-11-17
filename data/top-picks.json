@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T21:09:03.810Z",
+ "generated_at": "2026-11-17T22:07:27.479Z",
  "order": [
   "finance",
   "credit",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 70,
+   "matching": 71,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 27,
+   "matching": 28,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -5202,6 +5202,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 19
+  },
+  "https://www.reed.co.uk/jobs/analyst-portfolio-valuation-goodman-masson/57585022": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
   }
  }
 }
