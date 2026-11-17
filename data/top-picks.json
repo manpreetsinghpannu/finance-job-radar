@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T00:08:06.142Z",
+ "generated_at": "2026-11-17T01:07:37.388Z",
  "order": [
   "finance",
   "credit",
@@ -2312,11 +2312,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 20
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-anderson-knight-4489458447": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
   },
   "https://www.reed.co.uk/jobs/treasury-analyst/57552700": {
    "id": "finance",
