@@ -2137,6 +2137,11 @@
    "register_name": "Mears Group PLC",
    "match": "exact"
   },
+  "MediaKind": {
+   "licensed": true,
+   "register_name": "MediaKind Systems UK Limited",
+   "match": "prefix"
+  },
   "Melior Capital": {
    "licensed": false,
    "register_name": null,
@@ -2523,6 +2528,11 @@
    "match": "none"
   },
   "PARALLEL RECRUITMENT LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "PGS LTD": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3481,6 +3491,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Univers": {
+   "licensed": true,
+   "register_name": "Univers U.K. LTD",
+   "match": "exact"
   },
   "Universal Music UK": {
    "licensed": true,

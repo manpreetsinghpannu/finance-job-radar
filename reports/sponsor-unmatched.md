@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 755 firms checked, 426 matched, 329 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 758 firms checked, 428 matched, 330 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (329)
+## Not found (330)
 
 - 7IM
 - 93 MGMT
@@ -233,6 +233,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Orla Rose Associates
 - PA Consulting
 - PARALLEL RECRUITMENT LTD
+- PGS LTD
 - PRATAP PARTNERSHIP LTD
 - Paddle (alias not on current register (paddle com market limited))
 - Pave Bank
@@ -336,7 +337,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (45)
+## Matched automatically by close name; worth a glance (46)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
@@ -361,6 +362,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Kroo → Kroo Bank Ltd (prefix)
 - Ledger → Ledger Technologies UK LTD (prefix)
 - Lightfoot → Lightfoot Advisors (prefix)
+- MediaKind → MediaKind Systems UK Limited (prefix)
 - Michael Page → Michael Page International Recruitment Ltd (prefix)
 - Network Rail → Network Rail Infrastructure (prefix)
 - Nium → Nium Fintech Ltd (prefix)

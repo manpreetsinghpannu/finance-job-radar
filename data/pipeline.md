@@ -1331,5 +1331,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://visa.wd5.myworkdayjobs.com/visa/job/GB---London-United-Kingdom/Consultant--Client-Success--Credit-Specialist-_REF090076W | Visa | Consultant, Client Success (Credit Specialist) | GB - London, United Kingdom | posted: 2026-11-17
 - [ ] https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-aaa-global-4491110614 | AAA Global | Quantitative Risk Analyst | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-europe-at-univers-4490195978 | Univers | FP&A Analyst, Europe | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-revenue-cogs-at-mediakind-4479984422 | MediaKind | FP&A Analyst (Revenue & COGS) | United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/junior-investment-associate/57581186 | PGS LTD | Junior Investment Associate | London | note: via Reed
 
 ## Processed
