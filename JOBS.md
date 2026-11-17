@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 13:32** (UK time) · **950 open roles** at 529 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 14:02** (UK time) · **952 open roles** at 529 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,21 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 13:28** · hourly scan · checked 201 boards · **1 new role**
+**Tue 17 Nov, 13:57** · hourly scan · checked 201 boards · **4 new roles**
 
-### Finance (FP&A) CV: 1
+### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| — | [Interim Financial Accountant](https://www.reed.co.uk/jobs/interim-financial-accountant/57582939) | Gleeson Recruitment Group | Leicester, Leicestershire | ❔ |
+| 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hb-partners-limited-4491571239) | HB Partners Limited | Portsmouth, England, United Kingdom | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57583084) | Platinum Recruitment Group | Salford, Lancashire | ❔ |
+| 2026-11-16 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57571430) | Sheridan Maine | Poole, Dorset | ❔ |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Leveraged Finance Credit Risk (2LoD)](https://www.reed.co.uk/jobs/leveraged-finance-credit-risk-2lod/57582934) | Michael Page Banking | London | ❔ |
 
 ## Top picks for each CV
 
@@ -62,6 +70,25 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<details>
+<summary><b>13:57</b> · hourly scan · <b>4 new</b> → Finance 3 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hb-partners-limited-4491571239) | HB Partners Limited | Portsmouth, England, United Kingdom | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57583084) | Platinum Recruitment Group | Salford, Lancashire | ❔ |
+| 2026-11-16 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57571430) | Sheridan Maine | Poole, Dorset | ❔ |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Leveraged Finance Credit Risk (2LoD)](https://www.reed.co.uk/jobs/leveraged-finance-credit-risk-2lod/57582934) | Michael Page Banking | London | ❔ |
+
+</details>
 
 <details>
 <summary><b>13:28</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2642,9 +2669,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (515)](#finance-fpa-cv-515) · [Credit (121)](#credit-cv-121) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (16)](#consulting-cv-16) · [Real Estate (16)](#real-estate-cv-16) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (111)](#other-fits-no-cv-closely-may-still-be-worth-a-look-111)
+Everything matched so far, newest first within each CV: [Finance (516)](#finance-fpa-cv-516) · [Credit (122)](#credit-cv-122) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (16)](#consulting-cv-16) · [Real Estate (16)](#real-estate-cv-16) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (111)](#other-fits-no-cv-closely-may-still-be-worth-a-look-111)
 
-### Finance (FP&A) CV: 515
+### Finance (FP&A) CV: 516
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2652,6 +2679,7 @@ Everything matched so far, newest first within each CV: [Finance (515)](#finance
 | 2026-11-17 | [FP&A Analyst (Revenue & COGS)](https://www.linkedin.com/jobs/view/fp-a-analyst-revenue-cogs-at-mediakind-4479984422) | MediaKind | United Kingdom | ✅ |
 | 2026-11-17 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-finatal-4490454182) | Finatal | London Area, United Kingdom | ❔ |
 | 2026-11-17 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-quantum-4490437236) | Quantum | London, England, United Kingdom | ✅ |
+| 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hb-partners-limited-4491571239) | HB Partners Limited | Portsmouth, England, United Kingdom | ❔ |
 | 2026-11-17 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-galliford-try-4483635189) | Galliford Try | Coventry, England, United Kingdom | ✅ |
 | 2026-11-17 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-united-infrastructure-ltd-4490439656) | United Infrastructure Ltd | Rochdale, England, United Kingdom | ✅ |
 | — | [Financial Analyst](https://www.reed.co.uk/jobs/financial-analyst/57582463) | Keeler Recruitment | Norwich, Norfolk | ❔ |
@@ -2659,6 +2687,7 @@ Everything matched so far, newest first within each CV: [Finance (515)](#finance
 | 2026-11-17 | [Investment Accountant - NGED](https://www.linkedin.com/jobs/view/investment-accountant-nged-at-national-grid-4490457206) | National Grid | Warwick, England, United Kingdom | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57581424) | Trial Balance Consulting | Plymouth, Devon | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57581779) | AD Finance | Birmingham, West Midlands (County) | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57583084) | Platinum Recruitment Group | Salford, Lancashire | ❔ |
 | — | [Financial Controller](https://www.reed.co.uk/jobs/financial-controller/57581792) | SENSIBAL RECRUITMENT LTD | London | ❔ |
 | — | [Interim Financial Accountant](https://www.reed.co.uk/jobs/interim-financial-accountant/57582939) | Gleeson Recruitment Group | Leicester, Leicestershire | ❔ |
 | 2026-11-16 | [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) | Element Materials Technology | Edinburgh, Scotland, United Kingdom | ✅ |
@@ -2728,6 +2757,7 @@ Everything matched so far, newest first within each CV: [Finance (515)](#finance
 | 2026-11-16 | [Commercial Accountant (Belfast)](https://www.adzuna.co.uk/jobs/land/ad/5967807193) | VANRATH | Belfast, Northern Ireland | ❔ |
 | 2026-11-16 | [Group Financial Controller](https://www.adzuna.co.uk/jobs/details/5967514325) | Macklin Care Homes Ltd | UK | ❔ |
 | 2026-11-16 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57572548) | No1 Legal and Professional | Reading, Berkshire | ❔ |
+| 2026-11-16 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57571430) | Sheridan Maine | Poole, Dorset | ❔ |
 | — | [Accountant](https://www.reed.co.uk/jobs/accountant/57570816) | Warner Recruitment Limited | Northampton, Northamptonshire | ❔ |
 | 2026-11-15 | [Junior Financial Analyst](https://www.adzuna.co.uk/jobs/details/5966719393) | The Citco Group | London, UK | ✅ |
 | 2026-11-15 | [Junior Management Accountant (12 month FTC)](https://www.adzuna.co.uk/jobs/details/5966717153) | Octopus Energy Group | London, UK | ✅ |
@@ -2976,7 +3006,6 @@ Everything matched so far, newest first within each CV: [Finance (515)](#finance
 | — | [Finance Analyst (Pensions)](https://www.reed.co.uk/jobs/finance-analyst-pensions/57544583) | Hays Specialist Recruitment Limited | Wembley, London, London | ❔ |
 | 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-lorien-4488881487) | Lorien | London Area, United Kingdom | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57540744) | We Do Group | London | ✅ |
-| 2026-11-09 | [Finance Analyst - Business Partnering](https://www.linkedin.com/jobs/view/finance-analyst-business-partnering-at-walker-dendle-financial-recruitment-4485686834) | Walker Dendle Financial Recruitment | Surrey, England, United Kingdom | ❔ |
 | — | [Assistant Management Accountant](https://www.reed.co.uk/jobs/assistant-management-accountant/57543913) | Agility | Leeds, West Yorkshire | ❔ |
 | 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-apl-media-limited-4488848667) | APL Media Limited | London Area, United Kingdom | ✅ |
 | 2026-11-09 | [Management Accountant - Record to Report (R2R)](https://www.linkedin.com/jobs/view/management-accountant-record-to-report-r2r-at-the-noble-restaurant-group-4482524534) | The Noble Restaurant Group | London Area, United Kingdom | ✅ |
@@ -3005,7 +3034,6 @@ Everything matched so far, newest first within each CV: [Finance (515)](#finance
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57544446) | Executive Talent Solutions | Milton Keynes, Buckinghamshire | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57544744) | No1 Legal and Professional | Sidcup, Kent | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57545043) | Veracious Talent Partners Ltd | Peterborough, Cambridgeshire | ❔ |
-| 2026-11-09 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-veracious-talent-partners-4488865220) | Veracious Talent Partners | Peterborough, England, United Kingdom | ❔ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57545718) | PRATAP PARTNERSHIP LTD | Sheffield, South Yorkshire | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57545863) | Yolk Recruitment Ltd | Cardiff, South Glamorgan | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57546386) | ASC Connections Ltd | Leeds, West Yorkshire | ❔ |
@@ -3164,12 +3192,13 @@ Everything matched so far, newest first within each CV: [Finance (515)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 121
+### Credit CV: 122
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-17 | [Leveraged Finance Credit Analyst](https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-carr-lyons-search-selection-4490428536) | Carr Lyons Search & Selection | London Area, United Kingdom | ❔ |
 | 2026-11-17 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-summit-energy-europe-4490409871) | Summit Energy Europe | London Area, United Kingdom | ❔ |
+| — | [Leveraged Finance Credit Risk (2LoD)](https://www.reed.co.uk/jobs/leveraged-finance-credit-risk-2lod/57582934) | Michael Page Banking | London | ❔ |
 | 2026-11-17 | [Quantitative Risk Analyst](https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-aaa-global-4491110614) | AAA Global | London Area, United Kingdom | ❔ |
 | 2026-11-17 | [Consultant, Client Success (Credit Specialist)](https://visa.wd5.myworkdayjobs.com/visa/job/GB---London-United-Kingdom/Consultant--Client-Success--Credit-Specialist-_REF090076W) | Visa | GB - London, United Kingdom | ✅ |
 | — | [Investment Associate, Debt / Emerging Markets - French speaking](https://www.reed.co.uk/jobs/investment-associate-debt-emerging-markets-french-speaking/57582704) | Michael Page Banking | London | ❔ |
@@ -3637,10 +3666,12 @@ Everything matched so far, newest first within each CV: [Finance (515)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>73 roles taken off the list because the firm closed the posting</summary>
+<summary>75 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 17 Nov, 13:59 | Finance Analyst - Business Partnering | Walker Dendle Financial Recruitment |
+| Tue 17 Nov, 13:59 | Management Accountant | Veracious Talent Partners |
 | Tue 17 Nov, 13:31 | Financial Analyst - Retail/Wholesale | New Avenues |
 | Tue 17 Nov, 13:31 | Graduate Finance Accountant - Investment Startup | Carousel Consultancy Ltd |
 | Tue 17 Nov, 13:31 | FP&A Analyst | Hometree |

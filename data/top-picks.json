@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T13:32:22.890Z",
+ "generated_at": "2026-11-17T14:02:21.347Z",
  "order": [
   "finance",
   "credit",
@@ -1808,11 +1808,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 28
   },
-  "https://www.linkedin.com/jobs/view/finance-analyst-business-partnering-at-walker-dendle-financial-recruitment-4485686834": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.linkedin.com/jobs/view/credit-underwriter-leveraged-finance-at-bank-of-america-4436367629": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -1997,11 +1992,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-veracious-talent-partners-4488865220": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
   },
   "https://www.linkedin.com/jobs/view/management-accountant-record-to-report-r2r-at-the-noble-restaurant-group-4482524534": {
    "id": "finance",
@@ -4997,6 +4987,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-hb-partners-limited-4491571239": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/leveraged-finance-credit-risk-2lod/57582934": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/financial-accountant/57571430": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57583084": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }

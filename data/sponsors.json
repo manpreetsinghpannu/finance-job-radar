@@ -1382,6 +1382,11 @@
    "register_name": "Hays PLC",
    "match": "exact"
   },
+  "HB Partners Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "HSBC Innovation Banking": {
    "licensed": false,
    "register_name": null,
@@ -2706,6 +2711,11 @@
    "licensed": true,
    "register_name": "Pilgrims Group Ltd",
    "match": "exact"
+  },
+  "Platinum Recruitment Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Pleo": {
    "licensed": true,
