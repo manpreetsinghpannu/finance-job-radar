@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 07:08** (UK time) · **928 open roles** at 515 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 08:09** (UK time) · **928 open roles** at 515 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 07:05** · hourly scan · checked 201 boards · **1 new role**
+**Tue 17 Nov, 08:04** · hourly scan · checked 201 boards · **0 new roles**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [Quantitative Risk Analyst](https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-aaa-global-4491110614) | AAA Global | London Area, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Tue 17 Nov, 07:05** (1: Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<sub>Nothing new at: 08:04</sub>
 
 <details>
 <summary><b>07:05</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -2602,17 +2600,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-10 | [Finance Business Partner](https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77687) | Next | Leicester, Leicestershire, United Kingdom | ✅ |
-
-</details>
-
-<details>
-<summary><b>08:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Accountant](https://www.reed.co.uk/jobs/accountant/57551619) | Zachary Daniels | Oxford, Oxfordshire | ❔ |
 
 </details>
 
