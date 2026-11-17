@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T20:09:34.307Z",
+ "generated_at": "2026-11-17T21:09:03.810Z",
  "order": [
   "finance",
   "credit",
@@ -5197,6 +5197,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-emea-strategic-investors-group-sig-analyst-associate-london-at-jpmorganchase-4490194192": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
   }
  }
 }

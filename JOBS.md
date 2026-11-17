@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 17 Nov, 20:09** (UK time) · **990 open roles** at 557 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 17 Nov, 21:09** (UK time) · **991 open roles** at 557 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 17 Nov, 20:05** · hourly scan · checked 201 boards · **0 new roles**
+**Tue 17 Nov, 21:04** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Tue 17 Nov, 19:05** (2: Investment 2); open it in the scan log below.
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-17 | [Investment Banking - EMEA Strategic Investors Group (SIG) - Analyst / Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-strategic-investors-group-sig-analyst-associate-london-at-jpmorganchase-4490194192) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<details>
+<summary><b>21:04</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-17 | [Investment Banking - EMEA Strategic Investors Group (SIG) - Analyst / Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-strategic-investors-group-sig-analyst-associate-london-at-jpmorganchase-4490194192) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 20:05</sub>
 
@@ -2621,11 +2636,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 22:07, 21:07</sub>
+<sub>Nothing new at: 22:07</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (539)](#finance-fpa-cv-539) · [Credit (129)](#credit-cv-129) · [Equity (51)](#equity-cv-51) · [Investment (97)](#investment-ib--pe-cv-97) · [Consulting (16)](#consulting-cv-16) · [Real Estate (17)](#real-estate-cv-17) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (114)](#other-fits-no-cv-closely-may-still-be-worth-a-look-114)
+Everything matched so far, newest first within each CV: [Finance (539)](#finance-fpa-cv-539) · [Credit (129)](#credit-cv-129) · [Equity (51)](#equity-cv-51) · [Investment (98)](#investment-ib--pe-cv-98) · [Consulting (16)](#consulting-cv-16) · [Real Estate (17)](#real-estate-cv-17) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (114)](#other-fits-no-cv-closely-may-still-be-worth-a-look-114)
 
 ### Finance (FP&A) CV: 539
 
@@ -3361,11 +3376,12 @@ Everything matched so far, newest first within each CV: [Finance (539)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 97
+### Investment (IB / PE) CV: 98
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-17 | [M&A Analyst - FIG](https://www.linkedin.com/jobs/view/m-a-analyst-fig-at-alan-mitchell-4480787999) | Alan Mitchell | London Area, United Kingdom | ❔ |
+| 2026-11-17 | [Investment Banking - EMEA Strategic Investors Group (SIG) - Analyst / Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-strategic-investors-group-sig-analyst-associate-london-at-jpmorganchase-4490194192) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-17 | [Financial Accountant (Private Equity & Alternative Investments)](https://www.linkedin.com/jobs/view/financial-accountant-private-equity-alternative-investments-at-hireforce-4490471172) | HireForce | London Area, United Kingdom | ❔ |
 | 2026-11-17 | [Mergers and Acquisitions Associate](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-kos-international-talent-group-4491180232) | KOS International Talent Group | United Kingdom | ❔ |
 | 2026-11-17 | [Fund Accountant, Private Equity](https://www.linkedin.com/jobs/view/fund-accountant-private-equity-at-gen-ii-fund-services-4491591911) | Gen II Fund Services | Southampton, England, United Kingdom | ❔ |
