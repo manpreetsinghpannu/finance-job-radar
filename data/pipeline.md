@@ -1320,5 +1320,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-maceo-search-limited-4490143167 | Maceo Search Limited | Management Accountant | London Area, United Kingdom | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/futures-macro-quant-researcher-london-base-bonus/57575816 | eFinancialCareers | Futures Macro Quant Researcher/ London / Base Bonus | London | note: via Reed
 - [ ] https://scotjobsnet.co.uk/job/associate-accountant-healthcare-edinburgh-uk-2/ | via ScotJobsNet | Associate Accountant – Healthcare – Edinburgh, UK | Midlothian, Scotland | posted: 2026-11-16 | note: via ScotJobsNet
+- [ ] https://www.reed.co.uk/jobs/risk-analyst-insurance-g-mass-consulting/57575720 | eFinancialCareers | Risk Analyst - Insurance - G MASS Consulting | London | posted: 2026-11-16 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/group-management-accountant/57579996 | Hays Specialist Recruitment Limited | Group Management Accountant | London | posted: 2026-11-16 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/interim-management-accountant/57576001 | Robert Walters | Interim Management Accountant | Manchester, Lancashire | posted: 2026-11-16 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/analyst-associate-private-credit-french-speaker-efinancialcareers/57574595 | eFinancialCareers | Analyst / Associate - Private Credit - French speaker - eFinancialCareers | London | posted: 2026-11-16 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-analyst-educate2trade-ltd/57574460 | eFinancialCareers | Financial Analyst - Educate2trade Ltd | London | posted: 2026-11-16 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/discretionary-trader/57573877 | eFinancialCareers | Discretionary Trader | London | posted: 2026-11-16 | note: via Reed
 
 ## Processed
