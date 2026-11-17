@@ -1364,5 +1364,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/fp-a-analyst--property/57583097 | Hays Specialist Recruitment Limited | FP&A Analyst | Property | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/leveraged-finance-credit-risk-2lod/57582934 | Michael Page Banking | Leveraged Finance Credit Risk (2LoD) | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57583084 | Platinum Recruitment Group | Management Accountant | Salford, Lancashire | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/junior-finance-transformation-analyst-cigna-healthcare-2/ | via ScotJobsNet | Junior Finance Transformation Analyst – Cigna Healthcare | Glasgow, Scotland | posted: 2026-11-17 | note: via ScotJobsNet
 
 ## Processed

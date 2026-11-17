@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T14:10:51.152Z",
+ "generated_at": "2026-11-17T15:08:41.666Z",
  "order": [
   "finance",
   "credit",
@@ -3928,30 +3928,10 @@
    "cv": "Finance (FP&A) CV",
    "score": 21
   },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-european-media-global-bank-at-greenwich-partners-4491250168": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 29
-  },
   "https://www.linkedin.com/jobs/view/commodities-market-risk-analyst-lng-power-emissions-at-morgan-mckinley-4490218918": {
    "id": "credit",
    "cv": "Credit CV",
    "score": 20
-  },
-  "https://www.linkedin.com/jobs/view/investment-analyst-global-private-equity-secondaries-fund-at-greenwich-partners-4491249186": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 19
-  },
-  "https://www.linkedin.com/jobs/view/equity-research-associate-technology-coverage-global-investment-bank-central-london-at-greenwich-partners-4491237792": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 20
-  },
-  "https://www.linkedin.com/jobs/view/m-a-corporate-development-associate-oil-and-gas-global-firm-at-greenwich-partners-4491244463": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/investment-associate-at-7im-4489887655": {
    "id": "investment",
@@ -5002,6 +4982,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://scotjobsnet.co.uk/job/junior-finance-transformation-analyst-cigna-healthcare-2/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }
