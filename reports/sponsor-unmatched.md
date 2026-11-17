@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 766 firms checked, 430 matched, 336 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 771 firms checked, 433 matched, 338 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (336)
+## Not found (338)
 
 - 7IM
 - 93 MGMT
@@ -207,6 +207,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Meraki Talent Limited
 - Mercor
 - Metis Search
+- Michael Page Banking
 - Michael Page Finance
 - Milton Keynes City Council
 - Mint Velvet
@@ -236,6 +237,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Orla Rose Associates
 - PA Consulting
 - PARALLEL RECRUITMENT LTD
+- PER
 - PGS LTD
 - PRATAP PARTNERSHIP LTD
 - Paddle (alias not on current register (paddle com market limited))
@@ -343,7 +345,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (47)
+## Matched automatically by close name; worth a glance (48)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
@@ -391,4 +393,5 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - SumUp → SumUp Payments Limited (prefix)
 - TALA → Tala Energy Ltd (prefix)
 - The Dune Group → Dune Advisors Limited (prefix)
+- United Infrastructure Ltd → United Infrastructure Management Limited (prefix)
 - We Do Group → WE DO CARE (LONDON) LTD (prefix)

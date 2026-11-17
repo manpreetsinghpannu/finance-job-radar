@@ -1282,6 +1282,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Galliford Try": {
+   "licensed": true,
+   "register_name": "Galliford Try Plc",
+   "match": "exact"
+  },
   "Gemini": {
    "licensed": false,
    "register_name": null,
@@ -2207,6 +2212,11 @@
    "register_name": "Michael Page International Recruitment Ltd",
    "match": "prefix"
   },
+  "Michael Page Banking": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Michael Page Finance": {
    "licensed": false,
    "register_name": null,
@@ -2256,6 +2266,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Momentum": {
+   "licensed": true,
+   "register_name": "MOMENTUM AI LIMITED",
+   "match": "exact"
   },
   "Mondrian Alpha": {
    "licensed": true,
@@ -2548,6 +2563,11 @@
    "match": "none"
   },
   "PARALLEL RECRUITMENT LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "PER": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3526,6 +3546,11 @@
    "licensed": true,
    "register_name": "Unilever UK Limited",
    "match": "alias"
+  },
+  "United Infrastructure Ltd": {
+   "licensed": true,
+   "register_name": "United Infrastructure Management Limited",
+   "match": "prefix"
   },
   "Univar Solutions": {
    "licensed": false,

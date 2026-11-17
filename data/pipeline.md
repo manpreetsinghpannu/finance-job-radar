@@ -1350,5 +1350,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-finatal-4490454182 | Finatal | Financial Planning Analyst | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-research-associate-long-short-hedge-fund-london-at-greenwich-partners-4490422952 | Greenwich Partners | Equity Research Associate, Long Short Hedge Fund, London | Greater London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-analyst/57582463 | Keeler Recruitment | Financial Analyst | Norwich, Norfolk | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-growth-equity-at-acl-partners-4491160558 | ACL Partners | Investment Analyst | Growth Equity | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-operations-analyst-multi-asset-funds-investor-london-uk-at-per-4483622299 | PER | Investment Operations Analyst, Multi Asset Funds Investor, London, UK | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-analyst-mmh261117-4-at-momentum-4491142796 | Momentum | Portfolio Analyst MMH261117-4 | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-accountant-nged-at-national-grid-4490457206 | National Grid | Investment Accountant - NGED | Warwick, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-analyst-at-momentum-4491158684 | Momentum | Portfolio Analyst | London, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-galliford-try-4483635189 | Galliford Try | Management Accountant | Coventry, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-united-infrastructure-ltd-4490439656 | United Infrastructure Ltd | Management Accountant | Rochdale, England, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/investment-associate-debt-emerging-markets-french-speaking/57582704 | Michael Page Banking | Investment Associate, Debt / Emerging Markets - French speaking | London | note: via Reed
 
 ## Processed
