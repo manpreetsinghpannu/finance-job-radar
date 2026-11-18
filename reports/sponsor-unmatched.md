@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 824 firms checked, 442 matched, 382 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 830 firms checked, 446 matched, 384 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (382)
+## Not found (384)
 
 - 7IM
 - 93 MGMT
@@ -49,6 +49,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Axon Moore
 - Axon Moore Group Ltd
 - B&Q
+- BAT
 - Belmont Search Ltd
 - Better Placed
 - Bield Housing Association
@@ -352,6 +353,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TransUnion
 - Trial Balance Consulting
 - Trident International Associates
+- UBS
 - UCEA - Family Office Group
 - Undisclosed
 - Univar Solutions
@@ -389,7 +391,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (48)
+## Matched automatically by close name; worth a glance (49)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
@@ -431,6 +433,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Quantum → Quantum Services Management Ltd (prefix)
 - Radius → Radius Systems Limited (prefix)
 - Rider Levett Bucknall RLB → Rider Levett Bucknall UK Limited (similar (0.92))
+- SEI → SEI Investments (Europe) Ltd (prefix)
 - SMBC → SMBC Bank International plc (prefix)
 - Silverfin → Silverfin Software Ltd (prefix)
 - Standard Chartered → Standard Chartered Bank (prefix)

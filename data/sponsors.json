@@ -312,6 +312,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Arrow Global Group": {
+   "licensed": true,
+   "register_name": "Arrow Global Limited",
+   "match": "exact"
+  },
   "Artemis": {
    "licensed": true,
    "register_name": "Artemis Investment Management LLP",
@@ -416,6 +421,11 @@
    "licensed": true,
    "register_name": "BAE Systems Plc",
    "match": "alias"
+  },
+  "BAT": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "BBVA": {
    "licensed": true,
@@ -3152,6 +3162,11 @@
    "register_name": "SEFE Marketing & Trading Limited",
    "match": "exact"
   },
+  "SEI": {
+   "licensed": true,
+   "register_name": "SEI Investments (Europe) Ltd",
+   "match": "prefix"
+  },
   "SENSIBAL RECRUITMENT LTD": {
    "licensed": false,
    "register_name": null,
@@ -3356,6 +3371,11 @@
    "licensed": true,
    "register_name": "Smarkets Limited",
    "match": "alias"
+  },
+  "SmartestEnergy UK": {
+   "licensed": true,
+   "register_name": "SmartestEnergy Limited",
+   "match": "exact"
   },
   "Societe Generale": {
    "licensed": true,
@@ -3632,6 +3652,11 @@
    "register_name": "The Consultancy Group",
    "match": "exact"
   },
+  "The Curve Group": {
+   "licensed": true,
+   "register_name": "Curve UK Limited",
+   "match": "exact"
+  },
   "The Dune Group": {
    "licensed": true,
    "register_name": "Dune Advisors Limited",
@@ -3756,6 +3781,11 @@
    "licensed": true,
    "register_name": "Turner & Townsend Ltd",
    "match": "exact"
+  },
+  "UBS": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "UCEA - Family Office Group": {
    "licensed": false,

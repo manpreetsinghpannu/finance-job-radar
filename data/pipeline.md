@@ -1469,4 +1469,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Alternatives-Fund-Accounting--Associate_R267202 | BlackRock | Alternatives Fund Accounting, Associate | Edinburgh, Scotland | posted: 2026-11-18
 
+- [ ] https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544 | Rothschild & Co | Equity Research Analyst (Graduate or 1 years' experience buy/sell side) | London | posted: 2026-11-18
+- [ ] https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21358 | Phoenix Group | Accountant | Birmingham, England, United Kingdom · Hybrid | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-4355-at-wade-macdonald-4491306252 | Wade Macdonald | FP&A Analyst (4355) | Shoreditch, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-risk-analyst-at-smartestenergy-uk-4467067906 | SmartestEnergy UK | Global Risk Analyst | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-risk-associate-analyst-at-arrow-global-group-4492036651 | Arrow Global Group | Group Risk Associate / Analyst | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%93-japanese-equities-at-ubs-4483679254 | UBS | Equity Research Analyst – Japanese Equities | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-equity-researcher-at-sei-4411772308 | SEI | Quantitative Equity Researcher | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-brock-decker-4492020953 | Brock & Decker | Investment Banking Associate | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-the-curve-group-4492042127 | The Curve Group | Management Accountant | Warrington, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-ivee-4490899568 | ivee | Management Accountant | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-graduate-programme-2027-finance-at-bat-4483851925 | BAT | Global Graduate Programme 2027: Finance | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/revenue-finance-analyst/57588529 | Hays Specialist Recruitment Limited | Revenue Finance Analyst | Berkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-graduate/57587897 | Marks Sattin | Finance Graduate | Leeds, West Yorkshire | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/contract-finance-analyst-financial-services-experience/ | via ScotJobsNet | Contract Finance Analyst (Financial Services experience) | Midlothian, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
+
 ## Processed
