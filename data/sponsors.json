@@ -1447,6 +1447,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Global Payments Inc.": {
+   "licensed": true,
+   "register_name": "Global Payments UK Ltd",
+   "match": "exact"
+  },
   "GoCardless": {
    "licensed": true,
    "register_name": "GoCardless Limited",
