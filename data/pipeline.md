@@ -1490,4 +1490,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57589240 | Warner Recruitment Limited | Assistant Management Accountant | Northampton, Northamptonshire | note: via Reed
 - [ ] https://www.s1jobs.com/job/accountant-127773759 | CAMMACH BRYANT LIMITED | Accountant | Aberdeenshire, Scotland | posted: 2026-11-18 | note: via S1Jobs
 
+- [ ] https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002 | Tandem Bank | Commercial Finance Analyst | Cardiff, United Kingdom | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-bnp-paribas-4492041787 | BNP Paribas | FP&A Analyst | Solihull, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-financial-planning-and-analysis-at-royal-caribbean-group-4492062197 | Royal Caribbean Group | Analyst, Financial Planning and Analysis | Weybridge, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-investigo-4492065051 | Investigo | Financial Analyst | Central Bedfordshire, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-financial-services-private-debt-at-brock-decker-4492041479 | Brock & Decker | Investment Analyst - Financial Services & Private Debt | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-systematic-equity-long-short-at-octavius-finance-4491862063 | Octavius Finance | Quantitative Researcher – Systematic Equity Long/Short | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/risk-analyst/57589616 | Oliver James | Risk Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equity-long-short/57589315 | eFinancialCareers | Quantitative Researcher - Systematic Equity Long/Short | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/group-financial-accountant-media/57589464 | Handle Recruitment | Group Financial Accountant - Media | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57589405 | Chalk Hill Group | Assistant Management Accountant | Southampton, Hampshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57589654 | Sharp Consultancy | Management Accountant | Sheffield, South Yorkshire | note: via Reed
+
 ## Processed

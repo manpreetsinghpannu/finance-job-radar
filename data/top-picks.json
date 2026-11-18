@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T16:07:41.622Z",
+ "generated_at": "2026-11-18T17:08:34.668Z",
  "order": [
   "finance",
   "credit",
@@ -24,8 +24,21 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 219,
+   "matching": 223,
    "picks": [
+    {
+     "title": "Commercial Finance Analyst",
+     "company": "Tandem Bank",
+     "location": "Cardiff, United Kingdom",
+     "posted": "2026-11-18",
+     "url": "https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002",
+     "score": 31,
+     "why": [
+      "Finance Analyst",
+      "Commercial Finance"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Finance Analyst (FP&A)",
      "company": "Element Materials Technology",
@@ -38,26 +51,13 @@
       "Finance Analyst"
      ],
      "sponsor": true
-    },
-    {
-     "title": "Commercial Finance Analyst",
-     "company": "Avove",
-     "location": "UK",
-     "posted": "2026-11-16",
-     "url": "https://www.adzuna.co.uk/jobs/details/5968001043",
-     "score": 31,
-     "why": [
-      "Finance Analyst",
-      "Commercial Finance"
-     ],
-     "sponsor": true
     }
    ]
   },
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 94,
+   "matching": 95,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 30,
+   "matching": 29,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -2990,11 +2990,6 @@
    "cv": "Credit CV",
    "score": 13
   },
-  "https://www.linkedin.com/jobs/view/investment-analyst-at-aj-bell-4488524219": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/accountant-convenience-ambient-at-morrisons-4479432493": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5449,6 +5444,61 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 31
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-bnp-paribas-4492041787": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/analyst-financial-planning-and-analysis-at-royal-caribbean-group-4492062197": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-investigo-4492065051": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-financial-services-private-debt-at-brock-decker-4492041479": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-systematic-equity-long-short-at-octavius-finance-4491862063": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 9
+  },
+  "https://www.reed.co.uk/jobs/risk-analyst/57589616": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equity-long-short/57589315": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/group-financial-accountant-media/57589464": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant/57589405": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57589654": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }

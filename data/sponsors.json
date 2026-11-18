@@ -2702,6 +2702,11 @@
    "register_name": "Ohme Operations UK Limited",
    "match": "prefix"
   },
+  "Oliver James": {
+   "licensed": true,
+   "register_name": "Oliver James Homes Ltd",
+   "match": "prefix"
+  },
   "Oliver Smith Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -3122,6 +3127,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Royal Caribbean Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Royal College Of Physicians & Surgeons Of Glasgow": {
    "licensed": false,
    "register_name": null,
@@ -3313,6 +3323,11 @@
    "match": "none"
   },
   "Seymour John": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Sharp Consultancy": {
    "licensed": false,
    "register_name": null,
    "match": "none"
