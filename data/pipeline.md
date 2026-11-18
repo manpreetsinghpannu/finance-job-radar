@@ -1434,5 +1434,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-octus-4474602560 | Octus | Credit Analyst | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-4354-at-wade-macdonald-4490873310 | Wade Macdonald | Management Accountant (4354) | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/front-office-treasury-analyst-at-brewer-morris-4490862737 | Brewer Morris | Front Office Treasury Analyst | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-associate-real-estate-debt-at-gic-4481890972 | GIC | Analyst/Associate, Real Estate Debt | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-4491797731 | BNP Paribas | Corporate Risk Analyst | Solihull, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-associate-industrials-coverage-global-bank-at-greenwich-partners-4492014153 | Greenwich Partners | Equity Research Associate, Industrials coverage, Global Bank | Greater London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57586637 | FryerMiles | Management Accountant | Theale, Reading, Berkshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/financial-accountant-127770917 | Cooper Parry Finance Recruitment | Financial Accountant | Aberdeen Area, Scotland | posted: 2026-11-18 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/finance-analyst-12-month-fixed-term-contract-127771457 | Peace Recruitment | Finance Analyst 12 Month Fixed Term Contract | Scotland | posted: 2026-11-18 | note: via S1Jobs
+- [ ] https://scotjobsnet.co.uk/job/strategy-analyst/ | via ScotJobsNet | Strategy Analyst | Ayrshire, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/european-accountant-6-month-ftc/ | via ScotJobsNet | European Accountant – 6 Month FTC | Scotland, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
 
 ## Processed

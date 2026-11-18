@@ -1297,6 +1297,11 @@
    "register_name": "Frontier Economics",
    "match": "exact"
   },
+  "FryerMiles": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "FundApps": {
    "licensed": true,
    "register_name": "FundApps Ltd",
@@ -1313,6 +1318,11 @@
    "match": "exact"
   },
   "GC Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "GIC": {
    "licensed": false,
    "register_name": null,
    "match": "none"

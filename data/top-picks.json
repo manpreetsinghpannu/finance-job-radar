@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T10:07:15.520Z",
+ "generated_at": "2026-11-18T11:08:05.936Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 91,
+   "matching": 92,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -2713,11 +2713,6 @@
    "cv": "Credit CV",
    "score": 20
   },
-  "https://www.linkedin.com/jobs/view/infosec-risk-analyst-at-kdr-talent-solutions-4489966249": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 10
-  },
   "https://www.linkedin.com/jobs/view/real-estate-investment-analyst-european-investor-london-at-edgworth-partners-4487243131": {
    "id": "real_estate",
    "cv": "Real Estate CV",
@@ -5247,6 +5242,46 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/analyst-associate-real-estate-debt-at-gic-4481890972": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-4491797731": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-associate-industrials-coverage-global-bank-at-greenwich-partners-4492014153": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 20
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57586637": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.s1jobs.com/job/financial-accountant-127770917": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/finance-analyst-12-month-fixed-term-contract-127771457": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://scotjobsnet.co.uk/job/strategy-analyst/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 18
+  },
+  "https://scotjobsnet.co.uk/job/european-accountant-6-month-ftc/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
