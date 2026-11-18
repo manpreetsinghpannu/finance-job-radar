@@ -1526,4 +1526,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-at-baird-4491887050 | Baird | Investment Banking Associate - Healthcare | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/fp-a-analyst-temp-to-perm/57590059 | Morgan McKinley | FP&A Analyst, Temp to Perm | Bristol, Avon | note: via Reed
 
+- [ ] https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers/job/Edinburgh/Finance-Business-Partner---FP-A---12-month-fixed-term-contract_R0004642 | Baillie Gifford | Finance Business Partner – FP&A – 12-month fixed term contract | Edinburgh | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/finance-operations-leading-asset-management-firm-up-to-80k-base-%2B-wfh%21-at-mondrian-alpha-4490889696 | Mondrian Alpha | Finance / Operations - Leading Asset Management Firm - Up to 80k base + WFH! | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+
 ## Processed
