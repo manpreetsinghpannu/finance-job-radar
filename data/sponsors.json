@@ -707,6 +707,11 @@
    "register_name": null,
    "match": "none"
   },
+  "COREcruitment Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CV SCREEN LTD.": {
    "licensed": false,
    "register_name": null,
@@ -1112,6 +1117,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Eden Scott": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Edgworth Partners": {
    "licensed": false,
    "register_name": null,
@@ -1367,6 +1377,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Generali Global Corporate & Commercial": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Genius Sports": {
    "licensed": true,
    "register_name": "Genius Sports UK Ltd",
@@ -1568,6 +1583,11 @@
    "match": "none"
   },
   "Headstar": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Heap & Co": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1777,6 +1797,11 @@
    "register_name": null,
    "match": "none"
   },
+  "JSS": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "James D Bilsland Ltd": {
    "licensed": false,
    "register_name": null,
@@ -1891,6 +1916,11 @@
    "licensed": true,
    "register_name": "Kroo Bank Ltd",
    "match": "prefix"
+  },
+  "L.E.K. Consulting": {
+   "licensed": true,
+   "register_name": "L.E.K. Consulting LLP",
+   "match": "exact"
   },
   "LCM Partners": {
    "licensed": true,
@@ -2711,6 +2741,11 @@
    "licensed": false,
    "register_name": null,
    "match": "alias not on current register (paddle com market limited)"
+  },
+  "Palatine Talent": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Panmure Liberum": {
    "licensed": true,
@@ -3796,6 +3831,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Verlume": {
+   "licensed": true,
+   "register_name": "Verlume Ltd",
+   "match": "exact"
   },
   "Vermelo RPO": {
    "licensed": false,

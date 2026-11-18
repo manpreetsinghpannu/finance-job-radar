@@ -1443,4 +1443,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/strategy-analyst/ | via ScotJobsNet | Strategy Analyst | Ayrshire, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/european-accountant-6-month-ftc/ | via ScotJobsNet | European Accountant – 6 Month FTC | Scotland, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
 
+- [ ] https://job-boards.greenhouse.io/drweng/jobs/8392316 | DRW | Equity Index Options Trader | London | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-culina-4492009624 | Culina | Financial Analyst | Warrington, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-jss-4490889361 | JSS | Financial Analyst | Central Bedfordshire, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-generali-global-corporate-commercial-4492009656 | Generali Global Corporate & Commercial | Risk Analyst | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-fixed-income-at-lgps-central-4491831487 | LGPS Central | Investment Analyst - Fixed Income | Wolverhampton, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-specialist-at-eden-scott-4490445768 | Eden Scott | Corporate Finance Specialist | Edinburgh, Scotland, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/strategy-associate-consultant-generalist-m-f-d-%E2%80%93-hybrid-arrangement-at-l-e-k-consulting-4478950065 | L.E.K. Consulting | Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement) | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-%E2%80%93-event-driven-special-sits-at-undisclosed-4491580103 | Undisclosed | Investment Analyst – Event-Driven / Special Sits | London Area, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-corecruitment-ltd-4492002854 | COREcruitment Ltd | Management Accountant | Watford, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-palatine-talent-4491823625 | Palatine Talent | Management Accountant | Wilmslow, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-verlume-4491564767 | Verlume | Assistant Accountant | Inverurie, Scotland, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57586989 | Heap & Co | Management Accountant | Royston, Hertfordshire | note: via Reed
+
 ## Processed
