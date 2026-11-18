@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 18 Nov, 08:07** (UK time) · **996 open roles** at 559 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 18 Nov, 09:07** (UK time) · **997 open roles** at 559 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 18 Nov, 08:04** · hourly scan · checked 201 boards · **0 new roles**
+**Wed 18 Nov, 09:04** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Wed 18 Nov, 06:04** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-18 | [Finance Analyst - Supplier Planning (12M FTC)](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400097174) | Sainsbury's | London, London, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (216 matching)
+**Finance (FP&A) CV** (217 matching)
 
 1. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
 2. [Commercial Finance Analyst](https://www.adzuna.co.uk/jobs/details/5968001043) · Avove · UK · posted 2026-11-16 · ✅
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<details>
+<summary><b>09:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-18 | [Finance Analyst - Supplier Planning (12M FTC)](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400097174) | Sainsbury's | London, London, United Kingdom | ✅ |
+
+</details>
 
 <sub>Nothing new at: 08:04, 07:05</sub>
 
@@ -2665,25 +2680,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 09:07</sub>
 
-<details>
-<summary><b>08:08</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-11 | [Top-Tier Investment Banking Associate](https://www.linkedin.com/jobs/view/top-tier-investment-banking-associate-at-everet-marsh-4470908615) | Everet Marsh | London Area, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (541)](#finance-fpa-cv-541) · [Credit (131)](#credit-cv-131) · [Equity (51)](#equity-cv-51) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (17)](#consulting-cv-17) · [Real Estate (17)](#real-estate-cv-17) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (113)](#other-fits-no-cv-closely-may-still-be-worth-a-look-113)
+Everything matched so far, newest first within each CV: [Finance (542)](#finance-fpa-cv-542) · [Credit (131)](#credit-cv-131) · [Equity (51)](#equity-cv-51) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (17)](#consulting-cv-17) · [Real Estate (17)](#real-estate-cv-17) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (113)](#other-fits-no-cv-closely-may-still-be-worth-a-look-113)
 
-### Finance (FP&A) CV: 541
+### Finance (FP&A) CV: 542
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-18 | [Finance Analyst - Supplier Planning (12M FTC)](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400097174) | Sainsbury's | London, London, United Kingdom | ✅ |
 | 2026-11-18 | [Financial Planning Graduate Trainee - September 2027](https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-september-2027-at-targetjobs-uk-4491454647) | targetjobs UK | Milton Keynes, England, United Kingdom | ❔ |
 | 2026-11-17 | [FP&A Analyst, Europe](https://www.linkedin.com/jobs/view/fp-a-analyst-europe-at-univers-4490195978) | Univers | London, England, United Kingdom | ✅ |
 | 2026-11-17 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-itsu-4491574598) | itsu | London, England, United Kingdom | ✅ |

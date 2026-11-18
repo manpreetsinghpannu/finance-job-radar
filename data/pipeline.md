@@ -1430,4 +1430,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/graduate-associate-debt-advisory-at-targetjobs-uk-4491490163 | targetjobs UK | Graduate Associate, Debt Advisory | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-accountant/57582961 | Specsavers | Financial Accountant | Nottingham, Nottinghamshire | posted: 2026-11-17 | note: via Reed
 
+- [ ] https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400097174 | Sainsbury's | Finance Analyst - Supplier Planning (12M FTC) | London, London, United Kingdom | posted: 2026-11-18
+
 ## Processed

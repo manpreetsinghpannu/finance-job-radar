@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T08:07:53.912Z",
+ "generated_at": "2026-11-18T09:07:51.362Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 216,
+   "matching": 217,
    "picks": [
     {
      "title": "Finance Analyst (FP&A)",
@@ -5227,6 +5227,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400097174": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
   }
  }
 }
