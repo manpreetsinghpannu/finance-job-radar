@@ -3307,6 +3307,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Specsavers": {
+   "licensed": true,
+   "register_name": "Specsavers (Louth Visionplus Ltd)",
+   "match": "exact"
+  },
   "Spectrum Brands (UK) Limited": {
    "licensed": true,
    "register_name": "Spectrum Brands (UK) Limited",

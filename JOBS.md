@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 18 Nov, 05:08** (UK time) · **995 open roles** at 558 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 18 Nov, 06:09** (UK time) · **996 open roles** at 559 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 18 Nov, 05:04** · hourly scan · checked 201 boards · **0 new roles**
+**Wed 18 Nov, 06:04** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Wed 18 Nov, 03:54** (1: Credit 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-17 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57582961) | Specsavers | Nottingham, Nottinghamshire | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (215 matching)
+**Finance (FP&A) CV** (216 matching)
 
 1. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
 2. [Commercial Finance Analyst](https://www.adzuna.co.uk/jobs/details/5968001043) · Avove · UK · posted 2026-11-16 · ✅
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<details>
+<summary><b>06:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-17 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57582961) | Specsavers | Nottingham, Nottinghamshire | ✅ |
+
+</details>
 
 <sub>Nothing new at: 05:04, 04:23, 04:04</sub>
 
@@ -2663,13 +2678,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 07:08, 06:23, 06:07</sub>
+<sub>Nothing new at: 07:08, 06:23</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (540)](#finance-fpa-cv-540) · [Credit (131)](#credit-cv-131) · [Equity (51)](#equity-cv-51) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (17)](#consulting-cv-17) · [Real Estate (17)](#real-estate-cv-17) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (113)](#other-fits-no-cv-closely-may-still-be-worth-a-look-113)
+Everything matched so far, newest first within each CV: [Finance (541)](#finance-fpa-cv-541) · [Credit (131)](#credit-cv-131) · [Equity (51)](#equity-cv-51) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (17)](#consulting-cv-17) · [Real Estate (17)](#real-estate-cv-17) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (113)](#other-fits-no-cv-closely-may-still-be-worth-a-look-113)
 
-### Finance (FP&A) CV: 540
+### Finance (FP&A) CV: 541
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2697,6 +2712,7 @@ Everything matched so far, newest first within each CV: [Finance (540)](#finance
 | 2026-11-17 | [Fully Remote Part - Qualified Assistant Accountant](https://www.adzuna.co.uk/jobs/details/5969083891) | VANRATH | Belfast, Northern Ireland | ❔ |
 | 2026-11-17 | [Investment Accountant - NGED](https://www.linkedin.com/jobs/view/investment-accountant-nged-at-national-grid-4490457206) | National Grid | Warwick, England, United Kingdom | ✅ |
 | 2026-11-17 | [Financial Controller](https://www.adzuna.co.uk/jobs/land/ad/5969079106) | HAYS | Fenham, Newcastle Upon Tyne | ✅ |
+| 2026-11-17 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57582961) | Specsavers | Nottingham, Nottinghamshire | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57581424) | Trial Balance Consulting | Plymouth, Devon | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57581779) | AD Finance | Birmingham, West Midlands (County) | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57583084) | Platinum Recruitment Group | Salford, Lancashire | ❔ |
