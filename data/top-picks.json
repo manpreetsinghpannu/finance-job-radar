@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:04:02.103Z",
+ "generated_at": "2026-11-18T14:11:01.304Z",
  "order": [
   "finance",
   "credit",
@@ -219,7 +219,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 33,
+   "matching": 34,
    "picks": [
     {
      "title": "Trainee Fund Accountant",
@@ -5369,10 +5369,10 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers/job/Edinburgh/Finance-Business-Partner---FP-A---12-month-fixed-term-contract_R0004642": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 27
+  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Alternatives-Fund-Accounting--Associate_R267202": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 18
   }
  }
 }

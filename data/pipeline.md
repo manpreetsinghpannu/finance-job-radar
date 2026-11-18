@@ -1467,6 +1467,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/regional-financial-controller-127773735 | Office Angels Limited | Regional Financial Controller | West Lothian, Scotland | posted: 2026-11-18 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127773727 | CONTRACT SCOTLAND LIMITED | Quantity Surveyor | Highland, Scotland | posted: 2026-11-18 | note: via S1Jobs
 
-- [ ] https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers/job/Edinburgh/Finance-Business-Partner---FP-A---12-month-fixed-term-contract_R0004642 | Baillie Gifford | Finance Business Partner – FP&A – 12-month fixed term contract | Edinburgh | posted: 2026-11-18
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Alternatives-Fund-Accounting--Associate_R267202 | BlackRock | Alternatives Fund Accounting, Associate | Edinburgh, Scotland | posted: 2026-11-18
 
 ## Processed

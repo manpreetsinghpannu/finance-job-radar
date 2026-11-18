@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 18 Nov, 14:04** (UK time) · **1025 open roles** at 575 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 18 Nov, 14:11** (UK time) · **1025 open roles** at 574 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 18 Nov, 14:00** · hourly scan · checked 201 boards · **1 new role**
+**Wed 18 Nov, 14:07** · hourly scan · checked 201 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
+### Fund CV (written for India; tweak the header for UK roles): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-18 | [Finance Business Partner – FP&A – 12-month fixed term contract](https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers/job/Edinburgh/Finance-Business-Partner---FP-A---12-month-fixed-term-contract_R0004642) | Baillie Gifford | Edinburgh | ✅ |
+| 2026-11-18 | [Alternatives Fund Accounting, Associate](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Alternatives-Fund-Accounting--Associate_R267202) | BlackRock | Edinburgh, Scotland | ✅ |
 
 ## Top picks for each CV
 
@@ -52,7 +52,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
 2. [Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695) · Rothschild & Co · London · posted 2026-11-12 · ✅
 
-**Fund CV (written for India; tweak the header for UK roles)** (33 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (34 matching)
 
 1. [Trainee Fund Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1071) · Aztec Group · Southampton · posted 2026-11-16 · ✅
 2. [Investment Operations Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1) · Barclays · Glasgow Campus · posted 2026-11-16 · ✅
@@ -64,13 +64,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Wednesday 18 November
 
 <details>
-<summary><b>14:00</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+<summary><b>14:07</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
 
-#### Finance (FP&A) CV: 1
+#### Fund CV (written for India; tweak the header for UK roles): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-18 | [Finance Business Partner – FP&A – 12-month fixed term contract](https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers/job/Edinburgh/Finance-Business-Partner---FP-A---12-month-fixed-term-contract_R0004642) | Baillie Gifford | Edinburgh | ✅ |
+| 2026-11-18 | [Alternatives Fund Accounting, Associate](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Alternatives-Fund-Accounting--Associate_R267202) | BlackRock | Edinburgh, Scotland | ✅ |
 
 </details>
 
@@ -2696,22 +2696,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>14:07</b> · hourly scan · <b>3 new</b> → Finance 3</summary>
-
-#### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-11 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-tcr-4468916513) | TCR | London Area, United Kingdom | ❔ |
-| 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-randstad-4488218702) | Randstad | London Area, United Kingdom | ✅ |
-| 2026-11-11 | [Financial Controller](https://job-boards.greenhouse.io/liberis/jobs/8378630) | Liberis | London | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (557)](#finance-fpa-cv-557) · [Credit (134)](#credit-cv-134) · [Equity (55)](#equity-cv-55) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (19)](#consulting-cv-19) · [Real Estate (18)](#real-estate-cv-18) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (116)](#other-fits-no-cv-closely-may-still-be-worth-a-look-116)
+Everything matched so far, newest first within each CV: [Finance (556)](#finance-fpa-cv-556) · [Credit (134)](#credit-cv-134) · [Equity (55)](#equity-cv-55) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (19)](#consulting-cv-19) · [Real Estate (18)](#real-estate-cv-18) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (116)](#other-fits-no-cv-closely-may-still-be-worth-a-look-116)
 
 ### Finance (FP&A) CV: 557
 
@@ -3626,10 +3613,11 @@ Everything matched so far, newest first within each CV: [Finance (557)](#finance
 | — | [Associate, Real Estate Asset Management Operations](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Associate--Real-Estate-Asset-Management-Operations_R8113) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 26
+### Fund CV (written for India; tweak the header for UK roles): 27
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-18 | [Alternatives Fund Accounting, Associate](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Alternatives-Fund-Accounting--Associate_R267202) | BlackRock | Edinburgh, Scotland | ✅ |
 | 2026-11-18 | [Fund Accountant, Leading Private Credit Investor, London, UK](https://www.linkedin.com/jobs/view/fund-accountant-leading-private-credit-investor-london-uk-at-per-4483694635) | PER | London, England, United Kingdom | ❔ |
 | 2026-11-17 | [Investment Operations Associate – Model Portfolio Service (MPS)](https://www.linkedin.com/jobs/view/investment-operations-associate-%E2%80%93-model-portfolio-service-mps-at-cameron-kennedy-4480650397) | Cameron Kennedy | London Area, United Kingdom | ✅ |
 | 2026-11-17 | [Investment Operations Analyst, Multi Asset Funds Investor, London, UK](https://www.linkedin.com/jobs/view/investment-operations-analyst-multi-asset-funds-investor-london-uk-at-per-4483622299) | PER | London, England, United Kingdom | ❔ |
@@ -3785,7 +3773,7 @@ Everything matched so far, newest first within each CV: [Finance (557)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Wed 18 Nov, 14:01 | Junior Analyst, Corporate Finance (Deals) | Kobalt Music |
+| Wed 18 Nov, 14:08 | Junior Analyst, Corporate Finance (Deals) | Kobalt Music |
 | Wed 18 Nov, 13:31 | Management Accountant | Maceo Search Limited |
 | Wed 18 Nov, 13:09 | Junior Fund Accountant | Equifind |
 | Wed 18 Nov, 13:07 | Financial Analyst | SF Partners |
