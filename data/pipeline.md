@@ -1423,4 +1423,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070 | Hargreaves Lansdown | Strategy Analyst | Bristol - Welcome Building | posted: 2026-11-16
 - [ ] https://www.linkedin.com/jobs/view/risk-analyst-private-markets-at-aberdeen-4491776243 | Aberdeen | Risk Analyst, Private Markets | Edinburgh, Scotland, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 
+- [ ] https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Risk-Analyst--Private-Markets_R0074255 | abrdn | Risk Analyst, Private Markets | Edinburgh | posted: 2026-11-18
+
 ## Processed

@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 18 Nov, 01:09** (UK time) · **994 open roles** at 558 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 18 Nov, 02:07** (UK time) · **994 open roles** at 558 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 18 Nov, 01:04** · hourly scan · checked 201 boards · **1 new role**
+**Wed 18 Nov, 02:04** · hourly scan · checked 201 boards · **1 new role**
 
 ### Credit CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-17 | [Risk Analyst, Private Markets](https://www.linkedin.com/jobs/view/risk-analyst-private-markets-at-aberdeen-4491776243) | Aberdeen | Edinburgh, Scotland, United Kingdom | ✅ |
+| 2026-11-18 | [Risk Analyst, Private Markets](https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Risk-Analyst--Private-Markets_R0074255) | abrdn | Edinburgh | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (216 matching)
+**Finance (FP&A) CV** (215 matching)
 
 1. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
 2. [Commercial Finance Analyst](https://www.adzuna.co.uk/jobs/details/5968001043) · Avove · UK · posted 2026-11-16 · ✅
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<details>
+<summary><b>02:04</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-18 | [Risk Analyst, Private Markets](https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Risk-Analyst--Private-Markets_R0074255) | abrdn | Edinburgh | ❔ |
+
+</details>
 
 <details>
 <summary><b>01:04</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -2645,13 +2656,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 03:07, 02:21, 02:07</sub>
+<sub>Nothing new at: 03:07, 02:21</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (540)](#finance-fpa-cv-540) · [Credit (130)](#credit-cv-130) · [Equity (51)](#equity-cv-51) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (17)](#consulting-cv-17) · [Real Estate (17)](#real-estate-cv-17) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (113)](#other-fits-no-cv-closely-may-still-be-worth-a-look-113)
+Everything matched so far, newest first within each CV: [Finance (539)](#finance-fpa-cv-539) · [Credit (131)](#credit-cv-131) · [Equity (51)](#equity-cv-51) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (17)](#consulting-cv-17) · [Real Estate (17)](#real-estate-cv-17) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (113)](#other-fits-no-cv-closely-may-still-be-worth-a-look-113)
 
-### Finance (FP&A) CV: 540
+### Finance (FP&A) CV: 539
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3137,7 +3148,6 @@ Everything matched so far, newest first within each CV: [Finance (540)](#finance
 | 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-spectrum-brands-uk-limited-4486986777) | Spectrum Brands (UK) Limited | Greater Manchester, England, United Kingdom | ✅ |
 | 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-mears-group-plc-4434030589) | Mears Group PLC | Gloucestershire, England, United Kingdom | ✅ |
 | 2026-11-06 | [Management Accountant (Fixed Term Contract)](https://www.reed.co.uk/jobs/management-accountant-fixed-term-contract/57538817) | Lightfoot | Exeter, Devon | ✅ |
-| 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-royal-united-hospitals-bath-nhs-foundation-trust-4487368140) | Royal United Hospitals Bath NHS Foundation Trust | Bath, England, United Kingdom | ✅ |
 | 2026-11-06 | [Reinsurance Protection Assistant Accountant](https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21298) | Phoenix Group | Birmingham, England, United Kingdom | ✅ |
 | 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-marks-sattin-4486248562) | Marks Sattin | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57534852) | Kennedy Pearce Consulting | London | ❔ |
@@ -3196,10 +3206,11 @@ Everything matched so far, newest first within each CV: [Finance (540)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 130
+### Credit CV: 131
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-18 | [Risk Analyst, Private Markets](https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Risk-Analyst--Private-Markets_R0074255) | abrdn | Edinburgh | ❔ |
 | 2026-11-17 | [Leveraged Finance Credit Analyst](https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-carr-lyons-search-selection-4490428536) | Carr Lyons Search & Selection | London Area, United Kingdom | ❔ |
 | 2026-11-17 | [Leveraged Finance Credit Risk (2LoD)](https://www.linkedin.com/jobs/view/leveraged-finance-credit-risk-2lod-at-michael-page-4491565380) | Michael Page | City Of London, England, United Kingdom | ✅ |
 | 2026-11-17 | [Corporate Credit Research Analyst](https://www.adzuna.co.uk/jobs/details/5969280677) | Bank of America | London, UK | ✅ |
@@ -3688,10 +3699,11 @@ Everything matched so far, newest first within each CV: [Finance (540)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>82 roles taken off the list because the firm closed the posting</summary>
+<summary>83 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 18 Nov, 02:07 | Management Accountant | Royal United Hospitals Bath NHS Foundation Trust |
 | Wed 18 Nov, 01:08 | Quantitative Researcher - Hedge Fund | Statera Talent |
 | Wed 18 Nov, 00:05 | Graduate Finance Broker Programme - September 2027 | Vecta |
 | Tue 17 Nov, 18:07 | Finance Business Partner | Halliday Marx |
