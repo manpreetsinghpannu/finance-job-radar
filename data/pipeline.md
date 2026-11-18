@@ -1529,5 +1529,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers/job/Edinburgh/Finance-Business-Partner---FP-A---12-month-fixed-term-contract_R0004642 | Baillie Gifford | Finance Business Partner – FP&A – 12-month fixed term contract | Edinburgh | posted: 2026-11-18
 - [ ] https://www.linkedin.com/jobs/view/finance-operations-leading-asset-management-firm-up-to-80k-base-%2B-wfh%21-at-mondrian-alpha-4490889696 | Mondrian Alpha | Finance / Operations - Leading Asset Management Firm - Up to 80k base + WFH! | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-revenue-at-global-payments-inc-4492201673 | Global Payments Inc. | Financial Analyst - Revenue | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/interim-finance-business-partner/ | via ScotJobsNet | Interim Finance Business Partner | Midlothian, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
 
 ## Processed
