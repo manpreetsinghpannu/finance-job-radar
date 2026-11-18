@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:08:01.807Z",
+ "generated_at": "2026-11-18T21:42:19.864Z",
  "order": [
   "finance",
   "credit",
@@ -4779,11 +4779,6 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 19
-  },
-  "https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-carr-lyons-search-selection-4490428536": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 23
   },
   "https://www.linkedin.com/jobs/view/equity-research-associate-pharma-coverage-global-bank-strategy-consultant-wanted-at-greenwich-partners-4490442054": {
    "id": "equity",

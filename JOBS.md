@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 18 Nov, 21:08** (UK time) · **1072 open roles** at 598 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 18 Nov, 21:42** (UK time) · **1071 open roles** at 598 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 18 Nov, 21:04** · hourly scan · checked 201 boards · **2 new roles**
+**Wed 18 Nov, 21:39** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-18 | [Finance Business Partner – FP&A – 12-month fixed term contract](https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers/job/Edinburgh/Finance-Business-Partner---FP-A---12-month-fixed-term-contract_R0004642) | Baillie Gifford | Edinburgh | ✅ |
-
-### Real Estate CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-18 | [Finance / Operations - Leading Asset Management Firm - Up to 80k base + WFH!](https://www.linkedin.com/jobs/view/finance-operations-leading-asset-management-firm-up-to-80k-base-%2B-wfh%21-at-mondrian-alpha-4490889696) | Mondrian Alpha | London Area, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Wed 18 Nov, 21:04** (2: Finance 1 · Real Estate 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -68,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<sub>Nothing new at: 21:39</sub>
 
 <details>
 <summary><b>21:04</b> · hourly scan · <b>2 new</b> → Finance 1 · Real Estate 1</summary>
@@ -798,7 +790,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>11:05</b> · hourly scan · <b>6 new</b> → Finance 2 · Credit 1 · Equity 1 · Consulting 1 · Other 1</summary>
+<summary><b>11:05</b> · hourly scan · <b>5 new</b> → Finance 2 · Equity 1 · Consulting 1 · Other 1</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -806,12 +798,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57581779) | AD Finance | Birmingham, West Midlands (County) | ❔ |
 | — | [Financial Controller](https://www.reed.co.uk/jobs/financial-controller/57581792) | SENSIBAL RECRUITMENT LTD | London | ❔ |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [Leveraged Finance Credit Analyst](https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-carr-lyons-search-selection-4490428536) | Carr Lyons Search & Selection | London Area, United Kingdom | ❔ |
 
 #### Equity CV: 1
 
@@ -831,7 +817,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | 2026-11-17 | [Finance Graduate](https://www.linkedin.com/jobs/view/finance-graduate-at-harbour-energy-4491136603) | Harbour Energy | London, England, United Kingdom | ✅ |
 
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2725,7 +2711,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (585)](#finance-fpa-cv-585) · [Credit (137)](#credit-cv-137) · [Equity (61)](#equity-cv-61) · [Investment (104)](#investment-ib--pe-cv-104) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (119)](#other-fits-no-cv-closely-may-still-be-worth-a-look-119)
+Everything matched so far, newest first within each CV: [Finance (585)](#finance-fpa-cv-585) · [Credit (136)](#credit-cv-136) · [Equity (61)](#equity-cv-61) · [Investment (104)](#investment-ib--pe-cv-104) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (119)](#other-fits-no-cv-closely-may-still-be-worth-a-look-119)
 
 ### Finance (FP&A) CV: 585
 
@@ -3317,7 +3303,7 @@ Everything matched so far, newest first within each CV: [Finance (585)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 137
+### Credit CV: 136
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3333,7 +3319,6 @@ Everything matched so far, newest first within each CV: [Finance (585)](#finance
 | 2026-11-18 | [Investment Analyst - Financial Services & Private Debt](https://www.linkedin.com/jobs/view/investment-analyst-financial-services-private-debt-at-brock-decker-4492041479) | Brock & Decker | London Area, United Kingdom | ❔ |
 | 2026-11-18 | [Risk Analyst, Private Markets](https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Risk-Analyst--Private-Markets_R0074255) | abrdn | Edinburgh | ❔ |
 | — | [Risk Analyst](https://www.reed.co.uk/jobs/risk-analyst/57589616) | Oliver James | London | ✅ |
-| 2026-11-17 | [Leveraged Finance Credit Analyst](https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-carr-lyons-search-selection-4490428536) | Carr Lyons Search & Selection | London Area, United Kingdom | ❔ |
 | 2026-11-17 | [Leveraged Finance Credit Risk (2LoD)](https://www.linkedin.com/jobs/view/leveraged-finance-credit-risk-2lod-at-michael-page-4491565380) | Michael Page | City Of London, England, United Kingdom | ✅ |
 | 2026-11-17 | [Corporate Credit Research Analyst](https://www.adzuna.co.uk/jobs/details/5969280677) | Bank of America | London, UK | ✅ |
 | 2026-11-17 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-summit-energy-europe-4490409871) | Summit Energy Europe | London Area, United Kingdom | ❔ |
@@ -3842,10 +3827,11 @@ Everything matched so far, newest first within each CV: [Finance (585)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>89 roles taken off the list because the firm closed the posting</summary>
+<summary>90 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 18 Nov, 21:41 | Leveraged Finance Credit Analyst | Carr Lyons Search & Selection |
 | Wed 18 Nov, 21:07 | Credit Risk Analyst | Brook Green Supply |
 | Wed 18 Nov, 19:08 | Credit Risk Underwriter - Structured Lending | Morgan McKinley |
 | Wed 18 Nov, 17:06 | Investment Analyst | AJ Bell |
