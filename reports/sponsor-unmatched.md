@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 833 firms checked, 447 matched, 386 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 845 firms checked, 448 matched, 397 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (386)
+## Not found (397)
 
 - 7IM
 - 93 MGMT
@@ -58,6 +58,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Bloom Money
 - Brainkind
 - Brewer Morris
+- Briggs Equipment
 - Brit Insurance
 - Broaden
 - Broadstone Resourcing
@@ -107,6 +108,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - DJH
 - Dana Incorporated
 - Datalink Recruitment
+- Day Lewis Pharmacy
 - Deutsche Asset Management
 - Deutsche Bank
 - Distinct Recruitment
@@ -150,9 +152,11 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Greenwich Partners
 - Gresham Hunt
 - HB Partners Limited
+- HOPWOOD HALL COLLEGE
 - HSBC Innovation Banking
 - Hain Daniels
 - Halliday Marx
+- Hamilton Woods
 - Handpicked Recruitment
 - Handpicked Recruitment Limited
 - Hargreaves Land
@@ -173,6 +177,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Hoop Recruitment
 - Howmet Aerospace
 - IAG Transform
+- IDA Recruitment Ltd
 - IMC Trading
 - IPOE Consulting
 - IVC Evidensia
@@ -189,6 +194,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - JasperRose
 - Joblet-AI
 - Johnsons Workwear
+- Johnsons Workwear Ltd
 - KBRA
 - KBS Corporate
 - KDR Talent Solutions
@@ -225,6 +231,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Macklin Care Homes Ltd
 - Macquarie Group
 - ManpowerGroup Talent Solutions
+- Marc Daniels
 - Market Harborough Building Society
 - Marks Sattin
 - Marks Sattin FS
@@ -264,6 +271,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Octopus Money
 - Office Angels Limited
 - Oliver Smith Recruitment
+- One Ten Associates
 - Onmo
 - Orla Rose Associates
 - PA Consulting
@@ -284,6 +292,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Pure Search
 - Qh4 Consulting
 - RG Consultancy Ltd
+- RM Recruit
 - Randstad Finance
 - Reckitt
 - Redress Scotland
@@ -293,6 +302,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Retirement Villages Group Ltd
 - Richard James Recruitment Specialists Ltd
 - Right People Recruitment Solutions
+- Robertson Bell
 - Robertson Wright
 - Rothstein Recruitment
 - Royal Caribbean Group
@@ -326,6 +336,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
 - Sowena Group
+- Spencer Clarke Group
 - St. Helens and Knowsley Teaching Hospitals NHS Trust
 - Standard Life plc
 - Stanford Real Estate Partners

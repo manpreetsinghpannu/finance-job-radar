@@ -607,6 +607,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Briggs Equipment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Brit Insurance": {
    "licensed": false,
    "register_name": null,
@@ -932,6 +937,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Club L London": {
+   "licensed": true,
+   "register_name": "Club L (Retail) Limited",
+   "match": "exact"
+  },
   "Cobalt": {
    "licensed": true,
    "register_name": "Cobalt Labs UK Limited",
@@ -1043,6 +1053,11 @@
    "match": "exact"
   },
   "Datalink Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Day Lewis Pharmacy": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1502,6 +1517,11 @@
    "register_name": null,
    "match": "none"
   },
+  "HOPWOOD HALL COLLEGE": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "HSBC Innovation Banking": {
    "licensed": false,
    "register_name": null,
@@ -1518,6 +1538,11 @@
    "match": "none"
   },
   "Halliday Marx": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Hamilton Woods": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1712,6 +1737,11 @@
    "register_name": "ICG PLC",
    "match": "alias"
   },
+  "IDA Recruitment Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "IG Group": {
    "licensed": true,
    "register_name": "IG Group Holdings plc",
@@ -1863,6 +1893,11 @@
    "match": "none"
   },
   "Johnsons Workwear": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Johnsons Workwear Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2243,6 +2278,11 @@
    "match": "alias"
   },
   "ManpowerGroup Talent Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Marc Daniels": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2717,6 +2757,11 @@
    "register_name": "One Stop Healthcare",
    "match": "exact"
   },
+  "One Ten Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Onmo": {
    "licensed": false,
    "register_name": null,
@@ -3012,6 +3057,11 @@
    "register_name": null,
    "match": "none"
   },
+  "RM Recruit": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Radius": {
    "licensed": true,
    "register_name": "Radius Systems Limited",
@@ -3101,6 +3151,11 @@
    "licensed": true,
    "register_name": "Robert Walters PLC",
    "match": "exact"
+  },
+  "Robertson Bell": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Robertson Wright": {
    "licensed": false,
@@ -3426,6 +3481,11 @@
    "licensed": true,
    "register_name": "Spectrum Brands (UK) Limited",
    "match": "exact"
+  },
+  "Spencer Clarke Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Sphere Digital Recruitment": {
    "licensed": true,

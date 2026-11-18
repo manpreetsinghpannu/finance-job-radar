@@ -1501,5 +1501,23 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/group-financial-accountant-media/57589464 | Handle Recruitment | Group Financial Accountant - Media | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57589405 | Chalk Hill Group | Assistant Management Accountant | Southampton, Hampshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57589654 | Sharp Consultancy | Management Accountant | Sheffield, South Yorkshire | note: via Reed
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5970506549 | Metis Search | French speaking | Investment Banking M&A Generalist Analyst & Associate | London, UK | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5970506332 | One Ten Associates | Middle Office - Various Roles - Hedge Funds - Asset Management | London, UK | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5970506304 | Universities Superannuation Scheme Limited | Associate – Private Equity Funds & Co-investments - Universities Superannuation Scheme Limited | London, UK | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5970405922 | RM Recruit | Academy Trust Accountant | Balsall Heath, Birmingham | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5970404733 | Hamilton Woods | Interim Management Accountant | Balsall Heath, Birmingham | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5970394618 | Citi | Portfolio Financing and Optimization Trader - Citi | London, UK | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5970394544 | Citi | Front Office Quantitative Analyst - Equity Derivatives - Citi | London, UK | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5970353201 | Briggs Equipment | Management Accountant | Lisburn, Northern Ireland | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5970314509 | Johnsons Workwear Ltd | Management Accountant | Fulwood, Preston | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5970314419 | Day Lewis Pharmacy | Finance Business Partner | Beddington, Croydon | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5970263820 | IDA Recruitment Ltd | Assistant Accountant | New Cross, South East London | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5970263669 | Marc Daniels | Financial Accountant | Rusholme, Manchester | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5970263658 | Spencer Clarke Group | Service Accountant | Farringdon, Central London | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5970169296 | HOPWOOD HALL COLLEGE | Management Accountant | Middleton, Manchester | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5970153409 | Club L London | Commercial Analyst | Trafford Park, Manchester | posted: 2026-11-18 | note: via Adzuna
+- [ ] https://www.reed.co.uk/jobs/junior-finance-analyst-immediate-start-entry-level-role/57589951 | Mitchell Adam | Junior Finance Analyst - Immediate Start Entry Level Role | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57589916 | Robertson Bell | Finance Business Partner | Greater Manchester, Lancashire | note: via Reed
+- [ ] https://www.s1jobs.com/job/financial-controller-127773943 | Cooper Parry Finance Recruitment | Financial Controller | Fife, Scotland | posted: 2026-11-18 | note: via S1Jobs
 
 ## Processed
