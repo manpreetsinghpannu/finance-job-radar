@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:09:19.939Z",
+ "generated_at": "2026-11-18T13:09:07.607Z",
  "order": [
   "finance",
   "credit",
@@ -848,11 +848,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/junior-fund-accountant-at-equifind-4488159699": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 15
   },
   "https://www.linkedin.com/jobs/view/client-accountant-funds-at-iq-eq-4480504225": {
    "id": "finance",
@@ -4299,11 +4294,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-sf-partners-4489765786": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5333,6 +5323,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-aster-group-uk-4490884603": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-heap-co-accountancy-finance-recruitment-specialists-4490882748": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-alf-recruit-4490882790": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/graduate-junior-practice-accountant/57587350": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

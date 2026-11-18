@@ -62,6 +62,11 @@
    "register_name": "AJ Bell Plc",
    "match": "exact"
   },
+  "ALF Recruit": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "APL Media Limited": {
    "licensed": true,
    "register_name": "APL Media Limited",
@@ -328,6 +333,11 @@
    "match": "exact"
   },
   "Aster Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Aster Group UK": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1588,6 +1598,11 @@
    "match": "none"
   },
   "Heap & Co": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Heap & Co - Accountancy & Finance Recruitment Specialists": {
    "licensed": false,
    "register_name": null,
    "match": "none"

@@ -1455,5 +1455,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-palatine-talent-4491823625 | Palatine Talent | Management Accountant | Wilmslow, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-verlume-4491564767 | Verlume | Assistant Accountant | Inverurie, Scotland, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57586989 | Heap & Co | Management Accountant | Royston, Hertfordshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-aster-group-uk-4490884603 | Aster Group UK | Financial Planning & Analysis Analyst | Dorset, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-heap-co-accountancy-finance-recruitment-specialists-4490882748 | Heap & Co - Accountancy & Finance Recruitment Specialists | Management Accountant | Royston, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-alf-recruit-4490882790 | ALF Recruit | Management Accountant | Rochdale, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/graduate-junior-practice-accountant/57587350 | Mitchell Adam | Graduate / Junior Practice Accountant | Birmingham, West Midlands (County) | note: via Reed
 
 ## Processed
