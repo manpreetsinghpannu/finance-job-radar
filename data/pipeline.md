@@ -1484,4 +1484,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/finance-graduate/57587897 | Marks Sattin | Finance Graduate | Leeds, West Yorkshire | note: via Reed
 - [ ] https://scotjobsnet.co.uk/job/contract-finance-analyst-financial-services-experience/ | via ScotJobsNet | Contract Finance Analyst (Financial Services experience) | Midlothian, Scotland | posted: 2026-11-18 | note: via ScotJobsNet
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210810033 | JPMorgan Chase | Commercial and Investment Banking - Treasury analyst (MENA) | LONDON, LONDON, United Kingdom | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-ivee-4491308184 | ivee | Financial Planning Analyst | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/project-finance-credit-analyst-at-carr-lyons-search-selection-4490899676 | Carr Lyons Search & Selection | Project Finance Credit Analyst | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57589240 | Warner Recruitment Limited | Assistant Management Accountant | Northampton, Northamptonshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/accountant-127773759 | CAMMACH BRYANT LIMITED | Accountant | Aberdeenshire, Scotland | posted: 2026-11-18 | note: via S1Jobs
+
 ## Processed

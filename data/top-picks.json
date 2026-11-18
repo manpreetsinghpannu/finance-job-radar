@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T15:08:01.105Z",
+ "generated_at": "2026-11-18T16:07:41.622Z",
  "order": [
   "finance",
   "credit",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 74,
+   "matching": 75,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -559,11 +559,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 17
-  },
-  "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8905231002": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
   },
   "https://job-boards.greenhouse.io/liberis/jobs/8349067": {
    "id": "credit",
@@ -5375,11 +5370,6 @@
    "cv": "Equity CV",
    "score": 32
   },
-  "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21358": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
-  },
   "https://www.linkedin.com/jobs/view/fp-a-analyst-4355-at-wade-macdonald-4491306252": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5404,11 +5394,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 12
-  },
-  "https://www.linkedin.com/jobs/view/investment-banking-associate-at-brock-decker-4492020953": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-the-curve-group-4492042127": {
    "id": "finance",
@@ -5439,6 +5424,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210810033": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-ivee-4491308184": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/project-finance-credit-analyst-at-carr-lyons-search-selection-4490899676": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant/57589240": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.s1jobs.com/job/accountant-127773759": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
