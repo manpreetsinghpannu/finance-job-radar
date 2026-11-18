@@ -582,6 +582,11 @@
    "register_name": "BREVAN HOWARD ASSET MANAGEMENT SERVICES LIMITED",
    "match": "alias"
   },
+  "Brewer Morris": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Brit Insurance": {
    "licensed": false,
    "register_name": null,
@@ -3851,6 +3856,11 @@
    "licensed": true,
    "register_name": "WPP 2005 Limited",
    "match": "alias"
+  },
+  "Wade Macdonald": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Walker Dendle Financial Recruitment": {
    "licensed": false,

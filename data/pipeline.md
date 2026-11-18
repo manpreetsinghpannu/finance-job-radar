@@ -1431,5 +1431,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/financial-accountant/57582961 | Specsavers | Financial Accountant | Nottingham, Nottinghamshire | posted: 2026-11-17 | note: via Reed
 
 - [ ] https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400097174 | Sainsbury's | Finance Analyst - Supplier Planning (12M FTC) | London, London, United Kingdom | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-octus-4474602560 | Octus | Credit Analyst | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-4354-at-wade-macdonald-4490873310 | Wade Macdonald | Management Accountant (4354) | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/front-office-treasury-analyst-at-brewer-morris-4490862737 | Brewer Morris | Front Office Treasury Analyst | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
 
 ## Processed

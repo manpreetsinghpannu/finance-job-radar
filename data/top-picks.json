@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:07:51.362Z",
+ "generated_at": "2026-11-18T10:07:15.520Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 90,
+   "matching": 91,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -5232,6 +5232,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-at-octus-4474602560": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-4354-at-wade-macdonald-4490873310": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/front-office-treasury-analyst-at-brewer-morris-4490862737": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
   }
  }
 }
