@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:33:16.017Z",
+ "generated_at": "2026-11-18T14:04:02.103Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 217,
+   "matching": 218,
    "picks": [
     {
      "title": "Finance Analyst (FP&A)",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 75,
+   "matching": 74,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -3184,11 +3184,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 7
   },
-  "https://www.linkedin.com/jobs/view/junior-analyst-corporate-finance-deals-at-kobalt-music-4490503593": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 24
-  },
   "https://www.linkedin.com/jobs/view/commercial-planning-forecasting-accountant-at-hargreaves-land-4489283547": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5373,6 +5368,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers/job/Edinburgh/Finance-Business-Partner---FP-A---12-month-fixed-term-contract_R0004642": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 27
   }
  }
 }
