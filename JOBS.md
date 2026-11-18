@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 18 Nov, 02:07** (UK time) · **994 open roles** at 558 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 18 Nov, 03:08** (UK time) · **995 open roles** at 558 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 18 Nov, 02:04** · hourly scan · checked 201 boards · **1 new role**
+**Wed 18 Nov, 03:04** · hourly scan · checked 201 boards · **2 new roles**
 
-### Credit CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-18 | [Risk Analyst, Private Markets](https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Risk-Analyst--Private-Markets_R0074255) | abrdn | Edinburgh | ❔ |
+| 2026-11-18 | [Financial Planning Graduate Trainee - September 2027](https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-september-2027-at-targetjobs-uk-4491454647) | targetjobs UK | Milton Keynes, England, United Kingdom | ❔ |
+
+### Real Estate CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Associate, Real Estate Valuation, Other Assurance](https://careers.ey.com/ey/job/Associate%2C-Real-Estate-Valuation%2C-Other-Assurance-048583/1137543501/) | EY |  | ✅ |
 
 ## Top picks for each CV
 
@@ -27,7 +33,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
 2. [Commercial Finance Analyst](https://www.adzuna.co.uk/jobs/details/5968001043) · Avove · UK · posted 2026-11-16 · ✅
 
-**Credit CV** (91 matching)
+**Credit CV** (90 matching)
 
 1. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-4489791899) · CFP Energy · London Area, United Kingdom · posted 2026-11-16 · ✅
@@ -37,7 +43,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 2. [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107014) · PIMCO · London, GBR · posted 2026-11-17 · ✅
 
-**Investment (IB / PE) CV** (73 matching)
+**Investment (IB / PE) CV** (74 matching)
 
 1. [Investment Banking Associate (FIG M&A) Advisory](https://www.linkedin.com/jobs/view/investment-banking-associate-fig-m-a-advisory-at-dartmouth-partners-4490916163) · Dartmouth Partners · Greater London, England, United Kingdom · posted 2026-11-16 · ✅
 2. [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) · eFinancialCareers · London · ✅
@@ -47,7 +53,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) · Hargreaves Lansdown · Bristol - Welcome Building · posted 2026-11-16 · ✅
 2. [Commercial Strategy Associate](https://ig.wd103.myworkdayjobs.com/EXT_IG/job/City-of-London---United-Kingdom/Commercial-Strategy-Associate_R_17859) · IG Group · City of London - United Kingdom · posted 2026-11-17 · ✅
 
-**Real Estate CV** (28 matching)
+**Real Estate CV** (29 matching)
 
 1. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
 2. [Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695) · Rothschild & Co · London · posted 2026-11-12 · ✅
@@ -62,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<details>
+<summary><b>03:04</b> · hourly scan · <b>2 new</b> → Finance 1 · Real Estate 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-18 | [Financial Planning Graduate Trainee - September 2027](https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-september-2027-at-targetjobs-uk-4491454647) | targetjobs UK | Milton Keynes, England, United Kingdom | ❔ |
+
+#### Real Estate CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Associate, Real Estate Valuation, Other Assurance](https://careers.ey.com/ey/job/Associate%2C-Real-Estate-Valuation%2C-Other-Assurance-048583/1137543501/) | EY |  | ✅ |
+
+</details>
 
 <details>
 <summary><b>02:04</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -2656,16 +2679,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 03:07, 02:21</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (539)](#finance-fpa-cv-539) · [Credit (131)](#credit-cv-131) · [Equity (51)](#equity-cv-51) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (17)](#consulting-cv-17) · [Real Estate (17)](#real-estate-cv-17) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (113)](#other-fits-no-cv-closely-may-still-be-worth-a-look-113)
+Everything matched so far, newest first within each CV: [Finance (540)](#finance-fpa-cv-540) · [Credit (130)](#credit-cv-130) · [Equity (51)](#equity-cv-51) · [Investment (100)](#investment-ib--pe-cv-100) · [Consulting (17)](#consulting-cv-17) · [Real Estate (18)](#real-estate-cv-18) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (113)](#other-fits-no-cv-closely-may-still-be-worth-a-look-113)
 
-### Finance (FP&A) CV: 539
+### Finance (FP&A) CV: 540
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-18 | [Financial Planning Graduate Trainee - September 2027](https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-september-2027-at-targetjobs-uk-4491454647) | targetjobs UK | Milton Keynes, England, United Kingdom | ❔ |
 | 2026-11-17 | [FP&A Analyst, Europe](https://www.linkedin.com/jobs/view/fp-a-analyst-europe-at-univers-4490195978) | Univers | London, England, United Kingdom | ✅ |
 | 2026-11-17 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-itsu-4491574598) | itsu | London, England, United Kingdom | ✅ |
 | 2026-11-17 | [SodaStream: FP&A Analyst](https://www.adzuna.co.uk/jobs/details/5969244687) | PepsiCo | Bloomsbury, Central London | ✅ |
@@ -3206,7 +3228,7 @@ Everything matched so far, newest first within each CV: [Finance (539)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 131
+### Credit CV: 130
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3308,7 +3330,6 @@ Everything matched so far, newest first within each CV: [Finance (539)](#finance
 | — | [Debt Advisory - Analyst - eFinancialCareers](https://www.reed.co.uk/jobs/debt-advisory-analyst-efinancialcareers/57547309) | eFinancialCareers | London | ✅ |
 | 2026-11-09 | [Security Risk Analyst](https://www.linkedin.com/jobs/view/security-risk-analyst-at-nominet-4487933171) | Nominet | Oxford, England, United Kingdom | ✅ |
 | 2026-11-09 | [Credit and Collections Analyst](https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-vonage-4480962783) | Vonage | London, England, United Kingdom | ❔ |
-| 2026-11-09 | [Credit Officer - C12 - LONDON](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Credit-Officer---C12---LONDON_261007635) | Citi | London United Kingdom | ✅ |
 | 2026-11-09 | [Controller, Acumen Ventures Debt Partners Limited](https://www.linkedin.com/jobs/view/controller-acumen-ventures-debt-partners-limited-at-acumen-4487975520) | Acumen | London, England, United Kingdom | ✅ |
 | 2026-11-08 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-arcadis-4461487070) | Arcadis | York, England, United Kingdom | ✅ |
 | — | [Corporate Banking Associate - Citi](https://www.reed.co.uk/jobs/corporate-banking-associate-citi/57534639) | eFinancialCareers | London | ✅ |
@@ -3525,10 +3546,11 @@ Everything matched so far, newest first within each CV: [Finance (539)](#finance
 | 2026-10-07 | [Oracle ERP Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Oracle-ERP-Finance-Transformation-Consultant_R00361406) | Accenture | London | ❔ |
 | 2026-10-06 | [Intercompany Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Intercompany-Finance-Transformation-Consultant_R00359314) | Accenture | London | ❔ |
 
-### Real Estate CV: 17
+### Real Estate CV: 18
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| — | [Associate, Real Estate Valuation, Other Assurance](https://careers.ey.com/ey/job/Associate%2C-Real-Estate-Valuation%2C-Other-Assurance-048583/1137543501/) | EY |  | ✅ |
 | 2026-11-17 | [Investment Analyst - Real Estate Private Equity](https://www.linkedin.com/jobs/view/investment-analyst-real-estate-private-equity-at-belmont-search-ltd-4491177792) | Belmont Search Ltd | London Area, United Kingdom | ❔ |
 | 2026-11-16 | [Graduate Analyst - Puma Property Finance](https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-targetjobs-uk-4490269019) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-16 | [Analyst, Asset Management](https://www.linkedin.com/jobs/view/analyst-asset-management-at-greystar-international-4489799344) | Greystar | London Area, United Kingdom | ✅ |
@@ -3699,10 +3721,11 @@ Everything matched so far, newest first within each CV: [Finance (539)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>83 roles taken off the list because the firm closed the posting</summary>
+<summary>82 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 18 Nov, 03:05 | Credit Officer - C12 - LONDON | Citi |
 | Wed 18 Nov, 02:07 | Management Accountant | Royal United Hospitals Bath NHS Foundation Trust |
 | Wed 18 Nov, 01:08 | Quantitative Researcher - Hedge Fund | Statera Talent |
 | Wed 18 Nov, 00:05 | Graduate Finance Broker Programme - September 2027 | Vecta |
@@ -3784,7 +3807,5 @@ Everything matched so far, newest first within each CV: [Finance (539)](#finance
 | Wed 11 Nov, 11:08 | Investment Analyst | Perch Group |
 | Wed 11 Nov, 11:08 | Graduate Investment Analyst | Perch Group |
 | Wed 11 Nov, 09:59 | Associate - Strategic Advisory (Industrials) | PJT Partners |
-| Wed 11 Nov, 03:07 | Experienced Financial Analyst, Financial and Valuation Advisory - London | Houlihan Lokey |
-| Wed 11 Nov, 03:07 | Accountant (Elite Financial Services Firm) - Up to £55k Base + Bonus! - London | Hunter Bond |
 
 </details>

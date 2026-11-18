@@ -1425,4 +1425,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Risk-Analyst--Private-Markets_R0074255 | abrdn | Risk Analyst, Private Markets | Edinburgh | posted: 2026-11-18
 
+- [ ] https://careers.ey.com/ey/job/Associate%2C-Real-Estate-Valuation%2C-Other-Assurance-048583/1137543501/ | EY | Associate, Real Estate Valuation, Other Assurance
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-september-2027-at-targetjobs-uk-4491454647 | targetjobs UK | Financial Planning Graduate Trainee - September 2027 | Milton Keynes, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+
 ## Processed

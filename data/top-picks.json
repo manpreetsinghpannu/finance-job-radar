@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T02:07:44.776Z",
+ "generated_at": "2026-11-18T03:08:13.037Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 91,
+   "matching": 90,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 73,
+   "matching": 74,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -186,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 28,
+   "matching": 29,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -2002,11 +2002,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
-  },
-  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Credit-Officer---C12---LONDON_261007635": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 8
   },
   "https://www.linkedin.com/jobs/view/associate-commercial-real-estate-debt-london-at-cvc-marathon-4409579927": {
    "id": "real_estate",
@@ -5217,6 +5212,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://careers.ey.com/ey/job/Associate%2C-Real-Estate-Valuation%2C-Other-Assurance-048583/1137543501/": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-september-2027-at-targetjobs-uk-4491454647": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
