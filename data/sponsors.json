@@ -87,6 +87,11 @@
    "register_name": "AXA UK Plc",
    "match": "exact"
   },
+  "Aberdeen": {
+   "licensed": true,
+   "register_name": "Aberdeen Group Plc",
+   "match": "exact"
+  },
   "Abound": {
    "licensed": false,
    "register_name": null,

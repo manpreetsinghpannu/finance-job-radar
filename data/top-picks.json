@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:07:48.549Z",
+ "generated_at": "2026-11-18T01:09:20.742Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 90,
+   "matching": 91,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 72,
+   "matching": 73,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -3888,11 +3888,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/quantitative-researcher-hedge-fund-at-statera-talent-4491066165": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 7
-  },
   "https://www.reed.co.uk/jobs/quantitative-analyst/57568736": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -5217,6 +5212,11 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/risk-analyst-private-markets-at-aberdeen-4491776243": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
   }
  }
 }

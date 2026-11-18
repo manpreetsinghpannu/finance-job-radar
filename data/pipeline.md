@@ -1421,5 +1421,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/pricing-analyst-container-shipping-asia-europe-trade/57579945 | Ocean Network Express (Europe) Ltd | Pricing Analyst, Container Shipping, Asia Europe Trade | London | posted: 2026-11-16 | note: via Reed
 
 - [ ] https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070 | Hargreaves Lansdown | Strategy Analyst | Bristol - Welcome Building | posted: 2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-private-markets-at-aberdeen-4491776243 | Aberdeen | Risk Analyst, Private Markets | Edinburgh, Scotland, United Kingdom | posted: 2026-11-17 | note: via LinkedIn
 
 ## Processed
