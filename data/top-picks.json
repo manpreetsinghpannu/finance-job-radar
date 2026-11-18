@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:09:07.607Z",
+ "generated_at": "2026-11-18T13:33:16.017Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 92,
+   "matching": 93,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 74,
+   "matching": 75,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -4709,11 +4709,6 @@
    "cv": "Credit CV",
    "score": 19
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-maceo-search-limited-4490143167": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 15
-  },
   "https://www.reed.co.uk/jobs/futures-macro-quant-researcher-london-base-bonus/57575816": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -5343,6 +5338,41 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-alexander-chapman-4492041100": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-leading-private-credit-investor-london-uk-at-per-4483694635": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/debt-capital-markets-analyst-at-together-4492034173": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.s1jobs.com/job/assistant-quantity-surveyor-127773738": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/graduate-quantity-surveyor-assistant-quantity-surveyor-127773737": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/regional-financial-controller-127773735": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127773727": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

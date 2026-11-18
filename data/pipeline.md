@@ -1459,5 +1459,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-heap-co-accountancy-finance-recruitment-specialists-4490882748 | Heap & Co - Accountancy & Finance Recruitment Specialists | Management Accountant | Royston, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-alf-recruit-4490882790 | ALF Recruit | Management Accountant | Rochdale, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/graduate-junior-practice-accountant/57587350 | Mitchell Adam | Graduate / Junior Practice Accountant | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-alexander-chapman-4492041100 | Alexander Chapman | Investment Analyst | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-leading-private-credit-investor-london-uk-at-per-4483694635 | PER | Fund Accountant, Leading Private Credit Investor, London, UK | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/debt-capital-markets-analyst-at-together-4492034173 | Together | Debt Capital Markets Analyst | Cheadle, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/assistant-quantity-surveyor-127773738 | Clarkson Owens Recruitment Limited | Assistant Quantity Surveyor | South Lanarkshire, Scotland | posted: 2026-11-18 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/graduate-quantity-surveyor-assistant-quantity-surveyor-127773737 | Clarkson Owens Recruitment Limited | Graduate Quantity Surveyor Assistant Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-18 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/regional-financial-controller-127773735 | Office Angels Limited | Regional Financial Controller | West Lothian, Scotland | posted: 2026-11-18 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127773727 | CONTRACT SCOTLAND LIMITED | Quantity Surveyor | Highland, Scotland | posted: 2026-11-18 | note: via S1Jobs
 
 ## Processed

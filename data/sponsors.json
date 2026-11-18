@@ -892,6 +892,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Clarkson Owens Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ClearBank": {
    "licensed": true,
    "register_name": "ClearBank Group Holdings Limited",
@@ -2677,6 +2682,11 @@
    "register_name": "Octus Intelligence Limited",
    "match": "alias"
   },
+  "Office Angels Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ohme": {
    "licensed": true,
    "register_name": "Ohme Operations UK Limited",
@@ -3666,6 +3676,11 @@
    "licensed": true,
    "register_name": "Tide Platform Ltd",
    "match": "alias"
+  },
+  "Together": {
+   "licensed": true,
+   "register_name": "Together Group Holdings Limited",
+   "match": "exact"
   },
   "Totum Partners": {
    "licensed": false,
