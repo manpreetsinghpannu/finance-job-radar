@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:09:21.616Z",
+ "generated_at": "2026-11-18T19:09:24.968Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 95,
+   "matching": 94,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 76,
+   "matching": 77,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 29,
+   "matching": 28,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -779,11 +779,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 22
-  },
-  "https://www.linkedin.com/jobs/view/credit-risk-underwriter-structured-lending-at-morgan-mckinley-4486985902": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 24
   },
   "https://www.linkedin.com/jobs/view/goldman-sachs-alternatives-private-credit-investing-analyst-london-at-goldman-sachs-4479147204": {
    "id": "credit",
@@ -5584,6 +5579,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/M-A-Partner_RQ116396-2": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-credit-investments-group-at-ubs-4491870349": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-lending-at-jss-4490868979": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
   }
  }
 }

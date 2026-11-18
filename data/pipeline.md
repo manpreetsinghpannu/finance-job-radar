@@ -1520,4 +1520,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/finance-business-partner/57589916 | Robertson Bell | Finance Business Partner | Greater Manchester, Lancashire | note: via Reed
 - [ ] https://www.s1jobs.com/job/financial-controller-127773943 | Cooper Parry Finance Recruitment | Financial Controller | Fife, Scotland | posted: 2026-11-18 | note: via S1Jobs
 
+- [ ] https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/M-A-Partner_RQ116396-2 | BP | M&A Partner | United Kingdom - Sunbury | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-credit-investments-group-at-ubs-4491870349 | UBS | Research Analyst - Credit Investments Group | London, England, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-lending-at-jss-4490868979 | JSS | Financial Accountant - Lending | London Area, United Kingdom | posted: 2026-11-18 | note: via LinkedIn
+
 ## Processed
