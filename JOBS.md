@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 07:08** (UK time) · **1077 open roles** at 600 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 08:08** (UK time) · **1079 open roles** at 602 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,14 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 07:04** · hourly scan · checked 201 boards · **1 new role**
+**Thu 19 Nov, 08:04** · hourly scan · checked 201 boards · **2 new roles**
 
-### Finance (FP&A) CV: 1
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| — | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57571811) | Robert Half | Edinburgh, Midlothian | ✅ |
+| 2026-11-18 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57586994) | Accountancy Action | St. Albans, Hertfordshire | ❔ |
+| 2026-11-18 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57584753) | Faith Recruitment | Weybridge, Surrey | ❔ |
 
 ## Top picks for each CV
 
@@ -62,6 +63,18 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<details>
+<summary><b>08:04</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-18 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57586994) | Accountancy Action | St. Albans, Hertfordshire | ❔ |
+| 2026-11-18 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57584753) | Faith Recruitment | Weybridge, Surrey | ❔ |
+
+</details>
 
 <details>
 <summary><b>07:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2756,13 +2769,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 09:08, 08:57, 08:08, 07:08</sub>
+<sub>Nothing new at: 09:08, 08:57, 08:08</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (589)](#finance-fpa-cv-589) · [Credit (137)](#credit-cv-137) · [Equity (61)](#equity-cv-61) · [Investment (104)](#investment-ib--pe-cv-104) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (120)](#other-fits-no-cv-closely-may-still-be-worth-a-look-120)
+Everything matched so far, newest first within each CV: [Finance (591)](#finance-fpa-cv-591) · [Credit (137)](#credit-cv-137) · [Equity (61)](#equity-cv-61) · [Investment (104)](#investment-ib--pe-cv-104) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (120)](#other-fits-no-cv-closely-may-still-be-worth-a-look-120)
 
-### Finance (FP&A) CV: 589
+### Finance (FP&A) CV: 591
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2819,6 +2832,8 @@ Everything matched so far, newest first within each CV: [Finance (589)](#finance
 | 2026-11-18 | [Academy Trust Accountant](https://www.adzuna.co.uk/jobs/land/ad/5970405922) | RM Recruit | Balsall Heath, Birmingham | ❔ |
 | 2026-11-18 | [Financial Accountant](https://www.adzuna.co.uk/jobs/land/ad/5970263669) | Marc Daniels | Rusholme, Manchester | ❔ |
 | 2026-11-18 | [Financial Controller](https://www.s1jobs.com/job/financial-controller-127773943) | Cooper Parry Finance Recruitment | Fife, Scotland | ❔ |
+| 2026-11-18 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57586994) | Accountancy Action | St. Albans, Hertfordshire | ❔ |
+| 2026-11-18 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57584753) | Faith Recruitment | Weybridge, Surrey | ❔ |
 | 2026-11-17 | [FP&A Analyst, Europe](https://www.linkedin.com/jobs/view/fp-a-analyst-europe-at-univers-4490195978) | Univers | London, England, United Kingdom | ✅ |
 | 2026-11-17 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-itsu-4491574598) | itsu | London, England, United Kingdom | ✅ |
 | 2026-11-17 | [SodaStream: FP&A Analyst](https://www.adzuna.co.uk/jobs/details/5969244687) | PepsiCo | Bloomsbury, Central London | ✅ |

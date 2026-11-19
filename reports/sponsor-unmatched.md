@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 848 firms checked, 449 matched, 399 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 850 firms checked, 449 matched, 401 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (399)
+## Not found (401)
 
 - 7IM
 - 93 MGMT
@@ -19,6 +19,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Accenture (alias not on current register (accenture song brand uk limited))
 - Accountable Recruitment
 - Accountable Recruitment Limited
+- Accountancy Action
 - Addington Ball Recruitment Ltd
 - Adyen
 - Agility
@@ -127,6 +128,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Everet Marsh
 - Executive Talent Solutions
 - FT Recruitment Group
+- Faith Recruitment
 - Fane Valley Cooperative Society Ltd
 - Financial Divisions
 - Finatal

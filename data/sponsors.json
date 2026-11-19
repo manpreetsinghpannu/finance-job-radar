@@ -117,6 +117,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Accountancy Action": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Achieve together": {
    "licensed": true,
    "register_name": "Achieve together Limited",
@@ -1243,6 +1248,11 @@
    "match": "exact"
   },
   "FT Recruitment Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Faith Recruitment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
