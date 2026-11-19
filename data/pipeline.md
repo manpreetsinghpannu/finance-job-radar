@@ -1564,5 +1564,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/commercial-and-investment-banking-treasury-analyst-mena-at-jpmorganchase-4492419368 | JPMorganChase | Commercial and Investment Banking - Treasury analyst (MENA) | Greater London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/m-a-analyst/57591863 | High Finance (UK) Limited T/A HFG | M&A Analyst | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/application-configuration-specialist-efront-private-markets/57591822 | Hays Specialist Recruitment Limited | Application Configuration Specialist (eFront/Private Markets) | Southampton, Hampshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/equity-research-associate-internet-coverage-global-at-greenwich-partners-4492433355 | Greenwich Partners | Equity Research Associate, Internet Coverage, Global | Greater London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed

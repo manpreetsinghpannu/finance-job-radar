@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 13:09** (UK time) · **1101 open roles** at 611 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 13:17** (UK time) · **1102 open roles** at 611 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 13:05** · hourly scan · checked 201 boards · **0 new roles**
+**Thu 19 Nov, 13:13** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Thu 19 Nov, 12:16** (13: Finance 6 · Equity 3 · Investment 4); open it in the scan log below.
+### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Equity Research Associate, Internet Coverage, Global](https://www.linkedin.com/jobs/view/equity-research-associate-internet-coverage-global-at-greenwich-partners-4492433355) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -60,6 +64,17 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Thursday 19 November
 
 <sub>Nothing new at: 13:05</sub>
+
+<details>
+<summary><b>13:13</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Equity Research Associate, Internet Coverage, Global](https://www.linkedin.com/jobs/view/equity-research-associate-internet-coverage-global-at-greenwich-partners-4492433355) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>12:16</b> · hourly scan · <b>13 new</b> → Finance 6 · Equity 3 · Investment 4</summary>
@@ -2730,7 +2745,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (604)](#finance-fpa-cv-604) · [Credit (139)](#credit-cv-139) · [Equity (63)](#equity-cv-63) · [Investment (108)](#investment-ib--pe-cv-108) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (120)](#other-fits-no-cv-closely-may-still-be-worth-a-look-120)
+Everything matched so far, newest first within each CV: [Finance (604)](#finance-fpa-cv-604) · [Credit (139)](#credit-cv-139) · [Equity (64)](#equity-cv-64) · [Investment (108)](#investment-ib--pe-cv-108) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (120)](#other-fits-no-cv-closely-may-still-be-worth-a-look-120)
 
 ### Finance (FP&A) CV: 604
 
@@ -3485,12 +3500,13 @@ Everything matched so far, newest first within each CV: [Finance (604)](#finance
 | 2026-10-27 | [Graduate Credit Policy Analyst](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Policy-Analyst_JR_10039776-1) | Ayvens | Bristol CEC | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 63
+### Equity CV: 64
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-19 | [Equity Research Analyst, OnLine Gaming, Tier One Investment Bank](https://www.linkedin.com/jobs/view/equity-research-analyst-online-gaming-tier-one-investment-bank-at-greenwich-partners-4492403912) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Equity Research Analyst - Partner level](https://www.linkedin.com/jobs/view/equity-research-analyst-partner-level-at-spectacled-bear-ai-4492430144) | Spectacled Bear AI | England, United Kingdom | ❔ |
+| 2026-11-19 | [Equity Research Associate, Internet Coverage, Global](https://www.linkedin.com/jobs/view/equity-research-associate-internet-coverage-global-at-greenwich-partners-4492433355) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | 2026-11-18 | [Equity Research Analyst – Japanese Equities](https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%93-japanese-equities-at-ubs-4483679254) | UBS | London, England, United Kingdom | ❔ |
 | 2026-11-18 | [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) | Rothschild & Co | London | ✅ |
 | 2026-11-18 | [Research Analyst - Credit Investments Group](https://www.linkedin.com/jobs/view/research-analyst-credit-investments-group-at-ubs-4491870349) | UBS | London, England, United Kingdom | ❔ |
@@ -3876,7 +3892,7 @@ Everything matched so far, newest first within each CV: [Finance (604)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>87 roles taken off the list because the firm closed the posting</summary>
+<summary>85 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3965,7 +3981,5 @@ Everything matched so far, newest first within each CV: [Finance (604)](#finance
 | Thu 12 Nov, 17:09 | FP&A Analyst | NET-A-PORTER |
 | Thu 12 Nov, 16:09 | Graduate Analyst - Puma Property Finance | Puma Capital Group |
 | Thu 12 Nov, 16:08 | Graduate Trainee - Risk Modelling Specialist | NatWest Group |
-| Thu 12 Nov, 13:09 | Associate - Corporate Finance (Oil & Gas) | Houlihan Lokey |
-| Thu 12 Nov, 13:09 | Financial Analyst - Corporate Finance (Oil & Gas) | Houlihan Lokey |
 
 </details>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:09:18.526Z",
+ "generated_at": "2026-11-19T13:17:36.215Z",
  "order": [
   "finance",
   "credit",
@@ -5754,6 +5754,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": -2
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-associate-internet-coverage-global-at-greenwich-partners-4492433355": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 20
   }
  }
 }
