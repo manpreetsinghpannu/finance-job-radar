@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 19:08** (UK time) · **1155 open roles** at 646 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 20:08** (UK time) · **1156 open roles** at 647 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 19:05** · hourly scan · checked 201 boards · **0 new roles**
+**Thu 19 Nov, 20:04** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Thu 19 Nov, 18:05** (31: Finance 24 · Credit 3 · Equity 1 · Investment 1 · Other 2); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-allianz-commercial-4492498788) | Allianz Commercial | London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<details>
+<summary><b>20:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-allianz-commercial-4492498788) | Allianz Commercial | London, England, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 19:05</sub>
 
@@ -2722,52 +2737,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 21:07</sub>
 
-<details>
-<summary><b>20:07</b> · hourly scan · <b>3 new</b> → Finance 2 · Investment 1</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-handle-recruitment-4489294382) | Handle Recruitment | London, England, United Kingdom | ✅ |
-| 2026-11-12 | [Commercial Planning & Forecasting Accountant](https://www.linkedin.com/jobs/view/commercial-planning-forecasting-accountant-at-hargreaves-land-4489283547) | Hargreaves Land | Newcastle Upon Tyne, England, United Kingdom | ❔ |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Investment Banking Analyst, Consumer & Retail - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-consumer-retail-citi/57563014) | eFinancialCareers | London | ✅ |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
-<details>
-<summary><b>19:14</b> · hourly scan · <b>6 new</b> → Finance 5 · Equity 1</summary>
-
-#### Finance (FP&A) CV: 5
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Finance (FP&A) Analyst - 12 month fixed-term contract](https://www.linkedin.com/jobs/view/finance-fp-a-analyst-12-month-fixed-term-contract-at-capital-one-4482153426) | Capital One | Nottingham, England, United Kingdom | ✅ |
-| 2026-11-12 | [Remote CCAB Finance Analyst – Public Sector Risk](https://scotjobsnet.co.uk/job/remote-ccab-finance-analyst-public-sector-risk-2/) | via ScotJobsNet | Scotland, Scotland | ❔ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57563968) | Broster Buchanan | Milton Keynes, Buckinghamshire | ❔ |
-| 2026-11-12 | [Remote Associate Accountant – Healthcare & Growth](https://scotjobsnet.co.uk/job/remote-associate-accountant-healthcare-growth-2/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
-| 2026-11-12 | [Technical Accountant](https://scotjobsnet.co.uk/job/technical-accountant/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Portfolio Analyst , Portfolio Implementation & Trade Execution , IAD , Wealth Management - JJ Search](https://www.reed.co.uk/jobs/portfolio-analyst--portfolio-implementation-trade-execution--iad--wealth-management-jj-search/57564151) | eFinancialCareers | London | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (639)](#finance-fpa-cv-639) · [Credit (146)](#credit-cv-146) · [Equity (65)](#equity-cv-65) · [Investment (114)](#investment-ib--pe-cv-114) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (124)](#other-fits-no-cv-closely-may-still-be-worth-a-look-124)
+Everything matched so far, newest first within each CV: [Finance (640)](#finance-fpa-cv-640) · [Credit (146)](#credit-cv-146) · [Equity (65)](#equity-cv-65) · [Investment (114)](#investment-ib--pe-cv-114) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (124)](#other-fits-no-cv-closely-may-still-be-worth-a-look-124)
 
-### Finance (FP&A) CV: 639
+### Finance (FP&A) CV: 640
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2789,6 +2763,7 @@ Everything matched so far, newest first within each CV: [Finance (639)](#finance
 | 2026-11-19 | [Junior Finance Business Partner](https://www.linkedin.com/jobs/view/junior-finance-business-partner-at-fera-science-ltd-4492465384) | Fera Science Ltd. | York, England, United Kingdom | ✅ |
 | 2026-11-19 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-murphy-4492422425) | Murphy | London, England, United Kingdom | ❔ |
 | 2026-11-19 | [FP&A Analyst](https://www.adzuna.co.uk/jobs/land/ad/5971580575) | J. Murphy & Sons Ltd | London, UK | ❔ |
+| 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-allianz-commercial-4492498788) | Allianz Commercial | London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-alexander-daniels-finance-recruitment-4492432414) | Alexander Daniels Finance Recruitment | Willenhall, England, United Kingdom | ❔ |
 | 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-phmg-4491615747) | PHMG | Manchester, England, United Kingdom | ❔ |
 | 2026-11-19 | [FP&A Analyst](https://www.adzuna.co.uk/jobs/details/5971889155) | BBC UK | UK | ❔ |
@@ -3965,7 +3940,7 @@ Everything matched so far, newest first within each CV: [Finance (639)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>86 roles taken off the list because the firm closed the posting</summary>
+<summary>85 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -4054,6 +4029,5 @@ Everything matched so far, newest first within each CV: [Finance (639)](#finance
 | Fri 13 Nov, 01:08 | Associate, Global Credit | RBC |
 | Thu 12 Nov, 21:09 | Graduate Business Modelling Analyst - Up to £38k Base + Bonus! - London (Hybrid) - Elite Investment Firm | Hunter Bond |
 | Thu 12 Nov, 20:10 | UK Corporate Banking Graduate Programme 2027 Birmingham | Barclays |
-| Thu 12 Nov, 19:18 | Management Accountant | Global Accounting Network |
 
 </details>

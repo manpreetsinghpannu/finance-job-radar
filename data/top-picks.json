@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:08:06.813Z",
+ "generated_at": "2026-11-19T20:08:38.382Z",
  "order": [
   "finance",
   "credit",
@@ -6024,6 +6024,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-allianz-commercial-4492498788": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
   }
  }
 }

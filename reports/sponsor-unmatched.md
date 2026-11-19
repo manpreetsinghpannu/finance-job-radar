@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 894 firms checked, 460 matched, 434 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 895 firms checked, 460 matched, 435 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (434)
+## Not found (435)
 
 - 7IM
 - 93 MGMT
@@ -30,6 +30,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Alf Recruit Limited
 - Alignerr
 - All About Food Ltd
+- Allianz Commercial
 - Altum Consulting
 - Ameriprise
 - Anderson Knight

@@ -212,6 +212,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Allianz Commercial": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Allianz UK": {
    "licensed": true,
    "register_name": "Allianz Insurance plc",
