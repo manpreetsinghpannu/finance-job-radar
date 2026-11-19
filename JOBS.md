@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 16:08** (UK time) · **1122 open roles** at 622 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 17:08** (UK time) · **1127 open roles** at 625 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,35 +10,40 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 16:05** · hourly scan · checked 201 boards · **7 new roles**
+**Thu 19 Nov, 17:05** · hourly scan · checked 201 boards · **7 new roles**
 
-### Finance (FP&A) CV: 5
+### Finance (FP&A) CV: 4
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-19 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-futures-4492153927) | Futures | Manchester Area, United Kingdom | ❔ |
-| — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57593086) | Accountable Recruitment | Liverpool, Merseyside | ❔ |
-| — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57593394) | Mitchell Adam | Birmingham, West Midlands (County) | ❔ |
-| 2026-11-19 | [Financial Planning & Analysis Specialist (global revenue team)](https://www.linkedin.com/jobs/view/financial-planning-analysis-specialist-global-revenue-team-at-sapiens-4492446853) | Sapiens | London, England, United Kingdom | ✅ |
-| — | [Group Development and Fixed Asset Accountant](https://www.reed.co.uk/jobs/group-development-and-fixed-asset-accountant/57593231) | hireful. | Chatham, Kent | ❔ |
+| 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-news-uk-4492461187) | News UK | Greater London, England, United Kingdom | ✅ |
+| 2026-11-19 | [Financial Analyst, Category Controlling](https://www.linkedin.com/jobs/view/financial-analyst-category-controlling-at-harman-international-4476705248) | HARMAN International | Southwater, England, United Kingdom | ✅ |
+| 2026-11-19 | [Financial Planning and Reporting Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-reporting-analyst-at-babcock-international-group-4491623657) | Babcock International Group | Bristol, England, United Kingdom | ✅ |
+| 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-lucy-developments-4491629501) | Lucy Developments | Oxford, England, United Kingdom | ❔ |
 
 ### Equity CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| — | [Portfolio Analyst - Part Time - 21 hours per week](https://www.reed.co.uk/jobs/portfolio-analyst-part-time-21-hours-per-week/57593055) | Great Places Housing Association | Manchester, Lancashire | ❔ |
+| 2026-11-19 | [Investment Analyst, Early stage investments, Venture Capital/ Private Family Office](https://www.linkedin.com/jobs/view/investment-analyst-early-stage-investments-venture-capital-private-family-office-at-greenwich-partners-4492175259) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Analyst, Technology M&A](https://www.linkedin.com/jobs/view/analyst-technology-m-a-at-lincoln-international-4448243050) | Lincoln International | London, England, United Kingdom | ✅ |
 
 ### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-19 | [Graduate Finance Trainee](https://www.linkedin.com/jobs/view/graduate-finance-trainee-at-sanctuary-graduates-apprentices-4492168599) | Sanctuary Graduates & Apprentices | Newcastle Upon Tyne, England, United Kingdom | ❔ |
+| — | [Graduate Finance Assistant](https://www.reed.co.uk/jobs/graduate-finance-assistant/57593634) | eFinancialCareers | Oxford, Oxfordshire | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (234 matching)
+**Finance (FP&A) CV** (236 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Commercial Finance Analyst](https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002) · Tandem Bank · Cardiff, United Kingdom · posted 2026-11-18 · ✅
@@ -53,7 +58,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) · Rothschild & Co · London · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 
-**Investment (IB / PE) CV** (79 matching)
+**Investment (IB / PE) CV** (80 matching)
 
 1. [Investment Banking (M&A) Associate - Business Services](https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759) · Dartmouth Partners · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) · eFinancialCareers · London · ✅
@@ -68,7 +73,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
 2. [Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695) · Rothschild & Co · London · posted 2026-11-12 · ✅
 
-**Fund CV (written for India; tweak the header for UK roles)** (34 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (35 matching)
 
 1. [Interim Investment Operations Analyst 9 month FTC](https://www.reed.co.uk/jobs/interim-investment-operations-analyst-9-month-ftc/57563078) · eFinancialCareers · London · posted 2026-11-13 · ✅
 2. [Investment Operations Associate – Model Portfolio Service (MPS)](https://www.linkedin.com/jobs/view/investment-operations-associate-%E2%80%93-model-portfolio-service-mps-at-cameron-kennedy-4480650397) · Cameron Kennedy · London Area, United Kingdom · posted 2026-11-17 · ✅
@@ -78,6 +83,40 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<details>
+<summary><b>17:05</b> · hourly scan · <b>7 new</b> → Finance 4 · Equity 1 · Investment 1 · Other 1</summary>
+
+#### Finance (FP&A) CV: 4
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-news-uk-4492461187) | News UK | Greater London, England, United Kingdom | ✅ |
+| 2026-11-19 | [Financial Analyst, Category Controlling](https://www.linkedin.com/jobs/view/financial-analyst-category-controlling-at-harman-international-4476705248) | HARMAN International | Southwater, England, United Kingdom | ✅ |
+| 2026-11-19 | [Financial Planning and Reporting Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-reporting-analyst-at-babcock-international-group-4491623657) | Babcock International Group | Bristol, England, United Kingdom | ✅ |
+| 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-lucy-developments-4491629501) | Lucy Developments | Oxford, England, United Kingdom | ❔ |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Investment Analyst, Early stage investments, Venture Capital/ Private Family Office](https://www.linkedin.com/jobs/view/investment-analyst-early-stage-investments-venture-capital-private-family-office-at-greenwich-partners-4492175259) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Analyst, Technology M&A](https://www.linkedin.com/jobs/view/analyst-technology-m-a-at-lincoln-international-4448243050) | Lincoln International | London, England, United Kingdom | ✅ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Graduate Finance Assistant](https://www.reed.co.uk/jobs/graduate-finance-assistant/57593634) | eFinancialCareers | Oxford, Oxfordshire | ✅ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+
+</details>
 
 <details>
 <summary><b>16:05</b> · hourly scan · <b>7 new</b> → Finance 5 · Equity 1 · Other 1</summary>
@@ -1082,7 +1121,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>11:05</b> · hourly scan · <b>5 new</b> → Finance 2 · Equity 1 · Consulting 1 · Other 1</summary>
+<summary><b>11:05</b> · hourly scan · <b>4 new</b> → Finance 2 · Consulting 1 · Other 1</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -1090,12 +1129,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57581779) | AD Finance | Birmingham, West Midlands (County) | ❔ |
 | — | [Financial Controller](https://www.reed.co.uk/jobs/financial-controller/57581792) | SENSIBAL RECRUITMENT LTD | London | ❔ |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [Equity Research Associate, Pharma coverage, Global Bank - Strategy consultant wanted](https://www.linkedin.com/jobs/view/equity-research-associate-pharma-coverage-global-bank-strategy-consultant-wanted-at-greenwich-partners-4490442054) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 
 #### Consulting CV: 1
 
@@ -1109,7 +1142,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | 2026-11-17 | [Finance Graduate](https://www.linkedin.com/jobs/view/finance-graduate-at-harbour-energy-4491136603) | Harbour Energy | London, England, United Kingdom | ✅ |
 
-<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>3 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2728,66 +2761,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>17:08</b> · hourly scan · <b>5 new</b> → Credit 3 · Equity 1 · Other 1</summary>
-
-#### Credit CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Graduate Credit Risk Analyst](https://www.linkedin.com/jobs/view/graduate-credit-risk-analyst-at-radius-4490370202) | Radius | Crewe, England, United Kingdom | ✅ |
-| 2026-11-12 | [EMEIA Credit Analyst](https://www.linkedin.com/jobs/view/emeia-credit-analyst-at-apple-4489264414) | Apple | London, England, United Kingdom | ✅ |
-| — | [Private Credit - Operations Associate](https://www.reed.co.uk/jobs/private-credit-operations-associate/57563640) | Robert Walters | South West London, London | ✅ |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Equity Capital Markets, Analyst](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/Equity-Capital-Markets--Analyst_10079971-WD-1) | MUFG | London | ✅ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [FX Options Trader - Citi](https://www.reed.co.uk/jobs/fx-options-trader-citi/57563020) | eFinancialCareers | London | ✅ |
-
-<sub>3 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
-<details>
-<summary><b>16:08</b> · hourly scan · <b>8 new</b> → Finance 5 · Credit 2 · Fund 1</summary>
-
-#### Finance (FP&A) CV: 5
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Financial Analyst](https://www.reed.co.uk/jobs/financial-analyst/57563061) | eFinancialCareers | London | ✅ |
-| 2026-11-12 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-michael-page-4490348626) | Michael Page | Altrincham, England, United Kingdom | ✅ |
-| 2026-11-12 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-fox-s-burton-s-companies-fbc-uk-4454765293) | Fox's Burton's Companies (FBC) UK | Blackpool, England, United Kingdom | ✅ |
-| 2026-11-12 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-manpowergroup-talent-solutions-4489246878) | ManpowerGroup Talent Solutions | Coupar Angus, Scotland, United Kingdom | ❔ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57563319) | Morgan Hunt Recruitment | East London, London | ❔ |
-
-#### Credit CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Quantitative Analyst - Market Risk Models - London - Inside IR35 - Hybrid 3 Days Office](https://www.reed.co.uk/jobs/quantitative-analyst-market-risk-models-london-inside-ir35-hybrid-3-days-office/57563067) | eFinancialCareers | London | ✅ |
-| 2026-11-12 | [Associate - Non-Core & Loan Servicing, CIB Debt Products](https://lbg.wd3.myworkdayjobs.com/lbg_careers/job/Edinburgh/Associate---Non-Core---Loan-Servicing--CIB-Debt-Products_165877-2) | Lloyds Banking Group | Edinburgh | ✅ |
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-gp-fund-solutions-4481196846) | GP Fund Solutions | Brighton, England, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (614)](#finance-fpa-cv-614) · [Credit (143)](#credit-cv-143) · [Equity (65)](#equity-cv-65) · [Investment (112)](#investment-ib--pe-cv-112) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (121)](#other-fits-no-cv-closely-may-still-be-worth-a-look-121)
+Everything matched so far, newest first within each CV: [Finance (617)](#finance-fpa-cv-617) · [Credit (143)](#credit-cv-143) · [Equity (65)](#equity-cv-65) · [Investment (113)](#investment-ib--pe-cv-113) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (122)](#other-fits-no-cv-closely-may-still-be-worth-a-look-122)
 
-### Finance (FP&A) CV: 614
+### Finance (FP&A) CV: 617
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2796,8 +2774,11 @@ Everything matched so far, newest first within each CV: [Finance (614)](#finance
 | 2026-11-19 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-futures-4492153927) | Futures | Manchester Area, United Kingdom | ❔ |
 | — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57591514) | CMC Consulting Limited | London | ❔ |
 | — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57593086) | Accountable Recruitment | Liverpool, Merseyside | ❔ |
+| 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-news-uk-4492461187) | News UK | Greater London, England, United Kingdom | ✅ |
 | 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-boots-uk-4492411933) | Boots UK | Nottingham, England, United Kingdom | ✅ |
 | 2026-11-19 | [Project Financial Analyst I/II (UK/Serbia)](https://www.linkedin.com/jobs/view/project-financial-analyst-i-ii-uk-serbia-at-worldwide-clinical-trials-4484149684) | Worldwide Clinical Trials | England, United Kingdom | ✅ |
+| 2026-11-19 | [Financial Analyst, Category Controlling](https://www.linkedin.com/jobs/view/financial-analyst-category-controlling-at-harman-international-4476705248) | HARMAN International | Southwater, England, United Kingdom | ✅ |
+| 2026-11-19 | [Financial Planning and Reporting Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-reporting-analyst-at-babcock-international-group-4491623657) | Babcock International Group | Bristol, England, United Kingdom | ✅ |
 | 2026-11-19 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-murphy-4492422425) | Murphy | London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-alexander-daniels-finance-recruitment-4492432414) | Alexander Daniels Finance Recruitment | Willenhall, England, United Kingdom | ❔ |
 | 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-phmg-4491615747) | PHMG | Manchester, England, United Kingdom | ❔ |
@@ -2809,6 +2790,7 @@ Everything matched so far, newest first within each CV: [Finance (614)](#finance
 | 2026-11-19 | [Management Accountant - Welsh Desirable](https://www.linkedin.com/jobs/view/management-accountant-welsh-desirable-at-acca-careers-4492149548) | ACCA Careers | Cardiff, Wales, United Kingdom | ❔ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-futures-4492162472) | Futures | Manchester Area, United Kingdom | ❔ |
 | — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57593394) | Mitchell Adam | Birmingham, West Midlands (County) | ❔ |
+| 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-lucy-developments-4491629501) | Lucy Developments | Oxford, England, United Kingdom | ❔ |
 | 2026-11-19 | [General Ledger (GL) Accountant](https://jobs.ashbyhq.com/smarkets/a6739603-2085-4059-b3e9-f828db2e9a64) | Smarkets | London · United Kingdom | ✅ |
 | 2026-11-19 | [Financial Planning & Analysis Specialist (global revenue team)](https://www.linkedin.com/jobs/view/financial-planning-analysis-specialist-global-revenue-team-at-sapiens-4492446853) | Sapiens | London, England, United Kingdom | ✅ |
 | 2026-11-19 | [Global Equities - Financial Reporting, Analysis & Control - Associate](https://www.linkedin.com/jobs/view/global-equities-financial-reporting-analysis-control-associate-at-jpmorganchase-4372709633) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
@@ -3395,7 +3377,6 @@ Everything matched so far, newest first within each CV: [Finance (614)](#finance
 | 2026-11-04 | [Treasury Assistant](https://job-boards.greenhouse.io/gocardless/jobs/8301377) | GoCardless | Leeds, UK | ✅ |
 | 2026-11-04 | [Statutory Reporting Accountant](https://scotjobsnet.co.uk/job/statutory-reporting-accountant/) | via ScotJobsNet | Aberdeenshire, Scotland | ❔ |
 | 2026-11-02 | [Financial Controller](https://jobs.ashbyhq.com/flagstone/448c1cb5-e1b4-4a20-a967-e6ef8ffff780) | Flagstone · startup/SME | London Office · United Kingdom · Remote | ✅ |
-| 2026-10-29 | [Commercial Analyst](https://job-boards.eu.greenhouse.io/ebury/jobs/5020371101) | Ebury | London | ✅ |
 | 2026-10-28 | [UK Financial Controller, People & Investment Consulting](https://mmc.wd1.myworkdayjobs.com/mmc/job/London---Tower-Place-West/UK-Financial-Controller--Consulting_R_365937) | Marsh McLennan | London - Tower Place West | ✅ |
 | 2026-10-27 | [FP&A Analyst](https://hiscox.wd3.myworkdayjobs.com/hiscox_external_site/job/London/FP-A-Analyst_R0020634) | Hiscox | London · York | ✅ |
 | 2026-10-27 | [Management Accountant](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Management-Accountant_JR_10041548) | Ayvens | Bristol CEC | ✅ |
@@ -3561,6 +3542,7 @@ Everything matched so far, newest first within each CV: [Finance (614)](#finance
 | 2026-11-19 | [Equity Research Analyst, OnLine Gaming, Tier One Investment Bank](https://www.linkedin.com/jobs/view/equity-research-analyst-online-gaming-tier-one-investment-bank-at-greenwich-partners-4492403912) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Equity Research Analyst - Partner level](https://www.linkedin.com/jobs/view/equity-research-analyst-partner-level-at-spectacled-bear-ai-4492430144) | Spectacled Bear AI | England, United Kingdom | ❔ |
 | 2026-11-19 | [Equity Research Associate, Internet Coverage, Global](https://www.linkedin.com/jobs/view/equity-research-associate-internet-coverage-global-at-greenwich-partners-4492433355) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
+| 2026-11-19 | [Investment Analyst, Early stage investments, Venture Capital/ Private Family Office](https://www.linkedin.com/jobs/view/investment-analyst-early-stage-investments-venture-capital-private-family-office-at-greenwich-partners-4492175259) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | — | [Portfolio Analyst - Part Time - 21 hours per week](https://www.reed.co.uk/jobs/portfolio-analyst-part-time-21-hours-per-week/57593055) | Great Places Housing Association | Manchester, Lancashire | ❔ |
 | 2026-11-18 | [Equity Research Analyst – Japanese Equities](https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%93-japanese-equities-at-ubs-4483679254) | UBS | London, England, United Kingdom | ❔ |
 | 2026-11-18 | [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) | Rothschild & Co | London | ✅ |
@@ -3576,7 +3558,6 @@ Everything matched so far, newest first within each CV: [Finance (614)](#finance
 | — | [Quantitative Researcher - Systematic Equity Long/Short](https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equity-long-short/57589315) | eFinancialCareers | London | ✅ |
 | 2026-11-17 | [Trainee Equity Research Associate - Global Investment Bank - London](https://www.linkedin.com/jobs/view/trainee-equity-research-associate-global-investment-bank-london-at-greenwich-partners-4491582257) | Greenwich Partners | London Area, United Kingdom | ❔ |
 | 2026-11-17 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107014) | PIMCO | London, GBR | ✅ |
-| 2026-11-17 | [Equity Research Associate, Pharma coverage, Global Bank - Strategy consultant wanted](https://www.linkedin.com/jobs/view/equity-research-associate-pharma-coverage-global-bank-strategy-consultant-wanted-at-greenwich-partners-4490442054) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | 2026-11-17 | [Equity Research Associate, Long Short Hedge Fund, London](https://www.linkedin.com/jobs/view/equity-research-associate-long-short-hedge-fund-london-at-greenwich-partners-4490422952) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | 2026-11-17 | [Portfolio Analyst MMH261117-4](https://www.linkedin.com/jobs/view/portfolio-analyst-mmh261117-4-at-momentum-4491142796) | Momentum | London, England, United Kingdom | ✅ |
 | 2026-11-17 | [Portfolio Analyst](https://www.linkedin.com/jobs/view/portfolio-analyst-at-momentum-4491158684) | Momentum | London, England, United Kingdom | ✅ |
@@ -3624,12 +3605,13 @@ Everything matched so far, newest first within each CV: [Finance (614)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 112
+### Investment (IB / PE) CV: 113
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-19 | [Investment Banking (M&A) Associate - Business Services](https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759) | Dartmouth Partners | London Area, United Kingdom | ✅ |
 | 2026-11-19 | [Investment Banking Associate (Telco & Digital Infra M&A)](https://www.linkedin.com/jobs/view/investment-banking-associate-telco-digital-infra-m-a-at-dartmouth-partners-4466859063) | Dartmouth Partners | London Area, United Kingdom | ✅ |
+| 2026-11-19 | [Analyst, Technology M&A](https://www.linkedin.com/jobs/view/analyst-technology-m-a-at-lincoln-international-4448243050) | Lincoln International | London, England, United Kingdom | ✅ |
 | 2026-11-19 | [M&A Analyst](https://www.linkedin.com/jobs/view/m-a-analyst-at-hfg-insurance-recruitment-4492131977) | HFG Insurance Recruitment | City Of London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Commercial and Investment Banking - Treasury analyst (MENA)](https://www.linkedin.com/jobs/view/commercial-and-investment-banking-treasury-analyst-mena-at-jpmorganchase-4492419368) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Investment Analyst - Private Equity](https://www.linkedin.com/jobs/view/investment-analyst-private-equity-at-rothstein-recruitment-4492452372) | Rothstein Recruitment | London Area, United Kingdom | ❔ |
@@ -3823,11 +3805,12 @@ Everything matched so far, newest first within each CV: [Finance (614)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 121
+### Other (fits no CV closely, may still be worth a look): 122
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-19 | [Graduate Finance Trainee](https://www.linkedin.com/jobs/view/graduate-finance-trainee-at-sanctuary-graduates-apprentices-4492168599) | Sanctuary Graduates & Apprentices | Newcastle Upon Tyne, England, United Kingdom | ❔ |
+| — | [Graduate Finance Assistant](https://www.reed.co.uk/jobs/graduate-finance-assistant/57593634) | eFinancialCareers | Oxford, Oxfordshire | ✅ |
 | 2026-11-18 | [Assistant Quantity Surveyor](https://www.s1jobs.com/job/assistant-quantity-surveyor-127773738) | Clarkson Owens Recruitment Limited | South Lanarkshire, Scotland | ❔ |
 | 2026-11-18 | [Graduate Quantity Surveyor Assistant Quantity Surveyor](https://www.s1jobs.com/job/graduate-quantity-surveyor-assistant-quantity-surveyor-127773737) | Clarkson Owens Recruitment Limited | Glasgow Area, Scotland | ❔ |
 | 2026-11-18 | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127773727) | CONTRACT SCOTLAND LIMITED | Highland, Scotland | ❔ |
@@ -3956,6 +3939,8 @@ Everything matched so far, newest first within each CV: [Finance (614)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 19 Nov, 17:06 | Equity Research Associate, Pharma coverage, Global Bank - Strategy consultant wanted | Greenwich Partners |
+| Thu 19 Nov, 17:05 | Commercial Analyst | Ebury |
 | Thu 19 Nov, 15:07 | Investment Banking - London - 2027 ReEntry Program | JPMorgan Chase |
 | Thu 19 Nov, 15:06 | Management Accountant | Nick Buick Associates |
 | Thu 19 Nov, 12:18 | Equity Research Associate, Industrials coverage, Global Bank | Greenwich Partners |
@@ -4041,7 +4026,5 @@ Everything matched so far, newest first within each CV: [Finance (614)](#finance
 | Thu 12 Nov, 17:52 | FP&A Analyst | Ayvens |
 | Thu 12 Nov, 17:52 | Financial Accountant - Insurance/Asset Management | Miryco Consultants Ltd |
 | Thu 12 Nov, 17:09 | FP&A Analyst | NET-A-PORTER |
-| Thu 12 Nov, 16:09 | Graduate Analyst - Puma Property Finance | Puma Capital Group |
-| Thu 12 Nov, 16:08 | Graduate Trainee - Risk Modelling Specialist | NatWest Group |
 
 </details>

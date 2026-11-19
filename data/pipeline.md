@@ -1590,5 +1590,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/finance-analyst/57593394 | Mitchell Adam | Finance Analyst | Birmingham, West Midlands (County) | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/portfolio-analyst-part-time-21-hours-per-week/57593055 | Great Places Housing Association | Portfolio Analyst - Part Time - 21 hours per week | Manchester, Lancashire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/group-development-and-fixed-asset-accountant/57593231 | hireful. | Group Development and Fixed Asset Accountant | Chatham, Kent | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-news-uk-4492461187 | News UK | Finance Analyst | Greater London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-category-controlling-at-harman-international-4476705248 | HARMAN International | Financial Analyst, Category Controlling | Southwater, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-reporting-analyst-at-babcock-international-group-4491623657 | Babcock International Group | Financial Planning and Reporting Analyst | Bristol, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-european-real-estate-at-higher-capital-consulting-4491635222 | Higher Capital Consulting | Investment Analyst | European Real Estate | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-early-stage-investments-venture-capital-private-family-office-at-greenwich-partners-4492175259 | Greenwich Partners | Investment Analyst, Early stage investments, Venture Capital/ Private Family Office | Greater London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-technology-m-a-at-lincoln-international-4448243050 | Lincoln International | Analyst, Technology M&A | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-lucy-developments-4491629501 | Lucy Developments | Management Accountant | Oxford, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/graduate-finance-assistant/57593634 | eFinancialCareers | Graduate Finance Assistant | Oxford, Oxfordshire | note: via Reed
 
 ## Processed

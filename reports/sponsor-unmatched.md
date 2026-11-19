@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 867 firms checked, 454 matched, 413 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 872 firms checked, 457 matched, 415 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (413)
+## Not found (415)
 
 - 7IM
 - 93 MGMT
@@ -181,6 +181,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Heap & Co - Accountancy & Finance Recruitment Specialists
 - HelloFresh
 - High Finance (UK) Limited T/A HFG
+- Higher Capital Consulting
 - HireForce
 - Hometree
 - Hoop Recruitment
@@ -230,6 +231,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lord Accounting & Finance
 - Lorien
 - Lottie
+- Lucy Developments
 - Lyreco
 - M&G FA Limited
 - MAGMAS
@@ -420,7 +422,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (51)
+## Matched automatically by close name; worth a glance (52)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
@@ -436,6 +438,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Element Materials Technology → ELEMENT MATERIALS TECHNOLOGY SHARED SERVICES LIMITED (prefix)
 - Form3 → Form3 Technology Limited (prefix)
 - Griffin → Griffin Bank Ltd (prefix)
+- HARMAN International → Harman Retail Limited (prefix)
 - Harmonic Finance™ → Harmonic Finance & Operations (prefix)
 - Heitman → Heitman Financial UK LLC (prefix)
 - Holland & Barrett → Holland & Barrett Retail Limited (prefix)

@@ -487,6 +487,11 @@
    "register_name": "BT Group",
    "match": "exact"
   },
+  "Babcock International Group": {
+   "licensed": true,
+   "register_name": "Babcock International Limited",
+   "match": "exact"
+  },
   "Baillie Gifford": {
    "licensed": true,
    "register_name": "Baillie Gifford",
@@ -1562,6 +1567,11 @@
    "register_name": "Guggenheim Securities International Ltd",
    "match": "exact"
   },
+  "HARMAN International": {
+   "licensed": true,
+   "register_name": "Harman Retail Limited",
+   "match": "prefix"
+  },
   "HAYS": {
    "licensed": true,
    "register_name": "Hays PLC",
@@ -1723,6 +1733,11 @@
    "match": "exact"
   },
   "High Finance (UK) Limited T/A HFG": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Higher Capital Consulting": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2242,6 +2257,11 @@
    "register_name": "LucaNet (UK) Limited",
    "match": "exact"
   },
+  "Lucy Developments": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Lyreco": {
    "licensed": false,
    "register_name": null,
@@ -2686,6 +2706,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "News UK": {
+   "licensed": true,
+   "register_name": "GB News Limited",
+   "match": "exact"
   },
   "Next": {
    "licensed": true,
