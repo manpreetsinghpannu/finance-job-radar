@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 12:12** (UK time) · **1100 open roles** at 610 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 12:20** (UK time) · **1101 open roles** at 611 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 12:09** · hourly scan · checked 201 boards · **11 new roles**
+**Thu 19 Nov, 12:16** · hourly scan · checked 201 boards · **13 new roles**
 
-### Finance (FP&A) CV: 4
+### Finance (FP&A) CV: 6
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -20,6 +20,8 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 | 2026-11-19 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-murphy-4492422425) | Murphy | London, England, United Kingdom | ❔ |
 | 2026-11-18 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-acca-careers-4492411897) | ACCA Careers | Leicester, England, United Kingdom | ❔ |
 | 2026-11-19 | [Management Accountant - Welsh Desirable](https://www.linkedin.com/jobs/view/management-accountant-welsh-desirable-at-acca-careers-4492149548) | ACCA Careers | Cardiff, Wales, United Kingdom | ❔ |
+| 2026-11-19 | [Global Equities - Financial Reporting, Analysis & Control - Associate](https://www.linkedin.com/jobs/view/global-equities-financial-reporting-analysis-control-associate-at-jpmorganchase-4372709633) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+| 2026-11-18 | [Capital & Investment Accountant](https://www.linkedin.com/jobs/view/capital-investment-accountant-at-ivy-rock-partners-4492023368) | Ivy Rock Partners | Enfield, England, United Kingdom | ❔ |
 
 ### Equity CV: 3
 
@@ -84,9 +86,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Thursday 19 November
 
 <details>
-<summary><b>12:09</b> · hourly scan · <b>11 new</b> → Finance 4 · Equity 3 · Investment 4</summary>
+<summary><b>12:16</b> · hourly scan · <b>13 new</b> → Finance 6 · Equity 3 · Investment 4</summary>
 
-#### Finance (FP&A) CV: 4
+#### Finance (FP&A) CV: 6
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -94,6 +96,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-19 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-murphy-4492422425) | Murphy | London, England, United Kingdom | ❔ |
 | 2026-11-18 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-acca-careers-4492411897) | ACCA Careers | Leicester, England, United Kingdom | ❔ |
 | 2026-11-19 | [Management Accountant - Welsh Desirable](https://www.linkedin.com/jobs/view/management-accountant-welsh-desirable-at-acca-careers-4492149548) | ACCA Careers | Cardiff, Wales, United Kingdom | ❔ |
+| 2026-11-19 | [Global Equities - Financial Reporting, Analysis & Control - Associate](https://www.linkedin.com/jobs/view/global-equities-financial-reporting-analysis-control-associate-at-jpmorganchase-4372709633) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+| 2026-11-18 | [Capital & Investment Accountant](https://www.linkedin.com/jobs/view/capital-investment-accountant-at-ivy-rock-partners-4492023368) | Ivy Rock Partners | Enfield, England, United Kingdom | ❔ |
 
 #### Equity CV: 3
 
@@ -570,7 +574,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>11:04</b> · hourly scan · <b>8 new</b> → Finance 4 · Credit 1 · Equity 1 · Consulting 1 · Real Estate 1</summary>
+<summary><b>11:04</b> · hourly scan · <b>7 new</b> → Finance 4 · Credit 1 · Consulting 1 · Real Estate 1</summary>
 
 #### Finance (FP&A) CV: 4
 
@@ -587,12 +591,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | 2026-11-18 | [Corporate Risk Analyst](https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-4491797731) | BNP Paribas | Solihull, England, United Kingdom | ✅ |
 
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-18 | [Equity Research Associate, Industrials coverage, Global Bank](https://www.linkedin.com/jobs/view/equity-research-associate-industrials-coverage-global-bank-at-greenwich-partners-4492014153) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
-
 #### Consulting CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
@@ -604,6 +602,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-18 | [Analyst/Associate, Real Estate Debt](https://www.linkedin.com/jobs/view/analyst-associate-real-estate-debt-at-gic-4481890972) | GIC | London, England, United Kingdom | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2785,9 +2785,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (602)](#finance-fpa-cv-602) · [Credit (139)](#credit-cv-139) · [Equity (64)](#equity-cv-64) · [Investment (108)](#investment-ib--pe-cv-108) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (120)](#other-fits-no-cv-closely-may-still-be-worth-a-look-120)
+Everything matched so far, newest first within each CV: [Finance (604)](#finance-fpa-cv-604) · [Credit (139)](#credit-cv-139) · [Equity (63)](#equity-cv-63) · [Investment (108)](#investment-ib--pe-cv-108) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (120)](#other-fits-no-cv-closely-may-still-be-worth-a-look-120)
 
-### Finance (FP&A) CV: 602
+### Finance (FP&A) CV: 604
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2801,6 +2801,7 @@ Everything matched so far, newest first within each CV: [Finance (602)](#finance
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-quanex-4492257080) | Quanex | Wolverhampton, England, United Kingdom | ❔ |
 | 2026-11-19 | [Finance Business Partner – Sg&A And Tech (Ftc 12 Months)](https://scotjobsnet.co.uk/job/finance-business-partner-sga-and-tech-ftc-12-months/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
 | 2026-11-19 | [Management Accountant - Welsh Desirable](https://www.linkedin.com/jobs/view/management-accountant-welsh-desirable-at-acca-careers-4492149548) | ACCA Careers | Cardiff, Wales, United Kingdom | ❔ |
+| 2026-11-19 | [Global Equities - Financial Reporting, Analysis & Control - Associate](https://www.linkedin.com/jobs/view/global-equities-financial-reporting-analysis-control-associate-at-jpmorganchase-4372709633) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Finance Transformation Partner](https://scotjobsnet.co.uk/job/finance-transformation-partner/) | via ScotJobsNet | Stirlingshire Stirling Falkirk Job, Scotland | ❔ |
 | — | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57571811) | Robert Half | Edinburgh, Midlothian | ✅ |
 | 2026-11-18 | [Commercial Finance Analyst](https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002) | Tandem Bank | Cardiff, United Kingdom | ✅ |
@@ -2857,6 +2858,7 @@ Everything matched so far, newest first within each CV: [Finance (602)](#finance
 | 2026-11-18 | [Financial Controller](https://www.s1jobs.com/job/financial-controller-127773943) | Cooper Parry Finance Recruitment | Fife, Scotland | ❔ |
 | 2026-11-18 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57586994) | Accountancy Action | St. Albans, Hertfordshire | ❔ |
 | 2026-11-18 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57584753) | Faith Recruitment | Weybridge, Surrey | ❔ |
+| 2026-11-18 | [Capital & Investment Accountant](https://www.linkedin.com/jobs/view/capital-investment-accountant-at-ivy-rock-partners-4492023368) | Ivy Rock Partners | Enfield, England, United Kingdom | ❔ |
 | 2026-11-17 | [FP&A Analyst, Europe](https://www.linkedin.com/jobs/view/fp-a-analyst-europe-at-univers-4490195978) | Univers | London, England, United Kingdom | ✅ |
 | 2026-11-17 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-itsu-4491574598) | itsu | London, England, United Kingdom | ✅ |
 | 2026-11-17 | [SodaStream: FP&A Analyst](https://www.adzuna.co.uk/jobs/details/5969244687) | PepsiCo | Bloomsbury, Central London | ✅ |
@@ -3538,7 +3540,7 @@ Everything matched so far, newest first within each CV: [Finance (602)](#finance
 | 2026-10-27 | [Graduate Credit Policy Analyst](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Policy-Analyst_JR_10039776-1) | Ayvens | Bristol CEC | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 64
+### Equity CV: 63
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3546,7 +3548,6 @@ Everything matched so far, newest first within each CV: [Finance (602)](#finance
 | 2026-11-19 | [Equity Research Analyst - Partner level](https://www.linkedin.com/jobs/view/equity-research-analyst-partner-level-at-spectacled-bear-ai-4492430144) | Spectacled Bear AI | England, United Kingdom | ❔ |
 | 2026-11-18 | [Equity Research Analyst – Japanese Equities](https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%93-japanese-equities-at-ubs-4483679254) | UBS | London, England, United Kingdom | ❔ |
 | 2026-11-18 | [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) | Rothschild & Co | London | ✅ |
-| 2026-11-18 | [Equity Research Associate, Industrials coverage, Global Bank](https://www.linkedin.com/jobs/view/equity-research-associate-industrials-coverage-global-bank-at-greenwich-partners-4492014153) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | 2026-11-18 | [Research Analyst - Credit Investments Group](https://www.linkedin.com/jobs/view/research-analyst-credit-investments-group-at-ubs-4491870349) | UBS | London, England, United Kingdom | ❔ |
 | 2026-11-18 | [Front Office Quantitative Analyst - Equity Derivatives - Citi](https://www.adzuna.co.uk/jobs/land/ad/5970394544) | Citi | London, UK | ✅ |
 | 2026-11-18 | [Front Office Quantitative Analyst - Equity Derivatives](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1) | Citi | London United Kingdom | ✅ |
@@ -3930,10 +3931,11 @@ Everything matched so far, newest first within each CV: [Finance (602)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>87 roles taken off the list because the firm closed the posting</summary>
+<summary>88 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 19 Nov, 12:18 | Equity Research Associate, Industrials coverage, Global Bank | Greenwich Partners |
 | Thu 19 Nov, 11:06 | Commercial and Investment Banking - Treasury analyst (MENA) | JPMorgan Chase |
 | Thu 19 Nov, 02:55 | Finance Graduate Programme: Commercial Finance & FP&A | targetjobs UK |
 | Wed 18 Nov, 23:06 | Investment Analyst - French speaker | Bruin |

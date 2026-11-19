@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 857 firms checked, 450 matched, 407 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 858 firms checked, 450 matched, 408 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (407)
+## Not found (408)
 
 - 7IM
 - 93 MGMT
@@ -193,6 +193,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Insight Recruitment Solutions Limited
 - Interactive Investor (alias not on current register (interactive investor services ltd))
 - Inventum Group
+- Ivy Rock Partners
 - JJ SEARCH LIMITED
 - JPMorganChase
 - JSS

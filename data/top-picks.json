@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:12:59.657Z",
+ "generated_at": "2026-11-19T12:20:12.550Z",
  "order": [
   "finance",
   "credit",
@@ -5185,11 +5185,6 @@
    "cv": "Credit CV",
    "score": 15
   },
-  "https://www.linkedin.com/jobs/view/equity-research-associate-industrials-coverage-global-bank-at-greenwich-partners-4492014153": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 20
-  },
   "https://www.reed.co.uk/jobs/management-accountant/57586637": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5729,6 +5724,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/global-equities-financial-reporting-analysis-control-associate-at-jpmorganchase-4372709633": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/capital-investment-accountant-at-ivy-rock-partners-4492023368": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   },
   "https://www.linkedin.com/jobs/view/management-accountant-welsh-desirable-at-acca-careers-4492149548": {
    "id": "finance",

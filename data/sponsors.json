@@ -1882,6 +1882,11 @@
    "register_name": "Investigo Limited",
    "match": "exact"
   },
+  "Ivy Rock Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "JAC Recruitment": {
    "licensed": true,
    "register_name": "JAC Recruitment (UK) Limited",
