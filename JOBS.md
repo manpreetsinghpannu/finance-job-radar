@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 01:09** (UK time) · **1074 open roles** at 600 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 02:07** (UK time) · **1074 open roles** at 600 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 01:04** · hourly scan · checked 201 boards · **1 new role**
+**Thu 19 Nov, 02:04** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-quanex-4492257080) | Quanex | Wolverhampton, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Thu 19 Nov, 01:04** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<sub>Nothing new at: 02:04</sub>
 
 <details>
 <summary><b>01:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2731,8 +2729,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 02:07, 01:16</sub>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (589)](#finance-fpa-cv-589) · [Credit (136)](#credit-cv-136) · [Equity (60)](#equity-cv-60) · [Investment (104)](#investment-ib--pe-cv-104) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (119)](#other-fits-no-cv-closely-may-still-be-worth-a-look-119)
@@ -3854,7 +3850,7 @@ Everything matched so far, newest first within each CV: [Finance (589)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>91 roles taken off the list because the firm closed the posting</summary>
+<summary>90 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3948,6 +3944,5 @@ Everything matched so far, newest first within each CV: [Finance (589)](#finance
 | Thu 12 Nov, 04:10 | Research Analyst | Alexander Chapman |
 | Thu 12 Nov, 03:15 | Venture & Growth Debt - Analyst - London | BlackRock |
 | Thu 12 Nov, 03:14 | Financial Planning Specialist | NatWest Group |
-| Thu 12 Nov, 01:18 | Finance Transformation - AI Specialist | Barclays |
 
 </details>
