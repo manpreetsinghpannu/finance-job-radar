@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 21:06** (UK time) · **1156 open roles** at 646 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 21:14** (UK time) · **1156 open roles** at 646 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 21:01** · hourly scan · checked 201 boards · **1 new role**
+**Thu 19 Nov, 21:10** · hourly scan · checked 201 boards · **1 new role**
 
 ### Equity CV: 1
 
@@ -64,7 +64,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Thursday 19 November
 
 <details>
-<summary><b>21:01</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
+<summary><b>21:10</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
 
 #### Equity CV: 1
 
@@ -2746,8 +2746,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 21:07</sub>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (639)](#finance-fpa-cv-639) · [Credit (146)](#credit-cv-146) · [Equity (66)](#equity-cv-66) · [Investment (114)](#investment-ib--pe-cv-114) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (124)](#other-fits-no-cv-closely-may-still-be-worth-a-look-124)
@@ -3951,11 +3949,11 @@ Everything matched so far, newest first within each CV: [Finance (639)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>85 roles taken off the list because the firm closed the posting</summary>
+<summary>84 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Thu 19 Nov, 21:04 | Assistant Management Accountant | DPD UK |
+| Thu 19 Nov, 21:13 | Assistant Management Accountant | DPD UK |
 | Thu 19 Nov, 19:05 | Financial Planning Analyst | ivee |
 | Thu 19 Nov, 18:07 | Equity Research Associate, Long Short Hedge Fund, London | Greenwich Partners |
 | Thu 19 Nov, 18:05 | Management Accountant | ivee |
@@ -4039,6 +4037,5 @@ Everything matched so far, newest first within each CV: [Finance (639)](#finance
 | Fri 13 Nov, 13:09 | Assistant Financial Controller | Flock |
 | Fri 13 Nov, 05:08 | Commercial & Strategy Analyst | Lottie |
 | Fri 13 Nov, 01:08 | Associate, Global Credit | RBC |
-| Thu 12 Nov, 21:09 | Graduate Business Modelling Analyst - Up to £38k Base + Bonus! - London (Hybrid) - Elite Investment Firm | Hunter Bond |
 
 </details>
