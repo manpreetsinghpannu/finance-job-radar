@@ -1573,4 +1573,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-telco-digital-infra-m-a-at-dartmouth-partners-4466859063 | Dartmouth Partners | Investment Banking Associate (Telco & Digital Infra M&A) | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-alexander-daniels-finance-recruitment-4492432414 | Alexander Daniels Finance Recruitment | Assistant Management Accountant | Willenhall, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 
+- [ ] https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Securities-Lending-Trader--Specialist_183958-2 | Vanguard | Securities Lending Trader, Specialist | London, United Kingdom | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/smarkets/a6739603-2085-4059-b3e9-f828db2e9a64 | Smarkets | General Ledger (GL) Accountant | London · United Kingdom | posted: 2026-11-19
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986 | JPMorgan Chase | Wholesale Credit Risk Reporting - Analyst | BOURNEMOUTH, DORSET, United Kingdom | posted: 2026-11-19
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-phmg-4491615747 | PHMG | Finance Analyst | Manchester, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-credit-risk-analyst-at-targetjobs-uk-4492156691 | targetjobs UK | Graduate Credit Risk Analyst | Crewe, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-at-aries-global-4486385283 | Aries Global | Investment Associate | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/project-financial-analyst-i-ii-uk-serbia-at-worldwide-clinical-trials-4484149684 | Worldwide Clinical Trials | Project Financial Analyst I/II (UK/Serbia) | England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-cfo-associate-private-equity-at-deutsche-asset-management-4470176874 | Deutsche Asset Management | Fund CFO Associate - Private Equity | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-futures-4492162472 | Futures | Management Accountant | Manchester Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57592774 | Scania (Great Britain) Limited | Finance Analyst | Milton Keynes, Buckinghamshire | note: via Reed
+
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:09:05.803Z",
+ "generated_at": "2026-11-19T15:08:12.118Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 230,
+   "matching": 233,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,8 +57,21 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 93,
+   "matching": 95,
    "picks": [
+    {
+     "title": "Wholesale Credit Risk Reporting - Analyst",
+     "company": "JPMorgan Chase",
+     "location": "BOURNEMOUTH, DORSET, United Kingdom",
+     "posted": "2026-11-19",
+     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986",
+     "score": 31,
+     "why": [
+      "Credit Risk",
+      "Wholesale Credit"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Credit Risk Analyst - Energy",
      "company": "Vallum Associates",
@@ -66,19 +79,6 @@
      "posted": "2026-11-16",
      "url": "https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614",
      "score": 24,
-     "why": [
-      "Credit Risk",
-      "Risk Analyst"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Credit Risk Analyst - 12 month FTC",
-     "company": "Hackajob Ltd",
-     "location": "Belgrave, Leicester",
-     "posted": "2026-11-14",
-     "url": "https://www.adzuna.co.uk/jobs/land/ad/5965487971",
-     "score": 23,
      "why": [
       "Credit Risk",
       "Risk Analyst"
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 29,
+   "matching": 30,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -4115,11 +4115,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 4
   },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808905": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 20
-  },
   "https://www.linkedin.com/jobs/view/graduate-risk-at-sefe-marketing-trading-ltd-4489723861": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -4299,11 +4294,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 27
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-nick-buick-associates-4490675209": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
   },
   "https://www.linkedin.com/jobs/view/management-accountant-gfp-at-frontier-agriculture-4490673365": {
    "id": "finance",
@@ -5784,6 +5774,56 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Securities-Lending-Trader--Specialist_183958-2": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://jobs.ashbyhq.com/smarkets/a6739603-2085-4059-b3e9-f828db2e9a64": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 31
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-phmg-4491615747": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/graduate-credit-risk-analyst-at-targetjobs-uk-4492156691": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/investment-associate-at-aries-global-4486385283": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/project-financial-analyst-i-ii-uk-serbia-at-worldwide-clinical-trials-4484149684": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/fund-cfo-associate-private-equity-at-deutsche-asset-management-4470176874": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-futures-4492162472": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst/57592774": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
   }
  }
 }

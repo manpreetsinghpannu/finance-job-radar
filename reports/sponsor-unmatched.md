@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 858 firms checked, 450 matched, 408 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 863 firms checked, 453 matched, 410 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (408)
+## Not found (410)
 
 - 7IM
 - 93 MGMT
@@ -141,6 +141,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Forge Talent
 - Frontier Agriculture
 - FryerMiles
+- Futures
 - GC Partners
 - GIC
 - GP Fund Solutions
@@ -286,6 +287,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - PARALLEL RECRUITMENT LTD
 - PER
 - PGS LTD
+- PHMG
 - PRATAP PARTNERSHIP LTD
 - Paddle (alias not on current register (paddle com market limited))
 - Palatine Talent
@@ -415,11 +417,12 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (50)
+## Matched automatically by close name; worth a glance (51)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
+- Aries Global → ARIES GLOBAL SOFTWARE HOLDING LIMITED (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Brookfield → Brookfield Global Asset Management Limited (prefix)
