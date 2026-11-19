@@ -1598,5 +1598,36 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/analyst-technology-m-a-at-lincoln-international-4448243050 | Lincoln International | Analyst, Technology M&A | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-lucy-developments-4491629501 | Lucy Developments | Management Accountant | Oxford, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/graduate-finance-assistant/57593634 | eFinancialCareers | Graduate Finance Assistant | Oxford, Oxfordshire | note: via Reed
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971942127 | Marks Sattin Ltd | Commercial Finance Business Partner | Fieldhead Business Centre, Bradford | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5971889344 | Beta | Commercial Accountant | UK | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5971889195 | Pan Macmillan | Commercial Finance Analyst | UK | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5971889155 | BBC UK | FP&A Analyst | UK | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971837818 | IPS Finance | Assistant Management Accountant | Garforth, Leeds | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971837769 | Pure Resourcing Solutions Limited | Financial Controller | Pampisford, Cambridge | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971837690 | Insight Select | Assistant Accountant | Merton, South West London | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971744313 | Citi | Systematic Credit Trader - Citi | London, UK | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971738085 | IPS Group | Assistant Management Accountant | Leeds, West Yorkshire | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971738096 | YRH Finance Team Limited | Financial Controller | Leeds, West Yorkshire | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971736657 | Vistry Group PLC | Finance Analyst | Leeds, West Yorkshire | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971736548 | Robert Walters | Group Transfer Pricing Analyst | Walkern, Hertfordshire | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5971691996 | Handle Recruitment | Management Accountant - Content Agency and Publisher | London, UK | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971580575 | J. Murphy & Sons Ltd | FP&A Analyst | London, UK | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971580574 | Prime Personnel UK | Credit Analyst – Project Finance | Broadgate, Central London | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971578136 | Morgan McKinley | Assistant Management Accountant | Oxford, Oxfordshire | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971515093 | Barker Ross Group | Management Accountant | West Midlands, UK | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971515018 | Alf Recruit Limited | Management Accountant | Rochdale, Greater Manchester | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971503905 | Hays | Revenue Finance Analyst | Tilehurst, Reading | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5971468099 | Ashbury | Assistant Accountant | London, UK | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5971467222 | YETI Coolers | Associate Accountant (1 Year Cover) | Bristol, South West England | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5971465739 | CSL Plasma | Assistant Financial Accountant | UK | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5971463079 | Radiant | Associate, Capital Markets | London, UK | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5971462411 | Momentum Group Limited | Portfolio Analyst | London, UK | posted: 2026-11-19 | note: via Adzuna
+- [ ] https://www.linkedin.com/jobs/view/commercial-financial-analyst-at-dignity-group-4491633427 | Dignity Group | Commercial Financial Analyst | Maidenhead, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-south-west-water-4492186621 | South West Water | Financial Planning Analyst | Exeter, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-%E2%80%93-credit-at-marshall-machado-recruitment-services-ltd-4491625171 | Marshall & Machado Recruitment Services Ltd | Investment Associate – Credit | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-finance-business-partner-at-fera-science-ltd-4492465384 | Fera Science Ltd. | Junior Finance Business Partner | York, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/treasury-accountant/57594158 | Robertson Bell | Treasury Accountant | Redhill, Surrey | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-civils-127778372 | Peace Recruitment | Quantity Surveyor Civils | Glasgow Area, Scotland | posted: 2026-11-19 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127778373 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 ## Processed

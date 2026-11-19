@@ -192,6 +192,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Alf Recruit Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Alfa AI": {
    "licensed": true,
    "register_name": "Alfa Financial Software Ltd",
@@ -347,6 +352,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Ashbury": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ashurst Perkins Coie": {
    "licensed": true,
    "register_name": "Ashurst Perkins Coie (International) LLP",
@@ -442,6 +452,11 @@
    "register_name": null,
    "match": "none"
   },
+  "BBC UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "BBVA": {
    "licensed": true,
    "register_name": "Banco Bilbao Vizcaya Argentaria S.A.",
@@ -527,6 +542,11 @@
    "register_name": "Barclays Bank PLC",
    "match": "alias"
   },
+  "Barker Ross Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Bath & North East Somerset Council": {
    "licensed": true,
    "register_name": "Bath and North East Somerset Council",
@@ -551,6 +571,11 @@
    "licensed": true,
    "register_name": "Berkeley Research Group (UK) Limited",
    "match": "alias"
+  },
+  "Beta": {
+   "licensed": true,
+   "register_name": "BETA UK LIMITED",
+   "match": "exact"
   },
   "Better Placed": {
    "licensed": false,
@@ -768,6 +793,11 @@
    "match": "none"
   },
   "COREcruitment Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "CSL Plasma": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1127,6 +1157,11 @@
    "register_name": "Diageo plc",
    "match": "alias"
   },
+  "Dignity Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Dimensional Fund Advisors": {
    "licensed": true,
    "register_name": "Dimensional Fund Advisors Ltd",
@@ -1295,6 +1330,11 @@
   "Fauna & Flora": {
    "licensed": true,
    "register_name": "Fauna & Flora International",
+   "match": "exact"
+  },
+  "Fera Science Ltd.": {
+   "licensed": true,
+   "register_name": "Fera Science Ltd",
    "match": "exact"
   },
   "Fidelity International": {
@@ -1842,6 +1882,11 @@
    "register_name": null,
    "match": "none"
   },
+  "IPS Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "IPS Group": {
    "licensed": true,
    "register_name": "IPS (Aberdeen) Ltd",
@@ -1882,6 +1927,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Insight Select": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Integrity360": {
    "licensed": true,
    "register_name": "Integrity360 Limited",
@@ -1913,6 +1963,11 @@
    "match": "exact"
   },
   "Ivy Rock Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "J. Murphy & Sons Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2407,6 +2462,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Marks Sattin Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Marlin Selection Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -2416,6 +2476,11 @@
    "licensed": true,
    "register_name": "Marsh & Partners Ltd",
    "match": "alias"
+  },
+  "Marshall & Machado Recruitment Services Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Marshmallow": {
    "licensed": true,
@@ -2558,6 +2623,11 @@
    "match": "none"
   },
   "Momentum": {
+   "licensed": true,
+   "register_name": "MOMENTUM AI LIMITED",
+   "match": "exact"
+  },
+  "Momentum Group Limited": {
    "licensed": true,
    "register_name": "MOMENTUM AI LIMITED",
    "match": "exact"
@@ -2927,6 +2997,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Pan Macmillan": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Panmure Liberum": {
    "licensed": true,
    "register_name": "Panmure Liberum Limited",
@@ -3077,6 +3152,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Prime Personnel UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Primer": {
    "licensed": true,
    "register_name": "Primer API Limited",
@@ -3093,6 +3173,11 @@
    "match": "exact"
   },
   "Puma Capital Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Pure Resourcing Solutions Limited": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3163,6 +3248,11 @@
    "match": "none"
   },
   "RM Recruit": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Radiant": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3586,6 +3676,11 @@
    "licensed": true,
    "register_name": "South West London & St George's Mental Health NHS Trust",
    "match": "exact"
+  },
+  "South West Water": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Sowena Group": {
    "licensed": false,
@@ -4127,6 +4222,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Vistry Group PLC": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Vitae Financial Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -4281,6 +4381,16 @@
    "licensed": true,
    "register_name": "Xeinadin Group Limited",
    "match": "exact"
+  },
+  "YETI Coolers": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "YRH Finance Team Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Yolk Recruitment Ltd": {
    "licensed": false,

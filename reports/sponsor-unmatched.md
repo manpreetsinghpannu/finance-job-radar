@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 872 firms checked, 457 matched, 415 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 894 firms checked, 460 matched, 434 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (415)
+## Not found (434)
 
 - 7IM
 - 93 MGMT
@@ -27,6 +27,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Alan Mitchell
 - Alexander Chapman
 - Alexander Daniels Finance Recruitment
+- Alf Recruit Limited
 - Alignerr
 - All About Food Ltd
 - Altum Consulting
@@ -42,6 +43,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Armstrong Watson
 - Artemis Human Capital
 - Arup
+- Ashbury
 - Aster Group
 - Aster Group UK
 - Atkinson Moss
@@ -52,6 +54,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Axon Moore Group Ltd
 - B&Q
 - BAT
+- BBC UK
+- Barker Ross Group
 - Belmont Search Ltd
 - Better Placed
 - Bield Housing Association
@@ -79,6 +83,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CMS UK
 - CONTRACT SCOTLAND LIMITED
 - COREcruitment Ltd
+- CSL Plasma
 - CV SCREEN LTD.
 - CVC Marathon
 - Calastone
@@ -116,6 +121,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Day Lewis Pharmacy
 - Deutsche Asset Management
 - Deutsche Bank
+- Dignity Group
 - Distinct Recruitment
 - Dojo
 - Doncaster Racecourse and Exhibition Centre
@@ -190,13 +196,16 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - IDA Recruitment Ltd
 - IMC Trading
 - IPOE Consulting
+- IPS Finance
 - IVC Evidensia
 - In2 Consult
 - Independent Office for Police Conduct
 - Insight Recruitment Solutions Limited
+- Insight Select
 - Interactive Investor (alias not on current register (interactive investor services ltd))
 - Inventum Group
 - Ivy Rock Partners
+- J. Murphy & Sons Ltd
 - JJ SEARCH LIMITED
 - JPMorganChase
 - JSS
@@ -247,7 +256,9 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Market Harborough Building Society
 - Marks Sattin
 - Marks Sattin FS
+- Marks Sattin Ltd
 - Marlin Selection Recruitment
+- Marshall & Machado Recruitment Services Ltd
 - Martis Search
 - Matched Group
 - McGinnis Loy Associates Ltd
@@ -294,6 +305,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - PRATAP PARTNERSHIP LTD
 - Paddle (alias not on current register (paddle com market limited))
 - Palatine Talent
+- Pan Macmillan
 - Pave Bank
 - Pavilion Recruitment Solutions
 - Payhawk
@@ -301,13 +313,16 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Platinum Recruitment Group
 - Point One - Hedge Fund Talent
 - Preventx
+- Prime Personnel UK
 - Puma Capital Group
+- Pure Resourcing Solutions Limited
 - Pure Search
 - Qh4 Consulting
 - Quanex
 - Quantum Search Group
 - RG Consultancy Ltd
 - RM Recruit
+- Radiant
 - Randstad Finance
 - Reckitt
 - Redress Scotland
@@ -351,6 +366,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Sheridan Maine
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
+- South West Water
 - Sowena Group
 - Spectacled Bear AI
 - Spencer Clarke Group
@@ -399,6 +415,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Vermelo RPO
 - Vertex Associates - Accountancy and Finance Recruitment
 - Vistry Group
+- Vistry Group PLC
 - Vitae Financial Recruitment
 - Vitae Financial Recruitment Limited
 - VodafoneThree
@@ -411,6 +428,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Wilkinson and Associates
 - WorldQuant
 - XPS Group
+- YETI Coolers
+- YRH Finance Team Limited
 - Yolk Recruitment Ltd
 - Zachary Daniels
 - Zego
