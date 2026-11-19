@@ -1630,5 +1630,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-civils-127778372 | Peace Recruitment | Quantity Surveyor Civils | Glasgow Area, Scotland | posted: 2026-11-19 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127778373 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-allianz-commercial-4492498788 | Allianz Commercial | Finance Analyst | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-systematic-equities-at-millennium-4371171326 | Millennium | Quantitative Researcher, Systematic Equities | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
