@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 05:13** (UK time) · **1076 open roles** at 600 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 06:08** (UK time) · **1076 open roles** at 600 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 05:09** · hourly scan · checked 201 boards · **3 new roles**
+**Thu 19 Nov, 06:04** · hourly scan · checked 201 boards · **0 new roles**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Systematic Credit Trader](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Systematic-Credit-Trader_26998633) | Citi | London United Kingdom | ✅ |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-18 | [Front Office Quantitative Analyst - Equity Derivatives](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1) | Citi | London United Kingdom | ✅ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-18 | [Portfolio Financing and Optimization Trader](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Portfolio-Financing-and-Optimization-Trader_261008294) | Citi | London United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Thu 19 Nov, 05:09** (3: Credit 1 · Equity 1 · Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -74,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<sub>Nothing new at: 06:04</sub>
 
 <details>
 <summary><b>05:09</b> · hourly scan · <b>3 new</b> → Credit 1 · Equity 1 · Other 1</summary>
@@ -2755,7 +2741,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 09:08, 08:57, 08:08, 07:08, 06:08</sub>
+<sub>Nothing new at: 09:08, 08:57, 08:08, 07:08</sub>
 
 ## All open roles by CV
 
