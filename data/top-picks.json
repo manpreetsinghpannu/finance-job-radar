@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T10:12:13.599Z",
+ "generated_at": "2026-11-19T11:08:32.671Z",
  "order": [
   "finance",
   "credit",
@@ -24,8 +24,21 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 228,
+   "matching": 229,
    "picks": [
+    {
+     "title": "Commercial Finance Analyst",
+     "company": "Goodman Masson",
+     "location": "London Area, United Kingdom",
+     "posted": "2026-11-19",
+     "url": "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390",
+     "score": 32,
+     "why": [
+      "Finance Analyst",
+      "Commercial Finance"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Commercial Finance Analyst",
      "company": "Tandem Bank",
@@ -36,19 +49,6 @@
      "why": [
       "Finance Analyst",
       "Commercial Finance"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Finance Analyst (FP&A)",
-     "company": "Element Materials Technology",
-     "location": "Edinburgh, Scotland, United Kingdom",
-     "posted": "2026-11-16",
-     "url": "https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941",
-     "score": 31,
-     "why": [
-      "FP&A",
-      "Finance Analyst"
      ],
      "sponsor": true
     }
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 78,
+   "matching": 77,
    "picks": [
     {
      "title": "Investment Banking (M&A) Associate - Business Services",
@@ -5395,11 +5395,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210810033": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 22
-  },
   "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-ivee-4491308184": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5664,6 +5659,41 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 28
+  },
+  "https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london/job/Lloyds-UK-London/Solvency-Reporting-Accountant_R5345": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/corporate-credit-associate-at-quantum-search-group-4492133811": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 32
+  },
+  "https://www.reed.co.uk/jobs/commercial-finance-analyst/57591514": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 25
+  },
+  "https://scotjobsnet.co.uk/job/finance-transformation-partner/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://scotjobsnet.co.uk/job/finance-business-partner-sga-and-tech-ftc-12-months/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://scotjobsnet.co.uk/job/risk-analyst-operations/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }

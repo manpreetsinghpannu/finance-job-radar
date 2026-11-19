@@ -1544,4 +1544,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759 | Dartmouth Partners | Investment Banking (M&A) Associate - Business Services | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57591276 | Robert Walters | Commercial Finance Analyst | London | note: via Reed
 
+- [ ] https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london/job/Lloyds-UK-London/Solvency-Reporting-Accountant_R5345 | Lloyd's of London | Solvency Reporting Accountant | Lloyd's UK: London | posted: 2026-11-19
+- [ ] https://www.linkedin.com/jobs/view/corporate-credit-associate-at-quantum-search-group-4492133811 | Quantum Search Group | Corporate Credit Associate | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390 | Goodman Masson | Commercial Finance Analyst | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57591514 | CMC Consulting Limited | Commercial Finance Analyst | London | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/finance-transformation-partner/ | via ScotJobsNet | Finance Transformation Partner | Stirlingshire Stirling Falkirk Job, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/finance-business-partner-sga-and-tech-ftc-12-months/ | via ScotJobsNet | Finance Business Partner – Sg&A And Tech (Ftc 12 Months) | Glasgow, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/risk-analyst-operations/ | via ScotJobsNet | Risk Analyst, Operations | Midlothian, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+
 ## Processed

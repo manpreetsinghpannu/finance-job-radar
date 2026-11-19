@@ -717,6 +717,11 @@
    "register_name": null,
    "match": "none"
   },
+  "CMC Consulting Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CMC Consulting Ltd": {
    "licensed": false,
    "register_name": null,
@@ -3066,6 +3071,11 @@
    "licensed": true,
    "register_name": "Quantum Services Management Ltd",
    "match": "prefix"
+  },
+  "Quantum Search Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Qube Research & Technologies": {
    "licensed": true,
