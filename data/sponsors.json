@@ -3037,6 +3037,11 @@
    "register_name": "Quadrature Capital Limited",
    "match": "alias"
   },
+  "Quanex": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Quantexa": {
    "licensed": true,
    "register_name": "Quantexa Ltd",
