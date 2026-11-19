@@ -1632,4 +1632,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-allianz-commercial-4492498788 | Allianz Commercial | Finance Analyst | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-systematic-equities-at-millennium-4371171326 | Millennium | Quantitative Researcher, Systematic Equities | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 
+- [ ] https://hiscox.wd3.myworkdayjobs.com/hiscox_external_site/job/Bermuda/Portfolio-Analyst--HCP-Investment-Team-_R0020554 | Hiscox | Portfolio Analyst (HCP Investment Team) | Bermuda · London - 22 Bishopsgate | posted: 2026-11-19
+
 ## Processed

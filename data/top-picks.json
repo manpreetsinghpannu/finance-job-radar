@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:39:11.826Z",
+ "generated_at": "2026-11-19T22:08:55.202Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 242,
+   "matching": 241,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 56,
+   "matching": 57,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -3155,11 +3155,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 6
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-handle-recruitment-4489294382": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
   "https://www.reed.co.uk/jobs/investment-banking-analyst-consumer-retail-citi/57563014": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -4109,11 +4104,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/portfolio-finance-analyst-twe47728-at-twentyai-4491294702": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
   },
   "https://www.reed.co.uk/jobs/management-accountant/57571031": {
    "id": "finance",
@@ -5260,11 +5250,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://www.linkedin.com/jobs/view/investment-analyst-at-alexander-chapman-4492041100": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/fund-accountant-leading-private-credit-investor-london-uk-at-per-4483694635": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
@@ -6029,6 +6014,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 12
+  },
+  "https://hiscox.wd3.myworkdayjobs.com/hiscox_external_site/job/Bermuda/Portfolio-Analyst--HCP-Investment-Team-_R0020554": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
   }
  }
 }
