@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:08:55.202Z",
+ "generated_at": "2026-11-19T23:07:51.072Z",
  "order": [
   "finance",
   "credit",
@@ -1454,11 +1454,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/finance-business-partner-at-cmc-consulting-ltd-4486271412": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-fauna-flora-4479347920": {
    "id": "finance",
@@ -6019,6 +6014,26 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 16
+  },
+  "https://scotjobsnet.co.uk/job/uk-statutory-reporting-accountant-5/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://scotjobsnet.co.uk/job/part-qualified-accountant-2/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://scotjobsnet.co.uk/job/group-accountant-2/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://scotjobsnet.co.uk/job/accountant-part-qualified/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

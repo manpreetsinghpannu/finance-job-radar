@@ -1633,5 +1633,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-systematic-equities-at-millennium-4371171326 | Millennium | Quantitative Researcher, Systematic Equities | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 
 - [ ] https://hiscox.wd3.myworkdayjobs.com/hiscox_external_site/job/Bermuda/Portfolio-Analyst--HCP-Investment-Team-_R0020554 | Hiscox | Portfolio Analyst (HCP Investment Team) | Bermuda · London - 22 Bishopsgate | posted: 2026-11-19
+- [ ] https://scotjobsnet.co.uk/job/uk-statutory-reporting-accountant-5/ | via ScotJobsNet | UK Statutory Reporting Accountant | Aberdeenshire, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/part-qualified-accountant-2/ | via ScotJobsNet | Part Qualified Accountant | Midlothian, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/group-accountant-2/ | via ScotJobsNet | Group Accountant | Lanarkshire, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/accountant-part-qualified/ | via ScotJobsNet | Accountant Part Qualified | Lanarkshire, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
 
 ## Processed
