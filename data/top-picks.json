@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T04:07:53.199Z",
+ "generated_at": "2026-11-19T05:13:10.353Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 91,
+   "matching": 92,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 53,
+   "matching": 54,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -5614,6 +5614,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Systematic-Credit-Trader_26998633": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Portfolio-Financing-and-Optimization-Trader_261008294": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

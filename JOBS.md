@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 04:07** (UK time) · **1073 open roles** at 600 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 05:13** (UK time) · **1076 open roles** at 600 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 04:04** · hourly scan · checked 201 boards · **0 new roles**
+**Thu 19 Nov, 05:09** · hourly scan · checked 201 boards · **3 new roles**
 
-Nothing new this time. The last scan that found something was **Thu 19 Nov, 01:04** (1: Finance 1); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Systematic Credit Trader](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Systematic-Credit-Trader_26998633) | Citi | London United Kingdom | ✅ |
+
+### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-18 | [Front Office Quantitative Analyst - Equity Derivatives](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1) | Citi | London United Kingdom | ✅ |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-18 | [Portfolio Financing and Optimization Trader](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Portfolio-Financing-and-Optimization-Trader_261008294) | Citi | London United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -23,12 +39,12 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Commercial Finance Analyst](https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002) · Tandem Bank · Cardiff, United Kingdom · posted 2026-11-18 · ✅
 2. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
 
-**Credit CV** (91 matching)
+**Credit CV** (92 matching)
 
 1. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
 2. [Credit Risk Associate – FX Forwards - 3S Money](https://www.adzuna.co.uk/jobs/land/ad/5968018960) · 3S Money · London, UK · posted 2026-11-16 · ✅
 
-**Equity CV** (53 matching)
+**Equity CV** (54 matching)
 
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) · Rothschild & Co · London · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
@@ -58,6 +74,29 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<details>
+<summary><b>05:09</b> · hourly scan · <b>3 new</b> → Credit 1 · Equity 1 · Other 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Systematic Credit Trader](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Systematic-Credit-Trader_26998633) | Citi | London United Kingdom | ✅ |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-18 | [Front Office Quantitative Analyst - Equity Derivatives](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1) | Citi | London United Kingdom | ✅ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-18 | [Portfolio Financing and Optimization Trader](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Portfolio-Financing-and-Optimization-Trader_261008294) | Citi | London United Kingdom | ✅ |
+
+</details>
 
 <sub>Nothing new at: 04:04, 03:29, 03:04, 02:52, 02:04</sub>
 
@@ -2716,11 +2755,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 09:08, 08:57, 08:08, 07:08, 06:08, 05:08, 04:07</sub>
+<sub>Nothing new at: 09:08, 08:57, 08:08, 07:08, 06:08</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (588)](#finance-fpa-cv-588) · [Credit (136)](#credit-cv-136) · [Equity (60)](#equity-cv-60) · [Investment (104)](#investment-ib--pe-cv-104) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (119)](#other-fits-no-cv-closely-may-still-be-worth-a-look-119)
+Everything matched so far, newest first within each CV: [Finance (588)](#finance-fpa-cv-588) · [Credit (137)](#credit-cv-137) · [Equity (61)](#equity-cv-61) · [Investment (104)](#investment-ib--pe-cv-104) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (120)](#other-fits-no-cv-closely-may-still-be-worth-a-look-120)
 
 ### Finance (FP&A) CV: 588
 
@@ -3315,10 +3354,11 @@ Everything matched so far, newest first within each CV: [Finance (588)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 136
+### Credit CV: 137
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-19 | [Systematic Credit Trader](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Systematic-Credit-Trader_26998633) | Citi | London United Kingdom | ✅ |
 | 2026-11-18 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-octus-4474602560) | Octus | London, England, United Kingdom | ✅ |
 | 2026-11-18 | [Project Finance Credit Analyst](https://www.linkedin.com/jobs/view/project-finance-credit-analyst-at-carr-lyons-search-selection-4490899676) | Carr Lyons Search & Selection | London Area, United Kingdom | ❔ |
 | 2026-11-18 | [Global Risk Analyst](https://www.linkedin.com/jobs/view/global-risk-analyst-at-smartestenergy-uk-4467067906) | SmartestEnergy UK | London, England, United Kingdom | ✅ |
@@ -3456,7 +3496,7 @@ Everything matched so far, newest first within each CV: [Finance (588)](#finance
 | 2026-10-27 | [Graduate Credit Policy Analyst](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Policy-Analyst_JR_10039776-1) | Ayvens | Bristol CEC | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 60
+### Equity CV: 61
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3465,6 +3505,7 @@ Everything matched so far, newest first within each CV: [Finance (588)](#finance
 | 2026-11-18 | [Equity Research Associate, Industrials coverage, Global Bank](https://www.linkedin.com/jobs/view/equity-research-associate-industrials-coverage-global-bank-at-greenwich-partners-4492014153) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | 2026-11-18 | [Research Analyst - Credit Investments Group](https://www.linkedin.com/jobs/view/research-analyst-credit-investments-group-at-ubs-4491870349) | UBS | London, England, United Kingdom | ❔ |
 | 2026-11-18 | [Front Office Quantitative Analyst - Equity Derivatives - Citi](https://www.adzuna.co.uk/jobs/land/ad/5970394544) | Citi | London, UK | ✅ |
+| 2026-11-18 | [Front Office Quantitative Analyst - Equity Derivatives](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1) | Citi | London United Kingdom | ✅ |
 | 2026-11-18 | [Investment Analyst - Fixed Income](https://www.linkedin.com/jobs/view/investment-analyst-fixed-income-at-lgps-central-4491831487) | LGPS Central | Wolverhampton, England, United Kingdom | ✅ |
 | 2026-11-18 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-alexander-chapman-4492041100) | Alexander Chapman | London Area, United Kingdom | ❔ |
 | 2026-11-18 | [Equity Index Options Trader](https://job-boards.greenhouse.io/drweng/jobs/8392316) | DRW | London | ✅ |
@@ -3711,7 +3752,7 @@ Everything matched so far, newest first within each CV: [Finance (588)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 119
+### Other (fits no CV closely, may still be worth a look): 120
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3721,6 +3762,7 @@ Everything matched so far, newest first within each CV: [Finance (588)](#finance
 | 2026-11-18 | [Global Graduate Programme 2027: Finance](https://www.linkedin.com/jobs/view/global-graduate-programme-2027-finance-at-bat-4483851925) | BAT | London, England, United Kingdom | ❔ |
 | — | [Finance Graduate](https://www.reed.co.uk/jobs/finance-graduate/57587897) | Marks Sattin | Leeds, West Yorkshire | ❔ |
 | 2026-11-18 | [Portfolio Financing and Optimization Trader - Citi](https://www.adzuna.co.uk/jobs/land/ad/5970394618) | Citi | London, UK | ✅ |
+| 2026-11-18 | [Portfolio Financing and Optimization Trader](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Portfolio-Financing-and-Optimization-Trader_261008294) | Citi | London United Kingdom | ✅ |
 | 2026-11-17 | [Finance Graduate](https://www.linkedin.com/jobs/view/finance-graduate-at-harbour-energy-4491136603) | Harbour Energy | London, England, United Kingdom | ✅ |
 | 2026-11-17 | [Analyst, Portfolio Valuations](https://www.linkedin.com/jobs/view/analyst-portfolio-valuations-4491179811) | Valuations | London Area, United Kingdom | ❔ |
 | — | [Graduate Finance Assistant](https://www.reed.co.uk/jobs/graduate-finance-assistant/57584419) | Reed | Cambridge, Cambridgeshire | ❔ |
@@ -3838,7 +3880,7 @@ Everything matched so far, newest first within each CV: [Finance (588)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>89 roles taken off the list because the firm closed the posting</summary>
+<summary>88 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3930,6 +3972,5 @@ Everything matched so far, newest first within each CV: [Finance (588)](#finance
 | Thu 12 Nov, 13:09 | Management Accountant | One Stop Healthcare |
 | Thu 12 Nov, 12:10 | 2027 MUFG UK Analyst Programme: Digital Transformation & Artificial Intelligence | MUFG |
 | Thu 12 Nov, 11:22 | Transactional Financial Controller | Carwow |
-| Thu 12 Nov, 04:10 | Research Analyst | Alexander Chapman |
 
 </details>
