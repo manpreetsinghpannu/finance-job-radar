@@ -1536,5 +1536,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Systematic-Credit-Trader_26998633 | Citi | Systematic Credit Trader | London United Kingdom | posted: 2026-11-19
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Quantitative-Analyst---Equity-Derivatives_261009947-1 | Citi | Front Office Quantitative Analyst - Equity Derivatives | London United Kingdom | posted: 2026-11-18
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Portfolio-Financing-and-Optimization-Trader_261008294 | Citi | Portfolio Financing and Optimization Trader | London United Kingdom | posted: 2026-11-18
+- [ ] https://www.reed.co.uk/jobs/financial-accountant/57571811 | Robert Half | Financial Accountant | Edinburgh, Midlothian | note: via Reed
 
 ## Processed
