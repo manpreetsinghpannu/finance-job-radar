@@ -1566,4 +1566,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/application-configuration-specialist-efront-private-markets/57591822 | Hays Specialist Recruitment Limited | Application Configuration Specialist (eFront/Private Markets) | Southampton, Hampshire | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/equity-research-associate-internet-coverage-global-at-greenwich-partners-4492433355 | Greenwich Partners | Equity Research Associate, Internet Coverage, Global | Greater London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210780687 | JPMorgan Chase | Model Risk Governance and Review Policy Associate | LONDON, LONDON, United Kingdom | posted: 2026-11-19
+- [ ] https://www.linkedin.com/jobs/view/experienced-analyst-%E2%80%93-investment-banking-technology-media-telecom-tmt-at-guggenheim-securities-4476931099 | Guggenheim Securities | Experienced Analyst – Investment Banking, Technology, Media & Telecom (TMT) | Greater London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-private-equity-at-rothstein-recruitment-4492452372 | Rothstein Recruitment | Investment Analyst - Private Equity | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-uk-strategic-advisory-us-elite-boutique-at-dartmouth-partners-4490906411 | Dartmouth Partners | Investment Banking Associate - UK Strategic Advisory | US Elite Boutique. | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-telco-digital-infra-m-a-at-dartmouth-partners-4466859063 | Dartmouth Partners | Investment Banking Associate (Telco & Digital Infra M&A) | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-alexander-daniels-finance-recruitment-4492432414 | Alexander Daniels Finance Recruitment | Assistant Management Accountant | Willenhall, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+
 ## Processed

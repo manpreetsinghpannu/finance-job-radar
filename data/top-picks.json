@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:17:36.215Z",
+ "generated_at": "2026-11-19T14:09:05.803Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 92,
+   "matching": 93,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 77,
+   "matching": 79,
    "picks": [
     {
      "title": "Investment Banking (M&A) Associate - Business Services",
@@ -5759,6 +5759,31 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 20
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210780687": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/experienced-analyst-%E2%80%93-investment-banking-technology-media-telecom-tmt-at-guggenheim-securities-4476931099": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-private-equity-at-rothstein-recruitment-4492452372": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-telco-digital-infra-m-a-at-dartmouth-partners-4466859063": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-alexander-daniels-finance-recruitment-4492432414": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
