@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 21:14** (UK time) · **1156 open roles** at 646 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 21:39** (UK time) · **1156 open roles** at 646 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 21:10** · hourly scan · checked 201 boards · **1 new role**
+**Thu 19 Nov, 21:36** · hourly scan · checked 201 boards · **0 new roles**
 
-### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Quantitative Researcher, Systematic Equities](https://www.linkedin.com/jobs/view/quantitative-researcher-systematic-equities-at-millennium-4371171326) | Millennium | London, England, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Thu 19 Nov, 21:10** (1: Equity 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<sub>Nothing new at: 21:36</sub>
 
 <details>
 <summary><b>21:10</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
