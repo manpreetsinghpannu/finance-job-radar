@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 12:20** (UK time) · **1101 open roles** at 611 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 13:09** (UK time) · **1101 open roles** at 611 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,35 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 12:16** · hourly scan · checked 201 boards · **13 new roles**
+**Thu 19 Nov, 13:05** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 6
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-boots-uk-4492411933) | Boots UK | Nottingham, England, United Kingdom | ✅ |
-| 2026-11-19 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-murphy-4492422425) | Murphy | London, England, United Kingdom | ❔ |
-| 2026-11-18 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-acca-careers-4492411897) | ACCA Careers | Leicester, England, United Kingdom | ❔ |
-| 2026-11-19 | [Management Accountant - Welsh Desirable](https://www.linkedin.com/jobs/view/management-accountant-welsh-desirable-at-acca-careers-4492149548) | ACCA Careers | Cardiff, Wales, United Kingdom | ❔ |
-| 2026-11-19 | [Global Equities - Financial Reporting, Analysis & Control - Associate](https://www.linkedin.com/jobs/view/global-equities-financial-reporting-analysis-control-associate-at-jpmorganchase-4372709633) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
-| 2026-11-18 | [Capital & Investment Accountant](https://www.linkedin.com/jobs/view/capital-investment-accountant-at-ivy-rock-partners-4492023368) | Ivy Rock Partners | Enfield, England, United Kingdom | ❔ |
-
-### Equity CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Equity Research Analyst, OnLine Gaming, Tier One Investment Bank](https://www.linkedin.com/jobs/view/equity-research-analyst-online-gaming-tier-one-investment-bank-at-greenwich-partners-4492403912) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
-| 2026-11-19 | [Equity Research Analyst - Partner level](https://www.linkedin.com/jobs/view/equity-research-analyst-partner-level-at-spectacled-bear-ai-4492430144) | Spectacled Bear AI | England, United Kingdom | ❔ |
-| 2026-11-18 | [Investment Analyst / Associate - GP Stakes & Fund Launches](https://www.linkedin.com/jobs/view/investment-analyst-associate-gp-stakes-fund-launches-at-edgworth-partners-4492047212) | Edgworth Partners | London Area, United Kingdom | ❔ |
-
-### Investment (IB / PE) CV: 4
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [M&A Analyst](https://www.linkedin.com/jobs/view/m-a-analyst-at-hfg-insurance-recruitment-4492131977) | HFG Insurance Recruitment | City Of London, England, United Kingdom | ❔ |
-| 2026-11-19 | [Commercial and Investment Banking - Treasury analyst (MENA)](https://www.linkedin.com/jobs/view/commercial-and-investment-banking-treasury-analyst-mena-at-jpmorganchase-4492419368) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
-| — | [M&A Analyst](https://www.reed.co.uk/jobs/m-a-analyst/57591863) | High Finance (UK) Limited T/A HFG | London | ❔ |
-| — | [Application Configuration Specialist (eFront/Private Markets)](https://www.reed.co.uk/jobs/application-configuration-specialist-efront-private-markets/57591822) | Hays Specialist Recruitment Limited | Southampton, Hampshire | ❔ |
+Nothing new this time. The last scan that found something was **Thu 19 Nov, 12:16** (13: Finance 6 · Equity 3 · Investment 4); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -84,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<sub>Nothing new at: 13:05</sub>
 
 <details>
 <summary><b>12:16</b> · hourly scan · <b>13 new</b> → Finance 6 · Equity 3 · Investment 4</summary>
@@ -2752,37 +2728,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>13:08</b> · hourly scan · <b>9 new</b> → Finance 2 · Credit 3 · Investment 4</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Accountant - Convenience - Ambient](https://www.linkedin.com/jobs/view/accountant-convenience-ambient-at-morrisons-4479432493) | Morrisons | Bradford, England, United Kingdom | ✅ |
-| 2026-11-12 | [Technical Accountant](https://www.s1jobs.com/job/technical-accountant-127741216) | Harvey Nash | Glasgow Area, Scotland | ✅ |
-
-#### Credit CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Market Risk Analyst (Analytics)](https://www.linkedin.com/jobs/view/market-risk-analyst-analytics-at-eni-4470928662) | Eni | London Area, United Kingdom | ✅ |
-| 2026-11-12 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-scottishpower-4490346173) | ScottishPower | Blantyre, Scotland, United Kingdom | ✅ |
-| 2026-11-12 | [International Credit Analysis & Reporting](https://www.linkedin.com/jobs/view/international-credit-analysis-reporting-at-cameron-kennedy-4485820654) | Cameron Kennedy | London Area, United Kingdom | ✅ |
-
-#### Investment (IB / PE) CV: 4
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695) | Rothschild & Co | London | ✅ |
-| 2026-11-12 | [M&A Consultant - Commercial Due Diligence - Life Sciences](https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/London/M-A-Consultant---Commercial-Due-Diligence---Life-Sciences_R21618) | BDO UK | London | ✅ |
-| 2026-11-12 | [Financial Advisory Graduate Programme](https://www.teneo.com/careers/open-positions/8197497003?gh_jid=8197497003) | Teneo | Manchester, United Kingdom | ✅ |
-| 2026-11-12 | [Financial Advisory Graduate Programme](https://www.teneo.com/careers/open-positions/8197494003?gh_jid=8197494003) | Teneo | Leeds, United Kingdom | ✅ |
-
-<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (604)](#finance-fpa-cv-604) · [Credit (139)](#credit-cv-139) · [Equity (63)](#equity-cv-63) · [Investment (108)](#investment-ib--pe-cv-108) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (120)](#other-fits-no-cv-closely-may-still-be-worth-a-look-120)
@@ -3931,7 +3876,7 @@ Everything matched so far, newest first within each CV: [Finance (604)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>88 roles taken off the list because the firm closed the posting</summary>
+<summary>87 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -4022,6 +3967,5 @@ Everything matched so far, newest first within each CV: [Finance (604)](#finance
 | Thu 12 Nov, 16:08 | Graduate Trainee - Risk Modelling Specialist | NatWest Group |
 | Thu 12 Nov, 13:09 | Associate - Corporate Finance (Oil & Gas) | Houlihan Lokey |
 | Thu 12 Nov, 13:09 | Financial Analyst - Corporate Finance (Oil & Gas) | Houlihan Lokey |
-| Thu 12 Nov, 13:09 | Management Accountant | One Stop Healthcare |
 
 </details>
