@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T15:08:12.118Z",
+ "generated_at": "2026-11-19T16:08:16.483Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 233,
+   "matching": 234,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -5824,6 +5824,41 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analysis-specialist-global-revenue-team-at-sapiens-4492446853": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-futures-4492153927": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/graduate-finance-trainee-at-sanctuary-graduates-apprentices-4492168599": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/commercial-finance-analyst/57593086": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 24
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst/57593394": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/portfolio-analyst-part-time-21-hours-per-week/57593055": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/group-development-and-fixed-asset-accountant/57593231": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
   }
  }
 }

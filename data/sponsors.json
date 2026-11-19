@@ -1522,6 +1522,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Great Places Housing Association": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Greencore": {
    "licensed": false,
    "register_name": null,
@@ -3392,10 +3397,20 @@
    "register_name": null,
    "match": "none"
   },
+  "Sanctuary Graduates & Apprentices": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Santander": {
    "licensed": true,
    "register_name": "Santander UK PLC",
    "match": "alias"
+  },
+  "Sapiens": {
+   "licensed": true,
+   "register_name": "Sapiens (UK) Limited",
+   "match": "exact"
   },
   "Satispay": {
    "licensed": false,
@@ -4281,6 +4296,11 @@
    "licensed": true,
    "register_name": "eFinancialCareers Ltd",
    "match": "exact"
+  },
+  "hireful.": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "iCapital": {
    "licensed": true,

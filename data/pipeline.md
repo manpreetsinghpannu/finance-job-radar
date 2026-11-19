@@ -1583,5 +1583,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fund-cfo-associate-private-equity-at-deutsche-asset-management-4470176874 | Deutsche Asset Management | Fund CFO Associate - Private Equity | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-futures-4492162472 | Futures | Management Accountant | Manchester Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/finance-analyst/57592774 | Scania (Great Britain) Limited | Finance Analyst | Milton Keynes, Buckinghamshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analysis-specialist-global-revenue-team-at-sapiens-4492446853 | Sapiens | Financial Planning & Analysis Specialist (global revenue team) | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-futures-4492153927 | Futures | Commercial Finance Analyst | Manchester Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-trainee-at-sanctuary-graduates-apprentices-4492168599 | Sanctuary Graduates & Apprentices | Graduate Finance Trainee | Newcastle Upon Tyne, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57593086 | Accountable Recruitment | Commercial Finance Analyst | Liverpool, Merseyside | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57593394 | Mitchell Adam | Finance Analyst | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/portfolio-analyst-part-time-21-hours-per-week/57593055 | Great Places Housing Association | Portfolio Analyst - Part Time - 21 hours per week | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/group-development-and-fixed-asset-accountant/57593231 | hireful. | Group Development and Fixed Asset Accountant | Chatham, Kent | note: via Reed
 
 ## Processed

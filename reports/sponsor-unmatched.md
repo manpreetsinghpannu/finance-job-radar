@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 863 firms checked, 453 matched, 410 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 867 firms checked, 454 matched, 413 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (410)
+## Not found (413)
 
 - 7IM
 - 93 MGMT
@@ -154,6 +154,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Global Accounting Network
 - Global Corporate Investment Bank
 - Graphite Partners
+- Great Places Housing Association
 - Greencore
 - Greenhill
 - Greenwich Partners
@@ -333,6 +334,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - STORMX RECRUITMENT LIMITED
 - Salutem Care And Education
 - Samworth Brothers
+- Sanctuary Graduates & Apprentices
 - Satispay
 - Scottish public sector
 - Scout Global
@@ -412,6 +414,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Zego
 - abrdn
 - deverellsmith
+- hireful.
 - ivee
 - targetjobs UK
 - twentyAI
