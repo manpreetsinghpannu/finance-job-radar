@@ -1,14 +1,15 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 853 firms checked, 449 matched, 404 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 857 firms checked, 450 matched, 407 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (404)
+## Not found (407)
 
 - 7IM
 - 93 MGMT
 - AAA Global
+- ACCA Careers
 - ACL Partners
 - AD Finance
 - AEJ Consulting Ltd
@@ -157,6 +158,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Greenwich Partners
 - Gresham Hunt
 - HB Partners Limited
+- HFG Insurance Recruitment
 - HOPWOOD HALL COLLEGE
 - HSBC Innovation Banking
 - Hain Daniels
@@ -343,6 +345,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
 - Sowena Group
+- Spectacled Bear AI
 - Spencer Clarke Group
 - St. Helens and Knowsley Teaching Hospitals NHS Trust
 - Standard Life plc

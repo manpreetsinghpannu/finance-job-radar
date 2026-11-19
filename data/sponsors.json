@@ -37,6 +37,11 @@
    "register_name": null,
    "match": "none"
   },
+  "ACCA Careers": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ACL Partners": {
    "licensed": false,
    "register_name": null,
@@ -591,6 +596,11 @@
    "licensed": true,
    "register_name": "BlueCrest Capital Management (UK) LLP",
    "match": "prefix"
+  },
+  "Boots UK": {
+   "licensed": true,
+   "register_name": "The Boots Group Services Limited",
+   "match": "exact"
   },
   "Boston Consulting Group": {
    "licensed": true,
@@ -1543,6 +1553,11 @@
    "match": "exact"
   },
   "HB Partners Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "HFG Insurance Recruitment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3516,6 +3531,11 @@
    "licensed": true,
    "register_name": "Specsavers (Louth Visionplus Ltd)",
    "match": "exact"
+  },
+  "Spectacled Bear AI": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Spectrum Brands (UK) Limited": {
    "licensed": true,
