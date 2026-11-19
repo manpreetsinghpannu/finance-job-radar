@@ -1541,5 +1541,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/financial-accountant/57584753 | Faith Recruitment | Financial Accountant | Weybridge, Surrey | posted: 2026-11-18 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-finatal-4492407405 | Finatal | Fund Accountant | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-burman-recruitment-4492297561 | Burman Recruitment | Management Accountant | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759 | Dartmouth Partners | Investment Banking (M&A) Associate - Business Services | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57591276 | Robert Walters | Commercial Finance Analyst | London | note: via Reed
 
 ## Processed

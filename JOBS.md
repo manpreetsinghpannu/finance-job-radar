@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 09:07** (UK time) · **1081 open roles** at 603 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 10:12** (UK time) · **1083 open roles** at 603 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 09:04** · hourly scan · checked 201 boards · **2 new roles**
+**Thu 19 Nov, 10:08** · hourly scan · checked 201 boards · **2 new roles**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-burman-recruitment-4492297561) | Burman Recruitment | London Area, United Kingdom | ❔ |
+| — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57591276) | Robert Walters | London | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 1
+### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-19 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-finatal-4492407405) | Finatal | London Area, United Kingdom | ❔ |
+| 2026-11-19 | [Investment Banking (M&A) Associate - Business Services](https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759) | Dartmouth Partners | London Area, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (227 matching)
+**Finance (FP&A) CV** (228 matching)
 
 1. [Commercial Finance Analyst](https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002) · Tandem Bank · Cardiff, United Kingdom · posted 2026-11-18 · ✅
 2. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
@@ -43,9 +43,9 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) · Rothschild & Co · London · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 
-**Investment (IB / PE) CV** (77 matching)
+**Investment (IB / PE) CV** (78 matching)
 
-1. [Investment Banking Associate (FIG M&A) Advisory](https://www.linkedin.com/jobs/view/investment-banking-associate-fig-m-a-advisory-at-dartmouth-partners-4490916163) · Dartmouth Partners · Greater London, England, United Kingdom · posted 2026-11-16 · ✅
+1. [Investment Banking (M&A) Associate - Business Services](https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759) · Dartmouth Partners · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) · eFinancialCareers · London · ✅
 
 **Consulting CV** (24 matching)
@@ -68,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<details>
+<summary><b>10:08</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57591276) | Robert Walters | London | ✅ |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Investment Banking (M&A) Associate - Business Services](https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759) | Dartmouth Partners | London Area, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>09:04</b> · hourly scan · <b>2 new</b> → Finance 1 · Fund 1</summary>
@@ -2757,50 +2774,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>10:08</b> · hourly scan · <b>9 new</b> → Finance 6 · Credit 1 · Investment 1 · Other 1</summary>
-
-#### Finance (FP&A) CV: 6
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57561021) | Ambition Europe Limited | London | ✅ |
-| 2026-11-11 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-laing-o-rourke-4463299560) | Laing O'Rourke | Dartford, England, United Kingdom | ✅ |
-| 2026-11-12 | [Management Accountant](https://www.s1jobs.com/job/management-accountant-127738667) | Right People Recruitment Solutions | Aberdeen Area, Scotland | ❔ |
-| 2026-11-12 | [Management Accountant 1 Year Contract Part Time](https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127738556) | Right People Recruitment Solutions | Aberdeenshire, Scotland | ❔ |
-| 2026-11-12 | [Reporting Accountant](https://www.s1jobs.com/job/reporting-accountant-127738623) | Right People Recruitment Solutions | Aberdeen Area, Scotland | ❔ |
-| 2026-11-12 | [Accountant](https://www.s1jobs.com/job/accountant-127738411) | Right People Recruitment Solutions | Aberdeen Area, Scotland | ❔ |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Credit Risk Analyst](https://www.reed.co.uk/jobs/credit-risk-analyst/57561028) | SRG | London | ❔ |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Investment Banking - EMEA Real Estate - Analyst / Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-real-estate-analyst-associate-london-at-jpmorganchase-4480569191) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Trainee Finance Assistant ( Graduate )](https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127738727) | Right People Recruitment Solutions | Aberdeen Area, Scotland | ❔ |
-
-</details>
-
-<sub>Nothing new at: 09:08</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (592)](#finance-fpa-cv-592) · [Credit (137)](#credit-cv-137) · [Equity (61)](#equity-cv-61) · [Investment (104)](#investment-ib--pe-cv-104) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (120)](#other-fits-no-cv-closely-may-still-be-worth-a-look-120)
+Everything matched so far, newest first within each CV: [Finance (593)](#finance-fpa-cv-593) · [Credit (137)](#credit-cv-137) · [Equity (61)](#equity-cv-61) · [Investment (105)](#investment-ib--pe-cv-105) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (120)](#other-fits-no-cv-closely-may-still-be-worth-a-look-120)
 
-### Finance (FP&A) CV: 592
+### Finance (FP&A) CV: 593
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57591276) | Robert Walters | London | ✅ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-burman-recruitment-4492297561) | Burman Recruitment | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-quanex-4492257080) | Quanex | Wolverhampton, England, United Kingdom | ❔ |
 | — | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57571811) | Robert Half | Edinburgh, Midlothian | ✅ |
@@ -3602,10 +3584,11 @@ Everything matched so far, newest first within each CV: [Finance (592)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 104
+### Investment (IB / PE) CV: 105
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-19 | [Investment Banking (M&A) Associate - Business Services](https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759) | Dartmouth Partners | London Area, United Kingdom | ✅ |
 | 2026-11-18 | [Commercial and Investment Banking - Treasury analyst (MENA)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210810033) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-11-18 | [Associate – Private Equity Funds & Co-investments - Universities Superannuation Scheme Limited](https://www.adzuna.co.uk/jobs/land/ad/5970506304) | Universities Superannuation Scheme Limited | London, UK | ✅ |
 | 2026-11-18 | [Investment Banking Associate - Healthcare](https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-at-baird-4491887050) | Baird | London, England, United Kingdom | ✅ |
