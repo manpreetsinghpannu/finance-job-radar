@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T23:08:01.095Z",
+ "generated_at": "2026-11-19T00:08:34.913Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 227,
+   "matching": 226,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 93,
+   "matching": 91,
    "picks": [
     {
      "title": "Credit Risk Analyst - Energy",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 78,
+   "matching": 77,
    "picks": [
     {
      "title": "Investment Banking Associate (FIG M&A) Advisory",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 25,
+   "matching": 24,
    "picks": [
     {
      "title": "Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)",
@@ -5606,6 +5606,11 @@
    "score": 22
   },
   "https://scotjobsnet.co.uk/job/interim-finance-business-partner/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-care-visions-group-4492043170": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14

@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 18 Nov, 23:08** (UK time) · **1072 open roles** at 598 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 19 Nov, 00:08** (UK time) · **1073 open roles** at 599 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,24 +10,24 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 18 Nov, 23:04** · hourly scan · checked 201 boards · **1 new role**
+**Thu 19 Nov, 00:04** · hourly scan · checked 201 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-18 | [Interim Finance Business Partner](https://scotjobsnet.co.uk/job/interim-finance-business-partner/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
+| 2026-11-18 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-care-visions-group-4492043170) | Care Visions Group | Falkirk, Scotland, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (227 matching)
+**Finance (FP&A) CV** (226 matching)
 
 1. [Commercial Finance Analyst](https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002) · Tandem Bank · Cardiff, United Kingdom · posted 2026-11-18 · ✅
 2. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
 
-**Credit CV** (93 matching)
+**Credit CV** (91 matching)
 
 1. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
 2. [Credit Risk Associate – FX Forwards - 3S Money](https://www.adzuna.co.uk/jobs/land/ad/5968018960) · 3S Money · London, UK · posted 2026-11-16 · ✅
@@ -37,12 +37,12 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) · Rothschild & Co · London · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 
-**Investment (IB / PE) CV** (78 matching)
+**Investment (IB / PE) CV** (77 matching)
 
 1. [Investment Banking Associate (FIG M&A) Advisory](https://www.linkedin.com/jobs/view/investment-banking-associate-fig-m-a-advisory-at-dartmouth-partners-4490916163) · Dartmouth Partners · Greater London, England, United Kingdom · posted 2026-11-16 · ✅
 2. [Investment Banking Analyst, M&A - Citi](https://www.reed.co.uk/jobs/investment-banking-analyst-m-a-citi/57566952) · eFinancialCareers · London · ✅
 
-**Consulting CV** (25 matching)
+**Consulting CV** (24 matching)
 
 1. [Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)](https://www.linkedin.com/jobs/view/strategy-associate-consultant-generalist-m-f-d-%E2%80%93-hybrid-arrangement-at-l-e-k-consulting-4478950065) · L.E.K. Consulting · London Area, United Kingdom · posted 2026-11-17 · ✅
 2. [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) · Hargreaves Lansdown · Bristol - Welcome Building · posted 2026-11-16 · ✅
@@ -60,6 +60,19 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Thursday 19 November
+
+<details>
+<summary><b>00:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-18 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-care-visions-group-4492043170) | Care Visions Group | Falkirk, Scotland, United Kingdom | ❔ |
+
+</details>
 
 ### Wednesday 18 November
 
@@ -2707,13 +2720,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 02:07, 01:16, 00:07</sub>
+<sub>Nothing new at: 02:07, 01:16</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (587)](#finance-fpa-cv-587) · [Credit (136)](#credit-cv-136) · [Equity (60)](#equity-cv-60) · [Investment (104)](#investment-ib--pe-cv-104) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (119)](#other-fits-no-cv-closely-may-still-be-worth-a-look-119)
+Everything matched so far, newest first within each CV: [Finance (588)](#finance-fpa-cv-588) · [Credit (136)](#credit-cv-136) · [Equity (60)](#equity-cv-60) · [Investment (104)](#investment-ib--pe-cv-104) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (27)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-27) · [Other (119)](#other-fits-no-cv-closely-may-still-be-worth-a-look-119)
 
-### Finance (FP&A) CV: 587
+### Finance (FP&A) CV: 588
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2751,6 +2764,7 @@ Everything matched so far, newest first within each CV: [Finance (587)](#finance
 | 2026-11-18 | [Management Accountant](https://www.adzuna.co.uk/jobs/land/ad/5970169296) | HOPWOOD HALL COLLEGE | Middleton, Manchester | ❔ |
 | — | [Junior Finance Analyst - Immediate Start Entry Level Role](https://www.reed.co.uk/jobs/junior-finance-analyst-immediate-start-entry-level-role/57589951) | Mitchell Adam | Birmingham, West Midlands (County) | ❔ |
 | 2026-11-18 | [Interim Finance Business Partner](https://scotjobsnet.co.uk/job/interim-finance-business-partner/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
+| 2026-11-18 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-care-visions-group-4492043170) | Care Visions Group | Falkirk, Scotland, United Kingdom | ❔ |
 | 2026-11-18 | [Front Office Treasury Analyst](https://www.linkedin.com/jobs/view/front-office-treasury-analyst-at-brewer-morris-4490862737) | Brewer Morris | London Area, United Kingdom | ❔ |
 | 2026-11-18 | [Assistant Accountant](https://www.adzuna.co.uk/jobs/land/ad/5970263820) | IDA Recruitment Ltd | New Cross, South East London | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57586637) | FryerMiles | Theale, Reading, Berkshire | ❔ |

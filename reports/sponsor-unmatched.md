@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 846 firms checked, 449 matched, 397 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 847 firms checked, 449 matched, 398 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (397)
+## Not found (398)
 
 - 7IM
 - 93 MGMT
@@ -82,6 +82,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Candidate Source - TEAM
 - Capital Outsourcing Group Ltd
 - Card Factory
+- Care Visions Group
 - Carousel Consultancy Ltd
 - Carr Lyons Search & Selection
 - Centalion
