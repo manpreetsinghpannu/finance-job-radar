@@ -2642,6 +2642,11 @@
    "register_name": "London Borough of Havering",
    "match": "exact"
   },
+  "London LGPS CIV Limited": {
+   "licensed": true,
+   "register_name": "London LGPS CIV",
+   "match": "exact"
+  },
   "London and Quadrant Housing Trust": {
    "licensed": true,
    "register_name": "London & Quadrant Housing Trust",

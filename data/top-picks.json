@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:17:26.916Z",
+ "generated_at": "2026-11-20T23:18:51.010Z",
  "order": [
   "finance",
   "credit",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 63,
+   "matching": 64,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -188,8 +188,21 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 36,
+   "matching": 37,
    "picks": [
+    {
+     "title": "Investment Analyst - Real Estate",
+     "company": "London LGPS CIV Limited",
+     "location": "London, England, United Kingdom",
+     "posted": "2026-11-20",
+     "url": "https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878",
+     "score": 26,
+     "why": [
+      "Real Estate",
+      "Investment Analyst"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Analyst, Real Estate Asset Management",
      "company": "Ares Management",
@@ -200,18 +213,6 @@
      "why": [
       "Real Estate",
       "Asset Management"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Assistant Accountant - Property",
-     "company": "Frasers Group",
-     "location": "Shirebrook, England, United Kingdom",
-     "posted": "2026-11-19",
-     "url": "https://www.linkedin.com/jobs/view/assistant-accountant-property-at-frasers-group-4492507218",
-     "score": 21,
-     "why": [
-      "Property"
      ],
      "sponsor": true
     }
@@ -4865,11 +4866,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 17
   },
-  "https://www.linkedin.com/jobs/view/financial-accountant-private-equity-alternative-investments-at-hireforce-4490471172": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 13
-  },
   "https://www.reed.co.uk/jobs/credit-analyst-data-reporting-cer-financial/57584124": {
    "id": "credit",
    "cv": "Credit CV",
@@ -7114,6 +7110,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 26
+  },
+  "https://www.linkedin.com/jobs/view/investment-operations-associate-reconciliations-corporate-actions-wealth-management-at-jj-search-limited-4492864083": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 16
+  },
+  "https://scotjobsnet.co.uk/job/fund-accountant/": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
   }
  }
 }

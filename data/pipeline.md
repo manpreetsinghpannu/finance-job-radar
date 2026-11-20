@@ -1887,5 +1887,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-pret-a-manger-4492839726 | Pret A Manger | Group & International FP&A Analyst | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/wholesale-finance-business-partner-at-morrisons-4491964316 | Morrisons | Wholesale Finance Business Partner | Bradford, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/assistant-financial-accountant/57598232 | Hays Specialist Recruitment Limited | Assistant Financial Accountant | Manchester, Lancashire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878 | London LGPS CIV Limited | Investment Analyst - Real Estate | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-operations-associate-reconciliations-corporate-actions-wealth-management-at-jj-search-limited-4492864083 | JJ SEARCH LIMITED | Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/fund-accountant/ | via ScotJobsNet | Fund Accountant | Glasgow, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
 
 ## Processed

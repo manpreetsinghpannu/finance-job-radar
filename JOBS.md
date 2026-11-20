@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 20 Nov, 22:17** (UK time) · **1373 open roles** at 767 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 20 Nov, 23:18** (UK time) · **1375 open roles** at 768 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 20 Nov, 22:14** · hourly scan · checked 201 boards · **3 new roles**
+**Fri 20 Nov, 23:15** · hourly scan · checked 201 boards · **3 new roles**
 
-### Finance (FP&A) CV: 3
+### Real Estate CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-20 | [Group & International FP&A Analyst](https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-pret-a-manger-4492839726) | Pret A Manger | London, England, United Kingdom | ✅ |
-| 2026-11-20 | [Wholesale Finance Business Partner](https://www.linkedin.com/jobs/view/wholesale-finance-business-partner-at-morrisons-4491964316) | Morrisons | Bradford, England, United Kingdom | ✅ |
-| — | [Assistant Financial Accountant](https://www.reed.co.uk/jobs/assistant-financial-accountant/57598232) | Hays Specialist Recruitment Limited | Manchester, Lancashire | ❔ |
+| 2026-11-20 | [Investment Analyst - Real Estate](https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878) | London LGPS CIV Limited | London, England, United Kingdom | ✅ |
+
+### Fund CV (written for India; tweak the header for UK roles): 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management](https://www.linkedin.com/jobs/view/investment-operations-associate-reconciliations-corporate-actions-wealth-management-at-jj-search-limited-4492864083) | JJ SEARCH LIMITED | London Area, United Kingdom | ❔ |
+| 2026-11-20 | [Fund Accountant](https://scotjobsnet.co.uk/job/fund-accountant/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
 
 ## Top picks for each CV
 
@@ -34,7 +39,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) · JPMorgan Chase · BOURNEMOUTH, DORSET, United Kingdom · posted 2026-11-19 · ✅
 2. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
 
-**Equity CV** (63 matching)
+**Equity CV** (64 matching)
 
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) · Rothschild & Co · London · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
@@ -49,10 +54,10 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)](https://www.linkedin.com/jobs/view/strategy-associate-consultant-generalist-m-f-d-%E2%80%93-hybrid-arrangement-at-l-e-k-consulting-4478950065) · L.E.K. Consulting · London Area, United Kingdom · posted 2026-11-17 · ✅
 2. [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) · Hargreaves Lansdown · Bristol - Welcome Building · posted 2026-11-16 · ✅
 
-**Real Estate CV** (36 matching)
+**Real Estate CV** (37 matching)
 
-1. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
-2. [Assistant Accountant - Property](https://www.linkedin.com/jobs/view/assistant-accountant-property-at-frasers-group-4492507218) · Frasers Group · Shirebrook, England, United Kingdom · posted 2026-11-19 · ✅
+1. [Investment Analyst - Real Estate](https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878) · London LGPS CIV Limited · London, England, United Kingdom · posted 2026-11-20 · ✅
+2. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
 
 **Fund CV (written for India; tweak the header for UK roles)** (37 matching)
 
@@ -64,6 +69,24 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 20 November
+
+<details>
+<summary><b>23:15</b> · hourly scan · <b>3 new</b> → Real Estate 1 · Fund 2</summary>
+
+#### Real Estate CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Investment Analyst - Real Estate](https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878) | London LGPS CIV Limited | London, England, United Kingdom | ✅ |
+
+#### Fund CV (written for India; tweak the header for UK roles): 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management](https://www.linkedin.com/jobs/view/investment-operations-associate-reconciliations-corporate-actions-wealth-management-at-jj-search-limited-4492864083) | JJ SEARCH LIMITED | London Area, United Kingdom | ❔ |
+| 2026-11-20 | [Fund Accountant](https://scotjobsnet.co.uk/job/fund-accountant/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
+
+</details>
 
 <details>
 <summary><b>22:14</b> · hourly scan · <b>3 new</b> → Finance 3</summary>
@@ -1684,7 +1707,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>17:05</b> · hourly scan · <b>15 new</b> → Finance 6 · Credit 3 · Investment 3 · Real Estate 1 · Other 2</summary>
+<summary><b>17:05</b> · hourly scan · <b>14 new</b> → Finance 6 · Credit 3 · Investment 2 · Real Estate 1 · Other 2</summary>
 
 #### Finance (FP&A) CV: 6
 
@@ -1705,12 +1728,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-17 | [Portfolio Underwriting Analyst](https://www.linkedin.com/jobs/view/portfolio-underwriting-analyst-at-broaden-4490460264) | Broaden | London, England, United Kingdom | ❔ |
 | — | [Risk Analyst - Lorien](https://www.reed.co.uk/jobs/risk-analyst-lorien/57584116) | eFinancialCareers | London | ✅ |
 
-#### Investment (IB / PE) CV: 3
+#### Investment (IB / PE) CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-17 | [M&A Analyst - FIG](https://www.linkedin.com/jobs/view/m-a-analyst-fig-at-alan-mitchell-4480787999) | Alan Mitchell | London Area, United Kingdom | ❔ |
-| 2026-11-17 | [Financial Accountant (Private Equity & Alternative Investments)](https://www.linkedin.com/jobs/view/financial-accountant-private-equity-alternative-investments-at-hireforce-4490471172) | HireForce | London Area, United Kingdom | ❔ |
 | — | [Corporate Finance Specialist](https://www.s1jobs.com/job/corporate-finance-specialist-127766439) | S1Jobs | Scotland | ❔ |
 
 #### Real Estate CV: 1
@@ -1725,6 +1747,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | 2026-11-17 | [Analyst, Portfolio Valuations](https://www.linkedin.com/jobs/view/analyst-portfolio-valuations-4491179811) | Valuations | London Area, United Kingdom | ❔ |
 | — | [Graduate Finance Assistant](https://www.reed.co.uk/jobs/graduate-finance-assistant/57584419) | Reed | Cambridge, Cambridgeshire | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3037,13 +3061,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-### Friday 13 November
-
-<sub>Nothing new at: 23:08, 22:44</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (785)](#finance-fpa-cv-785) · [Credit (168)](#credit-cv-168) · [Equity (71)](#equity-cv-71) · [Investment (138)](#investment-ib--pe-cv-138) · [Consulting (21)](#consulting-cv-21) · [Real Estate (26)](#real-estate-cv-26) · [Fund (33)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-33) · [Other (131)](#other-fits-no-cv-closely-may-still-be-worth-a-look-131)
+Everything matched so far, newest first within each CV: [Finance (785)](#finance-fpa-cv-785) · [Credit (168)](#credit-cv-168) · [Equity (71)](#equity-cv-71) · [Investment (137)](#investment-ib--pe-cv-137) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (131)](#other-fits-no-cv-closely-may-still-be-worth-a-look-131)
 
 ### Finance (FP&A) CV: 785
 
@@ -4084,7 +4104,7 @@ Everything matched so far, newest first within each CV: [Finance (785)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 138
+### Investment (IB / PE) CV: 137
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4132,7 +4152,6 @@ Everything matched so far, newest first within each CV: [Finance (785)](#finance
 | — | [Analyst, Portfolio Valuation - Goodman Masson](https://www.reed.co.uk/jobs/analyst-portfolio-valuation-goodman-masson/57585022) | eFinancialCareers | London | ✅ |
 | 2026-11-17 | [M&A Analyst - FIG](https://www.linkedin.com/jobs/view/m-a-analyst-fig-at-alan-mitchell-4480787999) | Alan Mitchell | London Area, United Kingdom | ❔ |
 | 2026-11-17 | [Investment Banking - EMEA Strategic Investors Group (SIG) - Analyst / Associate - London](https://www.linkedin.com/jobs/view/investment-banking-emea-strategic-investors-group-sig-analyst-associate-london-at-jpmorganchase-4490194192) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
-| 2026-11-17 | [Financial Accountant (Private Equity & Alternative Investments)](https://www.linkedin.com/jobs/view/financial-accountant-private-equity-alternative-investments-at-hireforce-4490471172) | HireForce | London Area, United Kingdom | ❔ |
 | 2026-11-17 | [Mergers and Acquisitions Associate](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-kos-international-talent-group-4491180232) | KOS International Talent Group | United Kingdom | ❔ |
 | 2026-11-17 | [Fund Accountant, Private Equity](https://www.linkedin.com/jobs/view/fund-accountant-private-equity-at-gen-ii-fund-services-4491591911) | Gen II Fund Services | Southampton, England, United Kingdom | ❔ |
 | — | [Junior Investment Associate](https://www.reed.co.uk/jobs/junior-investment-associate/57581186) | PGS LTD | London | ❔ |
@@ -4253,10 +4272,11 @@ Everything matched so far, newest first within each CV: [Finance (785)](#finance
 | 2026-10-07 | [Oracle ERP Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Oracle-ERP-Finance-Transformation-Consultant_R00361406) | Accenture | London | ❔ |
 | 2026-10-06 | [Intercompany Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Intercompany-Finance-Transformation-Consultant_R00359314) | Accenture | London | ❔ |
 
-### Real Estate CV: 26
+### Real Estate CV: 27
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-20 | [Investment Analyst - Real Estate](https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878) | London LGPS CIV Limited | London, England, United Kingdom | ✅ |
 | 2026-11-20 | [Investment Analyst - M&A skillset wanted for Real Estate PE fund](https://www.linkedin.com/jobs/view/investment-analyst-m-a-skillset-wanted-for-real-estate-pe-fund-at-caravel-4491945947) | Caravel | Greater London, England, United Kingdom | ❔ |
 | 2026-11-20 | [Associate – Commercial Real Estate Asset Management](https://www.linkedin.com/jobs/view/associate-%E2%80%93-commercial-real-estate-asset-management-at-auricoe-4491919879) | Auricoe | London Area, United Kingdom | ❔ |
 | 2026-11-20 | [Associate – Real Estate Capital Markets](https://www.linkedin.com/jobs/view/associate-%E2%80%93-real-estate-capital-markets-at-anonymous-4491914933) | Anonymous | London Area, United Kingdom | ❔ |
@@ -4284,12 +4304,14 @@ Everything matched so far, newest first within each CV: [Finance (785)](#finance
 | — | [Associate, Real Estate Asset Management Operations](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Associate--Real-Estate-Asset-Management-Operations_R8113) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 33
+### Fund CV (written for India; tweak the header for UK roles): 35
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-20 | [Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management](https://www.linkedin.com/jobs/view/investment-operations-associate-reconciliations-corporate-actions-wealth-management-at-jj-search-limited-4492864083) | JJ SEARCH LIMITED | London Area, United Kingdom | ❔ |
 | 2026-11-20 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-gen-ii-fund-services-4418775609) | Gen II Fund Services | Whitley, England, United Kingdom | ❔ |
 | 2026-11-20 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-lorien-4492932772) | Lorien | Glasgow, Scotland, United Kingdom | ❔ |
+| 2026-11-20 | [Fund Accountant](https://scotjobsnet.co.uk/job/fund-accountant/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
 | 2026-11-20 | [Fund Accounting Product Change Specialist](https://www.linkedin.com/jobs/view/fund-accounting-product-change-specialist-at-ramsey-portia-4492778475) | Ramsey Portia | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Graduate Investment Operations Analyst](https://www.linkedin.com/jobs/view/graduate-investment-operations-analyst-at-citygrad-4492717197) | CityGrad | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-finatal-4492407405) | Finatal | London Area, United Kingdom | ❔ |
@@ -4461,10 +4483,11 @@ Everything matched so far, newest first within each CV: [Finance (785)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>94 roles taken off the list because the firm closed the posting</summary>
+<summary>95 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 20 Nov, 23:16 | Financial Accountant (Private Equity & Alternative Investments) | HireForce |
 | Fri 20 Nov, 22:15 | Trainee Equity Research Associate - Global Investment Bank - London | Greenwich Partners |
 | Fri 20 Nov, 18:20 | Equity Research Associate, Internet Coverage, Global | Greenwich Partners |
 | Fri 20 Nov, 17:15 | Equity Research Analyst, OnLine Gaming, Tier One Investment Bank | Greenwich Partners |
