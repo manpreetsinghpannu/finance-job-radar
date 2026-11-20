@@ -442,6 +442,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Auricoe": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Auto Trader": {
    "licensed": true,
    "register_name": "Autotrader Limited",
@@ -653,6 +658,11 @@
    "match": "none"
   },
   "Bield Housing Association": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "BioticNRG": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -987,6 +997,11 @@
    "register_name": "Castleton Commodities UK Limited",
    "match": "exact"
   },
+  "Castrol": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Catalyst": {
    "licensed": true,
    "register_name": "Catalyst Corporation Ltd",
@@ -1061,6 +1076,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Citizens Advice": {
+   "licensed": true,
+   "register_name": "Citizens Advice 1066",
+   "match": "prefix"
   },
   "City Recruitment Associates": {
    "licensed": false,
@@ -1473,6 +1493,11 @@
    "match": "alias"
   },
   "Financial Divisions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Financial Technology Partners / FT Partners": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2078,6 +2103,11 @@
    "match": "exact"
   },
   "IVC Evidensia": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Ignition Collective": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4826,6 +4856,11 @@
    "licensed": true,
    "register_name": "iCapital UK International Limited",
    "match": "alias"
+  },
+  "iMultiply": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "itsu": {
    "licensed": true,

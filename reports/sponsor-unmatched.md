@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 971 firms checked, 491 matched, 480 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 978 firms checked, 492 matched, 486 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (480)
+## Not found (486)
 
 - 7IM
 - 93 MGMT
@@ -53,6 +53,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Atkinson Moss
 - Atlassian Williams F1 Team
 - Atom Bank
+- Auricoe
 - Avove Utilities
 - Axon Moore
 - Axon Moore Group Ltd
@@ -65,6 +66,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Belmont Search Ltd
 - Better Placed
 - Bield Housing Association
+- BioticNRG
 - Blockchain.com
 - Blood Cancer UK
 - Bloom Money
@@ -102,6 +104,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Care Visions Group
 - Carousel Consultancy Ltd
 - Carr Lyons Search & Selection
+- Castrol
 - Centalion
 - Chalk Hill Group
 - Checkatrade
@@ -153,6 +156,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Faith Recruitment
 - Fane Valley Cooperative Society Ltd
 - Financial Divisions
+- Financial Technology Partners / FT Partners
 - Finatal
 - Fletcher George Recruitment Ltd
 - Flex
@@ -219,6 +223,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - IPOE Consulting
 - IPS Finance
 - IVC Evidensia
+- Ignition Collective
 - In2 Consult
 - Independent Office for Police Conduct
 - Insight Recruitment Solutions Limited
@@ -482,12 +487,13 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - deverellsmith
 - e.surv Chartered Surveyors
 - hireful.
+- iMultiply
 - ivee
 - targetjobs UK
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (58)
+## Matched automatically by close name; worth a glance (59)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -500,6 +506,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Brookfield → Brookfield Global Asset Management Limited (prefix)
 - Carter Jonas → Carter Jonas Service Company (prefix)
 - Cedar → Cedar Capital Partners Ltd (prefix)
+- Citizens Advice → Citizens Advice 1066 (prefix)
 - Cobalt → Cobalt Labs UK Limited (prefix)
 - Cushman & Wakefield → Cushman & Wakefield Debenham Tie Leung Limited (prefix)
 - Duco → Duco Technology Limited (prefix)

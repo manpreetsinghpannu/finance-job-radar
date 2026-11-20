@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:18:40.100Z",
+ "generated_at": "2026-11-20T14:18:34.402Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 276,
+   "matching": 278,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 62,
+   "matching": 63,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 35,
+   "matching": 36,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -6720,11 +6720,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 21
   },
-  "https://www.linkedin.com/jobs/view/accountant-ftc-15-months-at-triple-point-4492920369": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/trainee-financial-adviser-graduate-at-raymond-james-thorpe-park-leeds-4491297946": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -6748,6 +6743,66 @@
   "https://www.linkedin.com/jobs/view/capital-markets-analyst-xtrackers-etfs-at-deutsche-asset-management-4452608203": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
+   "score": 13
+  },
+  "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Investment-Analyst-or-Associate_R20557": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-%E2%80%93-global-functions-technology-central-functions-at-castrol-4471905352": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/associate-%E2%80%93-commercial-real-estate-asset-management-at-auricoe-4491919879": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 20
+  },
+  "https://www.linkedin.com/jobs/view/experienced-analysts-investment-banking-at-financial-technology-partners-ft-partners-4457289463": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-imultiply-4483435628": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-central-fulfilment-centre-stock-at-morrisons-4483407255": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/accountant-gadbrook-manufacturing-at-morrisons-4483401440": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/graduate-commercial-analyst-at-bioticnrg-4491919905": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-citizens-advice-4491926497": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/part-qualified-accountant-at-imultiply-4483031683": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/wip-revenue-accountant-at-ignition-collective-4491934020": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/treasury-accountant-at-handpicked-recruitment-4492930485": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
    "score": 13
   }
  }

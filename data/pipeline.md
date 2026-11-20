@@ -1799,4 +1799,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-ivee-4491913783 | ivee | Commercial Analyst | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/capital-markets-analyst-xtrackers-etfs-at-deutsche-asset-management-4452608203 | Deutsche Asset Management | Capital Markets Analyst - Xtrackers/ ETFs | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 
+- [ ] https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Investment-Analyst-or-Associate_R20557 | M&G | Investment Analyst or Associate | London | posted: 2026-11-20
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-%E2%80%93-global-functions-technology-central-functions-at-castrol-4471905352 | Castrol | Finance Business Partner – Global Functions (Technology & Central Functions) | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-%E2%80%93-commercial-real-estate-asset-management-at-auricoe-4491919879 | Auricoe | Associate – Commercial Real Estate Asset Management | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/experienced-analysts-investment-banking-at-financial-technology-partners-ft-partners-4457289463 | Financial Technology Partners / FT Partners | Experienced Analysts, Investment Banking | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-imultiply-4483435628 | iMultiply | Management Accountant | Larbert, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-central-fulfilment-centre-stock-at-morrisons-4483407255 | Morrisons | Finance Business Partner - Central Fulfilment Centre & Stock | Bradford, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-gadbrook-manufacturing-at-morrisons-4483401440 | Morrisons | Accountant - Gadbrook Manufacturing | Bradford, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-commercial-analyst-at-bioticnrg-4491919905 | BioticNRG | Graduate Commercial Analyst | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-citizens-advice-4491926497 | Citizens Advice | Assistant Accountant | England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/part-qualified-accountant-at-imultiply-4483031683 | iMultiply | Part Qualified Accountant | Dalkeith, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/wip-revenue-accountant-at-ignition-collective-4491934020 | Ignition Collective | WIP/ Revenue Accountant | Silverstone, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-accountant-at-handpicked-recruitment-4492930485 | Handpicked Recruitment | Treasury Accountant | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+
 ## Processed
