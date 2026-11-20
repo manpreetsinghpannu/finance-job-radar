@@ -3597,6 +3597,11 @@
    "register_name": "Premier Foods",
    "match": "exact"
   },
+  "Pret A Manger": {
+   "licensed": true,
+   "register_name": "Pret a Manger (Europe) Limited",
+   "match": "exact"
+  },
   "Preventx": {
    "licensed": false,
    "register_name": null,

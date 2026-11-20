@@ -1884,5 +1884,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-astra-asset-management-4492496687 | Astra Asset Management | Management Accountant | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-finance-business-partner-at-nwg-northumbrian-water-group-4492970094 | NWG (Northumbrian Water Group) | Assistant Finance Business Partner | Durham, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/investment-banking-associate-healthcare-m-a-selby-jennings/57598518 | eFinancialCareers | Investment Banking Associate - Healthcare M&A - Selby Jennings | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-pret-a-manger-4492839726 | Pret A Manger | Group & International FP&A Analyst | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/wholesale-finance-business-partner-at-morrisons-4491964316 | Morrisons | Wholesale Finance Business Partner | Bradford, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-financial-accountant/57598232 | Hays Specialist Recruitment Limited | Assistant Financial Accountant | Manchester, Lancashire | note: via Reed
 
 ## Processed
