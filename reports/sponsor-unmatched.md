@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 957 firms checked, 485 matched, 472 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 959 firms checked, 486 matched, 473 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (472)
+## Not found (473)
 
 - 7IM
 - 93 MGMT
@@ -268,6 +268,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - MAGMAS
 - MDM Resourcing
 - MFS Investment Management
+- MM recruitment
 - MacGregor Black
 - Maceo Search Limited
 - Mackie Myers

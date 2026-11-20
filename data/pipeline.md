@@ -1763,5 +1763,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/logistics-finance-business-partner/ | via ScotJobsNet | Logistics Finance Business Partner | Glasgow, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/risk-analyst-private-markets/ | via ScotJobsNet | Risk Analyst, Private Markets | Midlothian, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/costing-accountant-west-lothian-50k-75k/ | via ScotJobsNet | Costing Accountant West Lothian &50k – &75k | Scotland, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/analyst-financial-planning-analysis-at-e-l-f-beauty-4466533411 | E.L.F. BEAUTY | Analyst, Financial Planning & Analysis | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-leasing-retail-at-landsec-4491908583 | Landsec | Finance Analyst - Leasing (Retail) | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-gp-and-lp-led-global-private-equity-secondaries-fund-at-greenwich-partners-4492904692 | Greenwich Partners | Investment Analyst - GP and LP led Global Private Equity Secondaries Fund | Greater London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/contract-accountant-foodbuy-group-at-foodbuy-group-4492472273 | Foodbuy Group | Contract Accountant - Foodbuy Group | Birmingham, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-operations-officer-at-harvey-nash-4492919045 | Harvey Nash | Treasury Operations Officer | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/oracle-treasury-cash-management-professional-at-next-ventures-4491618230 | Next Ventures | Oracle Treasury / Cash Management Professional | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/leveraged-finance-investment-banking-associate-at-metis-search-4491914278 | Metis Search | Leveraged Finance Investment Banking Associate | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/accounts-assistant-path-to-assistant-management-accountant/57583219 | MM recruitment | Accounts Assistant (Path to Assistant / Management Accountant) | Wembley Central, London | note: via Reed
 
 ## Processed

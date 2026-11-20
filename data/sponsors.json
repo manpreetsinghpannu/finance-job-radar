@@ -1287,6 +1287,11 @@
    "register_name": "Dyer Baade & Company Limited",
    "match": "exact"
   },
+  "E.L.F. BEAUTY": {
+   "licensed": true,
+   "register_name": "e.l.f. Beauty UK Limited",
+   "match": "exact"
+  },
   "EFG Private Banking": {
    "licensed": false,
    "register_name": null,
@@ -2551,6 +2556,11 @@
    "licensed": true,
    "register_name": "MLC PARTNERS LTD",
    "match": "exact"
+  },
+  "MM recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "MS Amlin": {
    "licensed": true,
