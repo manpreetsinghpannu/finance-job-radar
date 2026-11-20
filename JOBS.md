@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 20 Nov, 19:08** (UK time) · **1363 open roles** at 763 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 20 Nov, 19:27** (UK time) · **1364 open roles** at 762 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 20 Nov, 19:04** · hourly scan · checked 201 boards · **3 new roles**
+**Fri 20 Nov, 19:22** · hourly scan · checked 201 boards · **4 new roles**
 
-### Credit CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-20 | [Risk Associate](https://santander.wd3.myworkdayjobs.com/santandercareers/job/London/Risk-Associate_Req1635232) | Santander | London | ✅ |
+| 2026-11-20 | [Revenue Accountant](https://www.s1jobs.com/job/revenue-accountant-127783406) | CAMMACH BRYANT LIMITED | Aberdeen Area, Scotland | ❔ |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Investment Banking Associate, Technology](https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-william-blair-4437622721) | William Blair | London, England, United Kingdom | ✅ |
 
 ### Other (fits no CV closely, may still be worth a look): 2
 
@@ -44,7 +50,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) · Rothschild & Co · London · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 
-**Investment (IB / PE) CV** (92 matching)
+**Investment (IB / PE) CV** (93 matching)
 
 1. [Analyst - Investment Banking M&A](https://www.adzuna.co.uk/jobs/details/5972737427) · Equiteq · London, UK · posted 2026-11-20 · ✅
 2. [French speaking Investment Banking M&A Generalist Analyst & Associate](https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161) · eFinancialCareers · London · posted 2026-11-19 · ✅
@@ -71,13 +77,19 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Friday 20 November
 
 <details>
-<summary><b>19:04</b> · hourly scan · <b>3 new</b> → Credit 1 · Other 2</summary>
+<summary><b>19:22</b> · hourly scan · <b>4 new</b> → Finance 1 · Investment 1 · Other 2</summary>
 
-#### Credit CV: 1
+#### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-20 | [Risk Associate](https://santander.wd3.myworkdayjobs.com/santandercareers/job/London/Risk-Associate_Req1635232) | Santander | London | ✅ |
+| 2026-11-20 | [Revenue Accountant](https://www.s1jobs.com/job/revenue-accountant-127783406) | CAMMACH BRYANT LIMITED | Aberdeen Area, Scotland | ❔ |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Investment Banking Associate, Technology](https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-william-blair-4437622721) | William Blair | London, England, United Kingdom | ✅ |
 
 #### Other (fits no CV closely, may still be worth a look): 2
 
@@ -3001,13 +3013,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 19:08</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (778)](#finance-fpa-cv-778) · [Credit (168)](#credit-cv-168) · [Equity (72)](#equity-cv-72) · [Investment (135)](#investment-ib--pe-cv-135) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (33)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-33) · [Other (131)](#other-fits-no-cv-closely-may-still-be-worth-a-look-131)
+Everything matched so far, newest first within each CV: [Finance (779)](#finance-fpa-cv-779) · [Credit (167)](#credit-cv-167) · [Equity (72)](#equity-cv-72) · [Investment (136)](#investment-ib--pe-cv-136) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (33)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-33) · [Other (131)](#other-fits-no-cv-closely-may-still-be-worth-a-look-131)
 
-### Finance (FP&A) CV: 778
+### Finance (FP&A) CV: 779
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3095,6 +3105,7 @@ Everything matched so far, newest first within each CV: [Finance (778)](#finance
 | 2026-11-20 | [Financial Controller](https://www.adzuna.co.uk/jobs/land/ad/5973159093) | Accountable Recruitment | Stanley, Liverpool | ❔ |
 | 2026-11-20 | [Practice Accountant](https://www.adzuna.co.uk/jobs/land/ad/5972844952) | Gleeson Recruitment Group | Berkshire, South East England | ❔ |
 | — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57598288) | Reed | Oxford, Oxfordshire | ❔ |
+| 2026-11-20 | [Revenue Accountant](https://www.s1jobs.com/job/revenue-accountant-127783406) | CAMMACH BRYANT LIMITED | Aberdeen Area, Scotland | ❔ |
 | — | [Interim Part-Qualified Financial Accountant](https://www.reed.co.uk/jobs/interim-part-qualified-financial-accountant/57581236) | Hays Specialist Recruitment Limited | Bristol, Avon | ❔ |
 | — | [New role in privately owned accounting firm - Part or Qualified Accountant](https://www.reed.co.uk/jobs/new-role-in-privately-owned-accounting-firm-part-or-qualified-accountant/57582924) | Reed | Ipswich, Suffolk | ❔ |
 | 2026-11-19 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) | Goodman Masson | London Area, United Kingdom | ✅ |
@@ -4040,7 +4051,7 @@ Everything matched so far, newest first within each CV: [Finance (778)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 135
+### Investment (IB / PE) CV: 136
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4049,6 +4060,7 @@ Everything matched so far, newest first within each CV: [Finance (778)](#finance
 | 2026-11-20 | [Investment Banking Associate - Healthcare M&A](https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-m-a-at-selby-jennings-4492940713) | Selby Jennings | London, England, United Kingdom | ❔ |
 | 2026-11-20 | [M&A Analyst – Transactions](https://www.linkedin.com/jobs/view/m-a-analyst-%E2%80%93-transactions-at-benchmark-international-4492921491) | Benchmark International | Oxford, England, United Kingdom | ✅ |
 | 2026-11-20 | [Investment Analyst - GP and LP led Global Private Equity Secondaries Fund](https://www.linkedin.com/jobs/view/investment-analyst-gp-and-lp-led-global-private-equity-secondaries-fund-at-greenwich-partners-4492904692) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
+| 2026-11-20 | [Investment Banking Associate, Technology](https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-william-blair-4437622721) | William Blair | London, England, United Kingdom | ✅ |
 | 2026-11-20 | [M&A Analyst](https://www.linkedin.com/jobs/view/m-a-analyst-at-marktlink-4492918810) | Marktlink | Manchester, England, United Kingdom | ❔ |
 | 2026-11-20 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-hireiq-4492792946) | HireIQ | Greater London, England, United Kingdom | ❔ |
 | 2026-11-20 | [Associate Valuation Surveyor](https://www.linkedin.com/jobs/view/associate-valuation-surveyor-at-w-talent-4492904385) | W Talent | City Of London, England, United Kingdom | ❔ |

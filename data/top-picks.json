@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:08:24.104Z",
+ "generated_at": "2026-11-20T19:27:15.168Z",
  "order": [
   "finance",
   "credit",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 92,
+   "matching": 93,
    "picks": [
     {
      "title": "Analyst - Investment Banking M&A",
@@ -7050,20 +7050,25 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://santander.wd3.myworkdayjobs.com/santandercareers/job/London/Risk-Associate_Req1635232": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/technology-risk-graduate-programme-september-2027-intake-at-ey-4477806240": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-william-blair-4437622721": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
   "https://www.linkedin.com/jobs/view/graduate-finance-at-balfour-beatty-plc-4491954388": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.s1jobs.com/job/revenue-accountant-127783406": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
