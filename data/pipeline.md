@@ -1811,5 +1811,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/part-qualified-accountant-at-imultiply-4483031683 | iMultiply | Part Qualified Accountant | Dalkeith, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/wip-revenue-accountant-at-ignition-collective-4491934020 | Ignition Collective | WIP/ Revenue Accountant | Silverstone, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-accountant-at-handpicked-recruitment-4492930485 | Handpicked Recruitment | Treasury Accountant | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492579966 | Giacom | Commercial Finance Analyst - Southampton | Southampton, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-in2-consult-4491921812 | IN2 Consult | Financial Planning Analyst | Southampton, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-giacom-4492584882 | Giacom | Commercial Finance Analyst | Nelson, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-%E2%80%93-real-estate-capital-markets-at-anonymous-4491914933 | Anonymous | Associate – Real Estate Capital Markets | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/location-accountant-nottingham-and-market-rasen-racecourses-at-levy-4484988577 | Levy | Location Accountant - Nottingham and Market Rasen Racecourses | Nottingham, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-leigh-day-4483058726 | Leigh Day | Financial Accountant | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-associate-1-year-maternity-cover-at-lmax-group-4492934604 | LMAX Group | Finance Associate - 1 Year Maternity Cover | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-analyst-at-apply-recruitment-4491921478 | Apply Recruitment | Portfolio Analyst | United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

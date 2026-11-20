@@ -287,6 +287,11 @@
    "register_name": "Anglian Water Services Ltd",
    "match": "exact"
   },
+  "Anonymous": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Aon": {
    "licensed": true,
    "register_name": "Aon UK  Limited",
@@ -311,6 +316,11 @@
    "licensed": true,
    "register_name": "Apple Europe Limited",
    "match": "exact"
+  },
+  "Apply Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Aptic Groupe": {
    "licensed": false,
@@ -1677,6 +1687,11 @@
    "register_name": "Genius Sports UK Ltd",
    "match": "exact"
   },
+  "Giacom": {
+   "licensed": true,
+   "register_name": "Giacom (Cloud) Limited",
+   "match": "exact"
+  },
   "Gibson Recruitment Limited": {
    "licensed": false,
    "register_name": null,
@@ -2067,6 +2082,11 @@
    "register_name": null,
    "match": "none"
   },
+  "IN2 Consult": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ING": {
    "licensed": true,
    "register_name": "ING Services Limited",
@@ -2372,6 +2392,11 @@
    "register_name": "Badenoch and Clark Limited T/A LHH Recruitment Solutions",
    "match": "trading name"
   },
+  "LMAX Group": {
+   "licensed": true,
+   "register_name": "LMAX Limited",
+   "match": "exact"
+  },
   "LSEG": {
    "licensed": true,
    "register_name": "London Stock Exchange Group plc",
@@ -2432,6 +2457,11 @@
    "register_name": "Leicester City Council",
    "match": "exact"
   },
+  "Leigh Day": {
+   "licensed": true,
+   "register_name": "Leigh Day",
+   "match": "exact"
+  },
   "Leisure Employment Services": {
    "licensed": true,
    "register_name": "Leisure Employment Services",
@@ -2451,6 +2481,11 @@
    "licensed": true,
    "register_name": "Leonardo UK Ltd",
    "match": "exact"
+  },
+  "Levy": {
+   "licensed": true,
+   "register_name": "LEVY + PARTNERS LIMITED",
+   "match": "prefix"
   },
   "Liberis": {
    "licensed": true,

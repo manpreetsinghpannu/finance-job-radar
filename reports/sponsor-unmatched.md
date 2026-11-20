@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 978 firms checked, 492 matched, 486 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 985 firms checked, 496 matched, 489 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (486)
+## Not found (489)
 
 - 7IM
 - 93 MGMT
@@ -36,8 +36,10 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Altum Consulting
 - Ameriprise
 - Anderson Knight
+- Anonymous
 - Apollo Global Management, Inc.
 - Appcastenterprise
+- Apply Recruitment
 - Aptic Groupe
 - Arcade Food Halls
 - Arcana
@@ -220,6 +222,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - IAG Transform
 - IDA Recruitment Ltd
 - IMC Trading
+- IN2 Consult
 - IPOE Consulting
 - IPS Finance
 - IVC Evidensia
@@ -493,7 +496,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (59)
+## Matched automatically by close name; worth a glance (60)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -525,6 +528,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Kroo → Kroo Bank Ltd (prefix)
 - Ledger → Ledger Technologies UK LTD (prefix)
 - Legal & General → Legal & General Resources Ltd (prefix)
+- Levy → LEVY + PARTNERS LIMITED (prefix)
 - Lightfoot → Lightfoot Advisors (prefix)
 - MediaKind → MediaKind Systems UK Limited (prefix)
 - Michael Page → Michael Page International Recruitment Ltd (prefix)

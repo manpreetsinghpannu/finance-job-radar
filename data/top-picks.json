@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:18:34.402Z",
+ "generated_at": "2026-11-20T15:16:13.497Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 278,
+   "matching": 283,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -40,11 +40,11 @@
      "sponsor": true
     },
     {
-     "title": "Commercial Finance Analyst",
-     "company": "Tandem Bank",
-     "location": "Cardiff, United Kingdom",
-     "posted": "2026-11-18",
-     "url": "https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002",
+     "title": "Commercial Finance Analyst - Southampton",
+     "company": "Giacom",
+     "location": "Southampton, England, United Kingdom",
+     "posted": "2026-11-20",
+     "url": "https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492579966",
      "score": 31,
      "why": [
       "Finance Analyst",
@@ -6180,11 +6180,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-trostan-dene-4486848370": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/graduate-investment-operations-analyst-at-citygrad-4492717197": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
@@ -6199,11 +6194,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
-  },
-  "https://www.linkedin.com/jobs/view/assistant-accountant-at-handpicked-recruitment-4490420397": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
   },
   "https://www.linkedin.com/jobs/view/assistant-accountant-at-cmc-consulting-ltd-4491604292": {
    "id": "finance",
@@ -6804,6 +6794,46 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492579966": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 31
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-in2-consult-4491921812": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-giacom-4492584882": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 31
+  },
+  "https://www.linkedin.com/jobs/view/associate-%E2%80%93-real-estate-capital-markets-at-anonymous-4491914933": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/location-accountant-nottingham-and-market-rasen-racecourses-at-levy-4484988577": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-leigh-day-4483058726": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/finance-associate-1-year-maternity-cover-at-lmax-group-4492934604": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/portfolio-analyst-at-apply-recruitment-4491921478": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
   }
  }
 }
