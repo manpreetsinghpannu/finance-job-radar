@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 20 Nov, 04:17** (UK time) · **1253 open roles** at 693 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 20 Nov, 05:15** (UK time) · **1253 open roles** at 693 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 20 Nov, 04:14** · hourly scan · checked 201 boards · **1 new role**
+**Fri 20 Nov, 05:12** · hourly scan · checked 201 boards · **0 new roles**
 
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Trade Support role with Quant Hedge Fund (STEM background required)](https://www.linkedin.com/jobs/view/trade-support-role-with-quant-hedge-fund-stem-background-required-at-ocr-alpha-4492420087) | OCR Alpha | Greater London, England, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Fri 20 Nov, 04:14** (1: Fund 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 20 November
+
+<sub>Nothing new at: 05:12</sub>
 
 <details>
 <summary><b>04:14</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
@@ -2878,7 +2876,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 06:08, 05:08</sub>
+<sub>Nothing new at: 06:08</sub>
 
 ## All open roles by CV
 
@@ -4180,7 +4178,7 @@ Everything matched so far, newest first within each CV: [Finance (704)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>90 roles taken off the list because the firm closed the posting</summary>
+<summary>89 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -4273,6 +4271,5 @@ Everything matched so far, newest first within each CV: [Finance (704)](#finance
 | Fri 13 Nov, 15:10 | Corporate Finance Associate - Biotech | Brock & Decker |
 | Fri 13 Nov, 15:09 | Investment Associate - Healthcare & Life Sciences | Brock & Decker |
 | Fri 13 Nov, 13:09 | Assistant Financial Controller | Flock |
-| Fri 13 Nov, 05:08 | Commercial & Strategy Analyst | Lottie |
 
 </details>
