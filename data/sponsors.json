@@ -127,6 +127,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Accu": {
+   "licensed": true,
+   "register_name": "Accu Limited",
+   "match": "exact"
+  },
   "Achieve together": {
    "licensed": true,
    "register_name": "Achieve together Limited",
@@ -177,10 +182,20 @@
    "register_name": "Airwallex (UK) Limited",
    "match": "alias"
   },
+  "AlTi Tiedemann Global": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Alan Mitchell": {
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Alantra": {
+   "licensed": true,
+   "register_name": "Alantra Partners International Limited",
+   "match": "prefix"
   },
   "Alexander Chapman": {
    "licensed": false,
@@ -252,6 +267,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Anglian Water Services": {
+   "licensed": true,
+   "register_name": "Anglian Water Services Ltd",
+   "match": "exact"
+  },
   "Aon": {
    "licensed": true,
    "register_name": "Aon UK  Limited",
@@ -276,6 +296,11 @@
    "licensed": true,
    "register_name": "Apple Europe Limited",
    "match": "exact"
+  },
+  "Aptic Groupe": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Arcade Food Halls": {
    "licensed": false,
@@ -387,6 +412,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Atlas Copco Group": {
+   "licensed": true,
+   "register_name": "Atlas Copco UK Holdings Ltd",
+   "match": "exact"
+  },
   "Atlassian Williams F1 Team": {
    "licensed": false,
    "register_name": null,
@@ -401,6 +431,11 @@
    "licensed": true,
    "register_name": "Autotrader Limited",
    "match": "alias"
+  },
+  "Automata": {
+   "licensed": true,
+   "register_name": "Automata Technologies Limited",
+   "match": "prefix"
   },
   "Aviva": {
    "licensed": true,
@@ -672,6 +707,11 @@
    "register_name": null,
    "match": "none"
   },
+  "British International Investment": {
+   "licensed": true,
+   "register_name": "British International Investment plc",
+   "match": "exact"
+  },
   "Broaden": {
    "licensed": false,
    "register_name": null,
@@ -727,6 +767,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Byron Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CAMMACH BRYANT LIMITED": {
    "licensed": false,
    "register_name": null,
@@ -741,6 +786,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "CFGI": {
+   "licensed": true,
+   "register_name": "CFGI (UK) Limited",
+   "match": "exact"
   },
   "CFP Energy": {
    "licensed": true,
@@ -982,6 +1032,11 @@
    "register_name": null,
    "match": "none"
   },
+  "CityGrad": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Clarkson Owens Recruitment Limited": {
    "licensed": false,
    "register_name": null,
@@ -1096,6 +1151,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Cushman & Wakefield": {
+   "licensed": true,
+   "register_name": "Cushman & Wakefield Debenham Tie Leung Limited",
+   "match": "prefix"
   },
   "DFDS": {
    "licensed": false,
@@ -1217,6 +1277,11 @@
    "register_name": "Ernst & Young",
    "match": "alias"
   },
+  "Eaglecliff Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Eaton": {
    "licensed": true,
    "register_name": "Eaton Ltd",
@@ -1311,6 +1376,11 @@
    "licensed": true,
    "register_name": "EXPERIAN LIMITED",
    "match": "alias"
+  },
+  "ExxonMobil": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "FNZ": {
    "licensed": true,
@@ -1426,6 +1496,11 @@
    "licensed": true,
    "register_name": "Frasers Group Plc",
    "match": "exact"
+  },
+  "Free-Work UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Freetrade": {
    "licensed": true,
@@ -1566,6 +1641,11 @@
    "licensed": true,
    "register_name": "Goodman Masson Ltd",
    "match": "exact"
+  },
+  "Grafton Banks Finance Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Graham Capital": {
    "licensed": true,
@@ -1727,6 +1807,16 @@
    "register_name": null,
    "match": "none"
   },
+  "Harrow Council": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Harvey John": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Harvey Nash": {
    "licensed": true,
    "register_name": "Harvey Nash Limited",
@@ -1846,6 +1936,11 @@
    "licensed": true,
    "register_name": "HUNTER BOND LIMITED",
    "match": "exact"
+  },
+  "Hyered": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "IAG Transform": {
    "licensed": false,
@@ -1967,6 +2062,11 @@
    "register_name": "Invesco UK Limited",
    "match": "alias"
   },
+  "Investec": {
+   "licensed": true,
+   "register_name": "Investec Bank PLC",
+   "match": "prefix"
+  },
   "Investigo": {
    "licensed": true,
    "register_name": "Investigo Limited",
@@ -2003,6 +2103,11 @@
    "match": "none"
   },
   "JSS": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Jagex: The RuneScape Company": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2192,6 +2297,11 @@
    "register_name": "Ledger Technologies UK LTD",
    "match": "prefix"
   },
+  "Legal & General": {
+   "licensed": true,
+   "register_name": "Legal & General Resources Ltd",
+   "match": "prefix"
+  },
   "Legend": {
    "licensed": true,
    "register_name": "LEGEND SERVICES UK LTD",
@@ -2243,6 +2353,11 @@
    "match": "exact"
   },
   "Linear Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "LivGreen - Retrofit Specialists": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2447,6 +2562,11 @@
    "register_name": "Markel International Services Limited",
    "match": "alias"
   },
+  "Markel International": {
+   "licensed": true,
+   "register_name": "Markel International Services Limited",
+   "match": "exact"
+  },
   "Market Harborough Building Society": {
    "licensed": false,
    "register_name": null,
@@ -2583,6 +2703,11 @@
    "match": "none"
   },
   "Michael Page Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Midland Heart": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2797,6 +2922,16 @@
    "register_name": "Next Retail Ltd",
    "match": "alias"
   },
+  "Next Ventures": {
+   "licensed": true,
+   "register_name": "Next Ventures Limited",
+   "match": "exact"
+  },
+  "Nexus Jobs": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Nick Buick Associates": {
    "licensed": false,
    "register_name": null,
@@ -2841,6 +2976,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "OCR Alpha": {
+   "licensed": true,
+   "register_name": "OCR Alpha",
+   "match": "exact"
   },
   "OCS": {
    "licensed": true,
@@ -2997,6 +3137,16 @@
    "register_name": null,
    "match": "none"
   },
+  "PSD Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Pacific Life Re": {
+   "licensed": true,
+   "register_name": "Pacific Life Re Services Limited",
+   "match": "exact"
+  },
   "Paddle": {
    "licensed": false,
    "register_name": null,
@@ -3057,6 +3207,11 @@
    "register_name": "PAYONEER (UK) LIMITED",
    "match": "exact"
   },
+  "Peabody": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Peace Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -3110,6 +3265,11 @@
   "Perigus Energy": {
    "licensed": true,
    "register_name": "PERIGUS ENERGY UK LIMITED",
+   "match": "exact"
+  },
+  "Phillips 66": {
+   "licensed": true,
+   "register_name": "Phillips 66 Limited",
    "match": "exact"
   },
   "Phoenix Group": {
@@ -3257,6 +3417,11 @@
    "register_name": null,
    "match": "none"
   },
+  "RHR": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "RM Recruit": {
    "licensed": false,
    "register_name": null,
@@ -3341,6 +3506,11 @@
    "licensed": true,
    "register_name": "Rightmove Group Ltd",
    "match": "alias"
+  },
+  "Rise Resourcing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Risk Ledger": {
    "licensed": true,
@@ -3647,6 +3817,11 @@
    "register_name": "Xbridge Limited T/A Simply Business",
    "match": "alias"
   },
+  "SitusAMC": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Skipton Building Society": {
    "licensed": true,
    "register_name": "Skipton Building Society",
@@ -3887,6 +4062,11 @@
    "register_name": "TPG EUROPE, LLP",
    "match": "exact"
   },
+  "TRP Recruitment ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "TUI": {
    "licensed": false,
    "register_name": null,
@@ -3940,6 +4120,11 @@
   "Teya": {
    "licensed": true,
    "register_name": "Teya Europe Ltd",
+   "match": "exact"
+  },
+  "The AA": {
+   "licensed": true,
+   "register_name": "AA (GLW) LTD",
    "match": "exact"
   },
   "The Citco Group": {
@@ -4076,6 +4261,11 @@
    "licensed": true,
    "register_name": "TrinityBridge Holdings Limited",
    "match": "exact"
+  },
+  "Trostan Dene": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "TrueLayer": {
    "licensed": true,
@@ -4247,6 +4437,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Vital Healthcare": {
+   "licensed": true,
+   "register_name": "Vital Healthcare Services Limited",
+   "match": "exact"
+  },
   "Vitesse": {
    "licensed": true,
    "register_name": "Vitesse PSP",
@@ -4272,10 +4467,25 @@
    "register_name": null,
    "match": "none"
   },
+  "WINGSTOP UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "WINGSTOP UK&I": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "WPP": {
    "licensed": true,
    "register_name": "WPP 2005 Limited",
    "match": "alias"
+  },
+  "WPR": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Wade Macdonald": {
    "licensed": false,
@@ -4433,6 +4643,11 @@
    "match": "none"
   },
   "deverellsmith": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "e.surv Chartered Surveyors": {
    "licensed": false,
    "register_name": null,
    "match": "none"

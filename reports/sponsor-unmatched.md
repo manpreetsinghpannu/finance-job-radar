@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 896 firms checked, 460 matched, 436 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 939 firms checked, 477 matched, 462 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (436)
+## Not found (462)
 
 - 7IM
 - 93 MGMT
@@ -24,6 +24,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Addington Ball Recruitment Ltd
 - Adyen
 - Agility
+- AlTi Tiedemann Global
 - Alan Mitchell
 - Alexander Chapman
 - Alexander Daniels Finance Recruitment
@@ -36,6 +37,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Anderson Knight
 - Apollo Global Management, Inc.
 - Appcastenterprise
+- Aptic Groupe
 - Arcade Food Halls
 - Arcana
 - Aria Finance
@@ -74,6 +76,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Bruin
 - Bruntwood SciTech
 - Burman Recruitment
+- Byron Recruitment
 - CAMMACH BRYANT LIMITED
 - CER Financial
 - CIBC
@@ -101,6 +104,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Checkout.com
 - Citibank
 - City Recruitment Associates
+- CityGrad
 - Clarkson Owens Recruitment Limited
 - ClearScore
 - Client Server
@@ -127,6 +131,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Dojo
 - Doncaster Racecourse and Exhibition Centre
 - EFG Private Banking
+- Eaglecliff Recruitment
 - Eaton Syalon Limited
 - Eaton Syalon Ltd
 - Echo
@@ -138,6 +143,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ernest Gordon Recruitment Limited
 - Everet Marsh
 - Executive Talent Solutions
+- ExxonMobil
 - FT Recruitment Group
 - Faith Recruitment
 - Fane Valley Cooperative Society Ltd
@@ -147,6 +153,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Flex
 - Foodbuy Group
 - Forge Talent
+- Free-Work UK
 - Frontier Agriculture
 - FryerMiles
 - Futures
@@ -161,6 +168,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Gleeson Recruitment Group
 - Global Accounting Network
 - Global Corporate Investment Bank
+- Grafton Banks Finance Ltd
 - Graphite Partners
 - Great Places Housing Association
 - Greencore
@@ -181,6 +189,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Harnham
 - Harnham - Data & Analytics Recruitment
 - Harper May Ltd
+- Harrow Council
+- Harvey John
 - Havering Schools
 - Hawke Search
 - Hays Specialist Recruitment Limited
@@ -194,6 +204,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Hometree
 - Hoop Recruitment
 - Howmet Aerospace
+- Hyered
 - IAG Transform
 - IDA Recruitment Ltd
 - IMC Trading
@@ -211,6 +222,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - JJ SEARCH LIMITED
 - JPMorganChase
 - JSS
+- Jagex: The RuneScape Company
 - James D Bilsland Ltd
 - Janus Henderson Investors
 - JasperRose
@@ -234,6 +246,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lightsource bp
 - Lightspeed Commerce
 - Linear Partners
+- LivGreen - Retrofit Specialists
 - Lloyd Recruitment - Epsom
 - Lochead Sandford Recruitment
 - Lomond
@@ -271,6 +284,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Metis Search
 - Michael Page Banking
 - Michael Page Finance
+- Midland Heart
 - Milton Keynes City Council
 - Mint Velvet
 - Mitchell Adam
@@ -286,6 +300,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - NC Associates
 - New Avenues
 - Newlon Housing Trust
+- Nexus Jobs
 - Nick Buick Associates
 - No1 Legal and Professional
 - Novuna
@@ -305,12 +320,14 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - PGS LTD
 - PHMG
 - PRATAP PARTNERSHIP LTD
+- PSD Group
 - Paddle (alias not on current register (paddle com market limited))
 - Palatine Talent
 - Pan Macmillan
 - Pave Bank
 - Pavilion Recruitment Solutions
 - Payhawk
+- Peabody
 - Peace Recruitment
 - Platinum Recruitment Group
 - Point One - Hedge Fund Talent
@@ -323,6 +340,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Quanex
 - Quantum Search Group
 - RG Consultancy Ltd
+- RHR
 - RM Recruit
 - Radiant
 - Randstad Finance
@@ -334,6 +352,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Retirement Villages Group Ltd
 - Richard James Recruitment Specialists Ltd
 - Right People Recruitment Solutions
+- Rise Resourcing
 - Robertson Bell
 - Robertson Wright
 - Rothstein Recruitment
@@ -368,6 +387,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Sheridan Maine
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
+- SitusAMC
 - South West Water
 - Sowena Group
 - Spectacled Bear AI
@@ -385,6 +405,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TCS
 - TMR Group Ltd
 - TMRG
+- TRP Recruitment ltd
 - TUI
 - TVF Media
 - Talan
@@ -401,6 +422,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TransUnion
 - Trial Balance Consulting
 - Trident International Associates
+- Trostan Dene
 - UBS
 - UCEA - Family Office Group
 - Undisclosed
@@ -423,6 +445,9 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - VodafoneThree
 - Vonage
 - WH Finance Ltd
+- WINGSTOP UK
+- WINGSTOP UK&I
+- WPR
 - Wade Macdonald
 - Walker Dendle Financial Recruitment
 - Warner Recruitment Limited
@@ -437,24 +462,28 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Zego
 - abrdn
 - deverellsmith
+- e.surv Chartered Surveyors
 - hireful.
 - ivee
 - targetjobs UK
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (52)
+## Matched automatically by close name; worth a glance (57)
 
 - 3S Money → 3S Money Club Limited (prefix)
+- Alantra → Alantra Partners International Limited (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
 - Aries Global → ARIES GLOBAL SOFTWARE HOLDING LIMITED (prefix)
+- Automata → Automata Technologies Limited (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Brookfield → Brookfield Global Asset Management Limited (prefix)
 - Carter Jonas → Carter Jonas Service Company (prefix)
 - Cedar → Cedar Capital Partners Ltd (prefix)
 - Cobalt → Cobalt Labs UK Limited (prefix)
+- Cushman & Wakefield → Cushman & Wakefield Debenham Tie Leung Limited (prefix)
 - Duco → Duco Technology Limited (prefix)
 - Element Materials Technology → ELEMENT MATERIALS TECHNOLOGY SHARED SERVICES LIMITED (prefix)
 - Form3 → Form3 Technology Limited (prefix)
@@ -465,10 +494,12 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Holland & Barrett → Holland & Barrett Retail Limited (prefix)
 - ICF → ICF Consulting Services Limited (prefix)
 - Ikarus Capital → Ikarus Capital Advisory (prefix)
+- Investec → Investec Bank PLC (prefix)
 - Janus Henderson → JANUS HENDERSON ADMINISTRATION UK LIMITED (prefix)
 - Kroll → Kroll Advisory Ltd (prefix)
 - Kroo → Kroo Bank Ltd (prefix)
 - Ledger → Ledger Technologies UK LTD (prefix)
+- Legal & General → Legal & General Resources Ltd (prefix)
 - Lightfoot → Lightfoot Advisors (prefix)
 - MediaKind → MediaKind Systems UK Limited (prefix)
 - Michael Page → Michael Page International Recruitment Ltd (prefix)
