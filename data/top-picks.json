@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T03:38:05.037Z",
+ "generated_at": "2026-11-20T04:17:30.380Z",
  "order": [
   "finance",
   "credit",
@@ -220,7 +220,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 36,
+   "matching": 37,
    "picks": [
     {
      "title": "Interim Investment Operations Analyst 9 month FTC",
@@ -6509,6 +6509,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/trade-support-role-with-quant-hedge-fund-stem-background-required-at-ocr-alpha-4492420087": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 12
   }
  }
 }

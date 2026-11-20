@@ -3002,6 +3002,11 @@
    "register_name": null,
    "match": "none"
   },
+  "OCR Alpha": {
+   "licensed": true,
+   "register_name": "OCR Alpha",
+   "match": "exact"
+  },
   "OCS": {
    "licensed": true,
    "register_name": "OCS Consulting plc",
