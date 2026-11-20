@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 20 Nov, 07:22** (UK time) · **1254 open roles** at 694 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 20 Nov, 08:25** (UK time) · **1253 open roles** at 694 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 20 Nov, 07:19** · hourly scan · checked 201 boards · **0 new roles**
+**Fri 20 Nov, 08:21** · hourly scan · checked 201 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Fri 20 Nov, 06:15** (1: Fund 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Friday 20 November
 
-<sub>Nothing new at: 07:19</sub>
+<sub>Nothing new at: 08:21, 07:19</sub>
 
 <details>
 <summary><b>06:15</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
@@ -145,7 +145,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>00:58</b> · hourly scan · <b>80 new</b> → Finance 54 · Credit 4 · Equity 5 · Investment 8 · Consulting 2 · Real Estate 3 · Fund 2 · Other 2</summary>
+<summary><b>00:58</b> · hourly scan · <b>79 new</b> → Finance 54 · Credit 4 · Equity 5 · Investment 8 · Consulting 2 · Real Estate 3 · Fund 2 · Other 1</summary>
 
 #### Finance (FP&A) CV: 54
 
@@ -260,14 +260,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-19 | [Graduate Investment Operations Analyst](https://www.linkedin.com/jobs/view/graduate-investment-operations-analyst-at-citygrad-4492717197) | CityGrad | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Trade Support role with Quant Hedge Fund (STEM background required)](https://www.linkedin.com/jobs/view/trade-support-role-with-quant-hedge-fund-stem-background-required-at-ocr-alpha-4492420087) | OCR Alpha | Greater London, England, United Kingdom | ✅ |
 
-#### Other (fits no CV closely, may still be worth a look): 2
+#### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-19 | [Accountancy Graduate - Register your interest](https://www.linkedin.com/jobs/view/accountancy-graduate-register-your-interest-at-targetjobs-uk-4492160455) | targetjobs UK | London Area, United Kingdom | ❔ |
 | — | [Valuations Associate - Universities Superannuation Scheme Limited](https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025) | eFinancialCareers | London | ✅ |
 
-<sub>7 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>8 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2876,11 +2875,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 09:09, 08:17</sub>
+<sub>Nothing new at: 09:09</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (704)](#finance-fpa-cv-704) · [Credit (153)](#credit-cv-153) · [Equity (72)](#equity-cv-72) · [Investment (122)](#investment-ib--pe-cv-122) · [Consulting (21)](#consulting-cv-21) · [Real Estate (23)](#real-estate-cv-23) · [Fund (31)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-31) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
+Everything matched so far, newest first within each CV: [Finance (704)](#finance-fpa-cv-704) · [Credit (153)](#credit-cv-153) · [Equity (72)](#equity-cv-72) · [Investment (122)](#investment-ib--pe-cv-122) · [Consulting (21)](#consulting-cv-21) · [Real Estate (23)](#real-estate-cv-23) · [Fund (31)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-31) · [Other (127)](#other-fits-no-cv-closely-may-still-be-worth-a-look-127)
 
 ### Finance (FP&A) CV: 704
 
@@ -4043,7 +4042,7 @@ Everything matched so far, newest first within each CV: [Finance (704)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 128
+### Other (fits no CV closely, may still be worth a look): 127
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4053,7 +4052,6 @@ Everything matched so far, newest first within each CV: [Finance (704)](#finance
 | — | [Graduate Finance Assistant](https://www.reed.co.uk/jobs/graduate-finance-assistant/57593634) | eFinancialCareers | Oxford, Oxfordshire | ✅ |
 | 2026-11-19 | [Quantity Surveyor Civils](https://www.s1jobs.com/job/quantity-surveyor-civils-127778372) | Peace Recruitment | Glasgow Area, Scotland | ❔ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127778373) | S1Jobs | Scotland | ❔ |
-| 2026-11-19 | [Accountancy Graduate - Register your interest](https://www.linkedin.com/jobs/view/accountancy-graduate-register-your-interest-at-targetjobs-uk-4492160455) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Portfolio Financing and Optimization Trader - Citi](https://www.reed.co.uk/jobs/portfolio-financing-and-optimization-trader-citi/57589341) | eFinancialCareers | London | ✅ |
 | 2026-11-18 | [Assistant Quantity Surveyor](https://www.s1jobs.com/job/assistant-quantity-surveyor-127773738) | Clarkson Owens Recruitment Limited | South Lanarkshire, Scotland | ❔ |
 | 2026-11-18 | [Graduate Quantity Surveyor Assistant Quantity Surveyor](https://www.s1jobs.com/job/graduate-quantity-surveyor-assistant-quantity-surveyor-127773737) | Clarkson Owens Recruitment Limited | Glasgow Area, Scotland | ❔ |
@@ -4179,10 +4177,11 @@ Everything matched so far, newest first within each CV: [Finance (704)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>89 roles taken off the list because the firm closed the posting</summary>
+<summary>90 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 20 Nov, 08:25 | Accountancy Graduate - Register your interest | targetjobs UK |
 | Fri 20 Nov, 01:07 | Finance Analyst | The Scottish National Investment Bank |
 | Fri 20 Nov, 01:07 | Finance Analyst | The Scottish National Investment Bank |
 | Fri 20 Nov, 00:07 | Finance Analyst | News UK |
