@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 989 firms checked, 497 matched, 492 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 993 firms checked, 498 matched, 495 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (492)
+## Not found (495)
 
 - 7IM
 - 93 MGMT
@@ -119,6 +119,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - ClearScore
 - Client Server
 - Cobalt Recruitment
+- Cobb & Jones Recruitment Limited
 - Coinbase
 - Connect Recruitment Consultants Ltd.
 - Conrad Consulting
@@ -324,6 +325,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Nexus Jobs
 - Nicholson Glover
 - Nick Buick Associates
+- Nigel Wright Recruitment
 - No1 Legal and Professional
 - Novuna
 - Nucleus Commercial Finance
@@ -366,6 +368,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - RG Consultancy Ltd
 - RHR
 - RM Recruit
+- RSPB
 - Radiant
 - Ramsey Portia
 - Randstad Finance

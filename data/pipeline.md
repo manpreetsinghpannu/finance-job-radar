@@ -1829,5 +1829,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-nicholson-glover-4491925941 | Nicholson Glover | Commercial Analyst | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-m-a-at-selby-jennings-4492940713 | Selby Jennings | Investment Banking Associate - Healthcare M&A | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/part-time-management-accountant/57597515 | Ashdown Group | Part Time Management Accountant | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/m-a-finance-analyst-at-arcadis-4491942338 | Arcadis | M&A Finance Analyst | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-hays-4492594877 | Hays | Commercial Finance Analyst | Manchester, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-rspb-4491914120 | RSPB | Financial Analyst | United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-nigel-wright-recruitment-4492959226 | Nigel Wright Recruitment | Finance Business Partner | Merseyside, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-accountant-at-goodman-masson-4492811196 | Goodman Masson | Treasury Accountant | Surrey, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-at-liverpool-city-region-combined-authority-4487297589 | Liverpool City Region Combined Authority | INVESTMENT ASSOCIATE | Merseyside, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57598009 | Hays Specialist Recruitment Limited | Commercial Finance Analyst | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57597959 | Cobb & Jones Recruitment Limited | Finance Analyst | Gillingham, Kent, Kent | note: via Reed
 
 ## Processed

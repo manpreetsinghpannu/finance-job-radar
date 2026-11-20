@@ -1152,6 +1152,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Cobb & Jones Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Codat": {
    "licensed": true,
    "register_name": "Codat Limited",
@@ -2527,6 +2532,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Liverpool City Region Combined Authority": {
+   "licensed": true,
+   "register_name": "Liverpool City Region Combined Authority",
+   "match": "exact"
+  },
   "Lloyd Recruitment - Epsom": {
    "licensed": false,
    "register_name": null,
@@ -3117,6 +3127,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Nigel Wright Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Nium": {
    "licensed": true,
    "register_name": "Nium Fintech Ltd",
@@ -3613,6 +3628,11 @@
    "match": "none"
   },
   "RM Recruit": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "RSPB": {
    "licensed": false,
    "register_name": null,
    "match": "none"
