@@ -1758,5 +1758,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-gen-ii-fund-services-4418775609 | Gen II Fund Services | Fund Accountant | Whitley, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-valuation-surveyor-at-w-talent-4492904385 | W Talent | Associate Valuation Surveyor | City Of London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/interim-finance-analyst/57595642 | Morgan McKinley | Interim Finance Analyst | Northampton, Northamptonshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-operations-at-evergreen-garden-care-4492459069 | Evergreen Garden Care | Management Accountant - Operations | Doncaster, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57595881 | Klipboard | FP&A Analyst | Leeds, West Yorkshire | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/logistics-finance-business-partner/ | via ScotJobsNet | Logistics Finance Business Partner | Glasgow, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/risk-analyst-private-markets/ | via ScotJobsNet | Risk Analyst, Private Markets | Midlothian, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
+- [ ] https://scotjobsnet.co.uk/job/costing-accountant-west-lothian-50k-75k/ | via ScotJobsNet | Costing Accountant West Lothian &50k – &75k | Scotland, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
 
 ## Processed

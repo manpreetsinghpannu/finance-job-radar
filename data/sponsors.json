@@ -1397,6 +1397,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Evergreen Garden Care": {
+   "licensed": true,
+   "register_name": "Evergreen Garden Care (UK) Ltd",
+   "match": "exact"
+  },
   "Executive Talent Solutions": {
    "licensed": false,
    "register_name": null,
@@ -2258,6 +2263,11 @@
    "match": "exact"
   },
   "Klarna": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Klipboard": {
    "licensed": false,
    "register_name": null,
    "match": "none"
