@@ -3142,6 +3142,11 @@
    "register_name": "NET-A-PORTER GROUP Ltd",
    "match": "exact"
   },
+  "NWG": {
+   "licensed": true,
+   "register_name": "NWG GROUP LTD",
+   "match": "exact"
+  },
   "Nasdaq": {
    "licensed": true,
    "register_name": "Nasdaq Limited",
