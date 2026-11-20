@@ -1730,5 +1730,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/global-equities-esg-investment-analyst-efinancialcareers/57590162 | eFinancialCareers | Global Equities ESG Investment Analyst - eFinancialCareers | London | posted: 2026-11-19 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/data-mi-analyst-transformation-reporting-investment-banking/57594385 | eFinancialCareers | Data & MI Analyst Transformation & Reporting Investment Banking | Edinburgh, Midlothian | posted: 2026-11-19 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/associate-private-equity-funds-co-investments-universities-superannuation-scheme-limited/57590183 | eFinancialCareers | Associate - Private Equity Funds & Co-investments - Universities Superannuation Scheme Limited | London | posted: 2026-11-19 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-tiptopjob-4492754676 | TipTopJob | Financial Planning and Analysis Analyst | Ferndown, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-wireless-logic-4491398848 | Wireless Logic | Management Accountant | Reading, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-university-of-york-4492415647 | University of York | Management Accountant | York, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-management-accountant-uk-top-100-firm-at-butler-rose-4492440672 | Butler Rose | Group Management Accountant - UK Top 100 Firm | Milton Keynes, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/portfolio-financing-and-optimization-trader-citi/57589341 | eFinancialCareers | Portfolio Financing and Optimization Trader - Citi | London | posted: 2026-11-19 | note: via Reed
 
 ## Processed
