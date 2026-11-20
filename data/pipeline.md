@@ -1771,5 +1771,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/oracle-treasury-cash-management-professional-at-next-ventures-4491618230 | Next Ventures | Oracle Treasury / Cash Management Professional | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/leveraged-finance-investment-banking-associate-at-metis-search-4491914278 | Metis Search | Leveraged Finance Investment Banking Associate | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/accounts-assistant-path-to-assistant-management-accountant/57583219 | MM recruitment | Accounts Assistant (Path to Assistant / Management Accountant) | Wembley Central, London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-we-do-group-4492919522 | We Do Group | Financial Analyst | Surrey, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/wholesale-credit-risk-reporting-analyst-at-jpmorganchase-4492906543 | JPMorganChase | Wholesale Credit Risk Reporting - Analyst | Bournemouth, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-private-credit-london-at-selby-jennings-4492919498 | Selby Jennings | Analyst | Private Credit | London | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-howden-a-chart-industries-company-4483412862 | Howden, A Chart Industries Company | Management Accountant | Renfrew, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-%E2%80%93-children%E2%80%99s-services-at-wmjobs-4492555214 | WMJobs | Accountant – Children’s Services | Solihull, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-we-do-group-4492901920 | We Do Group | Finance Business Partner | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-finance-business-partner-at-haas-f1-team-4492566897 | Haas F1 Team | Junior Finance Business Partner | Banbury, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trainee-accountant-at-acca-careers-4492906822 | ACCA Careers | Trainee Accountant | Cheltenham, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-leveraged-finance-london-at-selby-jennings-4492912666 | Selby Jennings | Associate | Leveraged Finance | London | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant-9m-ftc/57596203 | Butler Rose | Management Accountant (9m FTC) | Plymouth, Devon | note: via Reed
 
 ## Processed

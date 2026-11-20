@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 959 firms checked, 486 matched, 473 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 962 firms checked, 486 matched, 476 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (473)
+## Not found (476)
 
 - 7IM
 - 93 MGMT
@@ -183,6 +183,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - HFG Insurance Recruitment
 - HOPWOOD HALL COLLEGE
 - HSBC Innovation Banking
+- Haas F1 Team
 - Hain Daniels
 - Halliday Marx
 - Hamilton Woods
@@ -208,6 +209,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - HireIQ
 - Hometree
 - Hoop Recruitment
+- Howden, A Chart Industries Company
 - Howmet Aerospace
 - Hyered
 - IAG Transform
@@ -458,6 +460,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - WH Finance Ltd
 - WINGSTOP UK
 - WINGSTOP UK&I
+- WMJobs
 - WPR
 - Wade Macdonald
 - Walker Dendle Financial Recruitment

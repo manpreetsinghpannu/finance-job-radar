@@ -1767,6 +1767,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Haas F1 Team": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Hackajob Ltd": {
    "licensed": true,
    "register_name": "HACKAJOB LTD",
@@ -1971,6 +1976,11 @@
    "licensed": true,
    "register_name": "Howden Group Holdings Limited",
    "match": "alias"
+  },
+  "Howden, A Chart Industries Company": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Howmet Aerospace": {
    "licensed": false,
@@ -4568,6 +4578,11 @@
    "match": "none"
   },
   "WINGSTOP UK&I": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "WMJobs": {
    "licensed": false,
    "register_name": null,
    "match": "none"
