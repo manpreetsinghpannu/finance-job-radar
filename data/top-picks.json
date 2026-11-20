@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T09:17:55.779Z",
+ "generated_at": "2026-11-20T10:21:03.217Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 261,
+   "matching": 264,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -2179,11 +2179,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
-  },
-  "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77687": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
   },
   "https://www.reed.co.uk/jobs/corporate-finance-analyst/57551845": {
    "id": "finance",
@@ -6519,6 +6514,66 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-itrs-4491698786": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-johnson-controls-4483404082": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-trostan-dene-4492919005": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-amey-4484950367": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-at-barbara-houghton-associates-limited-4492903269": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/third-party-risk-analyst-12-months-ftc-at-beaumont-select-ltd-4491918019": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/investment-associate-at-public-sector-resourcing-4492917067": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-at-hireiq-4492792946": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-place-uk-ltd-4492798919": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-gen-ii-fund-services-4418775609": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/associate-valuation-surveyor-at-w-talent-4492904385": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/interim-finance-analyst/57595642": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
   }
  }
 }

@@ -267,6 +267,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Amey": {
+   "licensed": true,
+   "register_name": "Amey Services Limited",
+   "match": "exact"
+  },
   "Anderson Knight": {
    "licensed": false,
    "register_name": null,
@@ -582,6 +587,11 @@
    "register_name": "Bank of America, N.A.",
    "match": "prefix"
   },
+  "Barbara Houghton Associates Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Barclays": {
    "licensed": true,
    "register_name": "Barclays Bank PLC",
@@ -601,6 +611,11 @@
    "licensed": true,
    "register_name": "Beamery Ltd",
    "match": "exact"
+  },
+  "Beaumont Select Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Belmont Search Ltd": {
    "licensed": false,
@@ -1902,6 +1917,11 @@
    "register_name": null,
    "match": "none"
   },
+  "HireIQ": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Hiscox": {
    "licensed": true,
    "register_name": "HISCOX UNDERWRITING GROUP SERVICES LIMITED",
@@ -2015,6 +2035,11 @@
   "IQ-EQ": {
    "licensed": true,
    "register_name": "IQ EQ (UK) Services Limited",
+   "match": "exact"
+  },
+  "ITRS": {
+   "licensed": true,
+   "register_name": "ITRS Group Ltd",
    "match": "exact"
   },
   "IVC Evidensia": {
@@ -2153,6 +2178,11 @@
    "match": "none"
   },
   "Joblet-AI": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Johnson Controls": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3157,6 +3187,11 @@
    "register_name": "PKF hospitality Ltd",
    "match": "alias"
   },
+  "PLACE UK Ltd": {
+   "licensed": true,
+   "register_name": "Place UK Ltd",
+   "match": "exact"
+  },
   "PRATAP PARTNERSHIP LTD": {
    "licensed": false,
    "register_name": null,
@@ -3356,6 +3391,11 @@
    "licensed": true,
    "register_name": "Propel Holdings Limited",
    "match": "exact"
+  },
+  "Public Sector Resourcing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Puma Capital Group": {
    "licensed": false,
@@ -4488,6 +4528,11 @@
    "match": "none"
   },
   "Vonage": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "W Talent": {
    "licensed": false,
    "register_name": null,
    "match": "none"

@@ -1746,5 +1746,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/trade-support-role-with-quant-hedge-fund-stem-background-required-at-ocr-alpha-4492420087 | OCR Alpha | Trade Support role with Quant Hedge Fund (STEM background required) | Greater London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-product-change-specialist-at-ramsey-portia-4492778475 | Ramsey Portia | Fund Accounting Product Change Specialist | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant/57595279 | Robert Half | Assistant Accountant | Addlestone, Surrey | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-itrs-4491698786 | ITRS | FP&A Analyst | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-johnson-controls-4483404082 | Johnson Controls | Management Accountant | Manchester, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-trostan-dene-4492919005 | Trostan Dene | Finance Business Partner | Horwich, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-amey-4484950367 | Amey | Management Accountant | Birmingham, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-barbara-houghton-associates-limited-4492903269 | Barbara Houghton Associates Limited | Credit Analyst | City Of London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/third-party-risk-analyst-12-months-ftc-at-beaumont-select-ltd-4491918019 | Beaumont Select Ltd | Third Party Risk Analyst - 12 months FTC | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-at-public-sector-resourcing-4492917067 | Public Sector Resourcing | Investment Associate | Aberdeen, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-hireiq-4492792946 | HireIQ | Investment Banking Associate | Greater London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-place-uk-ltd-4492798919 | PLACE UK Ltd | Assistant Management Accountant | Tunstead, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-gen-ii-fund-services-4418775609 | Gen II Fund Services | Fund Accountant | Whitley, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-valuation-surveyor-at-w-talent-4492904385 | W Talent | Associate Valuation Surveyor | City Of London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/interim-finance-analyst/57595642 | Morgan McKinley | Interim Finance Analyst | Northampton, Northamptonshire | note: via Reed
 
 ## Processed
