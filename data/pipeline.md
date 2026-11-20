@@ -1744,5 +1744,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/part-time-management-accountant/57589411 | Resourcery Group | Part time Management Accountant | Liverpool, Merseyside | posted: 2026-11-19 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/graduate-finance-programme-at-targetjobs-uk-4492551053 | targetjobs UK | Graduate Finance Programme | Burton Upon Trent, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/trade-support-role-with-quant-hedge-fund-stem-background-required-at-ocr-alpha-4492420087 | OCR Alpha | Trade Support role with Quant Hedge Fund (STEM background required) | Greater London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-product-change-specialist-at-ramsey-portia-4492778475 | Ramsey Portia | Fund Accounting Product Change Specialist | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

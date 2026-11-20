@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T05:15:42.992Z",
+ "generated_at": "2026-11-20T06:18:44.544Z",
  "order": [
   "finance",
   "credit",
@@ -6514,6 +6514,11 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/fund-accounting-product-change-specialist-at-ramsey-portia-4492778475": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 9
   }
  }
 }

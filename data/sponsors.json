@@ -3452,6 +3452,11 @@
    "register_name": "Radius Systems Limited",
    "match": "prefix"
   },
+  "Ramsey Portia": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Randstad": {
    "licensed": true,
    "register_name": "Randstad UK Holding Ltd",

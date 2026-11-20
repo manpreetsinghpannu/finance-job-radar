@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 20 Nov, 05:15** (UK time) · **1253 open roles** at 693 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 20 Nov, 06:18** (UK time) · **1254 open roles** at 694 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 20 Nov, 05:12** · hourly scan · checked 201 boards · **0 new roles**
+**Fri 20 Nov, 06:15** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Fri 20 Nov, 04:14** (1: Fund 1); open it in the scan log below.
+### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Fund Accounting Product Change Specialist](https://www.linkedin.com/jobs/view/fund-accounting-product-change-specialist-at-ramsey-portia-4492778475) | Ramsey Portia | London Area, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 20 November
+
+<details>
+<summary><b>06:15</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Fund Accounting Product Change Specialist](https://www.linkedin.com/jobs/view/fund-accounting-product-change-specialist-at-ramsey-portia-4492778475) | Ramsey Portia | London Area, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 05:12</sub>
 
@@ -2876,11 +2891,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 06:08</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (704)](#finance-fpa-cv-704) · [Credit (153)](#credit-cv-153) · [Equity (72)](#equity-cv-72) · [Investment (122)](#investment-ib--pe-cv-122) · [Consulting (21)](#consulting-cv-21) · [Real Estate (23)](#real-estate-cv-23) · [Fund (30)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-30) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
+Everything matched so far, newest first within each CV: [Finance (704)](#finance-fpa-cv-704) · [Credit (153)](#credit-cv-153) · [Equity (72)](#equity-cv-72) · [Investment (122)](#investment-ib--pe-cv-122) · [Consulting (21)](#consulting-cv-21) · [Real Estate (23)](#real-estate-cv-23) · [Fund (31)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-31) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
 
 ### Finance (FP&A) CV: 704
 
@@ -4007,10 +4020,11 @@ Everything matched so far, newest first within each CV: [Finance (704)](#finance
 | — | [Associate, Real Estate Asset Management Operations](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Associate--Real-Estate-Asset-Management-Operations_R8113) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 30
+### Fund CV (written for India; tweak the header for UK roles): 31
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-20 | [Fund Accounting Product Change Specialist](https://www.linkedin.com/jobs/view/fund-accounting-product-change-specialist-at-ramsey-portia-4492778475) | Ramsey Portia | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Graduate Investment Operations Analyst](https://www.linkedin.com/jobs/view/graduate-investment-operations-analyst-at-citygrad-4492717197) | CityGrad | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-finatal-4492407405) | Finatal | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Trade Support role with Quant Hedge Fund (STEM background required)](https://www.linkedin.com/jobs/view/trade-support-role-with-quant-hedge-fund-stem-background-required-at-ocr-alpha-4492420087) | OCR Alpha | Greater London, England, United Kingdom | ✅ |
