@@ -997,6 +997,11 @@
    "register_name": "Capital Com (UK) Limited T/A Capital.Com",
    "match": "trading name"
   },
+  "Caravel": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Card Factory": {
    "licensed": false,
    "register_name": null,

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:20:40.753Z",
+ "generated_at": "2026-11-20T20:37:30.735Z",
  "order": [
   "finance",
   "credit",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 93,
+   "matching": 94,
    "picks": [
     {
      "title": "Analyst - Investment Banking M&A",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 28,
+   "matching": 29,
    "picks": [
     {
      "title": "Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)",
@@ -7070,15 +7070,20 @@
    "cv": "Credit CV",
    "score": 13
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-astra-asset-management-4492496687": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
+  "https://www.linkedin.com/jobs/view/investment-analyst-m-a-skillset-wanted-for-real-estate-pe-fund-at-caravel-4491945947": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 23
   },
-  "https://www.reed.co.uk/jobs/assistant-financial-accountant/57598232": {
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-secondary-advisory-at-william-blair-4448047250": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.reed.co.uk/jobs/commercial-finance-analyst-12m-ftc/57598538": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 8
+   "score": 24
   }
  }
 }

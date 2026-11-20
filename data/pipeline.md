@@ -1878,7 +1878,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://santander.wd3.myworkdayjobs.com/santandercareers/job/London/Risk-Associate_Req1635232 | Santander | Risk Associate | London | posted: 2026-11-20
 - [ ] https://www.linkedin.com/jobs/view/technology-risk-graduate-programme-september-2027-intake-at-ey-4477806240 | EY | Technology Risk Graduate Programme - September 2027 intake | Edinburgh, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/graduate-finance-at-balfour-beatty-plc-4491954388 | Balfour Beatty plc | Graduate - Finance | Birmingham, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
-- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-astra-asset-management-4492496687 | Astra Asset Management | Management Accountant | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
-- [ ] https://www.reed.co.uk/jobs/assistant-financial-accountant/57598232 | Hays Specialist Recruitment Limited | Assistant Financial Accountant | Manchester, Lancashire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-m-a-skillset-wanted-for-real-estate-pe-fund-at-caravel-4491945947 | Caravel | Investment Analyst - M&A skillset wanted for Real Estate PE fund | Greater London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-secondary-advisory-at-william-blair-4448047250 | William Blair | Investment Banking Associate, Secondary Advisory | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst-12m-ftc/57598538 | Axon Moore Group Ltd | Commercial Finance Analyst - 12m FTC | Manchester, Lancashire | note: via Reed
 
 ## Processed
