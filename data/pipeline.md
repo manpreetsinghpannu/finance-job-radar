@@ -1786,4 +1786,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/investment-associate/57596246 | AMS Public Sector Resourcing (PSR) | Investment Associate | Aberdeen, Aberdeenshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57596416 | Pure Resourcing Solutions | Management Accountant | Chelmsford, Essex | note: via Reed
 
+- [ ] https://job-boards.eu.greenhouse.io/eqtpartners/jobs/5042646101 | EQT | Credit Associate | London Park House | posted: 2026-11-20
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-hdi-global-se-4491921583 | HDI Global SE | Financial Analyst | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/product-control-analyst-at-smartestenergy-4492915975 | SmartestEnergy | Product Control Analyst | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-risk-analyst-%E2%80%93-power-gas-at-summit-energy-europe-4491902976 | Summit Energy Europe | Quantitative Risk Analyst -– Power & Gas | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-at-marktlink-4492918810 | Marktlink | M&A Analyst | Manchester, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-%E2%80%93-transactions-at-benchmark-international-4492921491 | Benchmark International | M&A Analyst – Transactions | Oxford, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-ftc-15-months-at-triple-point-4492920369 | Triple Point | Accountant FTC (15 Months) | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trainee-financial-adviser-graduate-at-raymond-james-thorpe-park-leeds-4491297946 | Raymond James, Thorpe Park Leeds | Trainee Financial Adviser (Graduate) | Leeds, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-business-unit-accountant-at-university-hospitals-of-derby-and-burton-nhs-foundation-trust-4492929365 | University Hospitals of Derby and Burton NHS Foundation Trust | Assistant Business Unit Accountant | Derby, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-sowena-group-4492023589 | Sowena Group | Commercial Analyst | Macclesfield, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-ivee-4491913783 | ivee | Commercial Analyst | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/capital-markets-analyst-xtrackers-etfs-at-deutsche-asset-management-4452608203 | Deutsche Asset Management | Capital Markets Analyst - Xtrackers/ ETFs | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+
 ## Processed

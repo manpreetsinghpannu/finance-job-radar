@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 964 firms checked, 486 matched, 478 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 971 firms checked, 491 matched, 480 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (478)
+## Not found (480)
 
 - 7IM
 - 93 MGMT
@@ -283,6 +283,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Marks Sattin
 - Marks Sattin FS
 - Marks Sattin Ltd
+- Marktlink
 - Marlin Selection Recruitment
 - Marshall & Machado Recruitment Services Ltd
 - Martis Search
@@ -357,6 +358,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Radiant
 - Ramsey Portia
 - Randstad Finance
+- Raymond James, Thorpe Park Leeds
 - Reckitt
 - Redress Scotland
 - Reed
@@ -485,7 +487,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (57)
+## Matched automatically by close name; worth a glance (58)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -542,5 +544,6 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - SumUp → SumUp Payments Limited (prefix)
 - TALA → Tala Energy Ltd (prefix)
 - The Dune Group → Dune Advisors Limited (prefix)
+- Triple Point → Triple Point Servco Limited (prefix)
 - United Infrastructure Ltd → United Infrastructure Management Limited (prefix)
 - We Do Group → WE DO CARE (LONDON) LTD (prefix)

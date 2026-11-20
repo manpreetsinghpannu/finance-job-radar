@@ -627,6 +627,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Benchmark International": {
+   "licensed": true,
+   "register_name": "Benchmark Group Limited",
+   "match": "exact"
+  },
   "Berenberg": {
    "licensed": true,
    "register_name": "Joh. Berenberg, Gossler & Co. KG, London Branch",
@@ -1757,6 +1762,11 @@
    "register_name": null,
    "match": "none"
   },
+  "HDI Global SE": {
+   "licensed": true,
+   "register_name": "HDI GLOBAL SE - UK BRANCH",
+   "match": "exact"
+  },
   "HFG Insurance Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -2687,6 +2697,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Marktlink": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Marlin Selection Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -3547,6 +3562,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Raymond James, Thorpe Park Leeds": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Reckitt": {
    "licensed": false,
    "register_name": null,
@@ -3936,6 +3956,11 @@
    "licensed": true,
    "register_name": "Smarkets Limited",
    "match": "alias"
+  },
+  "SmartestEnergy": {
+   "licensed": true,
+   "register_name": "SmartestEnergy Limited",
+   "match": "exact"
   },
   "SmartestEnergy UK": {
    "licensed": true,
@@ -4367,6 +4392,11 @@
    "register_name": "TrinityBridge Holdings Limited",
    "match": "exact"
   },
+  "Triple Point": {
+   "licensed": true,
+   "register_name": "Triple Point Servco Limited",
+   "match": "prefix"
+  },
   "Trostan Dene": {
    "licensed": false,
    "register_name": null,
@@ -4425,6 +4455,11 @@
   "Universities Superannuation Scheme Limited": {
    "licensed": true,
    "register_name": "Universities Superannuation Scheme Limited",
+   "match": "exact"
+  },
+  "University Hospitals of Derby and Burton NHS Foundation Trust": {
+   "licensed": true,
+   "register_name": "University Hospitals of Derby and Burton NHS Foundation Trust",
    "match": "exact"
   },
   "University of Strathclyde": {
