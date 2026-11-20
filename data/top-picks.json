@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:20:31.208Z",
+ "generated_at": "2026-11-20T19:08:24.104Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 107,
+   "matching": 108,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -7049,6 +7049,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://santander.wd3.myworkdayjobs.com/santandercareers/job/London/Risk-Associate_Req1635232": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/technology-risk-graduate-programme-september-2027-intake-at-ey-4477806240": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/graduate-finance-at-balfour-beatty-plc-4491954388": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

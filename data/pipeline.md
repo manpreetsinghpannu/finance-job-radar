@@ -1871,4 +1871,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant-grants/57598235 | Hays Specialist Recruitment Limited | Management Accountant - Grants | Harpenden, Hertfordshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant/57598288 | Reed | Assistant Accountant | Oxford, Oxfordshire | note: via Reed
 
+- [ ] https://santander.wd3.myworkdayjobs.com/santandercareers/job/London/Risk-Associate_Req1635232 | Santander | Risk Associate | London | posted: 2026-11-20
+- [ ] https://www.linkedin.com/jobs/view/technology-risk-graduate-programme-september-2027-intake-at-ey-4477806240 | EY | Technology Risk Graduate Programme - September 2027 intake | Edinburgh, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-at-balfour-beatty-plc-4491954388 | Balfour Beatty plc | Graduate - Finance | Birmingham, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+
 ## Processed

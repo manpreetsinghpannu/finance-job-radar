@@ -607,6 +607,11 @@
    "register_name": "Robert W. Baird Group Ltd",
    "match": "alias"
   },
+  "Balfour Beatty plc": {
+   "licensed": true,
+   "register_name": "Balfour Beatty Group Employment Limited",
+   "match": "prefix"
+  },
   "Banham Patent Locks Ltd": {
    "licensed": true,
    "register_name": "Banham Patent Locks Ltd",
