@@ -43,7 +43,7 @@ boards:
     every_hours: 24    # once a day: 4 calls (free-plan limits)
   linkedin:
     hours: 24          # posted in the last 24 hours, newest first
-    max_pages: 5       # up to 50 newest cards per search (stops early on a short page)
+    max_pages: 3       # up to 30 newest cards per search (hourly runs keep up)
   reed: {}
   s1jobs:              # Scotland; big pages, so fewer searches
     queries: [finance, analyst, accountant, credit]
