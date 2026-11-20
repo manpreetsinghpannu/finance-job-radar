@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:27:15.168Z",
+ "generated_at": "2026-11-20T20:20:40.753Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 292,
+   "matching": 293,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -3524,11 +3524,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
-  },
-  "https://www.linkedin.com/jobs/view/business-and-finance-analyst-at-tvf-media-4490323231": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
   },
   "https://www.linkedin.com/jobs/view/operations-accountant-at-banham-poultry-2018-limited-4490709790": {
    "id": "finance",
@@ -7066,6 +7061,21 @@
    "score": 0
   },
   "https://www.s1jobs.com/job/revenue-accountant-127783406": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://santander.wd3.myworkdayjobs.com/santandercareers/job/London/Risk-Associate_Req1635232": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-astra-asset-management-4492496687": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/assistant-financial-accountant/57598232": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8

@@ -437,6 +437,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Astra Asset Management": {
+   "licensed": true,
+   "register_name": "Astra Asset Management UK Limited",
+   "match": "exact"
+  },
   "AstraZeneca": {
    "licensed": true,
    "register_name": "AstraZeneca UK Limited",
