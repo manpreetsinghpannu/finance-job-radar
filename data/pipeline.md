@@ -1637,5 +1637,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/part-qualified-accountant-2/ | via ScotJobsNet | Part Qualified Accountant | Midlothian, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/group-accountant-2/ | via ScotJobsNet | Group Accountant | Lanarkshire, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
 - [ ] https://scotjobsnet.co.uk/job/accountant-part-qualified/ | via ScotJobsNet | Accountant Part Qualified | Lanarkshire, Scotland | posted: 2026-11-19 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/credit-research-analyst-at-efg-private-banking-4492747249 | EFG Private Banking | Credit Research Analyst | London, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/change-ba-market-risk-ccr-frtb-python-crisil/57590182 | eFinancialCareers | Change BA - Market Risk / CCR FRTB, Python - CRISIL | London | posted: 2026-11-19 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/systematic-credit-trader-citi/57593624 | eFinancialCareers | Systematic Credit Trader - Citi | London | posted: 2026-11-19 | note: via Reed
 
 ## Processed

@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 19 Nov, 23:07** (UK time) · **1157 open roles** at 644 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 20 Nov, 00:08** (UK time) · **1159 open roles** at 644 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,27 +10,26 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 19 Nov, 23:05** · hourly scan · checked 201 boards · **4 new roles**
+**Fri 20 Nov, 00:04** · hourly scan · checked 201 boards · **3 new roles**
 
-### Finance (FP&A) CV: 4
+### Credit CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-19 | [UK Statutory Reporting Accountant](https://scotjobsnet.co.uk/job/uk-statutory-reporting-accountant-5/) | via ScotJobsNet | Aberdeenshire, Scotland | ❔ |
-| 2026-11-19 | [Part Qualified Accountant](https://scotjobsnet.co.uk/job/part-qualified-accountant-2/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
-| 2026-11-19 | [Group Accountant](https://scotjobsnet.co.uk/job/group-accountant-2/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
-| 2026-11-19 | [Accountant Part Qualified](https://scotjobsnet.co.uk/job/accountant-part-qualified/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
+| 2026-11-19 | [Credit Research Analyst](https://www.linkedin.com/jobs/view/credit-research-analyst-at-efg-private-banking-4492747249) | EFG Private Banking | London, England, United Kingdom | ❔ |
+| 2026-11-19 | [Change BA - Market Risk / CCR FRTB, Python - CRISIL](https://www.reed.co.uk/jobs/change-ba-market-risk-ccr-frtb-python-crisil/57590182) | eFinancialCareers | London | ✅ |
+| 2026-11-19 | [Systematic Credit Trader - Citi](https://www.reed.co.uk/jobs/systematic-credit-trader-citi/57593624) | eFinancialCareers | London | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (241 matching)
+**Finance (FP&A) CV** (240 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Commercial Finance Analyst](https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002) · Tandem Bank · Cardiff, United Kingdom · posted 2026-11-18 · ✅
 
-**Credit CV** (96 matching)
+**Credit CV** (98 matching)
 
 1. [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) · JPMorgan Chase · BOURNEMOUTH, DORSET, United Kingdom · posted 2026-11-19 · ✅
 2. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
@@ -63,6 +62,21 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Friday 20 November
+
+<details>
+<summary><b>00:04</b> · hourly scan · <b>3 new</b> → Credit 3</summary>
+
+#### Credit CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-19 | [Credit Research Analyst](https://www.linkedin.com/jobs/view/credit-research-analyst-at-efg-private-banking-4492747249) | EFG Private Banking | London, England, United Kingdom | ❔ |
+| 2026-11-19 | [Change BA - Market Risk / CCR FRTB, Python - CRISIL](https://www.reed.co.uk/jobs/change-ba-market-risk-ccr-frtb-python-crisil/57590182) | eFinancialCareers | London | ✅ |
+| 2026-11-19 | [Systematic Credit Trader - Citi](https://www.reed.co.uk/jobs/systematic-credit-trader-citi/57593624) | eFinancialCareers | London | ✅ |
+
+</details>
 
 ### Thursday 19 November
 
@@ -179,13 +193,12 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>17:05</b> · hourly scan · <b>7 new</b> → Finance 4 · Equity 1 · Investment 1 · Other 1</summary>
+<summary><b>17:05</b> · hourly scan · <b>6 new</b> → Finance 3 · Equity 1 · Investment 1 · Other 1</summary>
 
-#### Finance (FP&A) CV: 4
+#### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-news-uk-4492461187) | News UK | Greater London, England, United Kingdom | ✅ |
 | 2026-11-19 | [Financial Analyst, Category Controlling](https://www.linkedin.com/jobs/view/financial-analyst-category-controlling-at-harman-international-4476705248) | HARMAN International | Southwater, England, United Kingdom | ✅ |
 | 2026-11-19 | [Financial Planning and Reporting Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-reporting-analyst-at-babcock-international-group-4491623657) | Babcock International Group | Bristol, England, United Kingdom | ✅ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-lucy-developments-4491629501) | Lucy Developments | Oxford, England, United Kingdom | ❔ |
@@ -208,7 +221,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | — | [Graduate Finance Assistant](https://www.reed.co.uk/jobs/graduate-finance-assistant/57593634) | eFinancialCareers | Oxford, Oxfordshire | ✅ |
 
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2739,32 +2752,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>00:08</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Commercial Analyst](https://www.reed.co.uk/jobs/commercial-analyst/57562782) | Keeler Recruitment | Norwich, Norfolk | ❔ |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-12 | [Junior Investment Analyst- Python](https://www.reed.co.uk/jobs/junior-investment-analyst-python/57562977) | eFinancialCareers | London | ✅ |
-
-</details>
-
-### Thursday 12 November
-
-<sub>Nothing new at: 23:08</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (640)](#finance-fpa-cv-640) · [Credit (146)](#credit-cv-146) · [Equity (66)](#equity-cv-66) · [Investment (114)](#investment-ib--pe-cv-114) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (124)](#other-fits-no-cv-closely-may-still-be-worth-a-look-124)
+Everything matched so far, newest first within each CV: [Finance (639)](#finance-fpa-cv-639) · [Credit (149)](#credit-cv-149) · [Equity (66)](#equity-cv-66) · [Investment (114)](#investment-ib--pe-cv-114) · [Consulting (19)](#consulting-cv-19) · [Real Estate (20)](#real-estate-cv-20) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (124)](#other-fits-no-cv-closely-may-still-be-worth-a-look-124)
 
-### Finance (FP&A) CV: 640
+### Finance (FP&A) CV: 639
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2775,7 +2767,6 @@ Everything matched so far, newest first within each CV: [Finance (640)](#finance
 | — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57591514) | CMC Consulting Limited | London | ❔ |
 | — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57593086) | Accountable Recruitment | Liverpool, Merseyside | ❔ |
 | 2026-11-19 | [Commercial Finance Business Partner](https://www.adzuna.co.uk/jobs/land/ad/5971942127) | Marks Sattin Ltd | Fieldhead Business Centre, Bradford | ❔ |
-| 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-news-uk-4492461187) | News UK | Greater London, England, United Kingdom | ✅ |
 | 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-boots-uk-4492411933) | Boots UK | Nottingham, England, United Kingdom | ✅ |
 | 2026-11-19 | [Project Financial Analyst I/II (UK/Serbia)](https://www.linkedin.com/jobs/view/project-financial-analyst-i-ii-uk-serbia-at-worldwide-clinical-trials-4484149684) | Worldwide Clinical Trials | England, United Kingdom | ✅ |
 | 2026-11-19 | [Financial Analyst, Category Controlling](https://www.linkedin.com/jobs/view/financial-analyst-category-controlling-at-harman-international-4476705248) | HARMAN International | Southwater, England, United Kingdom | ✅ |
@@ -3409,18 +3400,21 @@ Everything matched so far, newest first within each CV: [Finance (640)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 146
+### Credit CV: 149
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-19 | [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) | JPMorgan Chase | BOURNEMOUTH, DORSET, United Kingdom | ✅ |
 | 2026-11-19 | [Graduate Credit Risk Analyst](https://www.linkedin.com/jobs/view/graduate-credit-risk-analyst-at-targetjobs-uk-4492156691) | targetjobs UK | Crewe, England, United Kingdom | ❔ |
 | 2026-11-19 | [Credit Analyst – Project Finance](https://www.adzuna.co.uk/jobs/land/ad/5971580574) | Prime Personnel UK | Broadgate, Central London | ❔ |
+| 2026-11-19 | [Credit Research Analyst](https://www.linkedin.com/jobs/view/credit-research-analyst-at-efg-private-banking-4492747249) | EFG Private Banking | London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Model Risk Governance and Review Policy Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210780687) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-11-19 | [Systematic Credit Trader](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Systematic-Credit-Trader_26998633) | Citi | London United Kingdom | ✅ |
 | 2026-11-19 | [Risk Analyst, Operations](https://scotjobsnet.co.uk/job/risk-analyst-operations/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
 | 2026-11-19 | [Securities Lending Trader, Specialist](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Securities-Lending-Trader--Specialist_183958-2) | Vanguard | London, United Kingdom | ✅ |
 | 2026-11-19 | [Systematic Credit Trader - Citi](https://www.adzuna.co.uk/jobs/land/ad/5971744313) | Citi | London, UK | ✅ |
+| 2026-11-19 | [Change BA - Market Risk / CCR FRTB, Python - CRISIL](https://www.reed.co.uk/jobs/change-ba-market-risk-ccr-frtb-python-crisil/57590182) | eFinancialCareers | London | ✅ |
+| 2026-11-19 | [Systematic Credit Trader - Citi](https://www.reed.co.uk/jobs/systematic-credit-trader-citi/57593624) | eFinancialCareers | London | ✅ |
 | 2026-11-19 | [Corporate Credit Associate](https://www.linkedin.com/jobs/view/corporate-credit-associate-at-quantum-search-group-4492133811) | Quantum Search Group | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Investment Associate – Credit](https://www.linkedin.com/jobs/view/investment-associate-%E2%80%93-credit-at-marshall-machado-recruitment-services-ltd-4491625171) | Marshall & Machado Recruitment Services Ltd | London Area, United Kingdom | ❔ |
 | 2026-11-18 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-octus-4474602560) | Octus | London, England, United Kingdom | ✅ |
@@ -3964,10 +3958,11 @@ Everything matched so far, newest first within each CV: [Finance (640)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>88 roles taken off the list because the firm closed the posting</summary>
+<summary>89 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 20 Nov, 00:07 | Finance Analyst | News UK |
 | Thu 19 Nov, 23:06 | Finance Business Partner | CMC Consulting Ltd |
 | Thu 19 Nov, 22:08 | Management Accountant | Handle Recruitment |
 | Thu 19 Nov, 22:07 | Investment Analyst | Alexander Chapman |

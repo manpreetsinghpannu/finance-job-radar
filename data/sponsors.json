@@ -1202,6 +1202,11 @@
    "register_name": "Dyer Baade & Company Limited",
    "match": "exact"
   },
+  "EFG Private Banking": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "EQT": {
    "licensed": true,
    "register_name": "EQT Partners Limited",
