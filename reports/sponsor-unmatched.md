@@ -1,11 +1,12 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 993 firms checked, 498 matched, 495 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 1013 firms checked, 508 matched, 505 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (495)
+## Not found (505)
 
+- 01Health
 - 7IM
 - 93 MGMT
 - AAA Global
@@ -63,6 +64,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - B&Q
 - BAT
 - BBC UK
+- BOLDSCIENCE
 - Barbara Houghton Associates Limited
 - Barker Ross Group
 - Beaumont Select Ltd
@@ -156,6 +158,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Everet Marsh
 - Executive Talent Solutions
 - ExxonMobil
+- F5
 - FT Recruitment Group
 - Faith Recruitment
 - Fane Valley Cooperative Society Ltd
@@ -228,6 +231,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - IPOE Consulting
 - IPS Finance
 - IVC Evidensia
+- Iberdrola
 - Ignition Collective
 - In2 Consult
 - Independent Office for Police Conduct
@@ -299,6 +303,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Martis Search
 - Matched Group
 - McGinnis Loy Associates Ltd
+- Mego Employment
 - Melior Capital
 - Meraki Talent
 - Meraki Talent Limited
@@ -307,6 +312,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Michael Page Banking
 - Michael Page Finance
 - Midland Heart
+- Miller Homes Ltd
 - Milton Keynes City Council
 - Mint Velvet
 - Mitchell Adam
@@ -382,6 +388,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Richard James Recruitment Specialists Ltd
 - Right People Recruitment Solutions
 - Rise Resourcing
+- Roberts Bakery 1887
 - Robertson Bell
 - Robertson Wright
 - Rothstein Recruitment
@@ -389,6 +396,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Royal College Of Physicians & Surgeons Of Glasgow
 - Rushlift GSE
 - S1Jobs
+- SBFM
 - SD Business Management
 - SENSIBAL RECRUITMENT LTD
 - SF Partners
@@ -441,6 +449,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Talent Guardian
 - Talentedge
 - Talk Staff
+- The Niche Partnership
 - The Scottish National Investment Bank
 - ThinkMarkets
 - Thrive Childcare and Education
@@ -470,6 +479,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Vertex Associates - Accountancy and Finance Recruitment
 - Vistry Group
 - Vistry Group PLC
+- Vistry Homes Ltd
 - Vitae Financial Recruitment
 - Vitae Financial Recruitment Limited
 - VodafoneThree
@@ -502,7 +512,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (60)
+## Matched automatically by close name; worth a glance (63)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -519,8 +529,11 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Cobalt → Cobalt Labs UK Limited (prefix)
 - Cushman & Wakefield → Cushman & Wakefield Debenham Tie Leung Limited (prefix)
 - Duco → Duco Technology Limited (prefix)
+- EQT Group → EQT Partners Limited (prefix)
 - Element Materials Technology → ELEMENT MATERIALS TECHNOLOGY SHARED SERVICES LIMITED (prefix)
+- Equiteq → Equiteq Advisors Ltd (prefix)
 - Form3 → Form3 Technology Limited (prefix)
+- Global Payment Holding Company → Global Payments UK Ltd (similar (0.96))
 - Griffin → Griffin Bank Ltd (prefix)
 - HARMAN International → Harman Retail Limited (prefix)
 - Harmonic Finance™ → Harmonic Finance & Operations (prefix)

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:16:55.381Z",
+ "generated_at": "2026-11-20T18:20:31.208Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 285,
+   "matching": 292,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 102,
+   "matching": 107,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -123,14 +123,14 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 91,
+   "matching": 92,
    "picks": [
     {
-     "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
-     "company": "eFinancialCareers",
-     "location": "London",
-     "posted": "2026-11-19",
-     "url": "https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161",
+     "title": "Analyst - Investment Banking M&A",
+     "company": "Equiteq",
+     "location": "London, UK",
+     "posted": "2026-11-20",
+     "url": "https://www.adzuna.co.uk/jobs/details/5972737427",
      "score": 32,
      "why": [
       "Investment Banking",
@@ -139,12 +139,12 @@
      "sponsor": true
     },
     {
-     "title": "Investment Banking (M&A) Associate - Business Services",
-     "company": "Dartmouth Partners",
-     "location": "London Area, United Kingdom",
+     "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
+     "company": "eFinancialCareers",
+     "location": "London",
      "posted": "2026-11-19",
-     "url": "https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759",
-     "score": 29,
+     "url": "https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161",
+     "score": 32,
      "why": [
       "Investment Banking",
       "M&A"
@@ -5660,11 +5660,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": -2
   },
-  "https://www.linkedin.com/jobs/view/equity-research-associate-internet-coverage-global-at-greenwich-partners-4492433355": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 20
-  },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210780687": {
    "id": "credit",
    "cv": "Credit CV",
@@ -6899,6 +6894,161 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://jobs.smartrecruiters.com/shawbrook/744000162784683-analyst-credit-distribution": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/details/5973167646": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5973159093": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/details/5973144214": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.adzuna.co.uk/jobs/details/5973123205": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.adzuna.co.uk/jobs/details/5973121289": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5973080719": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 6
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5973080600": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5973008213": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.adzuna.co.uk/jobs/details/5972977798": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/details/5972906216": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5972844952": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/details/5972737859": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/details/5972737427": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 32
+  },
+  "https://www.adzuna.co.uk/jobs/details/5972733944": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/emea-fp-a-analyst-at-f5-4477408814": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-mdpi-4485223207": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/operational-risk-analyst-at-simmons-simmons-4492808499": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/credit-associate-at-eqt-group-4492813584": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/fund-controller-private-credit-hybrid-working-at-marks-sattin-4492812502": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-roberts-bakery-1887-4492806751": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-vertu-motors-plc-4492819352": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-01health-4492964094": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-derby-at-miller-homes-ltd-4492594782": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-basingstoke-at-miller-homes-ltd-4492805307": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/associate-finance-project-accountant-at-boldscience-4492970691": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-isembard-4483052859": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-ricardo-4466532320": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.reed.co.uk/jobs/finance-business-partner/57598233": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/management-accountant-grants/57598235": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/assistant-accountant/57598288": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

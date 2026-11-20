@@ -1838,4 +1838,37 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57598009 | Hays Specialist Recruitment Limited | Commercial Finance Analyst | Manchester, Lancashire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/finance-analyst/57597959 | Cobb & Jones Recruitment Limited | Finance Analyst | Gillingham, Kent, Kent | note: via Reed
 
+- [ ] https://jobs.smartrecruiters.com/shawbrook/744000162784683-analyst-credit-distribution | Shawbrook | Analyst, Credit Distribution | London, England, United Kingdom
+- [ ] https://www.adzuna.co.uk/jobs/details/5973167646 | Lyst | Financial Controller | London, UK | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5973159093 | Accountable Recruitment | Financial Controller | Stanley, Liverpool | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5973144214 | Vistry Homes Ltd | Finance Analyst | Swillington Common, Leeds | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5973123205 | LEEDS CITY COUNCIL | Assistant Financial Accountant | UK | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5973121289 | Iberdrola | Risk Analyst | UK | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5973080719 | Michael Page | Operations Specialist - Credit and Loan Products | The City, Central London | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5973080600 | Hamilton Woods | Assistant Management Accountant | Humberstone, Leicester | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5973008213 | Mego Employment | Management Accountant | Plymouth, South West England | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5972977798 | TP ICAP Group Services Ltd | Risk Associate, Non-Financial Risk Management | Belfast, Northern Ireland | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5972906216 | Briggs Equipment | FP&A Analyst | UK | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5972844952 | Gleeson Recruitment Group | Practice Accountant | Berkshire, South East England | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5972737859 | SBFM | Pricing Analyst | Swillington Common, Leeds | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5972737427 | Equiteq | Analyst - Investment Banking M&A | London, UK | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5972733944 | Global Payment Holding Company | Financial Analyst - Revenue | London, UK | posted: 2026-11-20 | note: via Adzuna
+- [ ] https://www.linkedin.com/jobs/view/emea-fp-a-analyst-at-f5-4477408814 | F5 | EMEA FP&A Analyst | Addlestone, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-mdpi-4485223207 | MDPI | FP&A Analyst | Manchester, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/operational-risk-analyst-at-simmons-simmons-4492808499 | Simmons & Simmons | Operational Risk Analyst | Bristol, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-associate-at-eqt-group-4492813584 | EQT Group | Credit Associate | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-controller-private-credit-hybrid-working-at-marks-sattin-4492812502 | Marks Sattin | Fund Controller - Private Credit (Hybrid Working) | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-roberts-bakery-1887-4492806751 | Roberts Bakery 1887 | Assistant Management Accountant | Rudheath, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-vertu-motors-plc-4492819352 | Vertu Motors plc | Management Accountant | Banbury, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-01health-4492964094 | 01Health | Management Accountant | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-derby-at-miller-homes-ltd-4492594782 | Miller Homes Ltd | Assistant Accountant - Derby | Derby, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-basingstoke-at-miller-homes-ltd-4492805307 | Miller Homes Ltd | Assistant Accountant - Basingstoke | Basingstoke, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-finance-project-accountant-at-boldscience-4492970691 | BOLDSCIENCE | Associate Finance Project Accountant | Greater London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trainee-accountant-music-entertainment-at-hyered-4492950874 | Hyered | Trainee Accountant | Music & Entertainment | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-isembard-4483052859 | Isembard | Finance Business Partner | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-ricardo-4466532320 | Ricardo | Financial Accountant | Royal Leamington Spa, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57598233 | The Niche Partnership | Finance Business Partner | Overton, Basingstoke, Hampshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant-grants/57598235 | Hays Specialist Recruitment Limited | Management Accountant - Grants | Harpenden, Hertfordshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant/57598288 | Reed | Assistant Accountant | Oxford, Oxfordshire | note: via Reed
+
 ## Processed

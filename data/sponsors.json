@@ -2,6 +2,11 @@
  "source": "UK Home Office register of licensed sponsors (Skilled Worker), downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv",
  "note": "A licence does not mean a given role will sponsor; check the advert.",
  "firms": {
+  "01Health": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "10x Banking": {
    "licensed": true,
    "register_name": "10X Banking Technology Services Ltd",
@@ -566,6 +571,11 @@
    "licensed": true,
    "register_name": "Bank of New York Mellon",
    "match": "alias"
+  },
+  "BOLDSCIENCE": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "BP": {
    "licensed": true,
@@ -1352,6 +1362,11 @@
    "register_name": "EQT Partners Limited",
    "match": "alias"
   },
+  "EQT Group": {
+   "licensed": true,
+   "register_name": "EQT Partners Limited",
+   "match": "prefix"
+  },
   "EY": {
    "licensed": true,
    "register_name": "Ernst & Young",
@@ -1437,6 +1452,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Equiteq": {
+   "licensed": true,
+   "register_name": "Equiteq Advisors Ltd",
+   "match": "prefix"
+  },
   "Ernest Gordon Recruitment Limited": {
    "licensed": false,
    "register_name": null,
@@ -1468,6 +1488,11 @@
    "match": "alias"
   },
   "ExxonMobil": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "F5": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1721,6 +1746,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Global Payment Holding Company": {
+   "licensed": true,
+   "register_name": "Global Payments UK Ltd",
+   "match": "similar (0.96)"
   },
   "Global Payments Inc.": {
    "licensed": true,
@@ -2137,6 +2167,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Iberdrola": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ignition Collective": {
    "licensed": false,
    "register_name": null,
@@ -2205,6 +2240,11 @@
   "Investigo": {
    "licensed": true,
    "register_name": "Investigo Limited",
+   "match": "exact"
+  },
+  "Isembard": {
+   "licensed": true,
+   "register_name": "ISEMBARD LTD",
    "match": "exact"
   },
   "Ivy Rock Partners": {
@@ -2385,6 +2425,11 @@
   "LCM Partners": {
    "licensed": true,
    "register_name": "LCM Partners Limited",
+   "match": "exact"
+  },
+  "LEEDS CITY COUNCIL": {
+   "licensed": true,
+   "register_name": "Leeds City Council",
    "match": "exact"
   },
   "LEGO Digital Play": {
@@ -2622,6 +2667,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Lyst": {
+   "licensed": true,
+   "register_name": "Lyst Ltd",
+   "match": "exact"
+  },
   "M&G": {
    "licensed": true,
    "register_name": "M & G PlC",
@@ -2646,6 +2696,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "MDPI": {
+   "licensed": true,
+   "register_name": "MDPI UK LIMITED",
+   "match": "exact"
   },
   "MFS": {
    "licensed": true,
@@ -2837,6 +2892,11 @@
    "register_name": "MediaKind Systems UK Limited",
    "match": "prefix"
   },
+  "Mego Employment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Melior Capital": {
    "licensed": false,
    "register_name": null,
@@ -2901,6 +2961,11 @@
    "licensed": true,
    "register_name": "Millennium Capital Management Limited",
    "match": "alias"
+  },
+  "Miller Homes Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Milton Keynes City Council": {
    "licensed": false,
@@ -3707,6 +3772,11 @@
    "register_name": "Revolut Ltd",
    "match": "alias"
   },
+  "Ricardo": {
+   "licensed": true,
+   "register_name": "RICARDO LIMITED",
+   "match": "exact"
+  },
   "Richard James Recruitment Specialists Ltd": {
    "licensed": false,
    "register_name": null,
@@ -3746,6 +3816,11 @@
    "licensed": true,
    "register_name": "Robert Walters PLC",
    "match": "exact"
+  },
+  "Roberts Bakery 1887": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Robertson Bell": {
    "licensed": false,
@@ -3808,6 +3883,11 @@
    "match": "alias"
   },
   "S1Jobs": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "SBFM": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4282,6 +4362,11 @@
    "register_name": "TP ICAP GROUP SERVICES LIMITED",
    "match": "exact"
   },
+  "TP ICAP Group Services Ltd": {
+   "licensed": true,
+   "register_name": "TP ICAP GROUP SERVICES LIMITED",
+   "match": "exact"
+  },
   "TPG Ltd": {
    "licensed": true,
    "register_name": "TPG EUROPE, LLP",
@@ -4376,6 +4461,11 @@
    "licensed": true,
    "register_name": "Dune Advisors Limited",
    "match": "prefix"
+  },
+  "The Niche Partnership": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "The Noble Restaurant Group": {
    "licensed": true,
@@ -4652,6 +4742,11 @@
    "register_name": "Vertu Motors plc",
    "match": "exact"
   },
+  "Vertu Motors plc": {
+   "licensed": true,
+   "register_name": "Vertu Motors plc",
+   "match": "exact"
+  },
   "Virgin Media O2": {
    "licensed": true,
    "register_name": "Virgin Media Limited",
@@ -4668,6 +4763,11 @@
    "match": "none"
   },
   "Vistry Group PLC": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Vistry Homes Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
