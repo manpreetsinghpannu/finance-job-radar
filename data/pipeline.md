@@ -1742,5 +1742,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-excess-management-sme-12-month-contract-outside-ir35-at-investec-4491617023 | Investec | Credit & Excess Management SME | 12 month contract (Outside IR35) | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/part-time-management-accountant/57588412 | Accountable Recruitment | Part Time Management Accountant | Liverpool, Merseyside | posted: 2026-11-19 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/part-time-management-accountant/57589411 | Resourcery Group | Part time Management Accountant | Liverpool, Merseyside | posted: 2026-11-19 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-programme-at-targetjobs-uk-4492551053 | targetjobs UK | Graduate Finance Programme | Burton Upon Trent, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

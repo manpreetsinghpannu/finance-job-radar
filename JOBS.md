@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 20 Nov, 02:56** (UK time) · **1251 open roles** at 692 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 20 Nov, 03:19** (UK time) · **1252 open roles** at 692 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 20 Nov, 02:52** · hourly scan · checked 201 boards · **3 new roles**
+**Fri 20 Nov, 03:15** · hourly scan · checked 201 boards · **1 new role**
 
-### Finance (FP&A) CV: 3
+### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-20 | [FP&A Partner](https://www.linkedin.com/jobs/view/fp-a-partner-at-lsl-property-services-plc-4492523973) | LSL Property Services plc | Kettering, England, United Kingdom | ✅ |
-| 2026-11-19 | [Part Time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57588412) | Accountable Recruitment | Liverpool, Merseyside | ❔ |
-| 2026-11-19 | [Part time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57589411) | Resourcery Group | Liverpool, Merseyside | ❔ |
+| 2026-11-20 | [Graduate Finance Programme](https://www.linkedin.com/jobs/view/graduate-finance-programme-at-targetjobs-uk-4492551053) | targetjobs UK | Burton Upon Trent, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -64,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 20 November
+
+<details>
+<summary><b>03:15</b> · hourly scan · <b>1 new</b> → Other 1</summary>
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Graduate Finance Programme](https://www.linkedin.com/jobs/view/graduate-finance-programme-at-targetjobs-uk-4492551053) | targetjobs UK | Burton Upon Trent, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>02:52</b> · hourly scan · <b>3 new</b> → Finance 3</summary>
@@ -2872,28 +2881,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 03:42</sub>
 
-<details>
-<summary><b>03:08</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-13 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-mint-velvet-4479738824) | Mint Velvet | High Wycombe, England, United Kingdom | ❔ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-13 | [Allianz Finance Graduate Scheme 2027](https://www.linkedin.com/jobs/view/allianz-finance-graduate-scheme-2027-at-targetjobs-uk-4489524353) | targetjobs UK | Guildford, England, United Kingdom | ❔ |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (704)](#finance-fpa-cv-704) · [Credit (153)](#credit-cv-153) · [Equity (72)](#equity-cv-72) · [Investment (122)](#investment-ib--pe-cv-122) · [Consulting (21)](#consulting-cv-21) · [Real Estate (23)](#real-estate-cv-23) · [Fund (29)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-29) · [Other (127)](#other-fits-no-cv-closely-may-still-be-worth-a-look-127)
+Everything matched so far, newest first within each CV: [Finance (704)](#finance-fpa-cv-704) · [Credit (153)](#credit-cv-153) · [Equity (72)](#equity-cv-72) · [Investment (122)](#investment-ib--pe-cv-122) · [Consulting (21)](#consulting-cv-21) · [Real Estate (23)](#real-estate-cv-23) · [Fund (29)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-29) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
 
 ### Finance (FP&A) CV: 704
 
@@ -4054,11 +4044,12 @@ Everything matched so far, newest first within each CV: [Finance (704)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 127
+### Other (fits no CV closely, may still be worth a look): 128
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | — | [Valuations Associate - Universities Superannuation Scheme Limited](https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025) | eFinancialCareers | London | ✅ |
+| 2026-11-20 | [Graduate Finance Programme](https://www.linkedin.com/jobs/view/graduate-finance-programme-at-targetjobs-uk-4492551053) | targetjobs UK | Burton Upon Trent, England, United Kingdom | ❔ |
 | 2026-11-19 | [Graduate Finance Trainee](https://www.linkedin.com/jobs/view/graduate-finance-trainee-at-sanctuary-graduates-apprentices-4492168599) | Sanctuary Graduates & Apprentices | Newcastle Upon Tyne, England, United Kingdom | ❔ |
 | — | [Graduate Finance Assistant](https://www.reed.co.uk/jobs/graduate-finance-assistant/57593634) | eFinancialCareers | Oxford, Oxfordshire | ✅ |
 | 2026-11-19 | [Quantity Surveyor Civils](https://www.s1jobs.com/job/quantity-surveyor-civils-127778372) | Peace Recruitment | Glasgow Area, Scotland | ❔ |
