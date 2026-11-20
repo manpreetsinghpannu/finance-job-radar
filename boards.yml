@@ -24,6 +24,14 @@ queries:
   - fund accountant
   - management accountant
   - graduate finance
+  - assistant accountant
+  - part qualified accountant
+  - commercial finance analyst
+  - treasury analyst
+  - valuation analyst
+  - investment banking analyst
+  - private equity analyst
+  - fund operations analyst
 
 boards:
   adzuna:              # official API; needs repo secrets ADZUNA_APP_ID and ADZUNA_APP_KEY
@@ -34,7 +42,8 @@ boards:
     days: 2            # posted in the last 2 days
     every_hours: 24    # once a day: 4 calls (free-plan limits)
   linkedin:
-    hours: 24          # posted in the last 24 hours
+    hours: 24          # posted in the last 24 hours, newest first
+    max_pages: 5       # up to 50 newest cards per search (stops early on a short page)
   reed: {}
   s1jobs:              # Scotland; big pages, so fewer searches
     queries: [finance, analyst, accountant, credit]
