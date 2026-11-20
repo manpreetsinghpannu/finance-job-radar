@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T15:16:13.497Z",
+ "generated_at": "2026-11-20T16:19:26.193Z",
  "order": [
   "finance",
   "credit",
@@ -684,11 +684,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 9
-  },
-  "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77310": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 21
   },
   "https://morganstanley.eightfold.ai/careers?pid=549800996444&domain=morganstanley.com": {
    "id": "investment",
@@ -3284,11 +3279,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/investment-banking-m-a-fig-analyst-entry-level-at-selby-jennings-4490734348": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 27
   },
   "https://scotjobsnet.co.uk/job/finance-business-partner-hybrid-flexible-hours-impact/": {
    "id": "finance",
@@ -6300,11 +6290,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 11
   },
-  "https://www.linkedin.com/jobs/view/equity-research-associate-pharma-coverage-tier-one-investment-bank-at-greenwich-partners-4492171184": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 20
-  },
   "https://www.linkedin.com/jobs/view/eic-leeds-residential-valuation-advisory-graduate-programme-immediate-start-at-cushman-wakefield-4484479592": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -6834,6 +6819,56 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/credit-underwriter-at-portman-finance-group-4492806026": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/fraud-risk-analyst-at-zeller-4477423051": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-octavius-finance-4492807013": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-lorien-4492932772": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-junior-financial-controller-at-cooper-parry-finance-recruitment-4492950018": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-targetjobs-uk-4492802140": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/financial-advisory-graduate-programme-at-targetjobs-uk-4492802186": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/commercial-analyst-at-nicholson-glover-4491925941": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-m-a-at-selby-jennings-4492940713": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 26
+  },
+  "https://www.reed.co.uk/jobs/part-time-management-accountant/57597515": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
   }
  }
 }

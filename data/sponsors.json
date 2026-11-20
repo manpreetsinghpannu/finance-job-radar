@@ -412,6 +412,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Ashdown Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ashurst Perkins Coie": {
    "licensed": true,
    "register_name": "Ashurst Perkins Coie (International) LLP",
@@ -3102,6 +3107,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Nicholson Glover": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Nick Buick Associates": {
    "licensed": false,
    "register_name": null,
@@ -3476,6 +3486,11 @@
    "licensed": true,
    "register_name": "Point72 UK Limited",
    "match": "alias"
+  },
+  "Portman Finance Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Premier Foods": {
    "licensed": true,
@@ -4851,6 +4866,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Zeller": {
+   "licensed": true,
+   "register_name": "Zeller UK Limited",
+   "match": "exact"
   },
   "Zilch": {
    "licensed": true,

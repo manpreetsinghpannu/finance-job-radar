@@ -1819,5 +1819,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-leigh-day-4483058726 | Leigh Day | Financial Accountant | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-associate-1-year-maternity-cover-at-lmax-group-4492934604 | LMAX Group | Finance Associate - 1 Year Maternity Cover | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/portfolio-analyst-at-apply-recruitment-4491921478 | Apply Recruitment | Portfolio Analyst | United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-underwriter-at-portman-finance-group-4492806026 | Portman Finance Group | Credit Underwriter | Northampton, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fraud-risk-analyst-at-zeller-4477423051 | Zeller | Fraud Risk Analyst | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-at-octavius-finance-4492807013 | Octavius Finance | Equity Research Analyst | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-lorien-4492932772 | Lorien | Fund Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-junior-financial-controller-at-cooper-parry-finance-recruitment-4492950018 | Cooper Parry Finance Recruitment | Management Accountant / Junior Financial Controller | Nottingham, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-targetjobs-uk-4492802140 | targetjobs UK | VodafoneThree Graduate Finance Programme - Core Finance | Newbury, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-advisory-graduate-programme-at-targetjobs-uk-4492802186 | targetjobs UK | Financial Advisory Graduate Programme | Leeds, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-nicholson-glover-4491925941 | Nicholson Glover | Commercial Analyst | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-healthcare-m-a-at-selby-jennings-4492940713 | Selby Jennings | Investment Banking Associate - Healthcare M&A | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/part-time-management-accountant/57597515 | Ashdown Group | Part Time Management Accountant | London | note: via Reed
 
 ## Processed

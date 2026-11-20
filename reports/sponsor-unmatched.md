@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 985 firms checked, 496 matched, 489 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 989 firms checked, 497 matched, 492 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (489)
+## Not found (492)
 
 - 7IM
 - 93 MGMT
@@ -50,6 +50,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Artemis Human Capital
 - Arup
 - Ashbury
+- Ashdown Group
 - Aster Group
 - Aster Group UK
 - Atkinson Moss
@@ -321,6 +322,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - New Avenues
 - Newlon Housing Trust
 - Nexus Jobs
+- Nicholson Glover
 - Nick Buick Associates
 - No1 Legal and Professional
 - Novuna
@@ -350,6 +352,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Peace Recruitment
 - Platinum Recruitment Group
 - Point One - Hedge Fund Talent
+- Portman Finance Group
 - Preventx
 - Prime Personnel UK
 - Public Sector Resourcing
