@@ -72,6 +72,11 @@
    "register_name": null,
    "match": "none"
   },
+  "AMS Public Sector Resourcing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "APL Media Limited": {
    "licensed": true,
    "register_name": "APL Media Limited",
@@ -3428,6 +3433,11 @@
    "match": "none"
   },
   "Puma Capital Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Pure Resourcing Solutions": {
    "licensed": false,
    "register_name": null,
    "match": "none"

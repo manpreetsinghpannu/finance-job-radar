@@ -1781,5 +1781,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/trainee-accountant-at-acca-careers-4492906822 | ACCA Careers | Trainee Accountant | Cheltenham, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-leveraged-finance-london-at-selby-jennings-4492912666 | Selby Jennings | Associate | Leveraged Finance | London | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant-9m-ftc/57596203 | Butler Rose | Management Accountant (9m FTC) | Plymouth, Devon | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-european-leisure-companies-at-greenwich-partners-4492912581 | Greenwich Partners | Equity Research Analyst, European Leisure Companies | Greater London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-robert-half-4488295425 | Robert Half | Financial Analyst | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/investment-associate/57596246 | AMS Public Sector Resourcing (PSR) | Investment Associate | Aberdeen, Aberdeenshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57596416 | Pure Resourcing Solutions | Management Accountant | Chelmsford, Essex | note: via Reed
 
 ## Processed
