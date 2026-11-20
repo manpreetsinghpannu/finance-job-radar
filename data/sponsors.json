@@ -2077,11 +2077,6 @@
    "register_name": "Invesco UK Limited",
    "match": "alias"
   },
-  "Investec": {
-   "licensed": true,
-   "register_name": "Investec Bank PLC",
-   "match": "prefix"
-  },
   "Investigo": {
    "licensed": true,
    "register_name": "Investigo Limited",
@@ -2997,11 +2992,6 @@
    "register_name": null,
    "match": "none"
   },
-  "OCR Alpha": {
-   "licensed": true,
-   "register_name": "OCR Alpha",
-   "match": "exact"
-  },
   "OCS": {
    "licensed": true,
    "register_name": "OCS Consulting plc",
@@ -3280,11 +3270,6 @@
   "Perigus Energy": {
    "licensed": true,
    "register_name": "PERIGUS ENERGY UK LIMITED",
-   "match": "exact"
-  },
-  "Phillips 66": {
-   "licensed": true,
-   "register_name": "Phillips 66 Limited",
    "match": "exact"
   },
   "Phoenix Group": {

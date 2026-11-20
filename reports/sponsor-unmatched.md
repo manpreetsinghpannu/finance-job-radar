@@ -1,6 +1,6 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 943 firms checked, 479 matched, 464 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 942 firms checked, 478 matched, 464 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
@@ -322,7 +322,6 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - PGS LTD
 - PHMG
 - PRATAP PARTNERSHIP LTD
-- PSD Group
 - Paddle (alias not on current register (paddle com market limited))
 - Palatine Talent
 - Pan Macmillan
@@ -497,7 +496,6 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Holland & Barrett → Holland & Barrett Retail Limited (prefix)
 - ICF → ICF Consulting Services Limited (prefix)
 - Ikarus Capital → Ikarus Capital Advisory (prefix)
-- Investec → Investec Bank PLC (prefix)
 - Janus Henderson → JANUS HENDERSON ADMINISTRATION UK LIMITED (prefix)
 - Kroll → Kroll Advisory Ltd (prefix)
 - Kroo → Kroo Bank Ltd (prefix)

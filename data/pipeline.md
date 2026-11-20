@@ -1735,5 +1735,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-university-of-york-4492415647 | University of York | Management Accountant | York, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/group-management-accountant-uk-top-100-firm-at-butler-rose-4492440672 | Butler Rose | Group Management Accountant - UK Top 100 Firm | Milton Keynes, England, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/portfolio-financing-and-optimization-trader-citi/57589341 | eFinancialCareers | Portfolio Financing and Optimization Trader - Citi | London | posted: 2026-11-19 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/interim-capital-accountant-at-sellick-partnership-4491639047 | Sellick Partnership | Interim Capital Accountant | Newport, Wales, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant-partially-qualified/57583258 | Robert Half | Management Accountant - Partially Qualified | Royston, Hertfordshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/commercial-analyst/57587733 | Reed | Commercial Analyst | London | posted: 2026-11-19 | note: via Reed
 
 ## Processed
