@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T02:16:58.582Z",
+ "generated_at": "2026-11-20T02:56:18.692Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 259,
+   "matching": 260,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -6489,6 +6489,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-partner-at-lsl-property-services-plc-4492523973": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.reed.co.uk/jobs/part-time-management-accountant/57588412": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/part-time-management-accountant/57589411": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

@@ -1738,5 +1738,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/interim-capital-accountant-at-sellick-partnership-4491639047 | Sellick Partnership | Interim Capital Accountant | Newport, Wales, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant-partially-qualified/57583258 | Robert Half | Management Accountant - Partially Qualified | Royston, Hertfordshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/commercial-analyst/57587733 | Reed | Commercial Analyst | London | posted: 2026-11-19 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/fp-a-partner-at-lsl-property-services-plc-4492523973 | LSL Property Services plc | FP&A Partner | Kettering, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-excess-management-sme-12-month-contract-outside-ir35-at-investec-4491617023 | Investec | Credit & Excess Management SME | 12 month contract (Outside IR35) | London Area, United Kingdom | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/part-time-management-accountant/57588412 | Accountable Recruitment | Part Time Management Accountant | Liverpool, Merseyside | posted: 2026-11-19 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/part-time-management-accountant/57589411 | Resourcery Group | Part time Management Accountant | Liverpool, Merseyside | posted: 2026-11-19 | note: via Reed
 
 ## Processed

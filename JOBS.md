@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 20 Nov, 02:16** (UK time) · **1248 open roles** at 691 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 20 Nov, 02:56** (UK time) · **1251 open roles** at 692 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,21 +10,21 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 20 Nov, 02:13** · hourly scan · checked 201 boards · **3 new roles**
+**Fri 20 Nov, 02:52** · hourly scan · checked 201 boards · **3 new roles**
 
 ### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| — | [Management Accountant - Partially Qualified](https://www.reed.co.uk/jobs/management-accountant-partially-qualified/57583258) | Robert Half | Royston, Hertfordshire | ✅ |
-| 2026-11-19 | [Commercial Analyst](https://www.reed.co.uk/jobs/commercial-analyst/57587733) | Reed | London | ❔ |
-| 2026-11-19 | [Interim Capital Accountant](https://www.linkedin.com/jobs/view/interim-capital-accountant-at-sellick-partnership-4491639047) | Sellick Partnership | Newport, Wales, United Kingdom | ❔ |
+| 2026-11-20 | [FP&A Partner](https://www.linkedin.com/jobs/view/fp-a-partner-at-lsl-property-services-plc-4492523973) | LSL Property Services plc | Kettering, England, United Kingdom | ✅ |
+| 2026-11-19 | [Part Time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57588412) | Accountable Recruitment | Liverpool, Merseyside | ❔ |
+| 2026-11-19 | [Part time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57589411) | Resourcery Group | Liverpool, Merseyside | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (259 matching)
+**Finance (FP&A) CV** (260 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Commercial Finance Analyst](https://job-boards.greenhouse.io/tandemmoneylimited/jobs/8950145002) · Tandem Bank · Cardiff, United Kingdom · posted 2026-11-18 · ✅
@@ -66,6 +66,21 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Friday 20 November
 
 <details>
+<summary><b>02:52</b> · hourly scan · <b>3 new</b> → Finance 3</summary>
+
+#### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [FP&A Partner](https://www.linkedin.com/jobs/view/fp-a-partner-at-lsl-property-services-plc-4492523973) | LSL Property Services plc | Kettering, England, United Kingdom | ✅ |
+| 2026-11-19 | [Part Time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57588412) | Accountable Recruitment | Liverpool, Merseyside | ❔ |
+| 2026-11-19 | [Part time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57589411) | Resourcery Group | Liverpool, Merseyside | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+
+</details>
+
+<details>
 <summary><b>02:13</b> · hourly scan · <b>3 new</b> → Finance 3</summary>
 
 #### Finance (FP&A) CV: 3
@@ -99,9 +114,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>00:58</b> · hourly scan · <b>77 new</b> → Finance 52 · Credit 4 · Equity 5 · Investment 8 · Consulting 2 · Real Estate 3 · Fund 1 · Other 2</summary>
+<summary><b>00:58</b> · hourly scan · <b>79 new</b> → Finance 54 · Credit 4 · Equity 5 · Investment 8 · Consulting 2 · Real Estate 3 · Fund 1 · Other 2</summary>
 
-#### Finance (FP&A) CV: 52
+#### Finance (FP&A) CV: 54
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -127,6 +142,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-rhr-4492123992) | RHR | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [FP&A Business Partner](https://www.linkedin.com/jobs/view/fp-a-business-partner-at-e-surv-chartered-surveyors-4492478123) | e.surv Chartered Surveyors | Kettering, England, United Kingdom | ❔ |
 | 2026-11-19 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-midland-heart-4491634826) | Midland Heart | Birmingham, England, United Kingdom | ❔ |
+| 2026-11-19 | [Part Time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57588412) | Accountable Recruitment | Liverpool, Merseyside | ❔ |
+| 2026-11-19 | [Part time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57589411) | Resourcery Group | Liverpool, Merseyside | ❔ |
 | 2026-11-19 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-wpr-4492426199) | WPR | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-global-accounting-network-4491602148) | Global Accounting Network | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [IT Support Analyst with 2nd Level Treasury Management Systems TMS Support – FIS Integrity](https://www.linkedin.com/jobs/view/it-support-analyst-with-2nd-level-treasury-management-systems-tms-support-%E2%80%93-fis-integrity-at-free-work-uk-4492455746) | Free-Work UK | London, England, United Kingdom | ❔ |
@@ -218,7 +235,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-19 | [Accountancy Graduate - Register your interest](https://www.linkedin.com/jobs/view/accountancy-graduate-register-your-interest-at-targetjobs-uk-4492160455) | targetjobs UK | London Area, United Kingdom | ❔ |
 | — | [Valuations Associate - Universities Superannuation Scheme Limited](https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025) | eFinancialCareers | London | ✅ |
 
-<sub>10 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>8 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2876,13 +2893,14 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (701)](#finance-fpa-cv-701) · [Credit (153)](#credit-cv-153) · [Equity (72)](#equity-cv-72) · [Investment (122)](#investment-ib--pe-cv-122) · [Consulting (21)](#consulting-cv-21) · [Real Estate (23)](#real-estate-cv-23) · [Fund (29)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-29) · [Other (127)](#other-fits-no-cv-closely-may-still-be-worth-a-look-127)
+Everything matched so far, newest first within each CV: [Finance (704)](#finance-fpa-cv-704) · [Credit (153)](#credit-cv-153) · [Equity (72)](#equity-cv-72) · [Investment (122)](#investment-ib--pe-cv-122) · [Consulting (21)](#consulting-cv-21) · [Real Estate (23)](#real-estate-cv-23) · [Fund (29)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-29) · [Other (127)](#other-fits-no-cv-closely-may-still-be-worth-a-look-127)
 
-### Finance (FP&A) CV: 701
+### Finance (FP&A) CV: 704
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-20 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-tiptopjob-4492754676) | TipTopJob | Ferndown, England, United Kingdom | ❔ |
+| 2026-11-20 | [FP&A Partner](https://www.linkedin.com/jobs/view/fp-a-partner-at-lsl-property-services-plc-4492523973) | LSL Property Services plc | Kettering, England, United Kingdom | ✅ |
 | — | [Management Accountant - Partially Qualified](https://www.reed.co.uk/jobs/management-accountant-partially-qualified/57583258) | Robert Half | Royston, Hertfordshire | ✅ |
 | — | [Part Qualified Management Accountant](https://www.reed.co.uk/jobs/part-qualified-management-accountant/57584994) | Marks Sattin | Leeds, West Yorkshire | ❔ |
 | — | [Interim Part-Qualified Management Accountant](https://www.reed.co.uk/jobs/interim-part-qualified-management-accountant/57581266) | Hays Specialist Recruitment Limited | Bristol, Avon | ❔ |
@@ -2957,6 +2975,8 @@ Everything matched so far, newest first within each CV: [Finance (701)](#finance
 | 2026-11-19 | [FP&A Business Partner](https://www.linkedin.com/jobs/view/fp-a-business-partner-at-e-surv-chartered-surveyors-4492478123) | e.surv Chartered Surveyors | Kettering, England, United Kingdom | ❔ |
 | 2026-11-19 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-midland-heart-4491634826) | Midland Heart | Birmingham, England, United Kingdom | ❔ |
 | 2026-11-19 | [Group Management Accountant - UK Top 100 Firm](https://www.linkedin.com/jobs/view/group-management-accountant-uk-top-100-firm-at-butler-rose-4492440672) | Butler Rose | Milton Keynes, England, United Kingdom | ❔ |
+| 2026-11-19 | [Part Time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57588412) | Accountable Recruitment | Liverpool, Merseyside | ❔ |
+| 2026-11-19 | [Part time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57589411) | Resourcery Group | Liverpool, Merseyside | ❔ |
 | 2026-11-19 | [Assistant Accountant](https://www.adzuna.co.uk/jobs/land/ad/5971837690) | Insight Select | Merton, South West London | ❔ |
 | 2026-11-19 | [Assistant Accountant](https://www.adzuna.co.uk/jobs/details/5971468099) | Ashbury | London, UK | ❔ |
 | 2026-11-19 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-wpr-4492426199) | WPR | London Area, United Kingdom | ❔ |

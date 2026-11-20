@@ -2077,6 +2077,11 @@
    "register_name": "Invesco UK Limited",
    "match": "alias"
   },
+  "Investec": {
+   "licensed": true,
+   "register_name": "Investec Bank PLC",
+   "match": "prefix"
+  },
   "Investigo": {
    "licensed": true,
    "register_name": "Investigo Limited",
@@ -2271,6 +2276,11 @@
    "licensed": true,
    "register_name": "London Stock Exchange Group plc",
    "match": "alias"
+  },
+  "LSL Property Services plc": {
+   "licensed": true,
+   "register_name": "LSL Property Services PLC",
+   "match": "exact"
   },
   "Laing O'Rourke": {
    "licensed": true,
