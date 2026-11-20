@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T01:01:08.712Z",
+ "generated_at": "2026-11-20T01:10:05.359Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 255,
+   "matching": 258,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 61,
+   "matching": 62,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 34,
+   "matching": 35,
    "picks": [
     {
      "title": "Analyst, Real Estate Asset Management",
@@ -220,7 +220,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 37,
+   "matching": 36,
    "picks": [
     {
      "title": "Interim Investment Operations Analyst 9 month FTC",
@@ -6040,25 +6040,15 @@
    "cv": "Credit CV",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/portfolio-finance-analyst-at-anglian-water-services-4491628705": {
+  "https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-tiptopjob-4492754676": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 21
+   "score": 18
   },
   "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-cmc-consulting-ltd-4491390667": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 28
-  },
-  "https://www.linkedin.com/jobs/view/fp-a-business-partner-at-e-surv-chartered-surveyors-4492478123": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/commercial-finance-business-partner-at-wingstop-uk-lemon-pepper-holdings-ltd-4479040705": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 25
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-harrow-council-4485505826": {
    "id": "finance",
@@ -6075,25 +6065,45 @@
    "cv": "Finance (FP&A) CV",
    "score": 19
   },
+  "https://www.linkedin.com/jobs/view/fp-a-business-partner-at-e-surv-chartered-surveyors-4492478123": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
   "https://www.linkedin.com/jobs/view/finance-analyst-costing-supply-chain-finance-at-atlas-copco-group-4492139692": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 21
   },
+  "https://www.linkedin.com/jobs/view/commercial-finance-business-partner-at-wingstop-uk-lemon-pepper-holdings-ltd-4479040705": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 25
+  },
+  "https://www.linkedin.com/jobs/view/portfolio-finance-analyst-at-anglian-water-services-4491628705": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-midland-heart-4491634826": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-wireless-logic-4491398848": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/commercial-analyst-%E2%80%93-driving-school-at-the-aa-4492196271": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
   "https://www.linkedin.com/jobs/view/associate-loan-asset-management-commercial-real-estate-at-situsamc-4491391289": {
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 20
-  },
-  "https://www.linkedin.com/jobs/view/investment-executive-financial-services-debt-at-british-international-investment-4491393462": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 16
-  },
-  "https://www.linkedin.com/jobs/view/investment-banking-debt-advisory-associate-london-uk-at-alantra-4491384852": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 23
   },
   "https://www.linkedin.com/jobs/view/credit-risk-analyst-commodities-credit-global-energy-trading-co-at-eaglecliff-recruitment-4491610065": {
    "id": "credit",
@@ -6115,10 +6125,10 @@
    "cv": "Credit CV",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/advisor-product-control-at-phillips-66-4489203418": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
+  "https://www.linkedin.com/jobs/view/investment-executive-financial-services-debt-at-british-international-investment-4491393462": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-mid-high-frequency-%E2%80%93-equities-futures-at-aptic-groupe-4492402632": {
    "id": "equity",
@@ -6145,15 +6155,15 @@
    "cv": "Consulting CV",
    "score": 15
   },
-  "https://www.linkedin.com/jobs/view/graduate-investment-operations-analyst-at-citygrad-4492717197": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 19
-  },
-  "https://www.linkedin.com/jobs/view/interim-capital-accountant-at-sellick-partnership-4491639047": {
+  "https://www.linkedin.com/jobs/view/site-finance-business-partner-12-months-ftc-at-pepsico-4491646306": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 8
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/cash-working-capital-fp-a-accountant-at-grafton-banks-finance-ltd-4492166276": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
   },
   "https://www.linkedin.com/jobs/view/management-accountant-fashion-company-at-trp-recruitment-ltd-4491393576": {
    "id": "finance",
@@ -6170,6 +6180,31 @@
    "cv": "Finance (FP&A) CV",
    "score": 17
   },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-rhr-4492123992": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-university-of-york-4492415647": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/group-management-accountant-uk-top-100-firm-at-butler-rose-4492440672": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-trostan-dene-4486848370": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/graduate-investment-operations-analyst-at-citygrad-4492717197": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 19
+  },
   "https://www.linkedin.com/jobs/view/graduate-asset-management-operations-cardiff-2027-at-legal-general-4492419584": {
    "id": "real_estate",
    "cv": "Real Estate CV",
@@ -6184,11 +6219,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
-  },
-  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-trostan-dene-4486848370": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/assistant-accountant-at-cmc-consulting-ltd-4491604292": {
    "id": "finance",
@@ -6205,6 +6235,16 @@
    "cv": "Real Estate CV",
    "score": 21
   },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-fixed-contract-at-quanex-4492245554": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-fixed-term-maternity-cover-12-18-months-at-almac-group-4489101081": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
   "https://www.linkedin.com/jobs/view/accountancy-graduate-register-your-interest-at-targetjobs-uk-4492160455": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -6214,11 +6254,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-rhr-4492123992": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 15
   },
   "https://www.linkedin.com/jobs/view/financial-accountant-at-automata-4486522963": {
    "id": "finance",
@@ -6239,21 +6274,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
-  },
-  "https://www.linkedin.com/jobs/view/commercial-analyst-driving-school-at-the-aa-4491618922": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 15
-  },
-  "https://www.linkedin.com/jobs/view/finance-business-partner-at-midland-heart-4491634826": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/site-finance-business-partner-12-months-ftc-at-pepsico-4491646306": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
   },
   "https://www.linkedin.com/jobs/view/treasury-cash-management-professional-at-next-ventures-4491618230": {
    "id": "finance",
@@ -6280,11 +6300,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/cash-working-capital-fp-a-accountant-at-grafton-banks-finance-ltd-4492166276": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 19
-  },
   "https://www.linkedin.com/jobs/view/3rd-level-treasury-systems-support-consultant-with-fis-integrity-treasury-application-at-nexus-jobs-4492413617": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -6300,6 +6315,21 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
+  "https://www.linkedin.com/jobs/view/uk-treasury-implementation-specialist-at-embat-4491615357": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 3
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-reed-4492197075": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/capital-accountant-at-leicester-city-council-4492507433": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
   "https://www.linkedin.com/jobs/view/equity-research-associate-pharma-coverage-tier-one-investment-bank-at-greenwich-partners-4492171184": {
    "id": "equity",
    "cv": "Equity CV",
@@ -6310,15 +6340,20 @@
    "cv": "Investment (IB / PE) CV",
    "score": 21
   },
-  "https://www.linkedin.com/jobs/view/trade-support-role-with-quant-hedge-fund-stem-background-required-at-ocr-alpha-4492420087": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 12
+  "https://www.linkedin.com/jobs/view/investment-banking-debt-advisory-associate-london-uk-at-alantra-4491384852": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 23
   },
-  "https://www.linkedin.com/jobs/view/investment-operations-associate-at-psd-group-4492171920": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 16
+  "https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/portfolio-financing-and-optimization-trader-citi/57589341": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   },
   "https://www.reed.co.uk/jobs/assistant-accountant/57582364": {
    "id": "finance",
@@ -6370,12 +6405,12 @@
    "cv": "Finance (FP&A) CV",
    "score": 21
   },
-  "https://www.reed.co.uk/jobs/interim-part-qualified-management-accountant/57581266": {
+  "https://www.reed.co.uk/jobs/part-qualified-management-accountant/57584994": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://www.reed.co.uk/jobs/part-qualified-management-accountant/57584994": {
+  "https://www.reed.co.uk/jobs/interim-part-qualified-management-accountant/57581266": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
@@ -6395,16 +6430,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 13
   },
-  "https://www.reed.co.uk/jobs/part-time-management-accountant/57588412": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
-  "https://www.reed.co.uk/jobs/part-time-management-accountant/57589411": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.reed.co.uk/jobs/commercial-finance-business-partner/57587672": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -6414,16 +6439,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 24
-  },
-  "https://www.reed.co.uk/jobs/commercial-analyst/57587733": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
-  },
-  "https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://www.reed.co.uk/jobs/equity-analyst-global-equities-asset-management/57590184": {
    "id": "equity",
@@ -6444,6 +6459,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 32
+  },
+  "https://www.reed.co.uk/jobs/global-equities-esg-investment-analyst-efinancialcareers/57590162": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 20
   },
   "https://www.reed.co.uk/jobs/data-mi-analyst-transformation-reporting-investment-banking/57594385": {
    "id": "investment",

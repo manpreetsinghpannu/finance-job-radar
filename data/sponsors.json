@@ -242,6 +242,11 @@
    "register_name": "Allica Bank",
    "match": "alias"
   },
+  "Almac Group": {
+   "licensed": true,
+   "register_name": "Almac Group Limited",
+   "match": "exact"
+  },
   "Altum Consulting": {
    "licensed": false,
    "register_name": null,
@@ -763,6 +768,11 @@
    "match": "exact"
   },
   "Burman Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Butler Rose": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1336,6 +1346,11 @@
    "licensed": true,
    "register_name": "Eleven Labs Ltd",
    "match": "exact"
+  },
+  "Embat": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Eni": {
    "licensed": true,
@@ -2307,6 +2322,11 @@
    "register_name": "LEGEND SERVICES UK LTD",
    "match": "exact"
   },
+  "Leicester City Council": {
+   "licensed": true,
+   "register_name": "Leicester City Council",
+   "match": "exact"
+  },
   "Leisure Employment Services": {
    "licensed": true,
    "register_name": "Leisure Employment Services",
@@ -3133,11 +3153,6 @@
    "match": "alias"
   },
   "PRATAP PARTNERSHIP LTD": {
-   "licensed": false,
-   "register_name": null,
-   "match": "none"
-  },
-  "PSD Group": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4192,6 +4207,11 @@
    "register_name": "Tide Platform Ltd",
    "match": "alias"
   },
+  "TipTopJob": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Together": {
    "licensed": true,
    "register_name": "Together Group Holdings Limited",
@@ -4325,6 +4345,11 @@
   "University of Strathclyde": {
    "licensed": true,
    "register_name": "University of Strathclyde",
+   "match": "exact"
+  },
+  "University of York": {
+   "licensed": true,
+   "register_name": "University of York",
    "match": "exact"
   },
   "VANRATH": {
@@ -4565,6 +4590,11 @@
   "Wipro": {
    "licensed": true,
    "register_name": "Wipro Limited",
+   "match": "exact"
+  },
+  "Wireless Logic": {
+   "licensed": true,
+   "register_name": "Wireless Logic Ltd",
    "match": "exact"
   },
   "Wise": {

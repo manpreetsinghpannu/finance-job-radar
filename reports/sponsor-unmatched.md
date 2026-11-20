@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 939 firms checked, 477 matched, 462 not found.
+Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 942 firms checked, 478 matched, 464 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (462)
+## Not found (464)
 
 - 7IM
 - 93 MGMT
@@ -76,6 +76,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Bruin
 - Bruntwood SciTech
 - Burman Recruitment
+- Butler Rose
 - Byron Recruitment
 - CAMMACH BRYANT LIMITED
 - CER Financial
@@ -139,6 +140,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Edgworth Partners
 - Edward Mann
 - Elevation Recruitment Group
+- Embat
 - Equifind
 - Ernest Gordon Recruitment Limited
 - Everet Marsh
@@ -416,6 +418,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - ThinkMarkets
 - Thrive Childcare and Education
 - Thunes
+- TipTopJob
 - Totum Partners
 - Tower Transit Group
 - Trainline
@@ -469,7 +472,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (57)
+## Matched automatically by close name; worth a glance (56)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
