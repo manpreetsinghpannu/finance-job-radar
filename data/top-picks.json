@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T00:20:29.607Z",
+ "generated_at": "2026-11-21T01:26:24.012Z",
  "order": [
   "finance",
   "credit",
@@ -6226,11 +6226,6 @@
    "cv": "Consulting CV",
    "score": 16
   },
-  "https://www.linkedin.com/jobs/view/temporary-treasury-assistant-12-months-at-hays-4492151464": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
   "https://www.linkedin.com/jobs/view/3rd-level-treasury-systems-support-with-fis-integrity-treasury-management-systems-tms-at-free-work-uk-4492469076": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -7150,6 +7145,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-csl-4490701998": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
   }
  }
 }

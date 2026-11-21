@@ -932,6 +932,11 @@
    "register_name": null,
    "match": "none"
   },
+  "CSL": {
+   "licensed": true,
+   "register_name": "CSL Group Services Ltd",
+   "match": "exact"
+  },
   "CSL Plasma": {
    "licensed": false,
    "register_name": null,
