@@ -332,6 +332,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Aptura": {
+   "licensed": true,
+   "register_name": "Aptura AI UK Ltd.",
+   "match": "exact"
+  },
   "Arcade Food Halls": {
    "licensed": false,
    "register_name": null,

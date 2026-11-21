@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 21 Nov, 01:45** (UK time) · **1381 open roles** at 772 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 21 Nov, 02:03** (UK time) · **1380 open roles** at 773 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 21 Nov, 01:40** · hourly scan · checked 201 boards · **1 new role**
+**Sat 21 Nov, 02:00** · hourly scan · checked 201 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
+### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-21 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-csl-4490701998) | CSL | Merseyside, England, United Kingdom | ✅ |
+| 2026-11-20 | [Interim Investment Banking Consultant](https://www.linkedin.com/jobs/view/interim-investment-banking-consultant-at-aptura-4492842485) | Aptura | London, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (297 matching)
+**Finance (FP&A) CV** (295 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Commercial Finance Analyst - Southampton](https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492579966) · Giacom · Southampton, England, United Kingdom · posted 2026-11-20 · ✅
@@ -37,12 +37,12 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) · Rothschild & Co · London · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 
-**Investment (IB / PE) CV** (95 matching)
+**Investment (IB / PE) CV** (96 matching)
 
 1. [Analyst - Investment Banking M&A](https://www.adzuna.co.uk/jobs/details/5972737427) · Equiteq · London, UK · posted 2026-11-20 · ✅
 2. [French speaking Investment Banking M&A Generalist Analyst & Associate](https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161) · eFinancialCareers · London · posted 2026-11-19 · ✅
 
-**Consulting CV** (29 matching)
+**Consulting CV** (30 matching)
 
 1. [Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)](https://www.linkedin.com/jobs/view/strategy-associate-consultant-generalist-m-f-d-%E2%80%93-hybrid-arrangement-at-l-e-k-consulting-4478950065) · L.E.K. Consulting · London Area, United Kingdom · posted 2026-11-17 · ✅
 2. [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) · Hargreaves Lansdown · Bristol - Welcome Building · posted 2026-11-16 · ✅
@@ -64,7 +64,18 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Saturday 21 November
 
 <details>
-<summary><b>01:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+<summary><b>02:00</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Interim Investment Banking Consultant](https://www.linkedin.com/jobs/view/interim-investment-banking-consultant-at-aptura-4492842485) | Aptura | London, England, United Kingdom | ✅ |
+
+</details>
+
+<details>
+<summary><b>01:22</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -3054,9 +3065,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (789)](#finance-fpa-cv-789) · [Credit (169)](#credit-cv-169) · [Equity (71)](#equity-cv-71) · [Investment (137)](#investment-ib--pe-cv-137) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (132)](#other-fits-no-cv-closely-may-still-be-worth-a-look-132)
+Everything matched so far, newest first within each CV: [Finance (787)](#finance-fpa-cv-787) · [Credit (169)](#credit-cv-169) · [Equity (71)](#equity-cv-71) · [Investment (138)](#investment-ib--pe-cv-138) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (132)](#other-fits-no-cv-closely-may-still-be-worth-a-look-132)
 
-### Finance (FP&A) CV: 789
+### Finance (FP&A) CV: 787
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3794,7 +3805,6 @@ Everything matched so far, newest first within each CV: [Finance (789)](#finance
 | 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-spectrum-brands-uk-limited-4486986777) | Spectrum Brands (UK) Limited | Greater Manchester, England, United Kingdom | ✅ |
 | 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-mears-group-plc-4434030589) | Mears Group PLC | Gloucestershire, England, United Kingdom | ✅ |
 | 2026-11-06 | [Management Accountant (Fixed Term Contract)](https://www.reed.co.uk/jobs/management-accountant-fixed-term-contract/57538817) | Lightfoot | Exeter, Devon | ✅ |
-| 2026-11-06 | [Reinsurance Protection Assistant Accountant](https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21298) | Phoenix Group | Birmingham, England, United Kingdom | ✅ |
 | 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-marks-sattin-4486248562) | Marks Sattin | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57534852) | Kennedy Pearce Consulting | London | ❔ |
 | 2026-11-06 | [Graduate Financial Accountant](https://www.reed.co.uk/jobs/graduate-financial-accountant/57537301) | Robert Walters | Birmingham, West Midlands (County) | ✅ |
@@ -4099,7 +4109,7 @@ Everything matched so far, newest first within each CV: [Finance (789)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 137
+### Investment (IB / PE) CV: 138
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4112,6 +4122,7 @@ Everything matched so far, newest first within each CV: [Finance (789)](#finance
 | 2026-11-20 | [Investment Banking Associate, Technology](https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-william-blair-4437622721) | William Blair | London, England, United Kingdom | ✅ |
 | 2026-11-20 | [Investment Banking Associate, Secondary Advisory](https://www.linkedin.com/jobs/view/investment-banking-associate-secondary-advisory-at-william-blair-4448047250) | William Blair | London, England, United Kingdom | ✅ |
 | 2026-11-20 | [M&A Analyst](https://www.linkedin.com/jobs/view/m-a-analyst-at-marktlink-4492918810) | Marktlink | Manchester, England, United Kingdom | ❔ |
+| 2026-11-20 | [Interim Investment Banking Consultant](https://www.linkedin.com/jobs/view/interim-investment-banking-consultant-at-aptura-4492842485) | Aptura | London, England, United Kingdom | ✅ |
 | 2026-11-20 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-hireiq-4492792946) | HireIQ | Greater London, England, United Kingdom | ❔ |
 | 2026-11-20 | [Associate Valuation Surveyor](https://www.linkedin.com/jobs/view/associate-valuation-surveyor-at-w-talent-4492904385) | W Talent | City Of London, England, United Kingdom | ❔ |
 | 2026-11-20 | [Capital Markets Analyst - Xtrackers/ ETFs](https://www.linkedin.com/jobs/view/capital-markets-analyst-xtrackers-etfs-at-deutsche-asset-management-4452608203) | Deutsche Asset Management | London, England, United Kingdom | ❔ |
@@ -4479,10 +4490,11 @@ Everything matched so far, newest first within each CV: [Finance (789)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>96 roles taken off the list because the firm closed the posting</summary>
+<summary>97 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 21 Nov, 02:01 | Reinsurance Protection Assistant Accountant | Phoenix Group |
 | Sat 21 Nov, 01:24 | Temporary Treasury Assistant - 12 Months | Hays |
 | Fri 20 Nov, 23:16 | Financial Accountant (Private Equity & Alternative Investments) | HireForce |
 | Fri 20 Nov, 22:15 | Trainee Equity Research Associate - Global Investment Bank - London | Greenwich Partners |

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T01:45:06.185Z",
+ "generated_at": "2026-11-21T02:03:47.923Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 297,
+   "matching": 295,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 95,
+   "matching": 96,
    "picks": [
     {
      "title": "Analyst - Investment Banking M&A",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 29,
+   "matching": 30,
    "picks": [
     {
      "title": "Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)",
@@ -705,11 +705,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 25
-  },
-  "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21298": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804829": {
    "id": "other",
@@ -7150,6 +7145,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/interim-investment-banking-consultant-at-aptura-4492842485": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
   }
  }
 }
