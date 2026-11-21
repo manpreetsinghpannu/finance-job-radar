@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 21 Nov, 09:00** (UK time) · **1385 open roles** at 774 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 21 Nov, 09:18** (UK time) · **1386 open roles** at 775 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 21 Nov, 08:57** · hourly scan · checked 201 boards · **1 new role**
+**Sat 21 Nov, 09:14** · hourly scan · checked 201 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
+### Credit CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-21 | [Group & International FP&A Analyst](https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803) | MAGMAS | London, England, United Kingdom | ❔ |
+| 2026-11-20 | [Commercial Debt SRM](https://www.linkedin.com/jobs/view/commercial-debt-srm-at-ecotricity-4492580819) | Ecotricity | Stroud, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -27,7 +27,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Commercial Finance Analyst - Southampton](https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492579966) · Giacom · Southampton, England, United Kingdom · posted 2026-11-20 · ✅
 
-**Credit CV** (107 matching)
+**Credit CV** (108 matching)
 
 1. [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) · JPMorgan Chase · BOURNEMOUTH, DORSET, United Kingdom · posted 2026-11-19 · ✅
 2. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 21 November
+
+<details>
+<summary><b>09:14</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Commercial Debt SRM](https://www.linkedin.com/jobs/view/commercial-debt-srm-at-ecotricity-4492580819) | Ecotricity | Stroud, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>08:57</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -3065,11 +3076,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 09:07</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (787)](#finance-fpa-cv-787) · [Credit (168)](#credit-cv-168) · [Equity (73)](#equity-cv-73) · [Investment (138)](#investment-ib--pe-cv-138) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (136)](#other-fits-no-cv-closely-may-still-be-worth-a-look-136)
+Everything matched so far, newest first within each CV: [Finance (787)](#finance-fpa-cv-787) · [Credit (169)](#credit-cv-169) · [Equity (73)](#equity-cv-73) · [Investment (138)](#investment-ib--pe-cv-138) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (136)](#other-fits-no-cv-closely-may-still-be-worth-a-look-136)
 
 ### Finance (FP&A) CV: 787
 
@@ -3863,7 +3872,7 @@ Everything matched so far, newest first within each CV: [Finance (787)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 168
+### Credit CV: 169
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3883,6 +3892,7 @@ Everything matched so far, newest first within each CV: [Finance (787)](#finance
 | 2026-11-20 | [Risk Analyst](https://www.adzuna.co.uk/jobs/details/5973121289) | Iberdrola | UK | ❔ |
 | 2026-11-20 | [Risk Associate, Non-Financial Risk Management](https://www.adzuna.co.uk/jobs/details/5972977798) | TP ICAP Group Services Ltd | Belfast, Northern Ireland | ✅ |
 | 2026-11-20 | [Operations & Risk Analyst](https://www.linkedin.com/jobs/view/operations-risk-analyst-at-goodlord-4492848742) | Goodlord | England, United Kingdom | ❔ |
+| 2026-11-20 | [Commercial Debt SRM](https://www.linkedin.com/jobs/view/commercial-debt-srm-at-ecotricity-4492580819) | Ecotricity | Stroud, England, United Kingdom | ✅ |
 | 2026-11-20 | [Credit Underwriter](https://www.linkedin.com/jobs/view/credit-underwriter-at-portman-finance-group-4492806026) | Portman Finance Group | Northampton, England, United Kingdom | ❔ |
 | 2026-11-20 | [Operations Specialist - Credit and Loan Products](https://www.adzuna.co.uk/jobs/land/ad/5973080719) | Michael Page | The City, Central London | ✅ |
 | 2026-11-19 | [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) | JPMorgan Chase | BOURNEMOUTH, DORSET, United Kingdom | ✅ |

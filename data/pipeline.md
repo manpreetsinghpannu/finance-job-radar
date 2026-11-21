@@ -1906,5 +1906,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/commercial-analyst-role-at-dhl-express-4492032269 | DHL Express | Commercial Analyst Role | Colnbrook, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57596622 | Integris | Management Accountant | Hertfordshire | posted: 2026-11-20 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803 | MAGMAS | Group & International FP&A Analyst | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-debt-srm-at-ecotricity-4492580819 | Ecotricity | Commercial Debt SRM | Stroud, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed
