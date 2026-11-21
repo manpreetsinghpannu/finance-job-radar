@@ -417,6 +417,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Ascot Group": {
+   "licensed": true,
+   "register_name": "ASCOT INTERNATIONAL (1996) LIMITED",
+   "match": "exact"
+  },
   "Ashbury": {
    "licensed": false,
    "register_name": null,
@@ -1073,6 +1078,11 @@
    "match": "alias"
   },
   "Chalk Hill Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Chambers and Partners": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4881,6 +4891,11 @@
    "licensed": true,
    "register_name": "Vital Healthcare Services Limited",
    "match": "exact"
+  },
+  "Vitality": {
+   "licensed": true,
+   "register_name": "VITALITY TRADING LIMITED",
+   "match": "prefix"
   },
   "Vitesse": {
    "licensed": true,

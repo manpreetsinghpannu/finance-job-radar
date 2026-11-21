@@ -1913,5 +1913,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-fairbanks-environmental-4475265128 | Fairbanks Environmental | Management Accountant | Skelmersdale, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/sterling-swaps-trader-selby-jennings/57597824 | eFinancialCareers | sterling swaps trader - Selby Jennings | London | posted: 2026-11-20 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-junior-financial-controller-at-acca-careers-4493273514 | ACCA Careers | Management Accountant / Junior Financial Controller | Nottingham, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-12-month-ftc-at-vitality-4492805554 | Vitality | Finance Analyst (12-month FTC) | Bournemouth, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-ascot-group-4475238459 | Ascot Group | Risk Analyst | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-wellness-projects-at-holland-barrett-4492949313 | Holland & Barrett | Finance Business Partner - Wellness & Projects | Nuneaton, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-7im-4492828826 | 7IM | Financial Accountant | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/research-analyst-uk/57598506 | Chambers and Partners | Research Analyst UK | London | posted: 2026-11-20 | note: via Reed
 
 ## Processed
