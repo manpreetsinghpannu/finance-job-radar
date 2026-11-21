@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:03:47.923Z",
+ "generated_at": "2026-11-21T02:22:48.678Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 295,
+   "matching": 296,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -6219,6 +6219,11 @@
   "https://www.linkedin.com/jobs/view/treasury-commodity-advisory-%E2%80%93-consultant-at-cfgi-4431674463": {
    "id": "consulting",
    "cv": "Consulting CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/temporary-treasury-assistant-12-months-at-hays-4492151464": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
    "score": 16
   },
   "https://www.linkedin.com/jobs/view/3rd-level-treasury-systems-support-with-fis-integrity-treasury-management-systems-tms-at-free-work-uk-4492469076": {

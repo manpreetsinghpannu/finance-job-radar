@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 21 Nov, 02:03** (UK time) · **1380 open roles** at 773 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 21 Nov, 02:22** (UK time) · **1381 open roles** at 773 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 21 Nov, 02:00** · hourly scan · checked 201 boards · **1 new role**
+**Sat 21 Nov, 02:19** · hourly scan · checked 201 boards · **1 new role**
 
 ### Investment (IB / PE) CV: 1
 
@@ -22,7 +22,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (295 matching)
+**Finance (FP&A) CV** (296 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Commercial Finance Analyst - Southampton](https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492579966) · Giacom · Southampton, England, United Kingdom · posted 2026-11-20 · ✅
@@ -64,7 +64,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Saturday 21 November
 
 <details>
-<summary><b>02:00</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+<summary><b>02:19</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
 
 #### Investment (IB / PE) CV: 1
 
@@ -75,7 +75,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>01:22</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+<summary><b>01:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -658,9 +658,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>00:58</b> · hourly scan · <b>75 new</b> → Finance 51 · Credit 4 · Equity 4 · Investment 8 · Consulting 2 · Real Estate 3 · Fund 2 · Other 1</summary>
+<summary><b>00:58</b> · hourly scan · <b>76 new</b> → Finance 52 · Credit 4 · Equity 4 · Investment 8 · Consulting 2 · Real Estate 3 · Fund 2 · Other 1</summary>
 
-#### Finance (FP&A) CV: 51
+#### Finance (FP&A) CV: 52
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -679,6 +679,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-19 | [Contract Finance Analyst](https://www.linkedin.com/jobs/view/contract-finance-analyst-at-harvey-john-4492419010) | Harvey John | Haywards Heath, England, United Kingdom | ❔ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-investigo-4492409507) | Investigo | Uxbridge, England, United Kingdom | ✅ |
 | 2026-11-19 | [Site Finance Business Partner 12 Months FTC](https://www.linkedin.com/jobs/view/site-finance-business-partner-12-months-ftc-at-pepsico-4491646306) | PepsiCo | Lincoln, England, United Kingdom | ✅ |
+| 2026-11-19 | [Temporary Treasury Assistant - 12 Months](https://www.linkedin.com/jobs/view/temporary-treasury-assistant-12-months-at-hays-4492151464) | Hays | City Of London, England, United Kingdom | ✅ |
 | 2026-11-19 | [Transfer Pricing Analyst](https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-robert-half-4491633827) | Robert Half | City Of Bristol, England, United Kingdom | ✅ |
 | 2026-11-19 | [Management Accountant - Fashion company](https://www.linkedin.com/jobs/view/management-accountant-fashion-company-at-trp-recruitment-ltd-4491393576) | TRP Recruitment ltd | London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-rhr-4492123992) | RHR | London Area, United Kingdom | ❔ |
@@ -775,7 +776,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | — | [Valuations Associate - Universities Superannuation Scheme Limited](https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025) | eFinancialCareers | London | ✅ |
 
-<sub>12 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>11 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3061,13 +3062,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 02:07</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (787)](#finance-fpa-cv-787) · [Credit (169)](#credit-cv-169) · [Equity (71)](#equity-cv-71) · [Investment (138)](#investment-ib--pe-cv-138) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (132)](#other-fits-no-cv-closely-may-still-be-worth-a-look-132)
+Everything matched so far, newest first within each CV: [Finance (788)](#finance-fpa-cv-788) · [Credit (169)](#credit-cv-169) · [Equity (71)](#equity-cv-71) · [Investment (138)](#investment-ib--pe-cv-138) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (132)](#other-fits-no-cv-closely-may-still-be-worth-a-look-132)
 
-### Finance (FP&A) CV: 787
+### Finance (FP&A) CV: 788
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3214,6 +3213,7 @@ Everything matched so far, newest first within each CV: [Finance (787)](#finance
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-investigo-4492409507) | Investigo | Uxbridge, England, United Kingdom | ✅ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-university-of-york-4492415647) | University of York | York, England, United Kingdom | ✅ |
 | 2026-11-19 | [Solvency Reporting Accountant](https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london/job/Lloyds-UK-London/Solvency-Reporting-Accountant_R5345) | Lloyd's of London | Lloyd's UK: London | ✅ |
+| 2026-11-19 | [Temporary Treasury Assistant - 12 Months](https://www.linkedin.com/jobs/view/temporary-treasury-assistant-12-months-at-hays-4492151464) | Hays | City Of London, England, United Kingdom | ✅ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-burman-recruitment-4492297561) | Burman Recruitment | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Group Transfer Pricing Analyst](https://www.adzuna.co.uk/jobs/land/ad/5971736548) | Robert Walters | Walkern, Hertfordshire | ✅ |
 | 2026-11-19 | [Commercial Analyst – Driving School](https://www.linkedin.com/jobs/view/commercial-analyst-%E2%80%93-driving-school-at-the-aa-4492196271) | The AA | Cardiff, Wales, United Kingdom | ✅ |
@@ -4494,8 +4494,7 @@ Everything matched so far, newest first within each CV: [Finance (787)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Sat 21 Nov, 02:01 | Reinsurance Protection Assistant Accountant | Phoenix Group |
-| Sat 21 Nov, 01:24 | Temporary Treasury Assistant - 12 Months | Hays |
+| Sat 21 Nov, 02:20 | Reinsurance Protection Assistant Accountant | Phoenix Group |
 | Fri 20 Nov, 23:16 | Financial Accountant (Private Equity & Alternative Investments) | HireForce |
 | Fri 20 Nov, 22:15 | Trainee Equity Research Associate - Global Investment Bank - London | Greenwich Partners |
 | Fri 20 Nov, 18:20 | Equity Research Associate, Internet Coverage, Global | Greenwich Partners |
