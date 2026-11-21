@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:21:00.928Z",
+ "generated_at": "2026-11-21T05:23:54.180Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 108,
+   "matching": 107,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -5636,11 +5636,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": -2
   },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210780687": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/experienced-analyst-%E2%80%93-investment-banking-technology-media-telecom-tmt-at-guggenheim-securities-4476931099": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -7157,6 +7152,11 @@
    "score": 0
   },
   "https://www.linkedin.com/jobs/view/graduate-finance-m-f-d-at-targetjobs-uk-4492863597": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/finance-graduate-at-d%C5%B5r-cymru-welsh-water-4493268172": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
