@@ -1557,6 +1557,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Fairbanks Environmental": {
+   "licensed": true,
+   "register_name": "Fairbanks Environmental Limited",
+   "match": "exact"
+  },
   "Faith Recruitment": {
    "licensed": false,
    "register_name": null,

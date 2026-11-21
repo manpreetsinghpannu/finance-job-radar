@@ -1910,5 +1910,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-kraft-heinz-4475979220 | Kraft Heinz | Finance Analyst | Greater Manchester, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-ukpharm-limited-4493266729 | UKPHARM LIMITED | Assistant Accountant | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-collins-aerospace-4485374763 | Collins Aerospace | Assistant Accountant | Plymouth, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-fairbanks-environmental-4475265128 | Fairbanks Environmental | Management Accountant | Skelmersdale, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/sterling-swaps-trader-selby-jennings/57597824 | eFinancialCareers | sterling swaps trader - Selby Jennings | London | posted: 2026-11-20 | note: via Reed
 
 ## Processed
