@@ -1968,5 +1968,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-controller-at-hill-dickinson-llp-4485391409 | Hill Dickinson LLP | Treasury Controller | Liverpool, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/accountant-4493302232 | AMA Accountancy | Accountant | Botley, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492878447 | Joblet-AI | FP&A Analyst (Remote) | United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-targetjobs-uk-4492876180 | targetjobs UK | Commercial Finance Graduate | Surrey, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-remote-at-crossing-hurdles-4492882831 | Crossing Hurdles | Financial Analyst | Remote | United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-otc-products-systematic-macro-hedge-fund-at-tempest-vane-partners-4487530335 | Tempest Vane Partners | Quantitative Researcher – OTC Products | Systematic Macro | Hedge Fund | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

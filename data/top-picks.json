@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T19:21:10.849Z",
+ "generated_at": "2026-11-21T20:17:08.980Z",
  "order": [
   "finance",
   "credit",
@@ -7457,6 +7457,11 @@
    "score": 8
   },
   "https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492878447": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-targetjobs-uk-4492876180": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
