@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 21 Nov, 23:17** (UK time) · **1444 open roles** at 818 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 21 Nov, 23:32** (UK time) · **1445 open roles** at 818 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 21 Nov, 23:13** · hourly scan · checked 201 boards · **0 new roles**
+**Sat 21 Nov, 23:28** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sat 21 Nov, 21:13** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-21 | [Corporate Finance Analyst (Remote)](https://www.linkedin.com/jobs/view/corporate-finance-analyst-remote-at-joblet-ai-4492875917) | Joblet-AI | United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -59,7 +63,18 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 21 November
 
-<sub>Nothing new at: 23:13, 22:21</sub>
+<details>
+<summary><b>23:28</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-21 | [Corporate Finance Analyst (Remote)](https://www.linkedin.com/jobs/view/corporate-finance-analyst-remote-at-joblet-ai-4492875917) | Joblet-AI | United Kingdom | ❔ |
+
+</details>
+
+<sub>Nothing new at: 22:21</sub>
 
 <details>
 <summary><b>21:13</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -3173,15 +3188,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-### Saturday 14 November
-
-<sub>Nothing new at: 23:29</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (830)](#finance-fpa-cv-830) · [Credit (174)](#credit-cv-174) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (36)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-36) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (831)](#finance-fpa-cv-831) · [Credit (174)](#credit-cv-174) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (36)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-36) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
-### Finance (FP&A) CV: 830
+### Finance (FP&A) CV: 831
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3197,6 +3208,7 @@ Everything matched so far, newest first within each CV: [Finance (830)](#finance
 | 2026-11-21 | [FP&A Analyst (Remote)](https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492878447) | Joblet-AI | United Kingdom | ❔ |
 | 2026-11-21 | [Commercial Finance Graduate](https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-targetjobs-uk-4492876180) | targetjobs UK | Surrey, England, United Kingdom | ❔ |
 | 2026-11-21 | [Interim Finance Business Partner](https://www.linkedin.com/jobs/view/interim-finance-business-partner-at-investigo-4487287716) | Investigo | London Area, United Kingdom | ✅ |
+| 2026-11-21 | [Corporate Finance Analyst (Remote)](https://www.linkedin.com/jobs/view/corporate-finance-analyst-remote-at-joblet-ai-4492875917) | Joblet-AI | United Kingdom | ❔ |
 | 2026-11-21 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-fairbanks-environmental-4475265128) | Fairbanks Environmental | Skelmersdale, England, United Kingdom | ✅ |
 | 2026-11-21 | [MAT Finance Business Partner - Sidney Stringer Multi Academy Trust](https://www.adzuna.co.uk/jobs/details/5973681330) | Coventry City Council | Baginton, Coventry | ✅ |
 | 2026-11-21 | [French Financial Planning Associate](https://www.adzuna.co.uk/jobs/details/5974378254) | Fisher Careers | London, UK | ❔ |

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:17:20.903Z",
+ "generated_at": "2026-11-21T23:32:20.794Z",
  "order": [
   "finance",
   "credit",
@@ -7467,6 +7467,11 @@
    "score": 18
   },
   "https://www.linkedin.com/jobs/view/interim-finance-business-partner-at-investigo-4487287716": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/corporate-finance-analyst-remote-at-joblet-ai-4492875917": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
