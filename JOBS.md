@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 21 Nov, 09:18** (UK time) · **1386 open roles** at 775 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 21 Nov, 10:05** (UK time) · **1385 open roles** at 775 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,15 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 21 Nov, 09:14** · hourly scan · checked 201 boards · **1 new role**
+**Sat 21 Nov, 10:01** · hourly scan · checked 201 boards · **0 new roles**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-20 | [Commercial Debt SRM](https://www.linkedin.com/jobs/view/commercial-debt-srm-at-ecotricity-4492580819) | Ecotricity | Stroud, England, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Sat 21 Nov, 09:14** (1: Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (295 matching)
+**Finance (FP&A) CV** (294 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Commercial Finance Analyst - Southampton](https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492579966) · Giacom · Southampton, England, United Kingdom · posted 2026-11-20 · ✅
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 21 November
+
+<sub>Nothing new at: 10:01</sub>
 
 <details>
 <summary><b>09:14</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -737,9 +735,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>00:58</b> · hourly scan · <b>76 new</b> → Finance 52 · Credit 4 · Equity 4 · Investment 8 · Consulting 2 · Real Estate 3 · Fund 2 · Other 1</summary>
+<summary><b>00:58</b> · hourly scan · <b>75 new</b> → Finance 51 · Credit 4 · Equity 4 · Investment 8 · Consulting 2 · Real Estate 3 · Fund 2 · Other 1</summary>
 
-#### Finance (FP&A) CV: 52
+#### Finance (FP&A) CV: 51
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -758,7 +756,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-19 | [Contract Finance Analyst](https://www.linkedin.com/jobs/view/contract-finance-analyst-at-harvey-john-4492419010) | Harvey John | Haywards Heath, England, United Kingdom | ❔ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-investigo-4492409507) | Investigo | Uxbridge, England, United Kingdom | ✅ |
 | 2026-11-19 | [Site Finance Business Partner 12 Months FTC](https://www.linkedin.com/jobs/view/site-finance-business-partner-12-months-ftc-at-pepsico-4491646306) | PepsiCo | Lincoln, England, United Kingdom | ✅ |
-| 2026-11-19 | [Temporary Treasury Assistant - 12 Months](https://www.linkedin.com/jobs/view/temporary-treasury-assistant-12-months-at-hays-4492151464) | Hays | City Of London, England, United Kingdom | ✅ |
 | 2026-11-19 | [Transfer Pricing Analyst](https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-robert-half-4491633827) | Robert Half | City Of Bristol, England, United Kingdom | ✅ |
 | 2026-11-19 | [Management Accountant - Fashion company](https://www.linkedin.com/jobs/view/management-accountant-fashion-company-at-trp-recruitment-ltd-4491393576) | TRP Recruitment ltd | London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-rhr-4492123992) | RHR | London Area, United Kingdom | ❔ |
@@ -855,7 +852,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | — | [Valuations Associate - Universities Superannuation Scheme Limited](https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025) | eFinancialCareers | London | ✅ |
 
-<sub>11 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>12 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3078,9 +3075,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (787)](#finance-fpa-cv-787) · [Credit (169)](#credit-cv-169) · [Equity (73)](#equity-cv-73) · [Investment (138)](#investment-ib--pe-cv-138) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (136)](#other-fits-no-cv-closely-may-still-be-worth-a-look-136)
+Everything matched so far, newest first within each CV: [Finance (786)](#finance-fpa-cv-786) · [Credit (169)](#credit-cv-169) · [Equity (73)](#equity-cv-73) · [Investment (138)](#investment-ib--pe-cv-138) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (136)](#other-fits-no-cv-closely-may-still-be-worth-a-look-136)
 
-### Finance (FP&A) CV: 787
+### Finance (FP&A) CV: 786
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3230,7 +3227,6 @@ Everything matched so far, newest first within each CV: [Finance (787)](#finance
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-investigo-4492409507) | Investigo | Uxbridge, England, United Kingdom | ✅ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-university-of-york-4492415647) | University of York | York, England, United Kingdom | ✅ |
 | 2026-11-19 | [Solvency Reporting Accountant](https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london/job/Lloyds-UK-London/Solvency-Reporting-Accountant_R5345) | Lloyd's of London | Lloyd's UK: London | ✅ |
-| 2026-11-19 | [Temporary Treasury Assistant - 12 Months](https://www.linkedin.com/jobs/view/temporary-treasury-assistant-12-months-at-hays-4492151464) | Hays | City Of London, England, United Kingdom | ✅ |
 | 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-burman-recruitment-4492297561) | Burman Recruitment | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Group Transfer Pricing Analyst](https://www.adzuna.co.uk/jobs/land/ad/5971736548) | Robert Walters | Walkern, Hertfordshire | ✅ |
 | 2026-11-19 | [Commercial Analyst – Driving School](https://www.linkedin.com/jobs/view/commercial-analyst-%E2%80%93-driving-school-at-the-aa-4492196271) | The AA | Cardiff, Wales, United Kingdom | ✅ |
@@ -4509,10 +4505,11 @@ Everything matched so far, newest first within each CV: [Finance (787)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>101 roles taken off the list because the firm closed the posting</summary>
+<summary>102 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 21 Nov, 10:02 | Temporary Treasury Assistant - 12 Months | Hays |
 | Sat 21 Nov, 06:17 | Business and Finance Analyst | TVF Media |
 | Sat 21 Nov, 06:16 | FP&A Analyst, Europe | Univers |
 | Sat 21 Nov, 05:23 | Model Risk Governance and Review Policy Associate | JPMorgan Chase |
