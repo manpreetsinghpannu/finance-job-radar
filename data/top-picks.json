@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T15:16:55.681Z",
+ "generated_at": "2026-11-21T16:15:55.431Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 298,
+   "matching": 297,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -7036,11 +7036,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 24
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-astra-asset-management-4492496687": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/assistant-finance-business-partner-at-nwg-northumbrian-water-group-4492970094": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -7135,11 +7130,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492883292": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/trainee-quantitative-research-analyst-at-societe-generale-corporate-and-investment-banking-sgcib-4493249830": {
    "id": "equity",
@@ -7290,6 +7280,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/commercial-analyst-at-cazoo-4491955084": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/trading-assistant-interest-rate-derivatives-at-tempest-vane-partners-4483540403": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

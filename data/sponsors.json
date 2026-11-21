@@ -1077,6 +1077,11 @@
    "register_name": "Catalyst Corporation Ltd",
    "match": "exact"
   },
+  "Cazoo": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Cedar": {
    "licensed": true,
    "register_name": "Cedar Capital Partners Ltd",
@@ -4566,6 +4571,11 @@
    "licensed": true,
    "register_name": "Tarmac Trading Limited",
    "match": "exact"
+  },
+  "Tempest Vane Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Teneo": {
    "licensed": true,

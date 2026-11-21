@@ -1932,5 +1932,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/revenue-accountant-at-s1jobs-4493212669 | s1jobs | Revenue Accountant | Aberdeen, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/eic-leeds-valuation-advisory-graduate-programme-at-cushman-wakefield-4492999328 | Cushman & Wakefield | EIC Leeds Valuation & Advisory Graduate Programme | Leeds, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/project-accountant/ | via ScotJobsNet | Project Accountant | Midlothian, Scotland | posted: 2026-11-21 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-cazoo-4491955084 | Cazoo | Commercial Analyst | Richmond Upon Thames, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trading-assistant-interest-rate-derivatives-at-tempest-vane-partners-4483540403 | Tempest Vane Partners | Trading Assistant - Interest Rate Derivatives | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed
