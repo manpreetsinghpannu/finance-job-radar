@@ -1890,5 +1890,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878 | London LGPS CIV Limited | Investment Analyst - Real Estate | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-operations-associate-reconciliations-corporate-actions-wealth-management-at-jj-search-limited-4492864083 | JJ SEARCH LIMITED | Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/fund-accountant/ | via ScotJobsNet | Fund Accountant | Glasgow, Scotland | posted: 2026-11-20 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/operations-risk-analyst-at-goodlord-4492848742 | Goodlord | Operations & Risk Analyst | England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quant-analyst-insurance-capital-solutions-at-macquarie-group-4491980001 | Macquarie Group | Quant Analyst, Insurance Capital Solutions | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57594147 | Insight Recruitment Solutions Limited | Assistant Management Accountant | London | posted: 2026-11-20 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/accountant-convenience-ambient/57588258 | WM Morrisons | Accountant - Convenience - Ambient | Bradford, West Yorkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/finance-business-partner/57597653 | Impact Food Group | Finance Business Partner | Woking, Surrey | posted: 2026-11-20 | note: via Reed
 
 ## Processed

@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv. 1019 firms checked, 513 matched, 506 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1022 firms checked, 513 matched, 509 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (506)
+## Not found (509)
 
 - 01Health
 - 7IM
@@ -185,6 +185,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Gleeson Recruitment Group
 - Global Accounting Network
 - Global Corporate Investment Bank
+- Goodlord
 - Grafton Banks Finance Ltd
 - Graphite Partners
 - Great Places Housing Association
@@ -234,6 +235,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - IVC Evidensia
 - Iberdrola
 - Ignition Collective
+- Impact Food Group
 - In2 Consult
 - Independent Office for Police Conduct
 - Insight Recruitment Solutions Limited
@@ -489,6 +491,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - WH Finance Ltd
 - WINGSTOP UK
 - WINGSTOP UK&I
+- WM Morrisons
 - WMJobs
 - WPR
 - Wade Macdonald

@@ -1,5 +1,5 @@
 {
- "source": "UK Home Office register of licensed sponsors (Skilled Worker), downloaded 2026-11-14 from https://assets.publishing.service.gov.uk/media/6af59528cc0dbfec767a5080/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv",
+ "source": "UK Home Office register of licensed sponsors (Skilled Worker), downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv",
  "note": "A licence does not mean a given role will sponsor; check the advert.",
  "firms": {
   "01Health": {
@@ -1782,6 +1782,11 @@
    "register_name": "Goldman Sachs International",
    "match": "exact"
   },
+  "Goodlord": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Goodman Masson": {
    "licensed": true,
    "register_name": "Goodman Masson Ltd",
@@ -2196,6 +2201,11 @@
    "licensed": true,
    "register_name": "Ikarus Capital Advisory",
    "match": "prefix"
+  },
+  "Impact Food Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "In2 Consult": {
    "licensed": false,
@@ -4853,6 +4863,11 @@
    "match": "none"
   },
   "WINGSTOP UK&I": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "WM Morrisons": {
    "licensed": false,
    "register_name": null,
    "match": "none"

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T23:18:51.010Z",
+ "generated_at": "2026-11-21T00:20:29.607Z",
  "order": [
   "finance",
   "credit",
@@ -7124,6 +7124,31 @@
   "https://scotjobsnet.co.uk/job/fund-accountant/": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/operations-risk-analyst-at-goodlord-4492848742": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/quant-analyst-insurance-capital-solutions-at-macquarie-group-4491980001": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant/57594147": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.reed.co.uk/jobs/accountant-convenience-ambient/57588258": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
+  },
+  "https://www.reed.co.uk/jobs/finance-business-partner/57597653": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
    "score": 14
   }
  }
