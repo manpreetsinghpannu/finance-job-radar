@@ -1272,6 +1272,11 @@
    "register_name": null,
    "match": "none"
   },
+  "DHL Express": {
+   "licensed": true,
+   "register_name": "DHL Express UK LTD",
+   "match": "exact"
+  },
   "DJH": {
    "licensed": false,
    "register_name": null,
@@ -4206,6 +4211,11 @@
    "licensed": true,
    "register_name": "Societe Generale Equipment Finance Ltd",
    "match": "alias"
+  },
+  "Societe Generale Corporate and Investment Banking - SGCIB": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Sophos": {
    "licensed": true,

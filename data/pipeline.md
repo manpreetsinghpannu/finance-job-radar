@@ -1901,5 +1901,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-targetjobs-uk-4492874108 | targetjobs UK | Graduate - Analyst, Technology Risk & Assurance (m/f/d) | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/graduate-finance-m-f-d-at-targetjobs-uk-4492863597 | targetjobs UK | Graduate - Finance (m/f/d) | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-d%C5%B5r-cymru-welsh-water-4493268172 | Dŵr Cymru Welsh Water | Finance Graduate | Coedkernew, Wales, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492883292 | Joblet-AI | Financial Research Analyst (Remote) | United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trainee-quantitative-research-analyst-at-societe-generale-corporate-and-investment-banking-sgcib-4493249830 | Societe Generale Corporate and Investment Banking - SGCIB | Trainee Quantitative Research Analyst | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-role-at-dhl-express-4492032269 | DHL Express | Commercial Analyst Role | Colnbrook, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed
