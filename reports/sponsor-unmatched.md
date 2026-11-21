@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1036 firms checked, 520 matched, 516 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1044 firms checked, 524 matched, 520 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (516)
+## Not found (520)
 
 - 01Health
 - 7IM
@@ -57,6 +57,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Atkinson Moss
 - Atlassian Williams F1 Team
 - Atom Bank
+- Augean
 - Auricoe
 - Avove Utilities
 - Axon Moore
@@ -68,6 +69,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Barbara Houghton Associates Limited
 - Barker Ross Group
 - Beaumont Select Ltd
+- Believ
 - Belmont Search Ltd
 - Better Placed
 - Bield Housing Association
@@ -390,6 +392,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Reckitt
 - Redress Scotland
 - Reed
+- Referment
 - Rendall & Rittner
 - Resourcery Group
 - Retirement Villages Group Ltd
@@ -449,6 +452,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TAMESIDE COLLEGE
 - TCR
 - TCS
+- TD Securities
 - TMR Group Ltd
 - TMRG
 - TRP Recruitment ltd
@@ -523,7 +527,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (65)
+## Matched automatically by close name; worth a glance (66)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -540,6 +544,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Citizens Advice → Citizens Advice 1066 (prefix)
 - Cobalt → Cobalt Labs UK Limited (prefix)
 - Cushman & Wakefield → Cushman & Wakefield Debenham Tie Leung Limited (prefix)
+- DS Smith → DS Smith Business Services Limited (prefix)
 - Duco → Duco Technology Limited (prefix)
 - EQT Group → EQT Partners Limited (prefix)
 - Element Materials Technology → ELEMENT MATERIALS TECHNOLOGY SHARED SERVICES LIMITED (prefix)

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:18:30.881Z",
+ "generated_at": "2026-11-21T14:14:38.886Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 295,
+   "matching": 298,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 109,
+   "matching": 110,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 96,
+   "matching": 97,
    "picks": [
     {
      "title": "Analyst - Investment Banking M&A",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 30,
+   "matching": 31,
    "picks": [
     {
      "title": "Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)",
@@ -7220,6 +7220,56 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-believ-4474895893": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-debt-advisory-at-baird-4476857727": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 23
+  },
+  "https://www.linkedin.com/jobs/view/interim-accountant-local-government-at-grant-thornton-uk-4476829156": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/drilling-accountant-at-orion-group-4492972185": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-trader-graduate-2027-at-susquehanna-international-group-4438424006": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/accountant-at-ds-smith-4439892855": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-augean-4492970485": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/treasury-solutions-consultant-london-68da25c-at-referment-4493277505": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-acca-careers-4493276444": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/associate-corporate-banking-at-td-securities-4487506315": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
   }
  }
 }

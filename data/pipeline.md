@@ -1918,5 +1918,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-wellness-projects-at-holland-barrett-4492949313 | Holland & Barrett | Finance Business Partner - Wellness & Projects | Nuneaton, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-7im-4492828826 | 7IM | Financial Accountant | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/research-analyst-uk/57598506 | Chambers and Partners | Research Analyst UK | London | posted: 2026-11-20 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-believ-4474895893 | Believ | Finance Business Partner | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-debt-advisory-at-baird-4476857727 | Baird | Investment Banking Associate - Debt Advisory | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/interim-accountant-local-government-at-grant-thornton-uk-4476829156 | Grant Thornton UK | Interim Accountant - Local Government | Edinburgh, Scotland, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/drilling-accountant-at-orion-group-4492972185 | Orion Group | Drilling Accountant | Aberdeen, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-trader-graduate-2027-at-susquehanna-international-group-4438424006 | Susquehanna International Group | Quantitative Trader - Graduate: 2027 | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-ds-smith-4439892855 | DS Smith | Accountant | Caerphilly, Wales, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-augean-4492970485 | Augean | Finance Business Partner | Wetherby, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-solutions-consultant-london-68da25c-at-referment-4493277505 | Referment | Treasury Solutions Consultant - London (68DA25C) | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-acca-careers-4493276444 | ACCA Careers | Assistant Financial Accountant | England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-corporate-banking-at-td-securities-4487506315 | TD Securities | Associate, Corporate Banking | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed

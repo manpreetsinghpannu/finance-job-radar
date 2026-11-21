@@ -477,6 +477,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Augean": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Auricoe": {
    "licensed": false,
    "register_name": null,
@@ -668,6 +673,11 @@
    "match": "exact"
   },
   "Beaumont Select Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Believ": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1307,6 +1317,11 @@
    "register_name": "DRW Investments (UK) Ltd",
    "match": "alias"
   },
+  "DS Smith": {
+   "licensed": true,
+   "register_name": "DS Smith Business Services Limited",
+   "match": "prefix"
+  },
   "Dana Incorporated": {
    "licensed": false,
    "register_name": null,
@@ -1846,6 +1861,11 @@
    "licensed": true,
    "register_name": "Graham Capital LLP",
    "match": "alias"
+  },
+  "Grant Thornton UK": {
+   "licensed": true,
+   "register_name": "Grant Thornton (NI) LLP",
+   "match": "exact"
   },
   "Graphite Partners": {
    "licensed": false,
@@ -3437,6 +3457,11 @@
    "register_name": "Orbit Partners Limited",
    "match": "prefix"
   },
+  "Orion Group": {
+   "licensed": true,
+   "register_name": "Orion (GB) Limited",
+   "match": "exact"
+  },
   "Orla Rose Associates": {
    "licensed": false,
    "register_name": null,
@@ -3843,6 +3868,11 @@
    "match": "none"
   },
   "Reed": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Referment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4402,6 +4432,11 @@
    "register_name": "Susquehanna UK Limited",
    "match": "exact"
   },
+  "Susquehanna International Group": {
+   "licensed": true,
+   "register_name": "Susquehanna UK Limited",
+   "match": "exact"
+  },
   "Swoop Funding": {
    "licensed": false,
    "register_name": null,
@@ -4438,6 +4473,11 @@
    "match": "none"
   },
   "TCS": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "TD Securities": {
    "licensed": false,
    "register_name": null,
    "match": "none"
