@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1058 firms checked, 529 matched, 529 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1074 firms checked, 533 matched, 541 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (529)
+## Not found (541)
 
 - 01Health
 - 7IM
@@ -15,6 +15,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - AD Finance
 - AEJ Consulting Ltd
 - ALF Recruit
+- AMA Accountancy
 - AMS Public Sector Resourcing
 - ASC Connections Ltd
 - ASDA
@@ -33,6 +34,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Alf Recruit Limited
 - Alignerr
 - All About Food Ltd
+- Allen Associates
 - Allianz Commercial
 - Altum Consulting
 - Ameriprise
@@ -167,12 +169,14 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Executive Talent Solutions
 - ExxonMobil
 - F5
+- FERA
 - FT Recruitment Group
 - Faith Recruitment
 - Fane Valley Cooperative Society Ltd
 - Financial Divisions
 - Financial Technology Partners / FT Partners
 - Finatal
+- Fisher Careers
 - Fletcher George Recruitment Ltd
 - Flex
 - Foodbuy Group
@@ -226,6 +230,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - HelloFresh
 - High Finance (UK) Limited T/A HFG
 - Higher Capital Consulting
+- Hillingdon Council
 - HireForce
 - HireIQ
 - Hometree
@@ -253,6 +258,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ivy Rock Partners
 - J. Murphy & Sons Ltd
 - JJ SEARCH LIMITED
+- JJ Search Ltd
 - JPMorganChase
 - JSS
 - Jagex: The RuneScape Company
@@ -292,6 +298,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lorien
 - Lottie
 - Lucy Developments
+- Lucy Group
 - Lyreco
 - M&G FA Limited
 - MAGMAS
@@ -316,6 +323,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Matched Group
 - McGinnis Loy Associates Ltd
 - Mego Employment
+- Mego Employment Limited
 - Melior Capital
 - Meraki Talent
 - Meraki Talent Limited
@@ -377,6 +385,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Preventx
 - Prime Personnel UK
 - Public Sector Resourcing
+- Public Sector Resourcing CWS
 - Puma Capital Group
 - Pure Resourcing Solutions
 - Pure Resourcing Solutions Limited
@@ -423,6 +432,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - STEP Fusion
 - STONEMONT PARTNERS LIMITED
 - STORMX RECRUITMENT LIMITED
+- SUEZ
 - Salutem Care And Education
 - Samworth Brothers
 - Sanctuary Graduates & Apprentices
@@ -468,6 +478,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Talentedge
 - Talk Staff
 - Tempest Vane Partners
+- The FA
 - The Niche Partnership
 - The Scottish National Investment Bank
 - TheyDo - Journey Management
@@ -488,6 +499,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - UKPHARM LIMITED
 - Undisclosed
 - Univar Solutions
+- Urban Outfitters, Inc.
 - VANRATH
 - VIA MATCH LIMITED
 - Valeo Foods UK
@@ -536,7 +548,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (66)
+## Matched automatically by close name; worth a glance (67)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -564,6 +576,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - HARMAN International → Harman Retail Limited (prefix)
 - Harmonic Finance™ → Harmonic Finance & Operations (prefix)
 - Heitman → Heitman Financial UK LLC (prefix)
+- Hill Dickinson LLP → Hill Dickinson Business Services Limited (prefix)
 - Holland & Barrett → Holland & Barrett Retail Limited (prefix)
 - ICF → ICF Consulting Services Limited (prefix)
 - Ikarus Capital → Ikarus Capital Advisory (prefix)

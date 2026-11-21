@@ -77,6 +77,11 @@
    "register_name": null,
    "match": "none"
   },
+  "AMA Accountancy": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "AMS Public Sector Resourcing": {
    "licensed": false,
    "register_name": null,
@@ -233,6 +238,11 @@
    "match": "none"
   },
   "All About Food Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Allen Associates": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1277,6 +1287,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Coventry City Council": {
+   "licensed": true,
+   "register_name": "Coventry City Council",
+   "match": "exact"
+  },
   "Crossing Hurdles": {
    "licensed": false,
    "register_name": null,
@@ -1336,6 +1351,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Darktrace": {
+   "licensed": true,
+   "register_name": "Darktrace Holdings Limited",
+   "match": "exact"
   },
   "Dartmouth Partners": {
    "licensed": true,
@@ -1577,6 +1597,11 @@
    "register_name": null,
    "match": "none"
   },
+  "FERA": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "FNZ": {
    "licensed": true,
    "register_name": "FNZ (UK) Limited",
@@ -1638,6 +1663,11 @@
    "match": "alias"
   },
   "Finatal": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Fisher Careers": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2122,6 +2152,16 @@
    "register_name": null,
    "match": "none"
   },
+  "Hill Dickinson LLP": {
+   "licensed": true,
+   "register_name": "Hill Dickinson Business Services Limited",
+   "match": "prefix"
+  },
+  "Hillingdon Council": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "HireForce": {
    "licensed": false,
    "register_name": null,
@@ -2373,6 +2413,11 @@
    "match": "exact"
   },
   "JJ SEARCH LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "JJ Search Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2782,6 +2827,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Lucy Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Lyreco": {
    "licensed": false,
    "register_name": null,
@@ -3013,6 +3063,11 @@
    "match": "prefix"
   },
   "Mego Employment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Mego Employment Limited": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3752,6 +3807,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Public Sector Resourcing CWS": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Puma Capital Group": {
    "licensed": false,
    "register_name": null,
@@ -4118,6 +4178,11 @@
    "match": "none"
   },
   "STORMX RECRUITMENT LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "SUEZ": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4657,6 +4722,11 @@
    "register_name": "Dune Advisors Limited",
    "match": "prefix"
   },
+  "The FA": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "The Niche Partnership": {
    "licensed": false,
    "register_name": null,
@@ -4872,6 +4942,11 @@
    "register_name": "University of York",
    "match": "exact"
   },
+  "Urban Outfitters, Inc.": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "VANRATH": {
    "licensed": false,
    "register_name": null,
@@ -5001,6 +5076,11 @@
    "licensed": true,
    "register_name": "VITALITY TRADING LIMITED",
    "match": "prefix"
+  },
+  "Vitality Corporate Services Limited": {
+   "licensed": true,
+   "register_name": "Vitality Corporate Services Limited",
+   "match": "exact"
   },
   "Vitesse": {
    "licensed": true,

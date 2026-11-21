@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:18:33.646Z",
+ "generated_at": "2026-11-21T19:21:10.849Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 300,
+   "matching": 305,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -7347,6 +7347,116 @@
    "score": 9
   },
   "https://www.linkedin.com/jobs/view/finance-business-partner-at-stanton-house-4492829499": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974378254": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974378189": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974378133": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974364399": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974362518": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974360608": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5974039646": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5973992185": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5973991358": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 27
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5973991366": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.adzuna.co.uk/jobs/details/5973989936": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 16
+  },
+  "https://www.adzuna.co.uk/jobs/details/5973978489": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 9
+  },
+  "https://www.adzuna.co.uk/jobs/details/5973937739": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.adzuna.co.uk/jobs/details/5973919197": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5973918266": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/details/5973916833": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.adzuna.co.uk/jobs/details/5973681330": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.adzuna.co.uk/jobs/details/5973501784": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/project-accountant-at-imultiply-4491962655": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/treasury-controller-at-hill-dickinson-llp-4485391409": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/accountant-4493302232": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492878447": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18

@@ -1946,5 +1946,27 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-soundon-mandarin-speaking-at-tiktok-4492825854 | TikTok | Finance Business Partner - SoundOn (Mandarin Speaking) | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-controller-at-refyt-4491951858 | REFYT | Financial Controller | Greater London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-stanton-house-4492829499 | Stanton House | Finance Business Partner | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.adzuna.co.uk/jobs/details/5974378254 | Fisher Careers | French Financial Planning Associate | London, UK | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974378189 | Vistry Homes Ltd | Assistant Finance Analyst | Ealing, West London | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974378133 | Urban Outfitters, Inc. | URBN - Financial Accountant | Spitalfields, East London | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974364399 | SUEZ | EFW Financial Analyst | UK | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974362518 | Hillingdon Council | Strategic Finance Business Partner (Education, SEND & DSG) | UK | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974360608 | The FA | Management Accountant | Barn Hill, North West London | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5974039646 | Macquarie Group | Quant Analyst, Insurance Capital Solutions - Macquarie Group | London, UK | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5973992185 | Vitality Corporate Services Limited | Finance Analyst (12-month FTC) | Westbourne, Bournemouth | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5973991358 | Safran | Commercial Finance Business Partner | Penn Fields, Wolverhampton | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5973991366 | Mego Employment Limited | Management Accountant | St. Budeaux, Plymouth | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5973989936 | JJ Search Ltd | Investment Operations Associate , Reconciliations & Corporate Actions | South West London, London | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5973978489 | Public Sector Resourcing CWS | Investment Associate | Bridge Of Dee, Aberdeen | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5973937739 | FERA | Junior Finance Business Partner | Warthill, York | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5973919197 | Darktrace | FP&A Business Partner, Product & Operations | London, UK | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5973918266 | M&G FA Limited | Investment Analyst or Associate | UK | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5973916833 | Lucy Group | Management Accountant | Oxford, Oxfordshire | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5973681330 | Coventry City Council | MAT Finance Business Partner - Sidney Stringer Multi Academy Trust | Baginton, Coventry | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5973501784 | Allen Associates | Assistant Management Accountant | UK | posted: 2026-11-21 | note: via Adzuna
+- [ ] https://www.linkedin.com/jobs/view/project-accountant-at-imultiply-4491962655 | iMultiply | Project Accountant | Glenrothes, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-controller-at-hill-dickinson-llp-4485391409 | Hill Dickinson LLP | Treasury Controller | Liverpool, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-4493302232 | AMA Accountancy | Accountant | Botley, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492878447 | Joblet-AI | FP&A Analyst (Remote) | United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed
