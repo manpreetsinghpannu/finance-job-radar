@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T03:18:31.308Z",
+ "generated_at": "2026-11-21T04:21:00.928Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 296,
+   "matching": 295,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -1941,11 +1941,6 @@
    "cv": "Credit CV",
    "score": 16
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-advocate-group-4487911489": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-record-to-report-r2r-at-the-noble-restaurant-group-4482524534": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2460,11 +2455,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/treasury-analyst-at-monmouthshire-building-society-4487809209": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
   },
   "https://scotjobsnet.co.uk/job/newly-qualified-accountant-2/": {
    "id": "finance",
