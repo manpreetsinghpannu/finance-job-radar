@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 21 Nov, 22:24** (UK time) · **1444 open roles** at 818 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 21 Nov, 23:17** (UK time) · **1444 open roles** at 818 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 21 Nov, 22:21** · hourly scan · checked 201 boards · **0 new roles**
+**Sat 21 Nov, 23:13** · hourly scan · checked 201 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sat 21 Nov, 21:13** (1: Finance 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 21 November
 
-<sub>Nothing new at: 22:21</sub>
+<sub>Nothing new at: 23:13, 22:21</sub>
 
 <details>
 <summary><b>21:13</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -3176,25 +3176,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Saturday 14 November
 
 <sub>Nothing new at: 23:29</sub>
-
-<details>
-<summary><b>23:07</b> · hourly scan · <b>4 new</b> → Finance 3 · Equity 1</summary>
-
-#### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [FP&A Analyst (Maternity Cover)](https://www.linkedin.com/jobs/view/fp-a-analyst-maternity-cover-at-circana-4480694747) | Circana | Bracknell, England, United Kingdom | ✅ |
-| 2026-11-14 | [Part-Qualified Management Accountant](https://scotjobsnet.co.uk/job/part-qualified-management-accountant-3/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
-| 2026-11-14 | [Commercial Accountant](https://www.linkedin.com/jobs/view/commercial-accountant-at-samworth-brothers-4482461883) | Samworth Brothers | Leicester, England, United Kingdom | ❔ |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Portfolio Analyst](https://www.reed.co.uk/jobs/portfolio-analyst/57563120) | eFinancialCareers | London | ✅ |
-
-</details>
 
 ## All open roles by CV
 
