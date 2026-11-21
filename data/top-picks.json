@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T10:05:40.424Z",
+ "generated_at": "2026-11-21T10:22:28.876Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 294,
+   "matching": 292,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -40,11 +40,11 @@
      "sponsor": true
     },
     {
-     "title": "Commercial Finance Analyst - Southampton",
-     "company": "Giacom",
-     "location": "Southampton, England, United Kingdom",
+     "title": "Commercial Finance Analyst",
+     "company": "Hays",
+     "location": "Manchester, England, United Kingdom",
      "posted": "2026-11-20",
-     "url": "https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492579966",
+     "url": "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-hays-4492594877",
      "score": 31,
      "why": [
       "Finance Analyst",
@@ -6721,20 +6721,10 @@
    "cv": "Finance (FP&A) CV",
    "score": 13
   },
-  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-southampton-at-giacom-4492579966": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 31
-  },
   "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-in2-consult-4491921812": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-giacom-4492584882": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 31
   },
   "https://www.linkedin.com/jobs/view/associate-%E2%80%93-real-estate-capital-markets-at-anonymous-4491914933": {
    "id": "real_estate",
@@ -7175,6 +7165,21 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-kraft-heinz-4475979220": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-ukpharm-limited-4493266729": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-collins-aerospace-4485374763": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

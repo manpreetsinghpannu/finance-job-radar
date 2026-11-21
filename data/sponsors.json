@@ -1212,6 +1212,11 @@
    "register_name": "Coller Capital Ltd",
    "match": "alias"
   },
+  "Collins Aerospace": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Connect Recruitment Consultants Ltd.": {
    "licensed": false,
    "register_name": null,
@@ -2461,6 +2466,11 @@
    "licensed": true,
    "register_name": "Kobalt Music Group Limited",
    "match": "exact"
+  },
+  "Kraft Heinz": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Kroll": {
    "licensed": true,
@@ -4683,6 +4693,11 @@
    "match": "none"
   },
   "UCEA - Family Office Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "UKPHARM LIMITED": {
    "licensed": false,
    "register_name": null,
    "match": "none"

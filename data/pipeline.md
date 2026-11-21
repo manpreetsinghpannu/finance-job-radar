@@ -1907,5 +1907,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57596622 | Integris | Management Accountant | Hertfordshire | posted: 2026-11-20 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803 | MAGMAS | Group & International FP&A Analyst | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-debt-srm-at-ecotricity-4492580819 | Ecotricity | Commercial Debt SRM | Stroud, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-kraft-heinz-4475979220 | Kraft Heinz | Finance Analyst | Greater Manchester, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-ukpharm-limited-4493266729 | UKPHARM LIMITED | Assistant Accountant | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-collins-aerospace-4485374763 | Collins Aerospace | Assistant Accountant | Plymouth, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed

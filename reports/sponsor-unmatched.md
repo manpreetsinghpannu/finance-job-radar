@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1029 firms checked, 517 matched, 512 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1032 firms checked, 517 matched, 515 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (512)
+## Not found (515)
 
 - 01Health
 - 7IM
@@ -124,6 +124,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Cobalt Recruitment
 - Cobb & Jones Recruitment Limited
 - Coinbase
+- Collins Aerospace
 - Connect Recruitment Consultants Ltd.
 - Conrad Consulting
 - Consumer Additions and Consumer Exec
@@ -268,6 +269,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Kenton Black Finance
 - Klarna
 - Klipboard
+- Kraft Heinz
 - Landbay
 - Language Matters
 - Larbey Evans
@@ -470,6 +472,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Trostan Dene
 - UBS
 - UCEA - Family Office Group
+- UKPHARM LIMITED
 - Undisclosed
 - Univar Solutions
 - VANRATH
