@@ -1904,5 +1904,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492883292 | Joblet-AI | Financial Research Analyst (Remote) | United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/trainee-quantitative-research-analyst-at-societe-generale-corporate-and-investment-banking-sgcib-4493249830 | Societe Generale Corporate and Investment Banking - SGCIB | Trainee Quantitative Research Analyst | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-analyst-role-at-dhl-express-4492032269 | DHL Express | Commercial Analyst Role | Colnbrook, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57596622 | Integris | Management Accountant | Hertfordshire | posted: 2026-11-20 | note: via Reed
 
 ## Processed

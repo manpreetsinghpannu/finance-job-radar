@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 21 Nov, 07:19** (UK time) · **1383 open roles** at 773 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 21 Nov, 08:16** (UK time) · **1384 open roles** at 774 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 21 Nov, 07:16** · hourly scan · checked 201 boards · **3 new roles**
+**Sat 21 Nov, 08:13** · hourly scan · checked 201 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-21 | [Commercial Analyst Role](https://www.linkedin.com/jobs/view/commercial-analyst-role-at-dhl-express-4492032269) | DHL Express | Colnbrook, England, United Kingdom | ✅ |
-
-### Equity CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Trainee Quantitative Research Analyst](https://www.linkedin.com/jobs/view/trainee-quantitative-research-analyst-at-societe-generale-corporate-and-investment-banking-sgcib-4493249830) | Societe Generale Corporate and Investment Banking - SGCIB | London, England, United Kingdom | ❔ |
-| 2026-11-21 | [Financial Research Analyst (Remote)](https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492883292) | Joblet-AI | United Kingdom | ❔ |
+| 2026-11-20 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57596622) | Integris | Hertfordshire | ❔ |
 
 ## Top picks for each CV
 
@@ -69,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 21 November
+
+<details>
+<summary><b>08:13</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57596622) | Integris | Hertfordshire | ❔ |
+
+</details>
 
 <details>
 <summary><b>07:16</b> · hourly scan · <b>3 new</b> → Finance 1 · Equity 2</summary>
@@ -3052,23 +3056,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 09:07</sub>
 
-<details>
-<summary><b>08:07</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-catalyst-4489309896) | Catalyst | Gateshead, England, United Kingdom | ✅ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57568505) | Sheridan Maine | London | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (785)](#finance-fpa-cv-785) · [Credit (168)](#credit-cv-168) · [Equity (73)](#equity-cv-73) · [Investment (138)](#investment-ib--pe-cv-138) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (136)](#other-fits-no-cv-closely-may-still-be-worth-a-look-136)
+Everything matched so far, newest first within each CV: [Finance (786)](#finance-fpa-cv-786) · [Credit (168)](#credit-cv-168) · [Equity (73)](#equity-cv-73) · [Investment (138)](#investment-ib--pe-cv-138) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (136)](#other-fits-no-cv-closely-may-still-be-worth-a-look-136)
 
-### Finance (FP&A) CV: 785
+### Finance (FP&A) CV: 786
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3131,6 +3123,7 @@ Everything matched so far, newest first within each CV: [Finance (785)](#finance
 | — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57597959) | Cobb & Jones Recruitment Limited | Gillingham, Kent, Kent | ❔ |
 | 2026-11-20 | [Management Accountant](https://www.adzuna.co.uk/jobs/land/ad/5973008213) | Mego Employment | Plymouth, South West England | ❔ |
 | 2026-11-20 | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57597653) | Impact Food Group | Woking, Surrey | ❔ |
+| 2026-11-20 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57596622) | Integris | Hertfordshire | ❔ |
 | — | [Management Accountant - Partially Qualified](https://www.reed.co.uk/jobs/management-accountant-partially-qualified/57583258) | Robert Half | Royston, Hertfordshire | ✅ |
 | 2026-11-20 | [Commercial Analyst](https://www.linkedin.com/jobs/view/commercial-analyst-at-ivee-4491913783) | ivee | London Area, United Kingdom | ❔ |
 | 2026-11-20 | [Graduate Commercial Analyst](https://www.linkedin.com/jobs/view/graduate-commercial-analyst-at-bioticnrg-4491919905) | BioticNRG | London, England, United Kingdom | ❔ |

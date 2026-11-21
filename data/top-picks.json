@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:19:48.921Z",
+ "generated_at": "2026-11-21T08:16:47.118Z",
  "order": [
   "finance",
   "credit",
@@ -7165,6 +7165,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57596622": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }
