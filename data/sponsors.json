@@ -3697,6 +3697,11 @@
    "register_name": "Point72 UK Limited",
    "match": "alias"
   },
+  "Police Federation of England and Wales": {
+   "licensed": true,
+   "register_name": "Police Federation of England and Wales",
+   "match": "exact"
+  },
   "Portman Finance Group": {
    "licensed": false,
    "register_name": null,
@@ -3771,6 +3776,11 @@
    "licensed": true,
    "register_name": "QBE Management Services (UK) Limited",
    "match": "alias"
+  },
+  "QS Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Qh4 Consulting": {
    "licensed": false,

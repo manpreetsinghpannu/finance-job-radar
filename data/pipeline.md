@@ -1938,5 +1938,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/group-finance-and-transfer-pricing-analyst-at-robert-walters-4492593945 | Robert Walters | Group Finance and Transfer Pricing Analyst | City Of London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-pear-talent-finance-recruitment-4492141334 | Pear Talent - Finance Recruitment | Financial Accountant | City Of London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-maternity-cover-at-theydo-journey-management-4492959427 | TheyDo - Journey Management | Management Accountant - Maternity Cover | United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-systems-implementation-accountant-aca-at-police-federation-of-england-and-wales-4483508475 | Police Federation of England and Wales | Finance Systems Implementation Accountant (ACA) | Leatherhead, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-at-qs-recruitment-4488841953 | QS Recruitment | Financial Controller | Great Malvern, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/quant-analyst-insurance-capital-solutions-macquarie-group/57599035 | eFinancialCareers | Quant Analyst, Insurance Capital Solutions - Macquarie Group | London | note: via Reed
 
 ## Processed
