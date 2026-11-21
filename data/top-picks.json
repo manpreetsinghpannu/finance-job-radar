@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T14:14:38.886Z",
+ "generated_at": "2026-11-21T15:16:55.681Z",
  "order": [
   "finance",
   "credit",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 97,
+   "matching": 98,
    "picks": [
     {
      "title": "Analyst - Investment Banking M&A",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 31,
+   "matching": 32,
    "picks": [
     {
      "title": "Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 37,
+   "matching": 38,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -7270,6 +7270,26 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/partnership-accountant-at-ampa-legal-professional-services-4484876306": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/revenue-accountant-at-s1jobs-4493212669": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/eic-leeds-valuation-advisory-graduate-programme-at-cushman-wakefield-4492999328": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 21
+  },
+  "https://scotjobsnet.co.uk/job/project-accountant/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

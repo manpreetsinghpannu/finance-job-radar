@@ -1928,5 +1928,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-solutions-consultant-london-68da25c-at-referment-4493277505 | Referment | Treasury Solutions Consultant - London (68DA25C) | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-acca-careers-4493276444 | ACCA Careers | Assistant Financial Accountant | England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-corporate-banking-at-td-securities-4487506315 | TD Securities | Associate, Corporate Banking | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/partnership-accountant-at-ampa-legal-professional-services-4484876306 | Ampa - Legal & Professional Services | Partnership Accountant | England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/revenue-accountant-at-s1jobs-4493212669 | s1jobs | Revenue Accountant | Aberdeen, Scotland, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/eic-leeds-valuation-advisory-graduate-programme-at-cushman-wakefield-4492999328 | Cushman & Wakefield | EIC Leeds Valuation & Advisory Graduate Programme | Leeds, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/project-accountant/ | via ScotJobsNet | Project Accountant | Midlothian, Scotland | posted: 2026-11-21 | note: via ScotJobsNet
 
 ## Processed

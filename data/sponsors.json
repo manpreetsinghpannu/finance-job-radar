@@ -282,6 +282,11 @@
    "register_name": "Amey Services Limited",
    "match": "exact"
   },
+  "Ampa - Legal & Professional Services": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Anderson Knight": {
    "licensed": false,
    "register_name": null,
@@ -5206,6 +5211,11 @@
    "licensed": true,
    "register_name": "px Limited",
    "match": "exact"
+  },
+  "s1jobs": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "targetjobs UK": {
    "licensed": false,
