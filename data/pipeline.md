@@ -1897,5 +1897,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/finance-business-partner/57597653 | Impact Food Group | Finance Business Partner | Woking, Surrey | posted: 2026-11-20 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-csl-4490701998 | CSL | Assistant Financial Accountant | Merseyside, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/interim-investment-banking-consultant-at-aptura-4492842485 | Aptura | Interim Investment Banking Consultant | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-london-at-targetjobs-uk-4492860670 | targetjobs UK | Graduate - Risk (m/f/d) - London | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-targetjobs-uk-4492874108 | targetjobs UK | Graduate - Analyst, Technology Risk & Assurance (m/f/d) | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-m-f-d-at-targetjobs-uk-4492863597 | targetjobs UK | Graduate - Finance (m/f/d) | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed
