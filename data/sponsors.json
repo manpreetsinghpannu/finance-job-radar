@@ -2047,6 +2047,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Harvey": {
+   "licensed": true,
+   "register_name": "Harvey AI UK Ltd",
+   "match": "exact"
+  },
   "Harvey John": {
    "licensed": false,
    "register_name": null,

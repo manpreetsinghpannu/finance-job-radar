@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T17:16:47.303Z",
+ "generated_at": "2026-11-21T17:46:29.854Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 111,
+   "matching": 112,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -7325,6 +7325,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/forward-deployed-investment-professional-private-credit-at-harvey-4485170415": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
   }
  }
 }
