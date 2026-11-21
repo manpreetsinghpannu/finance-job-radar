@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 21 Nov, 08:16** (UK time) · **1384 open roles** at 774 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 21 Nov, 09:00** (UK time) · **1385 open roles** at 774 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 21 Nov, 08:13** · hourly scan · checked 201 boards · **1 new role**
+**Sat 21 Nov, 08:57** · hourly scan · checked 201 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-20 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57596622) | Integris | Hertfordshire | ❔ |
+| 2026-11-21 | [Group & International FP&A Analyst](https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803) | MAGMAS | London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 21 November
+
+<details>
+<summary><b>08:57</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-21 | [Group & International FP&A Analyst](https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803) | MAGMAS | London, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>08:13</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -3058,12 +3069,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (786)](#finance-fpa-cv-786) · [Credit (168)](#credit-cv-168) · [Equity (73)](#equity-cv-73) · [Investment (138)](#investment-ib--pe-cv-138) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (136)](#other-fits-no-cv-closely-may-still-be-worth-a-look-136)
+Everything matched so far, newest first within each CV: [Finance (787)](#finance-fpa-cv-787) · [Credit (168)](#credit-cv-168) · [Equity (73)](#equity-cv-73) · [Investment (138)](#investment-ib--pe-cv-138) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (136)](#other-fits-no-cv-closely-may-still-be-worth-a-look-136)
 
-### Finance (FP&A) CV: 786
+### Finance (FP&A) CV: 787
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-21 | [Group & International FP&A Analyst](https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803) | MAGMAS | London, England, United Kingdom | ❔ |
 | 2026-11-21 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-csl-4490701998) | CSL | Merseyside, England, United Kingdom | ✅ |
 | 2026-11-21 | [Commercial Analyst Role](https://www.linkedin.com/jobs/view/commercial-analyst-role-at-dhl-express-4492032269) | DHL Express | Colnbrook, England, United Kingdom | ✅ |
 | — | [Accountant - Convenience - Ambient](https://www.reed.co.uk/jobs/accountant-convenience-ambient/57588258) | WM Morrisons | Bradford, West Yorkshire | ❔ |

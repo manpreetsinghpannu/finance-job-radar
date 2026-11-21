@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:16:47.118Z",
+ "generated_at": "2026-11-21T09:00:01.078Z",
  "order": [
   "finance",
   "credit",
@@ -7170,6 +7170,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
   }
  }
 }
