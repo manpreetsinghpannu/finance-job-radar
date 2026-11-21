@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 21 Nov, 17:46** (UK time) · **1416 open roles** at 797 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 21 Nov, 18:18** (UK time) · **1420 open roles** at 801 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,24 +10,32 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 21 Nov, 17:42** · hourly scan · checked 201 boards · **1 new role**
+**Sat 21 Nov, 18:14** · hourly scan · checked 201 boards · **4 new roles**
+
+### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-stanton-house-4492829499) | Stanton House | London Area, United Kingdom | ✅ |
+| 2026-11-20 | [Finance Business Partner - SoundOn (Mandarin Speaking)](https://www.linkedin.com/jobs/view/finance-business-partner-soundon-mandarin-speaking-at-tiktok-4492825854) | TikTok | London, England, United Kingdom | ❔ |
+| 2026-11-20 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-refyt-4491951858) | REFYT | Greater London, England, United Kingdom | ❔ |
 
 ### Credit CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-21 | [Forward Deployed Investment Professional, Private Credit](https://www.linkedin.com/jobs/view/forward-deployed-investment-professional-private-credit-at-harvey-4485170415) | Harvey | London Area, United Kingdom | ✅ |
+| 2026-11-21 | [Debt Management Executive x 2](https://www.linkedin.com/jobs/view/debt-management-executive-x-2-at-smartestenergy-business-4459696537) | SmartestEnergy Business | Worthing, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (299 matching)
+**Finance (FP&A) CV** (300 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-hays-4492594877) · Hays · Manchester, England, United Kingdom · posted 2026-11-20 · ✅
 
-**Credit CV** (112 matching)
+**Credit CV** (113 matching)
 
 1. [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) · JPMorgan Chase · BOURNEMOUTH, DORSET, United Kingdom · posted 2026-11-19 · ✅
 2. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
@@ -62,6 +70,25 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 21 November
+
+<details>
+<summary><b>18:14</b> · hourly scan · <b>4 new</b> → Finance 3 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-stanton-house-4492829499) | Stanton House | London Area, United Kingdom | ✅ |
+| 2026-11-20 | [Finance Business Partner - SoundOn (Mandarin Speaking)](https://www.linkedin.com/jobs/view/finance-business-partner-soundon-mandarin-speaking-at-tiktok-4492825854) | TikTok | London, England, United Kingdom | ❔ |
+| 2026-11-20 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-refyt-4491951858) | REFYT | Greater London, England, United Kingdom | ❔ |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-21 | [Debt Management Executive x 2](https://www.linkedin.com/jobs/view/debt-management-executive-x-2-at-smartestenergy-business-4459696537) | SmartestEnergy Business | Worthing, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>17:42</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -3142,13 +3169,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 18:07</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (807)](#finance-fpa-cv-807) · [Credit (173)](#credit-cv-173) · [Equity (73)](#equity-cv-73) · [Investment (140)](#investment-ib--pe-cv-140) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (140)](#other-fits-no-cv-closely-may-still-be-worth-a-look-140)
+Everything matched so far, newest first within each CV: [Finance (810)](#finance-fpa-cv-810) · [Credit (174)](#credit-cv-174) · [Equity (73)](#equity-cv-73) · [Investment (140)](#investment-ib--pe-cv-140) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (140)](#other-fits-no-cv-closely-may-still-be-worth-a-look-140)
 
-### Finance (FP&A) CV: 807
+### Finance (FP&A) CV: 810
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3198,6 +3223,7 @@ Everything matched so far, newest first within each CV: [Finance (807)](#finance
 | 2026-11-20 | [EMEA FP&A Analyst](https://www.linkedin.com/jobs/view/emea-fp-a-analyst-at-f5-4477408814) | F5 | Addlestone, England, United Kingdom | ❔ |
 | 2026-11-20 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-roberts-bakery-1887-4492806751) | Roberts Bakery 1887 | Rudheath, England, United Kingdom | ❔ |
 | 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-isembard-4483052859) | Isembard | London, England, United Kingdom | ✅ |
+| 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-stanton-house-4492829499) | Stanton House | London Area, United Kingdom | ✅ |
 | 2026-11-20 | [FP&A Partner](https://www.linkedin.com/jobs/view/fp-a-partner-at-lsl-property-services-plc-4492523973) | LSL Property Services plc | Kettering, England, United Kingdom | ✅ |
 | 2026-11-20 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-amey-4484950367) | Amey | Birmingham, England, United Kingdom | ✅ |
 | — | [Interim Finance Analyst](https://www.reed.co.uk/jobs/interim-finance-analyst/57595642) | Morgan McKinley | Northampton, Northamptonshire | ✅ |
@@ -3215,6 +3241,7 @@ Everything matched so far, newest first within each CV: [Finance (807)](#finance
 | 2026-11-20 | [Treasury Accountant](https://www.linkedin.com/jobs/view/treasury-accountant-at-goodman-masson-4492811196) | Goodman Masson | Surrey, England, United Kingdom | ✅ |
 | 2026-11-20 | [Assistant Financial Accountant](https://www.adzuna.co.uk/jobs/details/5973123205) | LEEDS CITY COUNCIL | UK | ✅ |
 | 2026-11-20 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-01health-4492964094) | 01Health | London Area, United Kingdom | ❔ |
+| 2026-11-20 | [Finance Business Partner - SoundOn (Mandarin Speaking)](https://www.linkedin.com/jobs/view/finance-business-partner-soundon-mandarin-speaking-at-tiktok-4492825854) | TikTok | London, England, United Kingdom | ❔ |
 | 2026-11-20 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-johnson-controls-4483404082) | Johnson Controls | Manchester, England, United Kingdom | ❔ |
 | 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-trostan-dene-4492919005) | Trostan Dene | Horwich, England, United Kingdom | ❔ |
 | — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57595881) | Klipboard | Leeds, West Yorkshire | ❔ |
@@ -3258,6 +3285,7 @@ Everything matched so far, newest first within each CV: [Finance (807)](#finance
 | — | [Management Accountant - Grants](https://www.reed.co.uk/jobs/management-accountant-grants/57598235) | Hays Specialist Recruitment Limited | Harpenden, Hertfordshire | ❔ |
 | 2026-11-20 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-7im-4492828826) | 7IM | London Area, United Kingdom | ❔ |
 | 2026-11-20 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-pear-talent-finance-recruitment-4492141334) | Pear Talent - Finance Recruitment | City Of London, England, United Kingdom | ❔ |
+| 2026-11-20 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-refyt-4491951858) | REFYT | Greater London, England, United Kingdom | ❔ |
 | — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57582364) | Fletcher George Recruitment Ltd | Farnham, Surrey | ❔ |
 | — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57581898) | Michael Page Finance | Sevenoaks, Kent | ❔ |
 | — | [Junior Assistant Accountant](https://www.reed.co.uk/jobs/junior-assistant-accountant/57583225) | Mitchell Adam | Birmingham, West Midlands (County) | ❔ |
@@ -3960,12 +3988,13 @@ Everything matched so far, newest first within each CV: [Finance (807)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 173
+### Credit CV: 174
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-21 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-ascot-group-4475238459) | Ascot Group | London, England, United Kingdom | ✅ |
 | 2026-11-21 | [Forward Deployed Investment Professional, Private Credit](https://www.linkedin.com/jobs/view/forward-deployed-investment-professional-private-credit-at-harvey-4485170415) | Harvey | London Area, United Kingdom | ✅ |
+| 2026-11-21 | [Debt Management Executive x 2](https://www.linkedin.com/jobs/view/debt-management-executive-x-2-at-smartestenergy-business-4459696537) | SmartestEnergy Business | Worthing, England, United Kingdom | ✅ |
 | 2026-11-21 | [Risk Associate](https://www.linkedin.com/jobs/view/risk-associate-at-santander-uk-4493243424) | Santander UK | London, England, United Kingdom | ✅ |
 | 2026-11-21 | [Associate, Corporate Banking](https://www.linkedin.com/jobs/view/associate-corporate-banking-at-td-securities-4487506315) | TD Securities | London, England, United Kingdom | ❔ |
 | 2026-11-20 | [Wholesale Credit Risk Reporting - Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-reporting-analyst-at-jpmorganchase-4492906543) | JPMorganChase | Bournemouth, England, United Kingdom | ❔ |

@@ -1942,5 +1942,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-controller-at-qs-recruitment-4488841953 | QS Recruitment | Financial Controller | Great Malvern, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/quant-analyst-insurance-capital-solutions-macquarie-group/57599035 | eFinancialCareers | Quant Analyst, Insurance Capital Solutions - Macquarie Group | London | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/forward-deployed-investment-professional-private-credit-at-harvey-4485170415 | Harvey | Forward Deployed Investment Professional, Private Credit | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/debt-management-executive-x-2-at-smartestenergy-business-4459696537 | SmartestEnergy Business | Debt Management Executive x 2 | Worthing, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-soundon-mandarin-speaking-at-tiktok-4492825854 | TikTok | Finance Business Partner - SoundOn (Mandarin Speaking) | London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-at-refyt-4491951858 | REFYT | Financial Controller | Greater London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-stanton-house-4492829499 | Stanton House | Finance Business Partner | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed
