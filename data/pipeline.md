@@ -1934,5 +1934,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://scotjobsnet.co.uk/job/project-accountant/ | via ScotJobsNet | Project Accountant | Midlothian, Scotland | posted: 2026-11-21 | note: via ScotJobsNet
 - [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-cazoo-4491955084 | Cazoo | Commercial Analyst | Richmond Upon Thames, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/trading-assistant-interest-rate-derivatives-at-tempest-vane-partners-4483540403 | Tempest Vane Partners | Trading Assistant - Interest Rate Derivatives | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-associate-at-santander-uk-4493243424 | Santander UK | Risk Associate | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-finance-and-transfer-pricing-analyst-at-robert-walters-4492593945 | Robert Walters | Group Finance and Transfer Pricing Analyst | City Of London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-pear-talent-finance-recruitment-4492141334 | Pear Talent - Finance Recruitment | Financial Accountant | City Of London, England, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-maternity-cover-at-theydo-journey-management-4492959427 | TheyDo - Journey Management | Management Accountant - Maternity Cover | United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

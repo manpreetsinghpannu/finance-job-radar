@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:15:55.431Z",
+ "generated_at": "2026-11-21T16:38:54.603Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 297,
+   "matching": 298,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 110,
+   "matching": 111,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -7290,6 +7290,26 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/risk-associate-at-santander-uk-4493243424": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/group-finance-and-transfer-pricing-analyst-at-robert-walters-4492593945": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-pear-talent-finance-recruitment-4492141334": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-maternity-cover-at-theydo-journey-management-4492959427": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }
