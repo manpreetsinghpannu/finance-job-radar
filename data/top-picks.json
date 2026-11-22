@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:18:35.010Z",
+ "generated_at": "2026-11-22T17:15:50.875Z",
  "order": [
   "finance",
   "credit",
@@ -7650,6 +7650,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst/57599743": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }
