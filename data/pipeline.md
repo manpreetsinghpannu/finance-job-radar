@@ -2033,5 +2033,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.adzuna.co.uk/jobs/details/5974678245 | Brook Green Supply | Financial Reporting Analyst | Hammersmith, West London | posted: 2026-11-22 | note: via Adzuna
 - [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-capital-one-4469104807 | Capital One | Commercial Analyst | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-cameron-kennedy-4492372203 | Cameron Kennedy | Finance Business Partner | Walsall, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095 | Aramco Trading Limited (ATL) | Credit Risk Analyst | London Area, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/operations-specialist-credit-and-loan-products/57596938 | Michael Page Banking | Operations Specialist - Credit and Loan Products | London | note: via Reed
 
 ## Processed

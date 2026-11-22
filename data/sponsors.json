@@ -357,6 +357,11 @@
    "register_name": "Aptura AI UK Ltd.",
    "match": "exact"
   },
+  "Aramco Trading Limited": {
+   "licensed": true,
+   "register_name": "Aramco Trading Limited",
+   "match": "exact"
+  },
   "Arcade Food Halls": {
    "licensed": false,
    "register_name": null,
