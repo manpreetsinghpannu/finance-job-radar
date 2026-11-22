@@ -1995,5 +1995,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-onsite-central-limited-4439903348 | OnSite Central Limited | Quantity Surveyor | Walsall, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-amentum-4468819638 | Amentum | Quantity Surveyor | Kingston Upon Hull, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-estimator-at-equals-one-limited-4493331357 | EQUALS ONE LIMITED | Quantity Surveyor / Estimator | Pewsey, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-portfolio-group-xva-pricing-capital-solutions-emea-analyst-or-associate-at-jpmorganchase-4477860979 | JPMorganChase | Credit Portfolio Group - XVA Pricing & Capital Solutions EMEA - Analyst or Associate | Greater London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701 | DRW | Quantitative Trading Analyst | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/interim-syndicate-accountant-at-grant-thornton-uk-4476814846 | Grant Thornton UK | Interim Syndicate Accountant | Birmingham, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed
