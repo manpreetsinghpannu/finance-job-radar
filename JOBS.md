@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 13:18** (UK time) · **1472 open roles** at 834 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 14:16** (UK time) · **1472 open roles** at 834 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 13:15** · hourly scan · checked 201 boards · **0 new roles**
+**Sun 22 Nov, 14:11** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sun 22 Nov, 12:13** (1: Equity 1); open it in the scan log below.
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-stonbury-4493178424) | Stonbury | Chawston, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<details>
+<summary><b>14:11</b> · hourly scan · <b>1 new</b> → Other 1</summary>
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-stonbury-4493178424) | Stonbury | Chawston, England, United Kingdom | ✅ |
+
+</details>
 
 <sub>Nothing new at: 13:15</sub>
 
@@ -277,9 +292,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>19:16</b> · hourly scan · <b>22 new</b> → Finance 18 · Equity 1 · Investment 1 · Fund 1 · Other 1</summary>
+<summary><b>19:16</b> · hourly scan · <b>21 new</b> → Finance 17 · Equity 1 · Investment 1 · Fund 1 · Other 1</summary>
 
-#### Finance (FP&A) CV: 18
+#### Finance (FP&A) CV: 17
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -290,7 +305,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-21 | [Junior Finance Business Partner](https://www.adzuna.co.uk/jobs/details/5973937739) | FERA | Warthill, York | ❔ |
 | 2026-11-21 | [FP&A Business Partner, Product & Operations](https://www.adzuna.co.uk/jobs/details/5973919197) | Darktrace | London, UK | ✅ |
 | 2026-11-21 | [Assistant Management Accountant](https://www.adzuna.co.uk/jobs/details/5973501784) | Allen Associates | UK | ❔ |
-| 2026-11-21 | [FP&A Analyst (Remote)](https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492878447) | Joblet-AI | United Kingdom | ❔ |
 | 2026-11-21 | [MAT Finance Business Partner - Sidney Stringer Multi Academy Trust](https://www.adzuna.co.uk/jobs/details/5973681330) | Coventry City Council | Baginton, Coventry | ✅ |
 | 2026-11-21 | [French Financial Planning Associate](https://www.adzuna.co.uk/jobs/details/5974378254) | Fisher Careers | London, UK | ❔ |
 | 2026-11-21 | [Management Accountant](https://www.adzuna.co.uk/jobs/details/5974360608) | The FA | Barn Hill, North West London | ❔ |
@@ -325,6 +339,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-21 | [Quant Analyst, Insurance Capital Solutions - Macquarie Group](https://www.adzuna.co.uk/jobs/land/ad/5974039646) | Macquarie Group | London, UK | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3264,22 +3280,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>14:07</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [Investment Associate](https://www.linkedin.com/jobs/view/investment-associate-at-7im-4489887655) | 7IM | London, England, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (840)](#finance-fpa-cv-840) · [Credit (175)](#credit-cv-175) · [Equity (75)](#equity-cv-75) · [Investment (142)](#investment-ib--pe-cv-142) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (156)](#other-fits-no-cv-closely-may-still-be-worth-a-look-156)
+Everything matched so far, newest first within each CV: [Finance (839)](#finance-fpa-cv-839) · [Credit (175)](#credit-cv-175) · [Equity (75)](#equity-cv-75) · [Investment (142)](#investment-ib--pe-cv-142) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (157)](#other-fits-no-cv-closely-may-still-be-worth-a-look-157)
 
-### Finance (FP&A) CV: 840
+### Finance (FP&A) CV: 839
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3299,7 +3304,6 @@ Everything matched so far, newest first within each CV: [Finance (840)](#finance
 | 2026-11-21 | [Junior Finance Business Partner](https://www.adzuna.co.uk/jobs/details/5973937739) | FERA | Warthill, York | ❔ |
 | 2026-11-21 | [FP&A Business Partner, Product & Operations](https://www.adzuna.co.uk/jobs/details/5973919197) | Darktrace | London, UK | ✅ |
 | 2026-11-21 | [Assistant Management Accountant](https://www.adzuna.co.uk/jobs/details/5973501784) | Allen Associates | UK | ❔ |
-| 2026-11-21 | [FP&A Analyst (Remote)](https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492878447) | Joblet-AI | United Kingdom | ❔ |
 | 2026-11-21 | [Commercial Finance Graduate](https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-targetjobs-uk-4492876180) | targetjobs UK | Surrey, England, United Kingdom | ❔ |
 | 2026-11-21 | [Interim Finance Business Partner](https://www.linkedin.com/jobs/view/interim-finance-business-partner-at-investigo-4487287716) | Investigo | London Area, United Kingdom | ✅ |
 | 2026-11-21 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-fairbanks-environmental-4475265128) | Fairbanks Environmental | Skelmersdale, England, United Kingdom | ✅ |
@@ -4630,7 +4634,7 @@ Everything matched so far, newest first within each CV: [Finance (840)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 156
+### Other (fits no CV closely, may still be worth a look): 157
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4642,6 +4646,7 @@ Everything matched so far, newest first within each CV: [Finance (840)](#finance
 | 2026-11-22 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-mercury-4467837987) | Mercury | Oxford, England, United Kingdom | ✅ |
 | 2026-11-22 | [Modeling & Quant Analytics - AI & Agentic Model Validation](https://www.linkedin.com/jobs/view/modeling-quant-analytics-ai-agentic-model-validation-at-moody-s-corporation-4469237830) | Moody's Corporation | London, England, United Kingdom | ✅ |
 | 2026-11-22 | [Quantitative Analyst – Football Modelling](https://www.linkedin.com/jobs/view/quantitative-analyst-%E2%80%93-football-modelling-at-singular-recruitment-4493367234) | Singular Recruitment | London Area, United Kingdom | ❔ |
+| 2026-11-22 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-stonbury-4493178424) | Stonbury | Chawston, England, United Kingdom | ✅ |
 | 2026-11-21 | [Graduate - Risk (m/f/d) - London](https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-london-at-targetjobs-uk-4492860670) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Graduate - Analyst, Technology Risk & Assurance (m/f/d)](https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-targetjobs-uk-4492874108) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Graduate - Finance (m/f/d)](https://www.linkedin.com/jobs/view/graduate-finance-m-f-d-at-targetjobs-uk-4492863597) | targetjobs UK | London Area, United Kingdom | ❔ |
@@ -4794,10 +4799,11 @@ Everything matched so far, newest first within each CV: [Finance (840)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>106 roles taken off the list because the firm closed the posting</summary>
+<summary>107 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 22 Nov, 14:13 | FP&A Analyst (Remote) | Joblet-AI |
 | Sun 22 Nov, 09:15 | Associate, Real Estate Asset Management | Ares Management |
 | Sun 22 Nov, 09:15 | Associate, Real Estate Asset Management Operations | Ares Management |
 | Sun 22 Nov, 09:14 | Corporate Finance Analyst (Remote) | Joblet-AI |

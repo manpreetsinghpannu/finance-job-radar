@@ -4582,6 +4582,11 @@
    "register_name": "Stifel Nicolaus Europe Limited",
    "match": "alias"
   },
+  "Stonbury": {
+   "licensed": true,
+   "register_name": "Stonbury Ltd",
+   "match": "exact"
+  },
   "Stoneacre Motor Group": {
    "licensed": false,
    "register_name": null,

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T13:18:47.469Z",
+ "generated_at": "2026-11-22T14:16:04.109Z",
  "order": [
   "finance",
   "credit",
@@ -7441,11 +7441,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492878447": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/commercial-finance-graduate-at-targetjobs-uk-4492876180": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -7610,6 +7605,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/quantity-surveyor-at-stonbury-4493178424": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

@@ -2004,5 +2004,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-uk-4423005627 | Universal Music Group UK | Management Accountant | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/group-financial-reporting-accountant-leeds-at-edenbrook-4478903451 | Edenbrook | Group Financial Reporting Accountant (Leeds) | Leeds, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/investment-analyst-or-associate-m-g-plc/57599661 | eFinancialCareers | Investment Analyst or Associate - M&G plc. | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-stonbury-4493178424 | Stonbury | Quantity Surveyor | Chawston, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed
