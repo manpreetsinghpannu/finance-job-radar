@@ -1979,5 +1979,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-controller-at-jac-recruitment-4492322213 | JAC Recruitment | Financial controller | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/commercial-analyst-role/57590392 | DHL | Commercial Analyst Role | Slough, Berkshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/top-tier-debt-fund-portfolio-monitoring-valuations-eximius-finance/57593605 | eFinancialCareers | Top Tier Debt Fund, Portfolio monitoring- Valuations - Eximius Finance | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-manchester-at-targetjobs-uk-4493119686 | targetjobs UK | Graduate - Risk (m/f/d) - Manchester | Manchester, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/netsuite-accountant-at-goodman-masson-4492875990 | Goodman Masson | NetSuite Accountant | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-multi-franchise-at-stoneacre-motor-group-4493117630 | Stoneacre Motor Group | Assistant Accountant - Multi Franchise | Cleckheaton, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed

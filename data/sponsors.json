@@ -4527,6 +4527,11 @@
    "register_name": "Stifel Nicolaus Europe Limited",
    "match": "alias"
   },
+  "Stoneacre Motor Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Strand Hill": {
    "licensed": false,
    "register_name": null,
