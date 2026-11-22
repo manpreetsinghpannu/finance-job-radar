@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1097 firms checked, 547 matched, 550 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1106 firms checked, 552 matched, 554 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (550)
+## Not found (554)
 
 - 01Health
 - 7IM
@@ -306,6 +306,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lyreco
 - M&G FA Limited
 - MAGMAS
+- MBDA Missile Systems
 - MDM Resourcing
 - MFS Investment Management
 - MK CONSULT LTD
@@ -337,6 +338,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Michael Page Banking
 - Michael Page Finance
 - Midland Heart
+- Miller Homes
 - Miller Homes Ltd
 - Milton Keynes City Council
 - Mint Velvet
@@ -375,6 +377,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - PER
 - PGS LTD
 - PHMG
+- PPHE Hotel Group
 - PRATAP PARTNERSHIP LTD
 - Paddle (alias not on current register (paddle com market limited))
 - Palatine Talent
@@ -451,6 +454,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Select Tech
 - Sellick Partnership
 - Service Service
+- Seven Investment Management
 - Seymour John
 - Sharp Consultancy
 - Sheridan Maine
@@ -557,7 +561,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (71)
+## Matched automatically by close name; worth a glance (72)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -604,6 +608,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Moody's Corporation → Moody's Analytics UK Ltd (prefix)
 - Network Rail → Network Rail Infrastructure (prefix)
 - Nium → Nium Fintech Ltd (prefix)
+- Norfolk and Norwich University Hospital → Norfolk and Norwich University Hospitals NHS Foundation Trust (prefix)
 - OCS → OCS Consulting plc (prefix)
 - OCS Group → OCS Consulting plc (prefix)
 - Octopus Group → Octopus Energy Limited (prefix)

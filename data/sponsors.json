@@ -932,6 +932,11 @@
    "register_name": null,
    "match": "none"
   },
+  "CIBT": {
+   "licensed": true,
+   "register_name": "CIBT UK Ltd",
+   "match": "exact"
+  },
   "CLARC Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -1851,6 +1856,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "GXO Logistics": {
+   "licensed": true,
+   "register_name": "GXO Logistics UK Limited",
+   "match": "exact"
   },
   "Galliford Try": {
    "licensed": true,
@@ -2932,6 +2942,11 @@
    "register_name": null,
    "match": "none"
   },
+  "MBDA Missile Systems": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MDM Resourcing": {
    "licensed": false,
    "register_name": null,
@@ -3177,6 +3192,11 @@
    "register_name": "Mercury Capital (W12) LTD",
    "match": "prefix"
   },
+  "Mersey and West Lancashire Teaching Hospitals NHS Trust": {
+   "licensed": true,
+   "register_name": "Mersey and West Lancashire Teaching Hospitals NHS Trust",
+   "match": "exact"
+  },
   "MetLife UK": {
    "licensed": true,
    "register_name": "MetLife Europe Services Limited",
@@ -3216,6 +3236,11 @@
    "licensed": true,
    "register_name": "Millennium Capital Management Limited",
    "match": "alias"
+  },
+  "Miller Homes": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Miller Homes Ltd": {
    "licensed": false,
@@ -3482,6 +3507,11 @@
    "register_name": "Nomura International Plc",
    "match": "exact"
   },
+  "Norfolk and Norwich University Hospital": {
+   "licensed": true,
+   "register_name": "Norfolk and Norwich University Hospitals NHS Foundation Trust",
+   "match": "prefix"
+  },
   "Northern Trust": {
    "licensed": true,
    "register_name": "Northern Trust Management Services Limited",
@@ -3671,6 +3701,11 @@
    "licensed": true,
    "register_name": "Place UK Ltd",
    "match": "exact"
+  },
+  "PPHE Hotel Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "PRATAP PARTNERSHIP LTD": {
    "licensed": false,
@@ -4387,6 +4422,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Seven Investment Management": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Seymour John": {
    "licensed": false,
    "register_name": null,
@@ -4840,6 +4880,11 @@
   "The Noble Restaurant Group": {
    "licensed": true,
    "register_name": "Noble Restaurant Group Limited",
+   "match": "exact"
+  },
+  "The Nottingham Building Society": {
+   "licensed": true,
+   "register_name": "Nottingham Building Society",
    "match": "exact"
   },
   "The Scottish National Investment Bank": {

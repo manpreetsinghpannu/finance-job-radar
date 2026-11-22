@@ -2019,5 +2019,18 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-colas-rail-uk-4491645050 | Colas Rail UK | Quantity Surveyor | Birmingham, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/project-accountant-at-l3harris-technologies-4469513908 | L3Harris Technologies | Project Accountant | Brighton, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/chartered-accountant-remote-at-joblet-ai-4493173749 | Joblet-AI | Chartered Accountant (Remote) | United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.adzuna.co.uk/jobs/details/5975277628 | MBDA Missile Systems | Finance Business Partner | UK | posted: 2026-11-22 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5975277577 | GXO Logistics | Management Accountant | UK | posted: 2026-11-22 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974915586 | PPHE Hotel Group | Assistant Financial Controller | Waterloo, South East London | posted: 2026-11-22 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974913434 | Miller Homes | Assistant Accountant - Basingstoke | Basingstoke, Hampshire | posted: 2026-11-22 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974911657 | Miller Homes | Assistant Accountant - Derby | Pride Park, Derby | posted: 2026-11-22 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974910670 | Mersey and West Lancashire Teaching Hospitals NHS Trust | Management Accountant | Stockbridge Village, Liverpool | posted: 2026-11-22 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974908501 | The Nottingham Building Society | Treasury and Securitisation Reporting Partner | UK | posted: 2026-11-22 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974908388 | Norfolk and Norwich University Hospital | Assistant Management Accountant | Colney, Norwich | posted: 2026-11-22 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5974908179 | Seven Investment Management | Financial Accountant | London, UK | posted: 2026-11-22 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974896988 | CIBT | Financial Controller | Shadwell, East London | posted: 2026-11-22 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5974697776 | Hamilton Woods | Interim Finance Analyst | Easton, Bristol | posted: 2026-11-22 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5974678245 | Brook Green Supply | Financial Reporting Analyst | Hammersmith, West London | posted: 2026-11-22 | note: via Adzuna
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-capital-one-4469104807 | Capital One | Commercial Analyst | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed

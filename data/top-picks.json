@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:17:15.087Z",
+ "generated_at": "2026-11-22T19:52:29.146Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 317,
+   "matching": 324,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 40,
+   "matching": 41,
    "picks": [
     {
      "title": "Trainee Fund Accountant",
@@ -7665,6 +7665,71 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/details/5975277628": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.adzuna.co.uk/jobs/details/5975277577": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974915586": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974913434": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974911657": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974910670": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974908501": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974908388": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5974908179": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974896988": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5974697776": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.adzuna.co.uk/jobs/details/5974678245": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/commercial-analyst-at-capital-one-4469104807": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
   }
  }
 }
