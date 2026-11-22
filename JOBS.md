@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 10:17** (UK time) · **1466 open roles** at 829 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 10:33** (UK time) · **1467 open roles** at 830 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 10:13** · hourly scan · checked 201 boards · **3 new roles**
+**Sun 22 Nov, 10:29** · hourly scan · checked 201 boards · **4 new roles**
 
 ### Finance (FP&A) CV: 1
 
@@ -24,11 +24,12 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 |---|---|---|---|---|
 | 2026-11-22 | [Credit Portfolio Group - XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://www.linkedin.com/jobs/view/credit-portfolio-group-xva-pricing-capital-solutions-emea-analyst-or-associate-at-jpmorganchase-4477860979) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 
-### Other (fits no CV closely, may still be worth a look): 1
+### Other (fits no CV closely, may still be worth a look): 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-22 | [Quantitative Trading Analyst](https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701) | DRW | London, England, United Kingdom | ✅ |
+| 2026-11-22 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-mercury-4467837987) | Mercury | Oxford, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -76,7 +77,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Sunday 22 November
 
 <details>
-<summary><b>10:13</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Other 1</summary>
+<summary><b>10:29</b> · hourly scan · <b>4 new</b> → Finance 1 · Credit 1 · Other 2</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -90,11 +91,12 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | 2026-11-22 | [Credit Portfolio Group - XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://www.linkedin.com/jobs/view/credit-portfolio-group-xva-pricing-capital-solutions-emea-analyst-or-associate-at-jpmorganchase-4477860979) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 
-#### Other (fits no CV closely, may still be worth a look): 1
+#### Other (fits no CV closely, may still be worth a look): 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-22 | [Quantitative Trading Analyst](https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701) | DRW | London, England, United Kingdom | ✅ |
+| 2026-11-22 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-mercury-4467837987) | Mercury | Oxford, England, United Kingdom | ✅ |
 
 </details>
 
@@ -3284,7 +3286,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (838)](#finance-fpa-cv-838) · [Credit (175)](#credit-cv-175) · [Equity (74)](#equity-cv-74) · [Investment (142)](#investment-ib--pe-cv-142) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (153)](#other-fits-no-cv-closely-may-still-be-worth-a-look-153)
+Everything matched so far, newest first within each CV: [Finance (838)](#finance-fpa-cv-838) · [Credit (175)](#credit-cv-175) · [Equity (74)](#equity-cv-74) · [Investment (142)](#investment-ib--pe-cv-142) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (154)](#other-fits-no-cv-closely-may-still-be-worth-a-look-154)
 
 ### Finance (FP&A) CV: 838
 
@@ -4634,7 +4636,7 @@ Everything matched so far, newest first within each CV: [Finance (838)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 153
+### Other (fits no CV closely, may still be worth a look): 154
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4643,6 +4645,7 @@ Everything matched so far, newest first within each CV: [Finance (838)](#finance
 | 2026-11-22 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-mk-consult-ltd-4493331356) | MK CONSULT LTD | Oldham, England, United Kingdom | ❔ |
 | 2026-11-22 | [Quantity Surveyor / Estimator](https://www.linkedin.com/jobs/view/quantity-surveyor-estimator-at-equals-one-limited-4493331357) | EQUALS ONE LIMITED | Pewsey, England, United Kingdom | ❔ |
 | 2026-11-22 | [Quantitative Trading Analyst](https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701) | DRW | London, England, United Kingdom | ✅ |
+| 2026-11-22 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-mercury-4467837987) | Mercury | Oxford, England, United Kingdom | ✅ |
 | 2026-11-21 | [Graduate - Risk (m/f/d) - London](https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-london-at-targetjobs-uk-4492860670) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Graduate - Analyst, Technology Risk & Assurance (m/f/d)](https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-targetjobs-uk-4492874108) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Graduate - Finance (m/f/d)](https://www.linkedin.com/jobs/view/graduate-finance-m-f-d-at-targetjobs-uk-4492863597) | targetjobs UK | London Area, United Kingdom | ❔ |

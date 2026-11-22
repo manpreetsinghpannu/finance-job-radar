@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:17:35.019Z",
+ "generated_at": "2026-11-22T10:33:19.720Z",
  "order": [
   "finance",
   "credit",
@@ -7580,6 +7580,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/quantity-surveyor-at-mercury-4467837987": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

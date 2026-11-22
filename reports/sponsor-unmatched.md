@@ -1,6 +1,6 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1085 firms checked, 538 matched, 547 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1086 firms checked, 539 matched, 547 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
@@ -554,7 +554,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (67)
+## Matched automatically by close name; worth a glance (68)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -595,6 +595,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Levy → LEVY + PARTNERS LIMITED (prefix)
 - Lightfoot → Lightfoot Advisors (prefix)
 - MediaKind → MediaKind Systems UK Limited (prefix)
+- Mercury → Mercury Capital (W12) LTD (prefix)
 - Michael Page → Michael Page International Recruitment Ltd (prefix)
 - Network Rail → Network Rail Infrastructure (prefix)
 - Nium → Nium Fintech Ltd (prefix)

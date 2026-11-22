@@ -3137,6 +3137,11 @@
    "register_name": "MERCURIA UK LLP",
    "match": "exact"
   },
+  "Mercury": {
+   "licensed": true,
+   "register_name": "Mercury Capital (W12) LTD",
+   "match": "prefix"
+  },
   "MetLife UK": {
    "licensed": true,
    "register_name": "MetLife Europe Services Limited",
