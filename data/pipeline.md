@@ -1975,5 +1975,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/corporate-finance-analyst-remote-at-joblet-ai-4492875917 | Joblet-AI | Corporate Finance Analyst (Remote) | United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/assistant-financial-accountant-12m-ftc/57598549 | Axon Moore Group Ltd | Assistant Financial Accountant - 12m FTC | Manchester, Lancashire | posted: 2026-11-21 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/interim-financial-accountant/57592368 | Grant Thornton | Interim Financial Accountant | United Kingdom | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/graduate-structured-quant-m-f-d-at-targetjobs-uk-4493114574 | targetjobs UK | Graduate - Structured Quant (m/f/d) | Manchester, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-at-jac-recruitment-4492322213 | JAC Recruitment | Financial controller | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-analyst-role/57590392 | DHL | Commercial Analyst Role | Slough, Berkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/top-tier-debt-fund-portfolio-monitoring-valuations-eximius-finance/57593605 | eFinancialCareers | Top Tier Debt Fund, Portfolio monitoring- Valuations - Eximius Finance | London | note: via Reed
 
 ## Processed

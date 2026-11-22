@@ -1322,6 +1322,11 @@
    "register_name": null,
    "match": "none"
   },
+  "DHL": {
+   "licensed": true,
+   "register_name": "DHL International (UK) Ltd",
+   "match": "exact"
+  },
   "DHL Express": {
    "licensed": true,
    "register_name": "DHL Express UK LTD",

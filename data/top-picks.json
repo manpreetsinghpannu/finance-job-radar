@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T00:16:29.348Z",
+ "generated_at": "2026-11-22T01:17:43.424Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 307,
+   "matching": 309,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 113,
+   "matching": 114,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 37,
+   "matching": 38,
    "picks": [
     {
      "title": "Trainee Fund Accountant",
@@ -7480,6 +7480,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 7
+  },
+  "https://www.linkedin.com/jobs/view/graduate-structured-quant-m-f-d-at-targetjobs-uk-4493114574": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/financial-controller-at-jac-recruitment-4492322213": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/commercial-analyst-role/57590392": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.reed.co.uk/jobs/top-tier-debt-fund-portfolio-monitoring-valuations-eximius-finance/57593605": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 18
   }
  }
 }

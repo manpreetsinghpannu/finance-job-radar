@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 00:16** (UK time) · **1446 open roles** at 819 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 01:17** (UK time) · **1450 open roles** at 820 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,37 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 00:13** · hourly scan · checked 201 boards · **2 new roles**
+**Sun 22 Nov, 01:14** · hourly scan · checked 201 boards · **4 new roles**
 
 ### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-21 | [Assistant Financial Accountant - 12m FTC](https://www.reed.co.uk/jobs/assistant-financial-accountant-12m-ftc/57598549) | Axon Moore Group Ltd | Manchester, Lancashire | ❔ |
-| — | [Interim Financial Accountant](https://www.reed.co.uk/jobs/interim-financial-accountant/57592368) | Grant Thornton | United Kingdom | ✅ |
+| 2026-11-21 | [Financial controller](https://www.linkedin.com/jobs/view/financial-controller-at-jac-recruitment-4492322213) | JAC Recruitment | London Area, United Kingdom | ✅ |
+| — | [Commercial Analyst Role](https://www.reed.co.uk/jobs/commercial-analyst-role/57590392) | DHL | Slough, Berkshire | ✅ |
+
+### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Top Tier Debt Fund, Portfolio monitoring- Valuations - Eximius Finance](https://www.reed.co.uk/jobs/top-tier-debt-fund-portfolio-monitoring-valuations-eximius-finance/57593605) | eFinancialCareers | London | ✅ |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Graduate - Structured Quant (m/f/d)](https://www.linkedin.com/jobs/view/graduate-structured-quant-m-f-d-at-targetjobs-uk-4493114574) | targetjobs UK | Manchester, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (307 matching)
+**Finance (FP&A) CV** (309 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-hays-4492594877) · Hays · Manchester, England, United Kingdom · posted 2026-11-20 · ✅
 
-**Credit CV** (113 matching)
+**Credit CV** (114 matching)
 
 1. [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) · JPMorgan Chase · BOURNEMOUTH, DORSET, United Kingdom · posted 2026-11-19 · ✅
 2. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
@@ -53,7 +65,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Investment Analyst - Real Estate](https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878) · London LGPS CIV Limited · London, England, United Kingdom · posted 2026-11-20 · ✅
 2. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
 
-**Fund CV (written for India; tweak the header for UK roles)** (37 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (38 matching)
 
 1. [Trainee Fund Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1071) · Aztec Group · Southampton · posted 2026-11-16 · ✅
 2. [Investment Operations Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1) · Barclays · Glasgow Campus · posted 2026-11-16 · ✅
@@ -63,6 +75,30 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<details>
+<summary><b>01:14</b> · hourly scan · <b>4 new</b> → Finance 2 · Fund 1 · Other 1</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-21 | [Financial controller](https://www.linkedin.com/jobs/view/financial-controller-at-jac-recruitment-4492322213) | JAC Recruitment | London Area, United Kingdom | ✅ |
+| — | [Commercial Analyst Role](https://www.reed.co.uk/jobs/commercial-analyst-role/57590392) | DHL | Slough, Berkshire | ✅ |
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Top Tier Debt Fund, Portfolio monitoring- Valuations - Eximius Finance](https://www.reed.co.uk/jobs/top-tier-debt-fund-portfolio-monitoring-valuations-eximius-finance/57593605) | eFinancialCareers | London | ✅ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Graduate - Structured Quant (m/f/d)](https://www.linkedin.com/jobs/view/graduate-structured-quant-m-f-d-at-targetjobs-uk-4493114574) | targetjobs UK | Manchester, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>00:13</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -3179,27 +3215,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 06:07, 05:07, 04:07, 03:19, 02:11</sub>
 
-<details>
-<summary><b>01:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [Local Financial Controller (Junior)](https://www.linkedin.com/jobs/view/local-financial-controller-junior-at-dfds-4482872824) | DFDS | Peterborough, England, United Kingdom | ❔ |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (833)](#finance-fpa-cv-833) · [Credit (173)](#credit-cv-173) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (36)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-36) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (835)](#finance-fpa-cv-835) · [Credit (173)](#credit-cv-173) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (37)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-37) · [Other (142)](#other-fits-no-cv-closely-may-still-be-worth-a-look-142)
 
-### Finance (FP&A) CV: 833
+### Finance (FP&A) CV: 835
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| — | [Commercial Analyst Role](https://www.reed.co.uk/jobs/commercial-analyst-role/57590392) | DHL | Slough, Berkshire | ✅ |
 | — | [Interim Financial Accountant](https://www.reed.co.uk/jobs/interim-financial-accountant/57592368) | Grant Thornton | United Kingdom | ✅ |
 | 2026-11-21 | [Commercial Finance Business Partner](https://www.adzuna.co.uk/jobs/land/ad/5973991358) | Safran | Penn Fields, Wolverhampton | ✅ |
 | 2026-11-21 | [Finance Analyst (12-month FTC)](https://www.adzuna.co.uk/jobs/land/ad/5973992185) | Vitality Corporate Services Limited | Westbourne, Bournemouth | ✅ |
@@ -3227,6 +3251,7 @@ Everything matched so far, newest first within each CV: [Finance (833)](#finance
 | 2026-11-21 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-ukpharm-limited-4493266729) | UKPHARM LIMITED | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-collins-aerospace-4485374763) | Collins Aerospace | Plymouth, England, United Kingdom | ❔ |
 | 2026-11-21 | [Assistant Financial Accountant - 12m FTC](https://www.reed.co.uk/jobs/assistant-financial-accountant-12m-ftc/57598549) | Axon Moore Group Ltd | Manchester, Lancashire | ❔ |
+| 2026-11-21 | [Financial controller](https://www.linkedin.com/jobs/view/financial-controller-at-jac-recruitment-4492322213) | JAC Recruitment | London Area, United Kingdom | ✅ |
 | 2026-11-21 | [Interim Accountant - Local Government](https://www.linkedin.com/jobs/view/interim-accountant-local-government-at-grant-thornton-uk-4476829156) | Grant Thornton UK | Edinburgh, Scotland, United Kingdom | ✅ |
 | 2026-11-21 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-ds-smith-4439892855) | DS Smith | Caerphilly, Wales, United Kingdom | ✅ |
 | 2026-11-21 | [Finance Systems Implementation Accountant (ACA)](https://www.linkedin.com/jobs/view/finance-systems-implementation-accountant-aca-at-police-federation-of-england-and-wales-4483508475) | Police Federation of England and Wales | Leatherhead, England, United Kingdom | ✅ |
@@ -4495,10 +4520,11 @@ Everything matched so far, newest first within each CV: [Finance (833)](#finance
 | — | [Associate, Real Estate Asset Management Operations](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Associate--Real-Estate-Asset-Management-Operations_R8113) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 36
+### Fund CV (written for India; tweak the header for UK roles): 37
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| — | [Top Tier Debt Fund, Portfolio monitoring- Valuations - Eximius Finance](https://www.reed.co.uk/jobs/top-tier-debt-fund-portfolio-monitoring-valuations-eximius-finance/57593605) | eFinancialCareers | London | ✅ |
 | 2026-11-21 | [Investment Operations Associate , Reconciliations & Corporate Actions](https://www.adzuna.co.uk/jobs/details/5973989936) | JJ Search Ltd | South West London, London | ❔ |
 | 2026-11-20 | [Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management](https://www.linkedin.com/jobs/view/investment-operations-associate-reconciliations-corporate-actions-wealth-management-at-jj-search-limited-4492864083) | JJ SEARCH LIMITED | London Area, United Kingdom | ❔ |
 | 2026-11-20 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-gen-ii-fund-services-4418775609) | Gen II Fund Services | Whitley, England, United Kingdom | ❔ |
@@ -4536,10 +4562,11 @@ Everything matched so far, newest first within each CV: [Finance (833)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 141
+### Other (fits no CV closely, may still be worth a look): 142
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-22 | [Graduate - Structured Quant (m/f/d)](https://www.linkedin.com/jobs/view/graduate-structured-quant-m-f-d-at-targetjobs-uk-4493114574) | targetjobs UK | Manchester, England, United Kingdom | ❔ |
 | 2026-11-21 | [Graduate - Risk (m/f/d) - London](https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-london-at-targetjobs-uk-4492860670) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Graduate - Analyst, Technology Risk & Assurance (m/f/d)](https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-targetjobs-uk-4492874108) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Graduate - Finance (m/f/d)](https://www.linkedin.com/jobs/view/graduate-finance-m-f-d-at-targetjobs-uk-4492863597) | targetjobs UK | London Area, United Kingdom | ❔ |
