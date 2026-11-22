@@ -2017,5 +2017,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/finance-analyst/57599743 | CMA Recruitment Group | Finance Analyst | Bournemouth, Dorset | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-family-office-at-aria-partners-4490314348 | Aria Partners | Management Accountant - Family Office | London Area, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-colas-rail-uk-4491645050 | Colas Rail UK | Quantity Surveyor | Birmingham, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/project-accountant-at-l3harris-technologies-4469513908 | L3Harris Technologies | Project Accountant | Brighton, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/chartered-accountant-remote-at-joblet-ai-4493173749 | Joblet-AI | Chartered Accountant (Remote) | United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed

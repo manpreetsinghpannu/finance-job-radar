@@ -2637,6 +2637,11 @@
    "register_name": "L.E.K. Consulting LLP",
    "match": "exact"
   },
+  "L3Harris Technologies": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "LCM Partners": {
    "licensed": true,
    "register_name": "LCM Partners Limited",

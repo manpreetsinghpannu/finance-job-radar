@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1096 firms checked, 547 matched, 549 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1097 firms checked, 547 matched, 550 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (549)
+## Not found (550)
 
 - 01Health
 - 7IM
@@ -284,6 +284,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Klarna
 - Klipboard
 - Kraft Heinz
+- L3Harris Technologies
 - Landbay
 - Language Matters
 - Larbey Evans
