@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T21:16:26.015Z",
+ "generated_at": "2026-11-22T22:15:31.651Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 116,
+   "matching": 115,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 98,
+   "matching": 97,
    "picks": [
     {
      "title": "Analyst - Investment Banking M&A",
@@ -690,11 +690,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Global-Capital-Management--GCM----Senior-Associate---LONDON_261008574-1": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 9
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-holland-barrett-4477185474": {
    "id": "finance",
@@ -3175,11 +3170,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
-  },
-  "https://www.linkedin.com/jobs/view/project-financial-analyst-at-nbcuniversal-4490597374": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-keepmoat-4489548992": {
    "id": "finance",
@@ -7730,6 +7720,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-cameron-kennedy-4492372203": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
   }
  }
 }

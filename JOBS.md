@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 21:16** (UK time) · **1496 open roles** at 850 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 22:15** (UK time) · **1495 open roles** at 849 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 21:11** · hourly scan · checked 201 boards · **0 new roles**
+**Sun 22 Nov, 22:12** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sun 22 Nov, 19:48** (13: Finance 13); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-cameron-kennedy-4492372203) | Cameron Kennedy | Walsall, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -23,7 +27,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-hays-4492594877) · Hays · Manchester, England, United Kingdom · posted 2026-11-20 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 
-**Credit CV** (116 matching)
+**Credit CV** (115 matching)
 
 1. [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) · JPMorgan Chase · BOURNEMOUTH, DORSET, United Kingdom · posted 2026-11-19 · ✅
 2. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
@@ -33,7 +37,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) · Rothschild & Co · London · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 
-**Investment (IB / PE) CV** (98 matching)
+**Investment (IB / PE) CV** (97 matching)
 
 1. [Analyst - Investment Banking M&A](https://www.adzuna.co.uk/jobs/details/5972737427) · Equiteq · London, UK · posted 2026-11-20 · ✅
 2. [French speaking Investment Banking M&A Generalist Analyst & Associate](https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161) · eFinancialCareers · London · posted 2026-11-19 · ✅
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<details>
+<summary><b>22:12</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-cameron-kennedy-4492372203) | Cameron Kennedy | Walsall, England, United Kingdom | ✅ |
+
+</details>
 
 <sub>Nothing new at: 21:11, 20:11</sub>
 
@@ -3223,23 +3238,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 22:07</sub>
-
-<details>
-<summary><b>21:54</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409) | Retirement Villages Group Ltd | London, England, United Kingdom | ❔ |
-| — | [Regulatory & Capital Reporting Accountant - M&G plc.](https://www.reed.co.uk/jobs/regulatory-capital-reporting-accountant-m-g-plc/57569649) | eFinancialCareers | Edinburgh, Midlothian | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (863)](#finance-fpa-cv-863) · [Credit (176)](#credit-cv-176) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (158)](#other-fits-no-cv-closely-may-still-be-worth-a-look-158)
+Everything matched so far, newest first within each CV: [Finance (863)](#finance-fpa-cv-863) · [Credit (175)](#credit-cv-175) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (158)](#other-fits-no-cv-closely-may-still-be-worth-a-look-158)
 
 ### Finance (FP&A) CV: 863
 
@@ -3253,6 +3254,7 @@ Everything matched so far, newest first within each CV: [Finance (863)](#finance
 | 2026-11-22 | [Interim Finance Analyst](https://www.adzuna.co.uk/jobs/land/ad/5974697776) | Hamilton Woods | Easton, Bristol | ❔ |
 | 2026-11-22 | [Management Accountant](https://www.adzuna.co.uk/jobs/details/5975277577) | GXO Logistics | UK | ✅ |
 | 2026-11-22 | [Management Accountant](https://www.adzuna.co.uk/jobs/details/5974910670) | Mersey and West Lancashire Teaching Hospitals NHS Trust | Stockbridge Village, Liverpool | ✅ |
+| 2026-11-22 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-cameron-kennedy-4492372203) | Cameron Kennedy | Walsall, England, United Kingdom | ✅ |
 | 2026-11-22 | [Commercial Analyst (Data Centres and Industrials)](https://www.linkedin.com/jobs/view/commercial-analyst-data-centres-and-industrials-at-octopus-energy-4469173058) | Octopus Energy | London, England, United Kingdom | ✅ |
 | 2026-11-22 | [Financial Reporting Analyst](https://www.adzuna.co.uk/jobs/details/5974678245) | Brook Green Supply | Hammersmith, West London | ✅ |
 | 2026-11-22 | [Commercial Analyst](https://www.linkedin.com/jobs/view/commercial-analyst-at-capital-one-4469104807) | Capital One | London, England, United Kingdom | ✅ |
@@ -3757,7 +3759,6 @@ Everything matched so far, newest first within each CV: [Finance (863)](#finance
 | 2026-11-13 | [Structured Finance Analyst](https://www.linkedin.com/jobs/view/structured-finance-analyst-at-jac-recruitment-4480667323) | JAC Recruitment | London, England, United Kingdom | ✅ |
 | 2026-11-13 | [Finance Analyst - Labour Costs](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400096075) | Sainsbury's | London, London, United Kingdom | ✅ |
 | 2026-11-13 | [Junior Financial Analyst](https://www.linkedin.com/jobs/view/junior-financial-analyst-at-the-citco-group-limited-4488970190) | The Citco Group Limited | London, England, United Kingdom | ✅ |
-| 2026-11-13 | [Project Financial Analyst](https://www.linkedin.com/jobs/view/project-financial-analyst-at-nbcuniversal-4490597374) | NBCUniversal | Bedford, England, United Kingdom | ✅ |
 | 2026-11-13 | [Finance Analyst](https://lbg.wd3.myworkdayjobs.com/lbg_careers/job/Leeds/Finance-Analyst_165558-3) | Lloyds Banking Group | Leeds | ✅ |
 | 2026-11-13 | [Group FP&A Analyst](https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-thg-4489561644) | THG | Manchester, England, United Kingdom | ✅ |
 | — | [Graduate Financial Analyst](https://www.reed.co.uk/jobs/graduate-financial-analyst/57567346) | Hays Specialist Recruitment Limited | London | ❔ |
@@ -4109,7 +4110,7 @@ Everything matched so far, newest first within each CV: [Finance (863)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 176
+### Credit CV: 175
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4275,7 +4276,6 @@ Everything matched so far, newest first within each CV: [Finance (863)](#finance
 | 2026-11-06 | [Credit Analyst](https://www.reed.co.uk/jobs/credit-analyst/57540471) | Reed | City of London, London | ❔ |
 | 2026-11-06 | [Hedge Fund Risk Analyst](https://www.linkedin.com/jobs/view/hedge-fund-risk-analyst-at-black-swan-group-4488409544) | Black Swan Group | London Area, United Kingdom | ✅ |
 | 2026-11-06 | [Associate, Credit Analysis](https://icg.wd3.myworkdayjobs.com/external_careers/job/London/Associate--Credit-Analysis_R3367-1) | ICG | London | ✅ |
-| 2026-11-06 | [Corporate Banking Global Capital Management (GCM) - Associate/Senior Associate - LONDON](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Global-Capital-Management--GCM----Senior-Associate---LONDON_261008574-1) | Citi | London United Kingdom | ✅ |
 | 2026-11-06 | [Credit Operations Support Graduate](https://www.reed.co.uk/jobs/credit-operations-support-graduate/57536031) | Connect Recruitment Consultants Ltd. | Slough, Berkshire | ❔ |
 | 2026-11-05 | [Risk Analyst](https://hiscox.wd3.myworkdayjobs.com/hiscox_external_site/job/London/Risk-Analyst_R0020743) | Hiscox | London · York | ✅ |
 | — | [UK Corporate Banking Graduate Programme 2027 Leeds](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Leeds-Park-Row/UK-Corporate-Banking-Graduate-Programme-2027-Leeds_JR-0000125015) | Barclays | Leeds, Park Row | ✅ |
@@ -4780,10 +4780,12 @@ Everything matched so far, newest first within each CV: [Finance (863)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>109 roles taken off the list because the firm closed the posting</summary>
+<summary>111 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 22 Nov, 22:14 | Corporate Banking Global Capital Management (GCM) - Associate/Senior Associate - LONDON | Citi |
+| Sun 22 Nov, 22:14 | Project Financial Analyst | NBCUniversal |
 | Sun 22 Nov, 19:16 | Associate - Financial Restructuring | Houlihan Lokey |
 | Sun 22 Nov, 19:15 | Research Analyst - Financial Services & M&A | Dyer Baade & Company |
 | Sun 22 Nov, 16:16 | Trainee ICAEW Chartered Accountant – ACA (Graduate Scheme) | targetjobs UK |

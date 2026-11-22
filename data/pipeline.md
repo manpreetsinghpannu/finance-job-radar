@@ -2032,5 +2032,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.adzuna.co.uk/jobs/land/ad/5974697776 | Hamilton Woods | Interim Finance Analyst | Easton, Bristol | posted: 2026-11-22 | note: via Adzuna
 - [ ] https://www.adzuna.co.uk/jobs/details/5974678245 | Brook Green Supply | Financial Reporting Analyst | Hammersmith, West London | posted: 2026-11-22 | note: via Adzuna
 - [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-capital-one-4469104807 | Capital One | Commercial Analyst | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-cameron-kennedy-4492372203 | Cameron Kennedy | Finance Business Partner | Walsall, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed
