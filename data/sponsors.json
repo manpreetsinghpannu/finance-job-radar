@@ -897,6 +897,11 @@
    "register_name": "CBRE Limited",
    "match": "exact"
   },
+  "CCL Facades": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CER Financial": {
    "licensed": false,
    "register_name": null,
@@ -2850,6 +2855,11 @@
   "Lyst": {
    "licensed": true,
    "register_name": "Lyst Ltd",
+   "match": "exact"
+  },
+  "M Group": {
+   "licensed": true,
+   "register_name": "M GROUP (SERVICES) LIMITED",
    "match": "exact"
   },
   "M&G": {
@@ -5153,6 +5163,11 @@
    "match": "alias"
   },
   "WPR": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "WPS": {
    "licensed": false,
    "register_name": null,
    "match": "none"

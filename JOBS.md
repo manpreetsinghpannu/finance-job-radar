@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 02:17** (UK time) · **1453 open roles** at 821 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 02:57** (UK time) · **1457 open roles** at 824 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,21 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 02:14** · hourly scan · checked 201 boards · **3 new roles**
+**Sun 22 Nov, 02:52** · hourly scan · checked 201 boards · **4 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [NetSuite Accountant](https://www.linkedin.com/jobs/view/netsuite-accountant-at-goodman-masson-4492875990) | Goodman Masson | London Area, United Kingdom | ✅ |
-| 2026-11-22 | [Assistant Accountant - Multi Franchise](https://www.linkedin.com/jobs/view/assistant-accountant-multi-franchise-at-stoneacre-motor-group-4493117630) | Stoneacre Motor Group | Cleckheaton, England, United Kingdom | ❔ |
-
-### Other (fits no CV closely, may still be worth a look): 1
+### Credit CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-22 | [Graduate - Risk (m/f/d) - Manchester](https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-manchester-at-targetjobs-uk-4493119686) | targetjobs UK | Manchester, England, United Kingdom | ❔ |
+| 2026-11-21 | [Fund Controller - Private Credit Hybrid Working](https://www.reed.co.uk/jobs/fund-controller-private-credit-hybrid-working/57598600) | eFinancialCareers | London | ✅ |
+
+### Other (fits no CV closely, may still be worth a look): 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-21 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-m-group-4389712794) | M Group | Suffolk, England, United Kingdom | ✅ |
+| 2026-11-21 | [Project Quantity Surveyor](https://www.linkedin.com/jobs/view/project-quantity-surveyor-at-wps-4477404704) | WPS | Worcestershire, England, United Kingdom | ❔ |
+| 2026-11-21 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-ccl-facades-4466608306) | CCL Facades | Liverpool, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -34,7 +35,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-hays-4492594877) · Hays · Manchester, England, United Kingdom · posted 2026-11-20 · ✅
 
-**Credit CV** (114 matching)
+**Credit CV** (115 matching)
 
 1. [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) · JPMorgan Chase · BOURNEMOUTH, DORSET, United Kingdom · posted 2026-11-19 · ✅
 2. [Credit Risk Analyst - Energy](https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614) · Vallum Associates · London Area, United Kingdom · posted 2026-11-16 · ✅
@@ -59,7 +60,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Investment Analyst - Real Estate](https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878) · London LGPS CIV Limited · London, England, United Kingdom · posted 2026-11-20 · ✅
 2. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
 
-**Fund CV (written for India; tweak the header for UK roles)** (38 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (39 matching)
 
 1. [Trainee Fund Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1071) · Aztec Group · Southampton · posted 2026-11-16 · ✅
 2. [Investment Operations Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1) · Barclays · Glasgow Campus · posted 2026-11-16 · ✅
@@ -69,6 +70,25 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<details>
+<summary><b>02:52</b> · hourly scan · <b>4 new</b> → Credit 1 · Other 3</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-21 | [Fund Controller - Private Credit Hybrid Working](https://www.reed.co.uk/jobs/fund-controller-private-credit-hybrid-working/57598600) | eFinancialCareers | London | ✅ |
+
+#### Other (fits no CV closely, may still be worth a look): 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-21 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-m-group-4389712794) | M Group | Suffolk, England, United Kingdom | ✅ |
+| 2026-11-21 | [Project Quantity Surveyor](https://www.linkedin.com/jobs/view/project-quantity-surveyor-at-wps-4477404704) | WPS | Worcestershire, England, United Kingdom | ❔ |
+| 2026-11-21 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-ccl-facades-4466608306) | CCL Facades | Liverpool, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>02:14</b> · hourly scan · <b>3 new</b> → Finance 2 · Other 1</summary>
@@ -3229,7 +3249,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (837)](#finance-fpa-cv-837) · [Credit (173)](#credit-cv-173) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (37)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-37) · [Other (143)](#other-fits-no-cv-closely-may-still-be-worth-a-look-143)
+Everything matched so far, newest first within each CV: [Finance (837)](#finance-fpa-cv-837) · [Credit (174)](#credit-cv-174) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (37)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-37) · [Other (146)](#other-fits-no-cv-closely-may-still-be-worth-a-look-146)
 
 ### Finance (FP&A) CV: 837
 
@@ -4073,12 +4093,13 @@ Everything matched so far, newest first within each CV: [Finance (837)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 173
+### Credit CV: 174
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-21 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-ascot-group-4475238459) | Ascot Group | London, England, United Kingdom | ✅ |
 | 2026-11-21 | [Forward Deployed Investment Professional, Private Credit](https://www.linkedin.com/jobs/view/forward-deployed-investment-professional-private-credit-at-harvey-4485170415) | Harvey | London Area, United Kingdom | ✅ |
+| 2026-11-21 | [Fund Controller - Private Credit Hybrid Working](https://www.reed.co.uk/jobs/fund-controller-private-credit-hybrid-working/57598600) | eFinancialCareers | London | ✅ |
 | 2026-11-21 | [Debt Management Executive x 2](https://www.linkedin.com/jobs/view/debt-management-executive-x-2-at-smartestenergy-business-4459696537) | SmartestEnergy Business | Worthing, England, United Kingdom | ✅ |
 | 2026-11-21 | [Risk Associate](https://www.linkedin.com/jobs/view/risk-associate-at-santander-uk-4493243424) | Santander UK | London, England, United Kingdom | ✅ |
 | 2026-11-21 | [Associate, Corporate Banking](https://www.linkedin.com/jobs/view/associate-corporate-banking-at-td-securities-4487506315) | TD Securities | London, England, United Kingdom | ❔ |
@@ -4576,7 +4597,7 @@ Everything matched so far, newest first within each CV: [Finance (837)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 143
+### Other (fits no CV closely, may still be worth a look): 146
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4589,6 +4610,9 @@ Everything matched so far, newest first within each CV: [Finance (837)](#finance
 | 2026-11-21 | [Quantitative Trader - Graduate: 2027](https://www.linkedin.com/jobs/view/quantitative-trader-graduate-2027-at-susquehanna-international-group-4438424006) | Susquehanna International Group | London, England, United Kingdom | ✅ |
 | — | [Quant Analyst, Insurance Capital Solutions - Macquarie Group](https://www.reed.co.uk/jobs/quant-analyst-insurance-capital-solutions-macquarie-group/57599035) | eFinancialCareers | London | ✅ |
 | 2026-11-21 | [Quant Analyst, Insurance Capital Solutions - Macquarie Group](https://www.adzuna.co.uk/jobs/land/ad/5974039646) | Macquarie Group | London, UK | ❔ |
+| 2026-11-21 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-m-group-4389712794) | M Group | Suffolk, England, United Kingdom | ✅ |
+| 2026-11-21 | [Project Quantity Surveyor](https://www.linkedin.com/jobs/view/project-quantity-surveyor-at-wps-4477404704) | WPS | Worcestershire, England, United Kingdom | ❔ |
+| 2026-11-21 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-ccl-facades-4466608306) | CCL Facades | Liverpool, England, United Kingdom | ❔ |
 | — | [Valuations Associate - Universities Superannuation Scheme Limited](https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025) | eFinancialCareers | London | ✅ |
 | 2026-11-20 | [Graduate Finance Programme](https://www.linkedin.com/jobs/view/graduate-finance-programme-at-targetjobs-uk-4492551053) | targetjobs UK | Burton Upon Trent, England, United Kingdom | ❔ |
 | 2026-11-20 | [Trainee Financial Adviser (Graduate)](https://www.linkedin.com/jobs/view/trainee-financial-adviser-graduate-at-raymond-james-thorpe-park-leeds-4491297946) | Raymond James, Thorpe Park Leeds | Leeds, England, United Kingdom | ❔ |

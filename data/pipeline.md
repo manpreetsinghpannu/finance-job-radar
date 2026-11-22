@@ -1982,5 +1982,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-manchester-at-targetjobs-uk-4493119686 | targetjobs UK | Graduate - Risk (m/f/d) - Manchester | Manchester, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/netsuite-accountant-at-goodman-masson-4492875990 | Goodman Masson | NetSuite Accountant | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-accountant-multi-franchise-at-stoneacre-motor-group-4493117630 | Stoneacre Motor Group | Assistant Accountant - Multi Franchise | Cleckheaton, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-m-group-4389712794 | M Group | Quantity Surveyor | Suffolk, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/project-quantity-surveyor-at-wps-4477404704 | WPS | Project Quantity Surveyor | Worcestershire, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-ccl-facades-4466608306 | CCL Facades | Quantity Surveyor | Liverpool, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fund-controller-private-credit-hybrid-working/57598600 | eFinancialCareers | Fund Controller - Private Credit Hybrid Working | London | posted: 2026-11-21 | note: via Reed
 
 ## Processed

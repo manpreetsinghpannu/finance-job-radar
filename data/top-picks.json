@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T02:17:46.057Z",
+ "generated_at": "2026-11-22T02:57:04.521Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 114,
+   "matching": 115,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 38,
+   "matching": 39,
    "picks": [
     {
      "title": "Trainee Fund Accountant",
@@ -7515,6 +7515,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/quantity-surveyor-at-m-group-4389712794": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/project-quantity-surveyor-at-wps-4477404704": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/quantity-surveyor-at-ccl-facades-4466608306": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/fund-controller-private-credit-hybrid-working/57598600": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
   }
  }
 }
