@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 19:52** (UK time) · **1496 open roles** at 850 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 20:14** (UK time) · **1496 open roles** at 850 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 19:48** · hourly scan · checked 201 boards · **13 new roles**
+**Sun 22 Nov, 20:11** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 13
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-22 | [Assistant Management Accountant](https://www.adzuna.co.uk/jobs/details/5974908388) | Norfolk and Norwich University Hospital | Colney, Norwich | ✅ |
-| 2026-11-22 | [Interim Finance Analyst](https://www.adzuna.co.uk/jobs/land/ad/5974697776) | Hamilton Woods | Easton, Bristol | ❔ |
-| 2026-11-22 | [Management Accountant](https://www.adzuna.co.uk/jobs/details/5975277577) | GXO Logistics | UK | ✅ |
-| 2026-11-22 | [Management Accountant](https://www.adzuna.co.uk/jobs/details/5974910670) | Mersey and West Lancashire Teaching Hospitals NHS Trust | Stockbridge Village, Liverpool | ✅ |
-| 2026-11-22 | [Financial Reporting Analyst](https://www.adzuna.co.uk/jobs/details/5974678245) | Brook Green Supply | Hammersmith, West London | ✅ |
-| 2026-11-22 | [Commercial Analyst](https://www.linkedin.com/jobs/view/commercial-analyst-at-capital-one-4469104807) | Capital One | London, England, United Kingdom | ✅ |
-| 2026-11-22 | [Finance Business Partner](https://www.adzuna.co.uk/jobs/details/5975277628) | MBDA Missile Systems | UK | ❔ |
-| 2026-11-22 | [Assistant Financial Controller](https://www.adzuna.co.uk/jobs/details/5974915586) | PPHE Hotel Group | Waterloo, South East London | ❔ |
-| 2026-11-22 | [Assistant Accountant - Basingstoke](https://www.adzuna.co.uk/jobs/details/5974913434) | Miller Homes | Basingstoke, Hampshire | ❔ |
-| 2026-11-22 | [Assistant Accountant - Derby](https://www.adzuna.co.uk/jobs/details/5974911657) | Miller Homes | Pride Park, Derby | ❔ |
-| 2026-11-22 | [Financial Controller](https://www.adzuna.co.uk/jobs/details/5974896988) | CIBT | Shadwell, East London | ✅ |
-| 2026-11-22 | [Treasury and Securitisation Reporting Partner](https://www.adzuna.co.uk/jobs/details/5974908501) | The Nottingham Building Society | UK | ✅ |
-| 2026-11-22 | [Financial Accountant](https://www.adzuna.co.uk/jobs/land/ad/5974908179) | Seven Investment Management | London, UK | ❔ |
+Nothing new this time. The last scan that found something was **Sun 22 Nov, 19:48** (13: Finance 13); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -74,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<sub>Nothing new at: 20:11</sub>
 
 <details>
 <summary><b>19:48</b> · hourly scan · <b>13 new</b> → Finance 13</summary>
@@ -3252,17 +3238,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <sub>Nothing new at: 21:07</sub>
-
-<details>
-<summary><b>20:07</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Financial Controller - Private Credit](https://www.linkedin.com/jobs/view/financial-controller-private-credit-at-aria-partners-4486897482) | Aria Partners | London Area, United Kingdom | ❔ |
-
-</details>
 
 ## All open roles by CV
 
