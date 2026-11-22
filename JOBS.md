@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 11:17** (UK time) · **1467 open roles** at 830 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 11:41** (UK time) · **1471 open roles** at 834 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,27 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 11:13** · hourly scan · checked 201 boards · **0 new roles**
+**Sun 22 Nov, 11:37** · hourly scan · checked 201 boards · **4 new roles**
 
-Nothing new this time. The last scan that found something was **Sun 22 Nov, 10:29** (4: Finance 1 · Credit 1 · Other 2); open it in the scan log below.
+### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Group Financial Reporting Accountant (Leeds)](https://www.linkedin.com/jobs/view/group-financial-reporting-accountant-leeds-at-edenbrook-4478903451) | Edenbrook | Leeds, England, United Kingdom | ✅ |
+| 2026-11-22 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-uk-4423005627) | Universal Music Group UK | London, England, United Kingdom | ✅ |
+
+### Other (fits no CV closely, may still be worth a look): 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Modeling & Quant Analytics - AI & Agentic Model Validation](https://www.linkedin.com/jobs/view/modeling-quant-analytics-ai-agentic-model-validation-at-moody-s-corporation-4469237830) | Moody's Corporation | London, England, United Kingdom | ✅ |
+| 2026-11-22 | [Quantitative Analyst – Football Modelling](https://www.linkedin.com/jobs/view/quantitative-analyst-%E2%80%93-football-modelling-at-singular-recruitment-4493367234) | Singular Recruitment | London Area, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (311 matching)
+**Finance (FP&A) CV** (313 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-hays-4492594877) · Hays · Manchester, England, United Kingdom · posted 2026-11-20 · ✅
@@ -58,6 +70,25 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<details>
+<summary><b>11:37</b> · hourly scan · <b>4 new</b> → Finance 2 · Other 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Group Financial Reporting Accountant (Leeds)](https://www.linkedin.com/jobs/view/group-financial-reporting-accountant-leeds-at-edenbrook-4478903451) | Edenbrook | Leeds, England, United Kingdom | ✅ |
+| 2026-11-22 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-uk-4423005627) | Universal Music Group UK | London, England, United Kingdom | ✅ |
+
+#### Other (fits no CV closely, may still be worth a look): 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-22 | [Modeling & Quant Analytics - AI & Agentic Model Validation](https://www.linkedin.com/jobs/view/modeling-quant-analytics-ai-agentic-model-validation-at-moody-s-corporation-4469237830) | Moody's Corporation | London, England, United Kingdom | ✅ |
+| 2026-11-22 | [Quantitative Analyst – Football Modelling](https://www.linkedin.com/jobs/view/quantitative-analyst-%E2%80%93-football-modelling-at-singular-recruitment-4493367234) | Singular Recruitment | London Area, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 11:13</sub>
 
@@ -3256,16 +3287,18 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 12:06, 11:35</sub>
+<sub>Nothing new at: 12:06</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (838)](#finance-fpa-cv-838) · [Credit (175)](#credit-cv-175) · [Equity (74)](#equity-cv-74) · [Investment (142)](#investment-ib--pe-cv-142) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (154)](#other-fits-no-cv-closely-may-still-be-worth-a-look-154)
+Everything matched so far, newest first within each CV: [Finance (840)](#finance-fpa-cv-840) · [Credit (175)](#credit-cv-175) · [Equity (74)](#equity-cv-74) · [Investment (142)](#investment-ib--pe-cv-142) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (156)](#other-fits-no-cv-closely-may-still-be-worth-a-look-156)
 
-### Finance (FP&A) CV: 838
+### Finance (FP&A) CV: 840
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-22 | [Group Financial Reporting Accountant (Leeds)](https://www.linkedin.com/jobs/view/group-financial-reporting-accountant-leeds-at-edenbrook-4478903451) | Edenbrook | Leeds, England, United Kingdom | ✅ |
+| 2026-11-22 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-uk-4423005627) | Universal Music Group UK | London, England, United Kingdom | ✅ |
 | 2026-11-22 | [Assistant Accountant - Multi Franchise](https://www.linkedin.com/jobs/view/assistant-accountant-multi-franchise-at-stoneacre-motor-group-4493117630) | Stoneacre Motor Group | Cleckheaton, England, United Kingdom | ❔ |
 | 2026-11-22 | [Trainee ICAEW Chartered Accountant – ACA (Graduate Scheme)](https://www.linkedin.com/jobs/view/trainee-icaew-chartered-accountant-%E2%80%93-aca-graduate-scheme-at-targetjobs-uk-4493119393) | targetjobs UK | Belfast, Northern Ireland, United Kingdom | ❔ |
 | — | [Commercial Analyst Role](https://www.reed.co.uk/jobs/commercial-analyst-role/57590392) | DHL | Slough, Berkshire | ✅ |
@@ -4610,7 +4643,7 @@ Everything matched so far, newest first within each CV: [Finance (838)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 154
+### Other (fits no CV closely, may still be worth a look): 156
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4620,6 +4653,8 @@ Everything matched so far, newest first within each CV: [Finance (838)](#finance
 | 2026-11-22 | [Quantity Surveyor / Estimator](https://www.linkedin.com/jobs/view/quantity-surveyor-estimator-at-equals-one-limited-4493331357) | EQUALS ONE LIMITED | Pewsey, England, United Kingdom | ❔ |
 | 2026-11-22 | [Quantitative Trading Analyst](https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701) | DRW | London, England, United Kingdom | ✅ |
 | 2026-11-22 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-mercury-4467837987) | Mercury | Oxford, England, United Kingdom | ✅ |
+| 2026-11-22 | [Modeling & Quant Analytics - AI & Agentic Model Validation](https://www.linkedin.com/jobs/view/modeling-quant-analytics-ai-agentic-model-validation-at-moody-s-corporation-4469237830) | Moody's Corporation | London, England, United Kingdom | ✅ |
+| 2026-11-22 | [Quantitative Analyst – Football Modelling](https://www.linkedin.com/jobs/view/quantitative-analyst-%E2%80%93-football-modelling-at-singular-recruitment-4493367234) | Singular Recruitment | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Graduate - Risk (m/f/d) - London](https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-london-at-targetjobs-uk-4492860670) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Graduate - Analyst, Technology Risk & Assurance (m/f/d)](https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-targetjobs-uk-4492874108) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Graduate - Finance (m/f/d)](https://www.linkedin.com/jobs/view/graduate-finance-m-f-d-at-targetjobs-uk-4492863597) | targetjobs UK | London Area, United Kingdom | ❔ |

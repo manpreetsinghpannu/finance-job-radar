@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T11:17:02.373Z",
+ "generated_at": "2026-11-22T11:41:42.540Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 311,
+   "matching": 313,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -7585,6 +7585,26 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/modeling-quant-analytics-ai-agentic-model-validation-at-moody-s-corporation-4469237830": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-analyst-%E2%80%93-football-modelling-at-singular-recruitment-4493367234": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-uk-4423005627": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/group-financial-reporting-accountant-leeds-at-edenbrook-4478903451": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
   }
  }
 }

@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1086 firms checked, 539 matched, 547 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1090 firms checked, 542 matched, 548 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (547)
+## Not found (548)
 
 - 01Health
 - 7IM
@@ -454,6 +454,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Sheridan Maine
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
+- Singular Recruitment
 - SitusAMC
 - Societe Generale Corporate and Investment Banking - SGCIB
 - South West Water
@@ -554,7 +555,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (68)
+## Matched automatically by close name; worth a glance (70)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -597,6 +598,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - MediaKind → MediaKind Systems UK Limited (prefix)
 - Mercury → Mercury Capital (W12) LTD (prefix)
 - Michael Page → Michael Page International Recruitment Ltd (prefix)
+- Moody's Corporation → Moody's Analytics UK Ltd (prefix)
 - Network Rail → Network Rail Infrastructure (prefix)
 - Nium → Nium Fintech Ltd (prefix)
 - OCS → OCS Consulting plc (prefix)
@@ -622,5 +624,6 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - The Dune Group → Dune Advisors Limited (prefix)
 - Triple Point → Triple Point Servco Limited (prefix)
 - United Infrastructure Ltd → United Infrastructure Management Limited (prefix)
+- Universal Music Group UK → Universal Music Operations Ltd (prefix)
 - Vitality → VITALITY TRADING LIMITED (prefix)
 - We Do Group → WE DO CARE (LONDON) LTD (prefix)

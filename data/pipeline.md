@@ -1999,5 +1999,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701 | DRW | Quantitative Trading Analyst | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/interim-syndicate-accountant-at-grant-thornton-uk-4476814846 | Grant Thornton UK | Interim Syndicate Accountant | Birmingham, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-mercury-4467837987 | Mercury | Quantity Surveyor | Oxford, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/modeling-quant-analytics-ai-agentic-model-validation-at-moody-s-corporation-4469237830 | Moody's Corporation | Modeling & Quant Analytics - AI & Agentic Model Validation | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-analyst-%E2%80%93-football-modelling-at-singular-recruitment-4493367234 | Singular Recruitment | Quantitative Analyst – Football Modelling | London Area, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-uk-4423005627 | Universal Music Group UK | Management Accountant | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-financial-reporting-accountant-leeds-at-edenbrook-4478903451 | Edenbrook | Group Financial Reporting Accountant (Leeds) | Leeds, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed

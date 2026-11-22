@@ -1527,6 +1527,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Edenbrook": {
+   "licensed": true,
+   "register_name": "Edenbrook Limited",
+   "match": "exact"
+  },
   "Edgworth Partners": {
    "licensed": false,
    "register_name": null,
@@ -3272,6 +3277,11 @@
    "register_name": "Moody's Analytics UK Ltd",
    "match": "alias"
   },
+  "Moody's Corporation": {
+   "licensed": true,
+   "register_name": "Moody's Analytics UK Ltd",
+   "match": "prefix"
+  },
   "MoonPay": {
    "licensed": true,
    "register_name": "MoonPay (UK) Limited",
@@ -4397,6 +4407,11 @@
    "register_name": "Xbridge Limited T/A Simply Business",
    "match": "alias"
   },
+  "Singular Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "SitusAMC": {
    "licensed": false,
    "register_name": null,
@@ -4971,6 +4986,11 @@
    "licensed": true,
    "register_name": "Univers U.K. LTD",
    "match": "exact"
+  },
+  "Universal Music Group UK": {
+   "licensed": true,
+   "register_name": "Universal Music Operations Ltd",
+   "match": "prefix"
   },
   "Universal Music UK": {
    "licensed": true,
