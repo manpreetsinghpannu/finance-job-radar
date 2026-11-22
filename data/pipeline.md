@@ -1991,5 +1991,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-assa-abloy-group-4452835349 | ASSA ABLOY Group | Quantity Surveyor | Lisburn, Northern Ireland, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/corporate-m-a-associate-energy-and-natural-resources-at-hogan-lovells-cadwalader-4475900012 | Hogan Lovells Cadwalader | Corporate M&A Associate (Energy and Natural Resources) | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantitative-systematic-trader-graduate-2027-at-susquehanna-international-group-4438409729 | Susquehanna International Group | Quantitative Systematic Trader - Graduate: 2027 | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-mk-consult-ltd-4493331356 | MK CONSULT LTD | Quantity Surveyor | Oldham, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-onsite-central-limited-4439903348 | OnSite Central Limited | Quantity Surveyor | Walsall, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-amentum-4468819638 | Amentum | Quantity Surveyor | Kingston Upon Hull, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-estimator-at-equals-one-limited-4493331357 | EQUALS ONE LIMITED | Quantity Surveyor / Estimator | Pewsey, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed

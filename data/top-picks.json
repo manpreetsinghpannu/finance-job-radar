@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T08:15:02.539Z",
+ "generated_at": "2026-11-22T09:17:06.991Z",
  "order": [
   "finance",
   "credit",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 38,
+   "matching": 36,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -375,16 +375,6 @@
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 22
-  },
-  "https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Associate--Real-Estate-Asset-Management_R7935-1": {
-   "id": "real_estate",
-   "cv": "Real Estate CV",
-   "score": 19
-  },
-  "https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Associate--Real-Estate-Asset-Management-Operations_R8113": {
-   "id": "real_estate",
-   "cv": "Real Estate CV",
-   "score": 19
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210771123": {
    "id": "investment",
@@ -7466,11 +7456,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/corporate-finance-analyst-remote-at-joblet-ai-4492875917": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.reed.co.uk/jobs/assistant-financial-accountant-12m-ftc/57598549": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -7557,6 +7542,26 @@
    "score": 19
   },
   "https://www.linkedin.com/jobs/view/quantitative-systematic-trader-graduate-2027-at-susquehanna-international-group-4438409729": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/quantity-surveyor-at-mk-consult-ltd-4493331356": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/quantity-surveyor-at-onsite-central-limited-4439903348": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/quantity-surveyor-at-amentum-4468819638": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/quantity-surveyor-estimator-at-equals-one-limited-4493331357": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0

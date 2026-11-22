@@ -282,6 +282,11 @@
    "register_name": "Ambition Europe Limited",
    "match": "exact"
   },
+  "Amentum": {
+   "licensed": true,
+   "register_name": "AMENTUM (UK) LTD",
+   "match": "exact"
+  },
   "Ameriprise": {
    "licensed": false,
    "register_name": null,
@@ -1471,6 +1476,11 @@
    "licensed": true,
    "register_name": "EQT Partners Limited",
    "match": "prefix"
+  },
+  "EQUALS ONE LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "EY": {
    "licensed": true,
@@ -2907,6 +2917,11 @@
    "register_name": null,
    "match": "none"
   },
+  "MK CONSULT LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MLC Partners": {
    "licensed": true,
    "register_name": "MLC PARTNERS LTD",
@@ -3523,6 +3538,11 @@
    "match": "prefix"
   },
   "Oliver Smith Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "OnSite Central Limited": {
    "licensed": false,
    "register_name": null,
    "match": "none"
