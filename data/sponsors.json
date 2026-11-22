@@ -2377,6 +2377,11 @@
    "register_name": "Informa UK Limited",
    "match": "alias"
   },
+  "Ingram Micro": {
+   "licensed": true,
+   "register_name": "Ingram Micro (UK) Ltd",
+   "match": "exact"
+  },
   "Insight Recruitment Solutions Limited": {
    "licensed": false,
    "register_name": null,

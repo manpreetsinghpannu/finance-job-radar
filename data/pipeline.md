@@ -2005,5 +2005,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/group-financial-reporting-accountant-leeds-at-edenbrook-4478903451 | Edenbrook | Group Financial Reporting Accountant (Leeds) | Leeds, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/investment-analyst-or-associate-m-g-plc/57599661 | eFinancialCareers | Investment Analyst or Associate - M&G plc. | London | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-stonbury-4493178424 | Stonbury | Quantity Surveyor | Chawston, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-data-centres-and-industrials-at-octopus-energy-4469173058 | Octopus Energy | Commercial Analyst (Data Centres and Industrials) | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-ftse-250-multi-role-campaign-at-jss-4492359398 | JSS | Finance Business Partner (FTSE 250- multi role campaign) | Hertfordshire, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/division-assistant-accountant-at-lookers-motor-group-limited-4439220813 | Lookers Motor Group Limited | Division Assistant Accountant | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/divison-assistant-accountant-at-lookers-motor-group-limited-4448444862 | Lookers Motor Group Limited | Divison Assistant Accountant | Newcastle Upon Tyne, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-ingram-micro-4475443932 | Ingram Micro | FP&A Analyst | Northwich, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://scotjobsnet.co.uk/job/finance-business-partner-fpa-12-month-fixed-term-contract/ | via ScotJobsNet | Finance Business Partner – FP&A – 12-month fixed term contract | Midlothian, Scotland | posted: 2026-11-22 | note: via ScotJobsNet
 
 ## Processed
