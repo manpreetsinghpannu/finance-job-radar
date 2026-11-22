@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T17:15:50.875Z",
+ "generated_at": "2026-11-22T18:19:58.018Z",
  "order": [
   "finance",
   "credit",
@@ -7655,6 +7655,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-family-office-at-aria-partners-4490314348": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/quantity-surveyor-at-colas-rail-uk-4491645050": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

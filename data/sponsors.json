@@ -1262,6 +1262,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Colas Rail UK": {
+   "licensed": true,
+   "register_name": "Colas Rail Limited",
+   "match": "exact"
+  },
   "Colgate-Palmolive": {
    "licensed": true,
    "register_name": "Colgate-Palmolive (UK) Ltd",

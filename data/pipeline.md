@@ -2015,5 +2015,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/global-banking-markets-structured-credit-strats-london-at-goldman-sachs-4476862508 | Goldman Sachs | Global Banking & Markets, Structured Credit Strats, London | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/client-accountant-at-csc-4466692857 | CSC | Client Accountant | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/finance-analyst/57599743 | CMA Recruitment Group | Finance Analyst | Bournemouth, Dorset | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-family-office-at-aria-partners-4490314348 | Aria Partners | Management Accountant - Family Office | London Area, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-colas-rail-uk-4491645050 | Colas Rail UK | Quantity Surveyor | Birmingham, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed
