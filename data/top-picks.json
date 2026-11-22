@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T15:17:13.519Z",
+ "generated_at": "2026-11-22T16:18:35.010Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 315,
+   "matching": 317,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 115,
+   "matching": 116,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -7521,11 +7521,6 @@
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 16
   },
-  "https://www.linkedin.com/jobs/view/trainee-icaew-chartered-accountant-%E2%80%93-aca-graduate-scheme-at-targetjobs-uk-4493119393": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/quantity-surveyor-at-assa-abloy-group-4452835349": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -7640,6 +7635,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 24
+  },
+  "https://www.linkedin.com/jobs/view/project-accountant-at-lockheed-martin-4492367034": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/global-banking-markets-structured-credit-strats-london-at-goldman-sachs-4476862508": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/client-accountant-at-csc-4466692857": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

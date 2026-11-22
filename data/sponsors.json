@@ -977,6 +977,11 @@
    "register_name": null,
    "match": "none"
   },
+  "CSC": {
+   "licensed": true,
+   "register_name": "CSC MANAGEMENT SERVICES (UK) LIMITED",
+   "match": "prefix"
+  },
   "CSL": {
    "licensed": true,
    "register_name": "CSL Group Services Ltd",
@@ -2806,6 +2811,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Lockheed Martin": {
+   "licensed": true,
+   "register_name": "Lockheed Martin UK Ltd",
+   "match": "exact"
   },
   "Lombard Odier": {
    "licensed": true,

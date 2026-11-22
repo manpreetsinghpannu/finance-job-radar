@@ -2011,5 +2011,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/divison-assistant-accountant-at-lookers-motor-group-limited-4448444862 | Lookers Motor Group Limited | Divison Assistant Accountant | Newcastle Upon Tyne, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-ingram-micro-4475443932 | Ingram Micro | FP&A Analyst | Northwich, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://scotjobsnet.co.uk/job/finance-business-partner-fpa-12-month-fixed-term-contract/ | via ScotJobsNet | Finance Business Partner – FP&A – 12-month fixed term contract | Midlothian, Scotland | posted: 2026-11-22 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/project-accountant-at-lockheed-martin-4492367034 | Lockheed Martin | Project Accountant | Helensburgh, Scotland, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-banking-markets-structured-credit-strats-london-at-goldman-sachs-4476862508 | Goldman Sachs | Global Banking & Markets, Structured Credit Strats, London | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/client-accountant-at-csc-4466692857 | CSC | Client Accountant | London, England, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed

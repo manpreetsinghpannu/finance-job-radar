@@ -1,6 +1,6 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1092 firms checked, 544 matched, 548 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1094 firms checked, 546 matched, 548 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
@@ -555,7 +555,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (70)
+## Matched automatically by close name; worth a glance (71)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -567,6 +567,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Bank of America → Bank of America, N.A. (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Brookfield → Brookfield Global Asset Management Limited (prefix)
+- CSC → CSC MANAGEMENT SERVICES (UK) LIMITED (prefix)
 - Carter Jonas → Carter Jonas Service Company (prefix)
 - Cedar → Cedar Capital Partners Ltd (prefix)
 - Citizens Advice → Citizens Advice 1066 (prefix)
