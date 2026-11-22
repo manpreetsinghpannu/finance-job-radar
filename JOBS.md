@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 12:17** (UK time) · **1472 open roles** at 834 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 13:18** (UK time) · **1472 open roles** at 834 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 12:13** · hourly scan · checked 201 boards · **1 new role**
+**Sun 22 Nov, 13:15** · hourly scan · checked 201 boards · **0 new roles**
 
-### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Investment Analyst or Associate - M&G plc.](https://www.reed.co.uk/jobs/investment-analyst-or-associate-m-g-plc/57599661) | eFinancialCareers | London | ✅ |
+Nothing new this time. The last scan that found something was **Sun 22 Nov, 12:13** (1: Equity 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<sub>Nothing new at: 13:15</sub>
 
 <details>
 <summary><b>12:13</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
@@ -3277,19 +3275,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>13:06</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Commodities Market Risk Analyst - LNG, Power & Emissions](https://www.linkedin.com/jobs/view/commodities-market-risk-analyst-lng-power-emissions-at-morgan-mckinley-4490218918) | Morgan McKinley | London Area, United Kingdom | ✅ |
-
-<sub>4 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (840)](#finance-fpa-cv-840) · [Credit (175)](#credit-cv-175) · [Equity (75)](#equity-cv-75) · [Investment (142)](#investment-ib--pe-cv-142) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (156)](#other-fits-no-cv-closely-may-still-be-worth-a-look-156)
@@ -4809,7 +4794,7 @@ Everything matched so far, newest first within each CV: [Finance (840)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>107 roles taken off the list because the firm closed the posting</summary>
+<summary>106 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -4919,6 +4904,5 @@ Everything matched so far, newest first within each CV: [Finance (840)](#finance
 | Mon 16 Nov, 05:06 | Partnerships - Private Equity | ElevenLabs |
 | Sun 15 Nov, 23:06 | Management Accountant (Healthcare) | Edward Mann |
 | Sun 15 Nov, 21:09 | Investment Analyst - Debt Purchasing/ Collection - £70,000 + bonus | Salt |
-| Sun 15 Nov, 13:08 | Equity Research Analyst, European Real Estate, Global Bank | Greenwich Partners |
 
 </details>
