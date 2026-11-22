@@ -1986,5 +1986,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/project-quantity-surveyor-at-wps-4477404704 | WPS | Project Quantity Surveyor | Worcestershire, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-ccl-facades-4466608306 | CCL Facades | Quantity Surveyor | Liverpool, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/fund-controller-private-credit-hybrid-working/57598600 | eFinancialCareers | Fund Controller - Private Credit Hybrid Working | London | posted: 2026-11-21 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/trader-assistant-fo-%E2%80%93-leading-hedge-fund-%E2%80%93-up-to-%C2%A3200k-total-comp-at-mondrian-alpha-4488298091 | Mondrian Alpha | Trader Assistant (FO) – Leading Hedge Fund – up to £200k total comp | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trainee-icaew-chartered-accountant-%E2%80%93-aca-graduate-scheme-at-targetjobs-uk-4493119393 | targetjobs UK | Trainee ICAEW Chartered Accountant – ACA (Graduate Scheme) | Belfast, Northern Ireland, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-assa-abloy-group-4452835349 | ASSA ABLOY Group | Quantity Surveyor | Lisburn, Northern Ireland, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed

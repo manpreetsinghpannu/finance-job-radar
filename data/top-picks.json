@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:19:53.641Z",
+ "generated_at": "2026-11-22T06:16:59.818Z",
  "order": [
   "finance",
   "credit",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 39,
+   "matching": 40,
    "picks": [
     {
      "title": "Trainee Fund Accountant",
@@ -7535,6 +7535,21 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/trader-assistant-fo-%E2%80%93-leading-hedge-fund-%E2%80%93-up-to-%C2%A3200k-total-comp-at-mondrian-alpha-4488298091": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/trainee-icaew-chartered-accountant-%E2%80%93-aca-graduate-scheme-at-targetjobs-uk-4493119393": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/quantity-surveyor-at-assa-abloy-group-4452835349": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
