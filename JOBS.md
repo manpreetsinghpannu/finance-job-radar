@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 20:14** (UK time) · **1496 open roles** at 850 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 21:16** (UK time) · **1496 open roles** at 850 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 20:11** · hourly scan · checked 201 boards · **0 new roles**
+**Sun 22 Nov, 21:11** · hourly scan · checked 201 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sun 22 Nov, 19:48** (13: Finance 13); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Sunday 22 November
 
-<sub>Nothing new at: 20:11</sub>
+<sub>Nothing new at: 21:11, 20:11</sub>
 
 <details>
 <summary><b>19:48</b> · hourly scan · <b>13 new</b> → Finance 13</summary>
@@ -3237,8 +3237,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 21:07</sub>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (863)](#finance-fpa-cv-863) · [Credit (176)](#credit-cv-176) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (158)](#other-fits-no-cv-closely-may-still-be-worth-a-look-158)
@@ -4782,7 +4780,7 @@ Everything matched so far, newest first within each CV: [Finance (863)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>110 roles taken off the list because the firm closed the posting</summary>
+<summary>109 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -4895,6 +4893,5 @@ Everything matched so far, newest first within each CV: [Finance (863)](#finance
 | Mon 16 Nov, 06:07 | Quantitative Trading & Research – Securities Services – Analyst or Associate | JPMorgan Chase |
 | Mon 16 Nov, 05:06 | Partnerships - Private Equity | ElevenLabs |
 | Sun 15 Nov, 23:06 | Management Accountant (Healthcare) | Edward Mann |
-| Sun 15 Nov, 21:09 | Investment Analyst - Debt Purchasing/ Collection - £70,000 + bonus | Salt |
 
 </details>
