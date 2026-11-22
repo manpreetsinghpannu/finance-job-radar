@@ -1902,6 +1902,11 @@
    "register_name": "Graham Capital LLP",
    "match": "alias"
   },
+  "Grant Thornton": {
+   "licensed": true,
+   "register_name": "Grant Thornton (NI) LLP",
+   "match": "exact"
+  },
   "Grant Thornton UK": {
    "licensed": true,
    "register_name": "Grant Thornton (NI) LLP",

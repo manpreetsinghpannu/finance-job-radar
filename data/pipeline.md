@@ -1973,5 +1973,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-otc-products-systematic-macro-hedge-fund-at-tempest-vane-partners-4487530335 | Tempest Vane Partners | Quantitative Researcher – OTC Products | Systematic Macro | Hedge Fund | London Area, United Kingdom | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/interim-finance-business-partner-at-investigo-4487287716 | Investigo | Interim Finance Business Partner | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/corporate-finance-analyst-remote-at-joblet-ai-4492875917 | Joblet-AI | Corporate Finance Analyst (Remote) | United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-financial-accountant-12m-ftc/57598549 | Axon Moore Group Ltd | Assistant Financial Accountant - 12m FTC | Manchester, Lancashire | posted: 2026-11-21 | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/interim-financial-accountant/57592368 | Grant Thornton | Interim Financial Accountant | United Kingdom | note: via Reed
 
 ## Processed

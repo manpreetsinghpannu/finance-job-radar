@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 21 Nov, 23:32** (UK time) · **1445 open roles** at 818 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 00:16** (UK time) · **1446 open roles** at 819 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 21 Nov, 23:28** · hourly scan · checked 201 boards · **1 new role**
+**Sun 22 Nov, 00:13** · hourly scan · checked 201 boards · **2 new roles**
 
-### Finance (FP&A) CV: 1
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-21 | [Corporate Finance Analyst (Remote)](https://www.linkedin.com/jobs/view/corporate-finance-analyst-remote-at-joblet-ai-4492875917) | Joblet-AI | United Kingdom | ❔ |
+| 2026-11-21 | [Assistant Financial Accountant - 12m FTC](https://www.reed.co.uk/jobs/assistant-financial-accountant-12m-ftc/57598549) | Axon Moore Group Ltd | Manchester, Lancashire | ❔ |
+| — | [Interim Financial Accountant](https://www.reed.co.uk/jobs/interim-financial-accountant/57592368) | Grant Thornton | United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (306 matching)
+**Finance (FP&A) CV** (307 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-hays-4492594877) · Hays · Manchester, England, United Kingdom · posted 2026-11-20 · ✅
@@ -60,6 +61,20 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Sunday 22 November
+
+<details>
+<summary><b>00:13</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-21 | [Assistant Financial Accountant - 12m FTC](https://www.reed.co.uk/jobs/assistant-financial-accountant-12m-ftc/57598549) | Axon Moore Group Ltd | Manchester, Lancashire | ❔ |
+| — | [Interim Financial Accountant](https://www.reed.co.uk/jobs/interim-financial-accountant/57592368) | Grant Thornton | United Kingdom | ✅ |
+
+</details>
 
 ### Saturday 21 November
 
@@ -3177,25 +3192,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>00:07</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Market Risk Product Analyst](https://www.reed.co.uk/jobs/market-risk-product-analyst/57562979) | eFinancialCareers | London | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (831)](#finance-fpa-cv-831) · [Credit (174)](#credit-cv-174) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (36)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-36) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (833)](#finance-fpa-cv-833) · [Credit (173)](#credit-cv-173) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (36)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-36) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
-### Finance (FP&A) CV: 831
+### Finance (FP&A) CV: 833
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| — | [Interim Financial Accountant](https://www.reed.co.uk/jobs/interim-financial-accountant/57592368) | Grant Thornton | United Kingdom | ✅ |
 | 2026-11-21 | [Commercial Finance Business Partner](https://www.adzuna.co.uk/jobs/land/ad/5973991358) | Safran | Penn Fields, Wolverhampton | ✅ |
 | 2026-11-21 | [Finance Analyst (12-month FTC)](https://www.adzuna.co.uk/jobs/land/ad/5973992185) | Vitality Corporate Services Limited | Westbourne, Bournemouth | ✅ |
 | 2026-11-21 | [Group & International FP&A Analyst](https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803) | MAGMAS | London, England, United Kingdom | ❔ |
@@ -3221,6 +3226,7 @@ Everything matched so far, newest first within each CV: [Finance (831)](#finance
 | 2026-11-21 | [Management Accountant](https://www.adzuna.co.uk/jobs/details/5973916833) | Lucy Group | Oxford, Oxfordshire | ❔ |
 | 2026-11-21 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-ukpharm-limited-4493266729) | UKPHARM LIMITED | London Area, United Kingdom | ❔ |
 | 2026-11-21 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-collins-aerospace-4485374763) | Collins Aerospace | Plymouth, England, United Kingdom | ❔ |
+| 2026-11-21 | [Assistant Financial Accountant - 12m FTC](https://www.reed.co.uk/jobs/assistant-financial-accountant-12m-ftc/57598549) | Axon Moore Group Ltd | Manchester, Lancashire | ❔ |
 | 2026-11-21 | [Interim Accountant - Local Government](https://www.linkedin.com/jobs/view/interim-accountant-local-government-at-grant-thornton-uk-4476829156) | Grant Thornton UK | Edinburgh, Scotland, United Kingdom | ✅ |
 | 2026-11-21 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-ds-smith-4439892855) | DS Smith | Caerphilly, Wales, United Kingdom | ✅ |
 | 2026-11-21 | [Finance Systems Implementation Accountant (ACA)](https://www.linkedin.com/jobs/view/finance-systems-implementation-accountant-aca-at-police-federation-of-england-and-wales-4483508475) | Police Federation of England and Wales | Leatherhead, England, United Kingdom | ✅ |
@@ -4028,7 +4034,7 @@ Everything matched so far, newest first within each CV: [Finance (831)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 174
+### Credit CV: 173
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4202,7 +4208,6 @@ Everything matched so far, newest first within each CV: [Finance (831)](#finance
 | 2026-11-02 | [Associate, Private Credit Portfolio Analytics & Reporting, PFS - Edinburgh](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--Private-Credit-Portfolio-Analytics---Reporting--PFS---Edinburgh_R265409) | BlackRock | Edinburgh, Scotland | ✅ |
 | 2026-11-02 | [Associate, Private Credit](https://invesco.wd1.myworkdayjobs.com/ivz/job/London-London/Associate--Private-Credit_R-13259) | Invesco | London, London | ✅ |
 | 2026-10-28 | [Delegated Underwriting Analyst](https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Delegated-Underwriting-Analyst_RQ14442) | MS Amlin | London | ✅ |
-| 2026-10-28 | [Capital Modelling Risk Analyst](https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604295-1) | AIG | London | ✅ |
 | 2026-10-27 | [Credit Risk Analyst](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Risk-Analyst_JR_10039785) | Ayvens | Bristol CEC | ✅ |
 | 2026-10-27 | [Graduate Credit Policy Analyst](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Policy-Analyst_JR_10039776-1) | Ayvens | Bristol CEC | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
@@ -4680,10 +4685,11 @@ Everything matched so far, newest first within each CV: [Finance (831)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>104 roles taken off the list because the firm closed the posting</summary>
+<summary>105 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 22 Nov, 00:15 | Capital Modelling Risk Analyst | AIG |
 | Sat 21 Nov, 16:15 | Financial Research Analyst (Remote) | Joblet-AI |
 | Sat 21 Nov, 16:14 | Management Accountant | Astra Asset Management |
 | Sat 21 Nov, 10:19 | Commercial Finance Analyst | Giacom |
