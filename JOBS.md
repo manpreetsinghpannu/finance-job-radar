@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 10:33** (UK time) · **1467 open roles** at 830 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 11:17** (UK time) · **1467 open roles** at 830 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,26 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 10:29** · hourly scan · checked 201 boards · **4 new roles**
+**Sun 22 Nov, 11:13** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-22 | [Interim Syndicate Accountant](https://www.linkedin.com/jobs/view/interim-syndicate-accountant-at-grant-thornton-uk-4476814846) | Grant Thornton UK | Birmingham, England, United Kingdom | ✅ |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-22 | [Credit Portfolio Group - XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://www.linkedin.com/jobs/view/credit-portfolio-group-xva-pricing-capital-solutions-emea-analyst-or-associate-at-jpmorganchase-4477860979) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
-
-### Other (fits no CV closely, may still be worth a look): 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-22 | [Quantitative Trading Analyst](https://www.linkedin.com/jobs/view/quantitative-trading-analyst-at-drw-4449215701) | DRW | London, England, United Kingdom | ✅ |
-| 2026-11-22 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-mercury-4467837987) | Mercury | Oxford, England, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Sun 22 Nov, 10:29** (4: Finance 1 · Credit 1 · Other 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -75,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<sub>Nothing new at: 11:13</sub>
 
 <details>
 <summary><b>10:29</b> · hourly scan · <b>4 new</b> → Finance 1 · Credit 1 · Other 2</summary>
@@ -3272,17 +3257,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <sub>Nothing new at: 12:06, 11:35</sub>
-
-<details>
-<summary><b>11:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Assistant Finance Business Partner](https://www.linkedin.com/jobs/view/assistant-finance-business-partner-at-ocs-4491099863) | OCS | Ipswich, England, United Kingdom | ✅ |
-
-</details>
 
 ## All open roles by CV
 
