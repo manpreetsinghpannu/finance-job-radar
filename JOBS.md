@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 02:57** (UK time) · **1457 open roles** at 824 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 03:17** (UK time) · **1457 open roles** at 824 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,21 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 02:52** · hourly scan · checked 201 boards · **4 new roles**
+**Sun 22 Nov, 03:13** · hourly scan · checked 201 boards · **0 new roles**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Fund Controller - Private Credit Hybrid Working](https://www.reed.co.uk/jobs/fund-controller-private-credit-hybrid-working/57598600) | eFinancialCareers | London | ✅ |
-
-### Other (fits no CV closely, may still be worth a look): 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-m-group-4389712794) | M Group | Suffolk, England, United Kingdom | ✅ |
-| 2026-11-21 | [Project Quantity Surveyor](https://www.linkedin.com/jobs/view/project-quantity-surveyor-at-wps-4477404704) | WPS | Worcestershire, England, United Kingdom | ❔ |
-| 2026-11-21 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-ccl-facades-4466608306) | CCL Facades | Liverpool, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Sun 22 Nov, 02:52** (4: Credit 1 · Other 3); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -70,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<sub>Nothing new at: 03:13</sub>
 
 <details>
 <summary><b>02:52</b> · hourly scan · <b>4 new</b> → Credit 1 · Other 3</summary>
