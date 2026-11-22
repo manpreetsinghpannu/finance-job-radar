@@ -1989,5 +1989,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/trader-assistant-fo-%E2%80%93-leading-hedge-fund-%E2%80%93-up-to-%C2%A3200k-total-comp-at-mondrian-alpha-4488298091 | Mondrian Alpha | Trader Assistant (FO) – Leading Hedge Fund – up to £200k total comp | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/trainee-icaew-chartered-accountant-%E2%80%93-aca-graduate-scheme-at-targetjobs-uk-4493119393 | targetjobs UK | Trainee ICAEW Chartered Accountant – ACA (Graduate Scheme) | Belfast, Northern Ireland, United Kingdom | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantity-surveyor-at-assa-abloy-group-4452835349 | ASSA ABLOY Group | Quantity Surveyor | Lisburn, Northern Ireland, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-m-a-associate-energy-and-natural-resources-at-hogan-lovells-cadwalader-4475900012 | Hogan Lovells Cadwalader | Corporate M&A Associate (Energy and Natural Resources) | London Area, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-systematic-trader-graduate-2027-at-susquehanna-international-group-4438409729 | Susquehanna International Group | Quantitative Systematic Trader - Graduate: 2027 | London, England, United Kingdom | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed

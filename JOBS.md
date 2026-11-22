@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sun 22 Nov, 06:16** (UK time) · **1460 open roles** at 824 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sun 22 Nov, 07:16** (UK time) · **1462 open roles** at 825 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 06:12** · hourly scan · checked 201 boards · **3 new roles**
+**Sun 22 Nov, 07:13** · hourly scan · checked 201 boards · **2 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-22 | [Trainee ICAEW Chartered Accountant – ACA (Graduate Scheme)](https://www.linkedin.com/jobs/view/trainee-icaew-chartered-accountant-%E2%80%93-aca-graduate-scheme-at-targetjobs-uk-4493119393) | targetjobs UK | Belfast, Northern Ireland, United Kingdom | ❔ |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
+### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-21 | [Trader Assistant (FO) – Leading Hedge Fund – up to £200k total comp](https://www.linkedin.com/jobs/view/trader-assistant-fo-%E2%80%93-leading-hedge-fund-%E2%80%93-up-to-%C2%A3200k-total-comp-at-mondrian-alpha-4488298091) | Mondrian Alpha | London Area, United Kingdom | ✅ |
+| 2026-11-21 | [Corporate M&A Associate (Energy and Natural Resources)](https://www.linkedin.com/jobs/view/corporate-m-a-associate-energy-and-natural-resources-at-hogan-lovells-cadwalader-4475900012) | Hogan Lovells Cadwalader | London Area, United Kingdom | ✅ |
 
 ### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-21 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-assa-abloy-group-4452835349) | ASSA ABLOY Group | Lisburn, Northern Ireland, United Kingdom | ✅ |
+| 2026-11-21 | [Quantitative Systematic Trader - Graduate: 2027](https://www.linkedin.com/jobs/view/quantitative-systematic-trader-graduate-2027-at-susquehanna-international-group-4438409729) | Susquehanna International Group | London, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -49,7 +43,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) · Rothschild & Co · London · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 
-**Investment (IB / PE) CV** (98 matching)
+**Investment (IB / PE) CV** (99 matching)
 
 1. [Analyst - Investment Banking M&A](https://www.adzuna.co.uk/jobs/details/5972737427) · Equiteq · London, UK · posted 2026-11-20 · ✅
 2. [French speaking Investment Banking M&A Generalist Analyst & Associate](https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161) · eFinancialCareers · London · posted 2026-11-19 · ✅
@@ -74,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<details>
+<summary><b>07:13</b> · hourly scan · <b>2 new</b> → Investment 1 · Other 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-21 | [Corporate M&A Associate (Energy and Natural Resources)](https://www.linkedin.com/jobs/view/corporate-m-a-associate-energy-and-natural-resources-at-hogan-lovells-cadwalader-4475900012) | Hogan Lovells Cadwalader | London Area, United Kingdom | ✅ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-21 | [Quantitative Systematic Trader - Graduate: 2027](https://www.linkedin.com/jobs/view/quantitative-systematic-trader-graduate-2027-at-susquehanna-international-group-4438409729) | Susquehanna International Group | London, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>06:12</b> · hourly scan · <b>3 new</b> → Finance 1 · Fund 1 · Other 1</summary>
@@ -3263,20 +3274,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>07:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-14 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-integrity360-4481691915) | Integrity360 | Chester, England, United Kingdom | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (838)](#finance-fpa-cv-838) · [Credit (174)](#credit-cv-174) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (147)](#other-fits-no-cv-closely-may-still-be-worth-a-look-147)
+Everything matched so far, newest first within each CV: [Finance (838)](#finance-fpa-cv-838) · [Credit (174)](#credit-cv-174) · [Equity (74)](#equity-cv-74) · [Investment (142)](#investment-ib--pe-cv-142) · [Consulting (21)](#consulting-cv-21) · [Real Estate (27)](#real-estate-cv-27) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (148)](#other-fits-no-cv-closely-may-still-be-worth-a-look-148)
 
 ### Finance (FP&A) CV: 838
 
@@ -4379,11 +4379,12 @@ Everything matched so far, newest first within each CV: [Finance (838)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 141
+### Investment (IB / PE) CV: 142
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-21 | [Investment Banking Associate - Debt Advisory](https://www.linkedin.com/jobs/view/investment-banking-associate-debt-advisory-at-baird-4476857727) | Baird | London, England, United Kingdom | ✅ |
+| 2026-11-21 | [Corporate M&A Associate (Energy and Natural Resources)](https://www.linkedin.com/jobs/view/corporate-m-a-associate-energy-and-natural-resources-at-hogan-lovells-cadwalader-4475900012) | Hogan Lovells Cadwalader | London Area, United Kingdom | ✅ |
 | 2026-11-21 | [Investment Associate](https://www.adzuna.co.uk/jobs/details/5973978489) | Public Sector Resourcing CWS | Bridge Of Dee, Aberdeen | ❔ |
 | 2026-11-20 | [Analyst - Investment Banking M&A](https://www.adzuna.co.uk/jobs/details/5972737427) | Equiteq | London, UK | ✅ |
 | 2026-11-20 | [Leveraged Finance Investment Banking Associate](https://www.linkedin.com/jobs/view/leveraged-finance-investment-banking-associate-at-metis-search-4491914278) | Metis Search | London Area, United Kingdom | ❔ |
@@ -4626,7 +4627,7 @@ Everything matched so far, newest first within each CV: [Finance (838)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 147
+### Other (fits no CV closely, may still be worth a look): 148
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4643,6 +4644,7 @@ Everything matched so far, newest first within each CV: [Finance (838)](#finance
 | 2026-11-21 | [Project Quantity Surveyor](https://www.linkedin.com/jobs/view/project-quantity-surveyor-at-wps-4477404704) | WPS | Worcestershire, England, United Kingdom | ❔ |
 | 2026-11-21 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-ccl-facades-4466608306) | CCL Facades | Liverpool, England, United Kingdom | ❔ |
 | 2026-11-21 | [Quantity Surveyor](https://www.linkedin.com/jobs/view/quantity-surveyor-at-assa-abloy-group-4452835349) | ASSA ABLOY Group | Lisburn, Northern Ireland, United Kingdom | ✅ |
+| 2026-11-21 | [Quantitative Systematic Trader - Graduate: 2027](https://www.linkedin.com/jobs/view/quantitative-systematic-trader-graduate-2027-at-susquehanna-international-group-4438409729) | Susquehanna International Group | London, England, United Kingdom | ✅ |
 | — | [Valuations Associate - Universities Superannuation Scheme Limited](https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025) | eFinancialCareers | London | ✅ |
 | 2026-11-20 | [Graduate Finance Programme](https://www.linkedin.com/jobs/view/graduate-finance-programme-at-targetjobs-uk-4492551053) | targetjobs UK | Burton Upon Trent, England, United Kingdom | ❔ |
 | 2026-11-20 | [Trainee Financial Adviser (Graduate)](https://www.linkedin.com/jobs/view/trainee-financial-adviser-graduate-at-raymond-james-thorpe-park-leeds-4491297946) | Raymond James, Thorpe Park Leeds | Leeds, England, United Kingdom | ❔ |

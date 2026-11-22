@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T06:16:59.818Z",
+ "generated_at": "2026-11-22T07:16:49.173Z",
  "order": [
   "finance",
   "credit",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 98,
+   "matching": 99,
    "picks": [
     {
      "title": "Analyst - Investment Banking M&A",
@@ -7547,6 +7547,16 @@
    "score": 12
   },
   "https://www.linkedin.com/jobs/view/quantity-surveyor-at-assa-abloy-group-4452835349": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/corporate-m-a-associate-energy-and-natural-resources-at-hogan-lovells-cadwalader-4475900012": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-systematic-trader-graduate-2027-at-susquehanna-international-group-4438409729": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0

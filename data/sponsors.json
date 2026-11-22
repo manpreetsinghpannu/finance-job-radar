@@ -2192,6 +2192,11 @@
    "register_name": "HISCOX UNDERWRITING GROUP SERVICES LIMITED",
    "match": "alias"
   },
+  "Hogan Lovells Cadwalader": {
+   "licensed": true,
+   "register_name": "Hogan Lovells Cadwalader International LLP",
+   "match": "exact"
+  },
   "Holland & Barrett": {
    "licensed": true,
    "register_name": "Holland & Barrett Retail Limited",
