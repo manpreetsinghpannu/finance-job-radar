@@ -4847,6 +4847,11 @@
    "register_name": "AA (GLW) LTD",
    "match": "exact"
   },
+  "The Automobile Association": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "The Citco Group": {
    "licensed": true,
    "register_name": "Citco London Ltd",
@@ -5326,6 +5331,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Waters Corporation": {
+   "licensed": true,
+   "register_name": "Waters Limited",
+   "match": "exact"
   },
   "Wates Group": {
    "licensed": true,

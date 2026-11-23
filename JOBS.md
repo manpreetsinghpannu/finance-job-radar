@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 00:03** (UK time) · **1495 open roles** at 849 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 00:19** (UK time) · **1500 open roles** at 851 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,23 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sun 22 Nov, 23:59** · hourly scan · checked 201 boards · **0 new roles**
+**Mon 23 Nov, 00:15** · hourly scan · checked 201 boards · **5 new roles**
 
-Nothing new this time. The last scan that found something was **Sun 22 Nov, 23:11** (2: Credit 2); open it in the scan log below.
+### Finance (FP&A) CV: 5
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Interim Finance Analyst](https://www.reed.co.uk/jobs/interim-finance-analyst/57597856) | eFinancialCareers | Northampton, Northamptonshire | ✅ |
+| 2026-11-22 | [Management Accountant FTC](https://www.reed.co.uk/jobs/management-accountant-ftc/57599741) | Reed | Bristol, Avon | ❔ |
+| 2026-11-22 | [Commercial Analyst - Driving School](https://www.reed.co.uk/jobs/commercial-analyst-driving-school/57599453) | The Automobile Association | Cardiff, South Glamorgan | ❔ |
+| 2026-11-22 | [Financial Accountant (12-Month Fixed-Term Contract)](https://www.linkedin.com/jobs/view/financial-accountant-12-month-fixed-term-contract-at-waters-corporation-4492075310) | Waters Corporation | Wilmslow, England, United Kingdom | ✅ |
+| — | [Trust Accountant - High Profile Team - Great Progression.....](https://www.reed.co.uk/jobs/trust-accountant-high-profile-team-great-progression/57595625) | Hawke Search | Canterbury, Kent | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (323 matching)
+**Finance (FP&A) CV** (325 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
@@ -56,6 +64,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Monday 23 November
+
+<details>
+<summary><b>00:15</b> · hourly scan · <b>5 new</b> → Finance 5</summary>
+
+#### Finance (FP&A) CV: 5
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Interim Finance Analyst](https://www.reed.co.uk/jobs/interim-finance-analyst/57597856) | eFinancialCareers | Northampton, Northamptonshire | ✅ |
+| 2026-11-22 | [Management Accountant FTC](https://www.reed.co.uk/jobs/management-accountant-ftc/57599741) | Reed | Bristol, Avon | ❔ |
+| 2026-11-22 | [Commercial Analyst - Driving School](https://www.reed.co.uk/jobs/commercial-analyst-driving-school/57599453) | The Automobile Association | Cardiff, South Glamorgan | ❔ |
+| 2026-11-22 | [Financial Accountant (12-Month Fixed-Term Contract)](https://www.linkedin.com/jobs/view/financial-accountant-12-month-fixed-term-contract-at-waters-corporation-4492075310) | Waters Corporation | Wilmslow, England, United Kingdom | ✅ |
+| — | [Trust Accountant - High Profile Team - Great Progression.....](https://www.reed.co.uk/jobs/trust-accountant-high-profile-team-great-progression/57595625) | Hawke Search | Canterbury, Kent | ❔ |
+
+</details>
 
 ### Sunday 22 November
 
@@ -3217,31 +3242,16 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>00:04</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57567575) | Vermelo RPO | Salford, Lancashire | ❔ |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Trading Risk Analyst Execution & Monitoring](https://www.reed.co.uk/jobs/trading-risk-analyst-execution-monitoring/57567924) | eFinancialCareers | London | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (862)](#finance-fpa-cv-862) · [Credit (176)](#credit-cv-176) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (158)](#other-fits-no-cv-closely-may-still-be-worth-a-look-158)
+Everything matched so far, newest first within each CV: [Finance (867)](#finance-fpa-cv-867) · [Credit (176)](#credit-cv-176) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (158)](#other-fits-no-cv-closely-may-still-be-worth-a-look-158)
 
-### Finance (FP&A) CV: 862
+### Finance (FP&A) CV: 867
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| — | [Interim Finance Analyst](https://www.reed.co.uk/jobs/interim-finance-analyst/57597856) | eFinancialCareers | Northampton, Northamptonshire | ✅ |
+| — | [Trust Accountant - High Profile Team - Great Progression.....](https://www.reed.co.uk/jobs/trust-accountant-high-profile-team-great-progression/57595625) | Hawke Search | Canterbury, Kent | ❔ |
 | 2026-11-22 | [Finance Business Partner – FP&A – 12-month fixed term contract](https://scotjobsnet.co.uk/job/finance-business-partner-fpa-12-month-fixed-term-contract/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
 | 2026-11-22 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-ingram-micro-4475443932) | Ingram Micro | Northwich, England, United Kingdom | ✅ |
 | 2026-11-22 | [Assistant Management Accountant](https://www.adzuna.co.uk/jobs/details/5974908388) | Norfolk and Norwich University Hospital | Colney, Norwich | ✅ |
@@ -3258,6 +3268,7 @@ Everything matched so far, newest first within each CV: [Finance (862)](#finance
 | 2026-11-22 | [Finance Business Partner (FTSE 250- multi role campaign)](https://www.linkedin.com/jobs/view/finance-business-partner-ftse-250-multi-role-campaign-at-jss-4492359398) | JSS | Hertfordshire, England, United Kingdom | ❔ |
 | — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57599743) | CMA Recruitment Group | Bournemouth, Dorset | ❔ |
 | 2026-11-22 | [Finance Business Partner](https://www.adzuna.co.uk/jobs/details/5975277628) | MBDA Missile Systems | UK | ❔ |
+| 2026-11-22 | [Management Accountant FTC](https://www.reed.co.uk/jobs/management-accountant-ftc/57599741) | Reed | Bristol, Avon | ❔ |
 | 2026-11-22 | [Assistant Financial Controller](https://www.adzuna.co.uk/jobs/details/5974915586) | PPHE Hotel Group | Waterloo, South East London | ❔ |
 | 2026-11-22 | [Assistant Accountant - Multi Franchise](https://www.linkedin.com/jobs/view/assistant-accountant-multi-franchise-at-stoneacre-motor-group-4493117630) | Stoneacre Motor Group | Cleckheaton, England, United Kingdom | ❔ |
 | 2026-11-22 | [Division Assistant Accountant](https://www.linkedin.com/jobs/view/division-assistant-accountant-at-lookers-motor-group-limited-4439220813) | Lookers Motor Group Limited | Stoke-On-Trent, England, United Kingdom | ❔ |
@@ -3266,10 +3277,12 @@ Everything matched so far, newest first within each CV: [Finance (862)](#finance
 | 2026-11-22 | [Assistant Accountant - Basingstoke](https://www.adzuna.co.uk/jobs/details/5974913434) | Miller Homes | Basingstoke, Hampshire | ❔ |
 | 2026-11-22 | [Assistant Accountant - Derby](https://www.adzuna.co.uk/jobs/details/5974911657) | Miller Homes | Pride Park, Derby | ❔ |
 | 2026-11-22 | [Financial Controller](https://www.adzuna.co.uk/jobs/details/5974896988) | CIBT | Shadwell, East London | ✅ |
+| 2026-11-22 | [Commercial Analyst - Driving School](https://www.reed.co.uk/jobs/commercial-analyst-driving-school/57599453) | The Automobile Association | Cardiff, South Glamorgan | ❔ |
 | — | [Commercial Analyst Role](https://www.reed.co.uk/jobs/commercial-analyst-role/57590392) | DHL | Slough, Berkshire | ✅ |
 | 2026-11-22 | [Interim Syndicate Accountant](https://www.linkedin.com/jobs/view/interim-syndicate-accountant-at-grant-thornton-uk-4476814846) | Grant Thornton UK | Birmingham, England, United Kingdom | ✅ |
 | 2026-11-22 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-lockheed-martin-4492367034) | Lockheed Martin | Helensburgh, Scotland, United Kingdom | ✅ |
 | 2026-11-22 | [Treasury and Securitisation Reporting Partner](https://www.adzuna.co.uk/jobs/details/5974908501) | The Nottingham Building Society | UK | ✅ |
+| 2026-11-22 | [Financial Accountant (12-Month Fixed-Term Contract)](https://www.linkedin.com/jobs/view/financial-accountant-12-month-fixed-term-contract-at-waters-corporation-4492075310) | Waters Corporation | Wilmslow, England, United Kingdom | ✅ |
 | 2026-11-22 | [Financial Accountant](https://www.adzuna.co.uk/jobs/land/ad/5974908179) | Seven Investment Management | London, UK | ❔ |
 | 2026-11-22 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-l3harris-technologies-4469513908) | L3Harris Technologies | Brighton, England, United Kingdom | ❔ |
 | 2026-11-22 | [Chartered Accountant (Remote)](https://www.linkedin.com/jobs/view/chartered-accountant-remote-at-joblet-ai-4493173749) | Joblet-AI | United Kingdom | ❔ |
