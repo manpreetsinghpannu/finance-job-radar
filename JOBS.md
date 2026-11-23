@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 08:15** (UK time) · **1507 open roles** at 856 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 08:33** (UK time) · **1509 open roles** at 857 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 08:10** · hourly scan · checked 201 boards · **0 new roles**
+**Mon 23 Nov, 08:29** · hourly scan · checked 201 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Mon 23 Nov, 07:12** (5: Finance 3 · Equity 1 · Other 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [FP&A Specialist, AI Expert (Remote, EMEA)](https://www.linkedin.com/jobs/view/fp-a-specialist-ai-expert-remote-emea-at-weekday-ai-yc-w21-4493618407) | Weekday AI | United Kingdom | ❔ |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [Hedge Fund Ops Analyst - Credit](https://www.linkedin.com/jobs/view/hedge-fund-ops-analyst-credit-at-one-ten-associates-4479359310) | One Ten Associates | London Area, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -60,6 +70,23 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Monday 23 November
 
 <sub>Nothing new at: 08:10</sub>
+
+<details>
+<summary><b>08:29</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [FP&A Specialist, AI Expert (Remote, EMEA)](https://www.linkedin.com/jobs/view/fp-a-specialist-ai-expert-remote-emea-at-weekday-ai-yc-w21-4493618407) | Weekday AI | United Kingdom | ❔ |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [Hedge Fund Ops Analyst - Credit](https://www.linkedin.com/jobs/view/hedge-fund-ops-analyst-credit-at-one-ten-associates-4479359310) | One Ten Associates | London Area, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>07:12</b> · hourly scan · <b>5 new</b> → Finance 3 · Equity 1 · Other 1</summary>
@@ -3258,9 +3285,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (871)](#finance-fpa-cv-871) · [Credit (177)](#credit-cv-177) · [Equity (75)](#equity-cv-75) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (20)](#consulting-cv-20) · [Real Estate (25)](#real-estate-cv-25) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (159)](#other-fits-no-cv-closely-may-still-be-worth-a-look-159)
+Everything matched so far, newest first within each CV: [Finance (872)](#finance-fpa-cv-872) · [Credit (178)](#credit-cv-178) · [Equity (75)](#equity-cv-75) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (20)](#consulting-cv-20) · [Real Estate (25)](#real-estate-cv-25) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (159)](#other-fits-no-cv-closely-may-still-be-worth-a-look-159)
 
-### Finance (FP&A) CV: 871
+### Finance (FP&A) CV: 872
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3270,6 +3297,7 @@ Everything matched so far, newest first within each CV: [Finance (871)](#finance
 | 2026-11-23 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-hire-rightt-executive-search-hr-advisory-4488587892) | Hire Rightt - Executive Search & HR Advisory | England, United Kingdom | ❔ |
 | 2026-11-23 | [Graduate Commercial Analyst - £40,000-£50,000 (London, UK)](https://www.linkedin.com/jobs/view/graduate-commercial-analyst-%C2%A340-000-%C2%A350-000-london-uk-at-cv-bridge-ltd-4493594691) | CV-BRIDGE LTD | Greater London, England, United Kingdom | ❔ |
 | 2026-11-23 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-michael-page-4493392805) | Michael Page | Ae, Scotland, United Kingdom | ✅ |
+| 2026-11-23 | [FP&A Specialist, AI Expert (Remote, EMEA)](https://www.linkedin.com/jobs/view/fp-a-specialist-ai-expert-remote-emea-at-weekday-ai-yc-w21-4493618407) | Weekday AI | United Kingdom | ❔ |
 | — | [Trust Accountant - High Profile Team - Great Progression.....](https://www.reed.co.uk/jobs/trust-accountant-high-profile-team-great-progression/57595625) | Hawke Search | Canterbury, Kent | ❔ |
 | 2026-11-22 | [Finance Business Partner – FP&A – 12-month fixed term contract](https://scotjobsnet.co.uk/job/finance-business-partner-fpa-12-month-fixed-term-contract/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
 | 2026-11-22 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-ingram-micro-4475443932) | Ingram Micro | Northwich, England, United Kingdom | ✅ |
@@ -4136,10 +4164,11 @@ Everything matched so far, newest first within each CV: [Finance (871)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 177
+### Credit CV: 178
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-23 | [Hedge Fund Ops Analyst - Credit](https://www.linkedin.com/jobs/view/hedge-fund-ops-analyst-credit-at-one-ten-associates-4479359310) | One Ten Associates | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Credit Hire Technical Specialist](https://www.linkedin.com/jobs/view/credit-hire-technical-specialist-at-keoghs-4442828346) | Keoghs | Bolton, England, United Kingdom | ❔ |
 | 2026-11-22 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) | Aramco Trading Limited | London Area, United Kingdom | ✅ |
 | 2026-11-22 | [Credit Portfolio Group - XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://www.linkedin.com/jobs/view/credit-portfolio-group-xva-pricing-capital-solutions-emea-analyst-or-associate-at-jpmorganchase-4477860979) | JPMorganChase | Greater London, England, United Kingdom | ❔ |

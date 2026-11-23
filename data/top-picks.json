@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T08:15:05.785Z",
+ "generated_at": "2026-11-23T08:33:16.667Z",
  "order": [
   "finance",
   "credit",
@@ -7785,6 +7785,16 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-specialist-ai-expert-remote-emea-at-weekday-ai-yc-w21-4493618407": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/hedge-fund-ops-analyst-credit-at-one-ten-associates-4479359310": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
   }
  }
 }

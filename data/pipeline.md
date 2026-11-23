@@ -2050,5 +2050,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/graduate-finance-programme-at-severn-trent-4493607755 | Severn Trent | Graduate Finance Programme | Coventry, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/graduate-commercial-analyst-%C2%A340-000-%C2%A350-000-london-uk-at-cv-bridge-ltd-4493594691 | CV-BRIDGE LTD | Graduate Commercial Analyst - £40,000-£50,000 (London, UK) | Greater London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-nucleus-financial-4493608970 | Nucleus Financial | Investment Analyst | Salisbury, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-specialist-ai-expert-remote-emea-at-weekday-ai-yc-w21-4493618407 | Weekday AI (YC W21) | FP&A Specialist, AI Expert (Remote, EMEA) | United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/hedge-fund-ops-analyst-credit-at-one-ten-associates-4479359310 | One Ten Associates | Hedge Fund Ops Analyst - Credit | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed

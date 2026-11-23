@@ -5397,6 +5397,11 @@
    "register_name": "WE DO CARE (LONDON) LTD",
    "match": "prefix"
   },
+  "Weekday AI": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Wellington Management": {
    "licensed": true,
    "register_name": "Wellington Management International Limited",
