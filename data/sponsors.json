@@ -2257,6 +2257,11 @@
    "register_name": "Harvey Nash Limited",
    "match": "exact"
   },
+  "Hastings Direct": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Havering Schools": {
    "licensed": false,
    "register_name": null,
@@ -2636,6 +2641,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "JSS Search Limited": {
+   "licensed": true,
+   "register_name": "JSS Search Limited",
+   "match": "exact"
   },
   "Jagex: The RuneScape Company": {
    "licensed": false,
@@ -3317,6 +3327,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Medlock Partners Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Medpace": {
    "licensed": true,
    "register_name": "Medpace UK Limited",
@@ -3661,6 +3676,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Nisbets": {
+   "licensed": true,
+   "register_name": "Nisbets Plc",
+   "match": "exact"
   },
   "Nium": {
    "licensed": true,
@@ -4657,6 +4677,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Sharp Europe": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Shawbrook": {
    "licensed": true,
    "register_name": "SHAWBROOK BANK LIMITED",
@@ -5142,6 +5167,11 @@
    "register_name": null,
    "match": "none"
   },
+  "The Sterling Choice": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "The Travel Corporation": {
    "licensed": true,
    "register_name": "The Travel Company Limited",
@@ -5201,6 +5231,11 @@
    "licensed": true,
    "register_name": "Together Group Holdings Limited",
    "match": "exact"
+  },
+  "Together - loans, mortgages & finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Totum Partners": {
    "licensed": false,
@@ -5761,6 +5796,11 @@
    "licensed": true,
    "register_name": "Zeller UK Limited",
    "match": "exact"
+  },
+  "Zenobē": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Zilch": {
    "licensed": true,

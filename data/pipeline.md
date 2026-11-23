@@ -2160,5 +2160,24 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57602830 | ADAPRO TALENT PARTNERS LTD | Management Accountant | Leicester, Leicestershire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/assistant-revenue-accountant/57603200 | Wade Macdonald | Assistant Revenue Accountant | Epsom, Surrey | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst-ftc/57603462 | Appcastenterprise | Commercial Finance Analyst FTC | Manchester, Lancashire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-radius-4493668188 | Radius | Management Accountant | Crewe, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-fixed-term-contract-at-lightfoot-4492627562 | Lightfoot | FP&A Analyst (Fixed Term Contract) | Exeter, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-medlock-partners-4493677006 | Medlock Partners | Commercial Finance Analyst | Manchester Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-modelling-analyst-at-zenob%C4%93-4494007559 | Zenobē | FP&A Modelling Analyst | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/debt-capital-markets-analyst-at-together-loans-mortgages-finance-4490451178 | Together - loans, mortgages & finance | Debt Capital Markets Analyst | Cheadle, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-management-reporting-accountant-at-sharp-europe-4492632352 | Sharp Europe | Financial & Management Reporting Accountant | Uxbridge, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/operational-management-accountant-at-robert-half-4492604790 | Robert Half | Operational Management Accountant | Llanelli, Wales, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/future-finance-graduate-programme-at-hastings-direct-4493660597 | Hastings Direct | Future Finance Graduate Programme | Bexhill, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-corecruitment-ltd-4493662540 | COREcruitment Ltd | Assistant Accountant | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/stock-accountant-at-nisbets-4492635110 | Nisbets | Stock Accountant | Avonmouth, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-the-sterling-choice-4493667406 | The Sterling Choice | Financial Accountant | Blackburn, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-portfolio-analyst-cre-at-montpellier-resourcing-4492610471 | Montpellier Resourcing | Credit Portfolio Analyst (CRE) | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57603634 | Medlock Partners Limited | Commercial Finance Analyst | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/prudential-risk-analyst-empirical-search/57603500 | eFinancialCareers | Prudential Risk Analyst - Empirical Search | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/interim-management-accountant/57603863 | JSS Search Limited | Interim Management Accountant | Hemel Hempstead, Hertfordshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/assistant-accountant-127793544 | FT Recruitment Group | Assistant Accountant | Aberdeen Area, Scotland | posted: 2026-11-23 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127793487 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/financial-controller-127793540 | GREENE KING BREWING & RETAILING | Financial Controller | Highland, Scotland | posted: 2026-11-23 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-xero-127793534 | GREENE KING BREWING & RETAILING | Accountant Xero | Highland, Scotland | posted: 2026-11-23 | note: via S1Jobs
 
 ## Processed

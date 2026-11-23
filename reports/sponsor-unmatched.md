@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1168 firms checked, 574 matched, 594 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1176 firms checked, 576 matched, 600 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (594)
+## Not found (600)
 
 - 01Health
 - 7IM
@@ -240,6 +240,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Harper May Ltd
 - Harrow Council
 - Harvey John
+- Hastings Direct
 - Havering Schools
 - Hawke Search
 - Hays Specialist Recruitment Limited
@@ -352,6 +353,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Matched Group
 - McGinnis Loy Associates Ltd
 - Medlock Partners
+- Medlock Partners Limited
 - Mego Employment
 - Mego Employment Limited
 - Melior Capital
@@ -484,6 +486,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Seven Investment Management
 - Seymour John
 - Sharp Consultancy
+- Sharp Europe
 - Sheridan Maine
 - Sheridan Maine - Accounting, Audit & Tax Recruitment
 - Signet Resources
@@ -525,6 +528,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - The Global Institute for Health and Human Rights
 - The Niche Partnership
 - The Scottish National Investment Bank
+- The Sterling Choice
 - The Wow Company
 - TheyDo - Journey Management
 - ThinkMarkets
@@ -532,6 +536,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Thunes
 - TikTok
 - TipTopJob
+- Together - loans, mortgages & finance
 - Totum Partners
 - Tower Transit Group
 - Trainline
@@ -590,6 +595,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Yolk Recruitment Ltd
 - Zachary Daniels
 - Zego
+- Zenobē
 - abrdn
 - deverellsmith
 - e.surv Chartered Surveyors
