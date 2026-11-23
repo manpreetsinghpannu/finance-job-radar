@@ -2377,6 +2377,11 @@
    "register_name": "IQ EQ (UK) Services Limited",
    "match": "exact"
   },
+  "ISS Facility Services UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "ITRS": {
    "licensed": true,
    "register_name": "ITRS Group Ltd",
@@ -5212,6 +5217,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Venture Up": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Veracious Talent Partners": {
    "licensed": false,
    "register_name": null,
@@ -5246,6 +5256,11 @@
    "licensed": true,
    "register_name": "Vertu Motors plc",
    "match": "exact"
+  },
+  "Viatris": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Virgin Media O2": {
    "licensed": true,

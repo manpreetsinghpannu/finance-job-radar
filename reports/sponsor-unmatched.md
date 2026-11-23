@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1121 firms checked, 558 matched, 563 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1124 firms checked, 558 matched, 566 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (563)
+## Not found (566)
 
 - 01Health
 - 7IM
@@ -250,6 +250,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - IN2 Consult
 - IPOE Consulting
 - IPS Finance
+- ISS Facility Services UK
 - IVC Evidensia
 - Iberdrola
 - Ignition Collective
@@ -526,10 +527,12 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Vecta
 - Ventula Consulting
 - Venture Recruitment Partners
+- Venture Up
 - Veracious Talent Partners
 - Veracious Talent Partners Ltd
 - Vermelo RPO
 - Vertex Associates - Accountancy and Finance Recruitment
+- Viatris
 - Vistry Group
 - Vistry Group PLC
 - Vistry Homes Ltd

@@ -2064,4 +2064,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-accountable-recruitment-limited-4493618574 | Accountable Recruitment Limited | Finance Business Partner | Liverpool, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/industry-accountant-fixed-term-maternity-cover-at-peak-venues-4493613756 | Peak Venues | Industry Accountant - Fixed Term Maternity Cover | Bakewell, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 
+- [ ] https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77533 | Next | Finance Business Partner - 12 month FTC | Leicester, Leicestershire, United Kingdom | posted: 2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-iss-facility-services-uk-4493621390 | ISS Facility Services UK | Management Accountant | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-camino-search-4492385795 | Camino Search | Mergers and Acquisitions Associate | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-4493618649 | Venture Up | Quantitative Researcher | Oxfordshire, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-graduate-2027-at-susquehanna-international-group-4438413580 | Susquehanna International Group | Quantitative Researcher - Graduate: 2027 | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/eu-finance-analyst-at-viatris-4481464255 | Viatris | EU Finance Analyst | England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/interim-exit-support-m-a-consultant-at-finatal-4493634239 | Finatal | Interim Exit Support M&A Consultant | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57600828 | Mackie Myers | Management Accountant | London | note: via Reed
+
 ## Processed
