@@ -57,6 +57,11 @@
    "register_name": null,
    "match": "none"
   },
+  "ADAPRO TALENT PARTNERS LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "AEJ Consulting Ltd": {
    "licensed": false,
    "register_name": null,
@@ -223,6 +228,11 @@
    "match": "none"
   },
   "Alexander Daniels Finance Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Alexander Lloyd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2577,6 +2587,11 @@
    "register_name": "Investigo Limited",
    "match": "exact"
   },
+  "Iris London": {
+   "licensed": true,
+   "register_name": "IRIS Group Limited",
+   "match": "exact"
+  },
   "Isembard": {
    "licensed": true,
    "register_name": "ISEMBARD LTD",
@@ -3271,6 +3286,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Matillion": {
+   "licensed": true,
+   "register_name": "Matillion Limited",
+   "match": "exact"
   },
   "Maven Securities": {
    "licensed": true,
@@ -5121,6 +5141,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "The Travel Corporation": {
+   "licensed": true,
+   "register_name": "The Travel Company Limited",
+   "match": "exact"
   },
   "The University of Manchester": {
    "licensed": true,

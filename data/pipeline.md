@@ -2147,4 +2147,18 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57602803 | Pavilion Recruitment Solutions | Assistant Management Accountant | Leatherhead, Surrey | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57602948 | Cobb & Jones Recruitment Limited | Management Accountant | Canterbury, Kent | note: via Reed
 
+- [ ] https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London-Capital-House--Redburn/Research-Analyst--Metals---Mining_JR016472 | Rothschild & Co | Research Analyst (ACA/ACCA Qualified or Metals & Mining experience required) | London (Capital House – Redburn) | posted: 2026-11-23
+- [ ] https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2521 | Schroders | 2027 Finance (within Wealth Management) Graduate Programme | London, London, United Kingdom | posted: 2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-iris-london-4492611989 | Iris London | Finance Analyst | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/excellence-reporting-accountant-at-the-travel-corporation-4492625480 | The Travel Corporation | Excellence Reporting Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-camino-search-4492633043 | Camino Search | Finance Business Partner | Cardiff, Wales, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-associate-nq-aca-ca-at-aria-partners-4493644917 | Aria Partners | Finance Associate - NQ ACA / CA | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-alexander-lloyd-4492615545 | Alexander Lloyd | Finance Graduate | East Sussex, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-matillion-4493661072 | Matillion | Accountant | Manchester, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-18-month-ftc-at-holland-barrett-4493617712 | Holland & Barrett | Commercial Analyst - 18 Month FTC | Nuneaton, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fund-accountant-fund-control-alternatives-and-or-private-credit-premier-hedge-fund-cassonx/57603395 | eFinancialCareers | Fund Accountant / Fund Control - Alternatives and/or Private Credit - Premier Hedge Fund - CassonX | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57602830 | ADAPRO TALENT PARTNERS LTD | Management Accountant | Leicester, Leicestershire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-revenue-accountant/57603200 | Wade Macdonald | Assistant Revenue Accountant | Epsom, Surrey | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst-ftc/57603462 | Appcastenterprise | Commercial Finance Analyst FTC | Manchester, Lancashire | note: via Reed
+
 ## Processed

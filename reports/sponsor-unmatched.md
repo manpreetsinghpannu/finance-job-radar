@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1163 firms checked, 571 matched, 592 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1168 firms checked, 574 matched, 594 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (592)
+## Not found (594)
 
 - 01Health
 - 7IM
@@ -13,6 +13,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - ACCA Careers
 - ACL Partners
 - AD Finance
+- ADAPRO TALENT PARTNERS LTD
 - AEJ Consulting Ltd
 - ALF Recruit
 - AMA Accountancy
@@ -31,6 +32,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Alan Mitchell
 - Alexander Chapman
 - Alexander Daniels Finance Recruitment
+- Alexander Lloyd
 - Alf Recruit Limited
 - Alignerr
 - All About Food Ltd
