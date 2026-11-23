@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:23:22.927Z",
+ "generated_at": "2026-11-23T02:14:58.224Z",
  "order": [
   "finance",
   "credit",
@@ -7750,6 +7750,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-i-iii-at-the-global-institute-for-health-and-human-rights-4493603355": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
   }
  }
 }
