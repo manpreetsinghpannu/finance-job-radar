@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1138 firms checked, 564 matched, 574 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1152 firms checked, 569 matched, 583 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (574)
+## Not found (583)
 
 - 01Health
 - 7IM
@@ -70,6 +70,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - BAT
 - BBC UK
 - BNP Paribas Personal Finance
+- BOC UK & Ireland
 - BOLDSCIENCE
 - Baker Charles
 - Barbara Houghton Associates Limited
@@ -114,6 +115,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CVC Marathon
 - Calastone
 - Camino Search
+- Campbell Brown Associates
 - Candidate Source - TEAM
 - Capital Outsourcing Group Ltd
 - Caravel
@@ -263,6 +265,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Independent Office for Police Conduct
 - Insight Recruitment Solutions Limited
 - Insight Select
+- Insite Energy
 - Integris
 - Interactive Investor (alias not on current register (interactive investor services ltd))
 - Inventum Group
@@ -276,6 +279,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - James D Bilsland Ltd
 - Janus Henderson Investors
 - JasperRose
+- Jazz FM
 - Joblet-AI
 - Johnson Controls
 - Johnsons Workwear
@@ -488,6 +492,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Strand Hill
 - Summit Energy Europe
 - Swoop Funding
+- T2M Resourcing
+- T2M Resourcing Ltd
 - TAMESIDE COLLEGE
 - TCR
 - TCS
@@ -527,9 +533,11 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - UKPHARM LIMITED
 - Undisclosed
 - Univar Solutions
+- University Hospitals Tees
 - Urban Outfitters, Inc.
 - VANRATH
 - VIA MATCH LIMITED
+- VNI Finance
 - Valeo Foods UK
 - Valuations
 - Vecta
@@ -539,6 +547,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Veracious Talent Partners
 - Veracious Talent Partners Ltd
 - Vermelo RPO
+- Vero Recruitment
 - Vertex Associates - Accountancy and Finance Recruitment
 - Viatris
 - Vistry Group

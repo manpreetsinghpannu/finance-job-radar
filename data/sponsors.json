@@ -172,6 +172,11 @@
    "register_name": "Adecco UK Limited",
    "match": "exact"
   },
+  "Adler & Allan": {
+   "licensed": true,
+   "register_name": "Adler & Allan Limited",
+   "match": "exact"
+  },
   "Advocate Group": {
    "licensed": true,
    "register_name": "ADVOCATE GROUP LTD",
@@ -632,6 +637,11 @@
    "register_name": "Bank of New York Mellon",
    "match": "alias"
   },
+  "BOC UK & Ireland": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "BOLDSCIENCE": {
    "licensed": false,
    "register_name": null,
@@ -1047,12 +1057,22 @@
    "register_name": null,
    "match": "none"
   },
+  "Cambridgeshire and Peterborough NHS Foundation Trust": {
+   "licensed": true,
+   "register_name": "Cambridgeshire & Peterborough NHS Foundation Trust",
+   "match": "exact"
+  },
   "Cameron Kennedy": {
    "licensed": true,
    "register_name": "CKR CONSULTANTS LTD T/A CAMERON KENNEDY",
    "match": "trading name"
   },
   "Camino Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Campbell Brown Associates": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2157,6 +2177,11 @@
    "register_name": "Harmonic (UK) Ltd.",
    "match": "exact"
   },
+  "Harmony Fire": {
+   "licensed": true,
+   "register_name": "Harmony Fire Ltd",
+   "match": "exact"
+  },
   "Harnham": {
    "licensed": false,
    "register_name": null,
@@ -2472,6 +2497,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Insite Energy": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Integris": {
    "licensed": false,
    "register_name": null,
@@ -2583,6 +2613,11 @@
    "match": "none"
   },
   "JasperRose": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Jazz FM": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3587,10 +3622,20 @@
    "register_name": "Norfolk and Norwich University Hospitals NHS Foundation Trust",
    "match": "prefix"
   },
+  "Norfolk and Norwich University Hospitals NHS Foundation Trust": {
+   "licensed": true,
+   "register_name": "Norfolk and Norwich University Hospitals NHS Foundation Trust",
+   "match": "exact"
+  },
   "Northern Trust": {
    "licensed": true,
    "register_name": "Northern Trust Management Services Limited",
    "match": "alias"
+  },
+  "Nottingham Building Society": {
+   "licensed": true,
+   "register_name": "Nottingham Building Society",
+   "match": "exact"
   },
   "Novuna": {
    "licensed": false,
@@ -4817,6 +4862,16 @@
    "register_name": "T Rowe Price  International Ltd",
    "match": "alias"
   },
+  "T2M Resourcing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "T2M Resourcing Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "TALA": {
    "licensed": true,
    "register_name": "Tala Energy Ltd",
@@ -5212,6 +5267,11 @@
    "register_name": "Universities Superannuation Scheme Limited",
    "match": "exact"
   },
+  "University Hospitals Tees": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "University Hospitals of Derby and Burton NHS Foundation Trust": {
    "licensed": true,
    "register_name": "University Hospitals of Derby and Burton NHS Foundation Trust",
@@ -5238,6 +5298,11 @@
    "match": "none"
   },
   "VIA MATCH LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "VNI Finance": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5308,6 +5373,11 @@
    "match": "exact"
   },
   "Vermelo RPO": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Vero Recruitment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
