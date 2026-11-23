@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 20:48** (UK time) · **1369 open roles** at 816 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 21:20** (UK time) · **1369 open roles** at 816 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 20:42** · hourly scan · checked 201 boards · **0 new roles**
+**Mon 23 Nov, 21:11** · hourly scan · checked 201 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Mon 23 Nov, 20:11** (16: Finance 12 · Credit 2 · Real Estate 1 · Fund 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Monday 23 November
 
-<sub>Nothing new at: 20:42</sub>
+<sub>Nothing new at: 21:11, 20:42</sub>
 
 <details>
 <summary><b>20:11</b> · hourly scan · <b>16 new</b> → Finance 12 · Credit 2 · Real Estate 1 · Fund 1</summary>
@@ -3181,24 +3181,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <sub>Nothing new at: 22:34, 22:05</sub>
-
-<details>
-<summary><b>21:05</b> · hourly scan · <b>3 new</b> → Finance 2 · Credit 1</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Management Accountant - GFP](https://www.linkedin.com/jobs/view/management-accountant-gfp-at-magmas-4490940057) | MAGMAS | Brigg, England, United Kingdom | ❔ |
-| 2026-11-16 | [Graduate Accountant](https://www.linkedin.com/jobs/view/graduate-accountant-at-aria-finance-4490120785) | Aria Finance | Watford, England, United Kingdom | ❔ |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Credit Risk Associate - FX Forwards - 3S Money](https://www.reed.co.uk/jobs/credit-risk-associate-fx-forwards-3s-money/57580537) | eFinancialCareers | London | ✅ |
-
-</details>
 
 ## All open roles by CV
 
