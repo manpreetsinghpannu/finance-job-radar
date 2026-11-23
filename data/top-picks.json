@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:24:16.653Z",
+ "generated_at": "2026-11-23T18:31:02.146Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 309,
+   "matching": 308,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 104,
+   "matching": 103,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 48,
+   "matching": 46,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 90,
+   "matching": 88,
    "picks": [
     {
      "title": "Analyst - Investment Banking M&A",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 31,
+   "matching": 29,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -805,11 +805,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 7
-  },
-  "https://www.linkedin.com/jobs/view/financial-controller-at-equifind-4488161616": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 5
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-marks-sattin-4486248562": {
    "id": "finance",
@@ -1626,11 +1621,6 @@
    "cv": "Credit CV",
    "score": 11
   },
-  "https://www.linkedin.com/jobs/view/portfolio-operations-finance-associate-at-inventum-group-4487172523": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 6
-  },
   "https://www.reed.co.uk/jobs/assistant-management-accountant/57546607": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -1890,11 +1880,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/investment-portfolio-analyst-%E2%80%93-finance-qualified-accountant-at-inventum-group-4487486996": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 9
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-the-dune-group-4487487771": {
    "id": "finance",
@@ -3256,11 +3241,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 11
   },
-  "https://www.linkedin.com/jobs/view/graduate-credit-policy-analyst-at-targetjobs-uk-4489768712": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 16
-  },
   "https://www.linkedin.com/jobs/view/consumer-credit-underwriter-at-market-harborough-building-society-4490654663": {
    "id": "credit",
    "cv": "Credit CV",
@@ -3491,11 +3471,6 @@
    "cv": "Credit CV",
    "score": 12
   },
-  "https://www.reed.co.uk/jobs/restructuring-analyst-to-associate-investment-bank/57574373": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-gfp-at-magmas-4490940057": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3535,11 +3510,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
-  },
-  "https://www.reed.co.uk/jobs/analyst-associate-private-credit-french-speaker-efinancialcareers/57574595": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 18
   },
   "https://www.reed.co.uk/jobs/financial-analyst-educate2trade-ltd/57574460": {
    "id": "finance",
@@ -3610,11 +3580,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.reed.co.uk/jobs/financial-controller/57581792": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 5
   },
   "https://www.reed.co.uk/jobs/management-accountant/57581779": {
    "id": "finance",
@@ -4266,11 +4231,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 6
   },
-  "https://www.reed.co.uk/jobs/financial-accountant/57584753": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 6
-  },
   "https://www.linkedin.com/jobs/view/fund-accountant-at-finatal-4492407405": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
@@ -4656,11 +4616,6 @@
    "cv": "Real Estate CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/credit-risk-analyst-commodities-credit-global-energy-trading-co-at-eaglecliff-recruitment-4491610065": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 21
-  },
   "https://www.linkedin.com/jobs/view/graduate-international-portfolio-analytics-at-markel-international-at-markel-international-4491605524": {
    "id": "equity",
    "cv": "Equity CV",
@@ -4730,11 +4685,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-rhr-4492123992": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-university-of-york-4492415647": {
    "id": "finance",
@@ -4956,40 +4906,20 @@
    "cv": "Finance (FP&A) CV",
    "score": 11
   },
-  "https://www.reed.co.uk/jobs/commercial-finance-business-partner/57587672": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 23
-  },
   "https://www.reed.co.uk/jobs/commercial-finance-business-partner/57590053": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 22
-  },
-  "https://www.reed.co.uk/jobs/equity-analyst-global-equities-asset-management/57590184": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 24
   },
   "https://www.reed.co.uk/jobs/front-office-quantitative-analyst-equity-derivatives-citi/57589293": {
    "id": "equity",
    "cv": "Equity CV",
    "score": 14
   },
-  "https://www.reed.co.uk/jobs/investor-services-analyst-wealth-private-markets-london-efinancialcareers/57590187": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 14
-  },
   "https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 30
-  },
-  "https://www.reed.co.uk/jobs/global-equities-esg-investment-analyst-efinancialcareers/57590162": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 18
   },
   "https://www.reed.co.uk/jobs/data-mi-analyst-transformation-reporting-investment-banking/57594385": {
    "id": "investment",
@@ -5075,11 +5005,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 17
-  },
-  "https://www.linkedin.com/jobs/view/third-party-risk-analyst-12-months-ftc-at-beaumont-select-ltd-4491918019": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 11
   },
   "https://www.linkedin.com/jobs/view/investment-associate-at-public-sector-resourcing-4492917067": {
    "id": "investment",
@@ -5375,11 +5300,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-octavius-finance-4492807013": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 27
   },
   "https://www.linkedin.com/jobs/view/fund-accountant-at-lorien-4492932772": {
    "id": "fund",
@@ -5686,11 +5606,6 @@
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/operations-risk-analyst-at-goodlord-4492848742": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 10
-  },
   "https://www.linkedin.com/jobs/view/quant-analyst-insurance-capital-solutions-at-macquarie-group-4491980001": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -5700,11 +5615,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
-  },
-  "https://www.reed.co.uk/jobs/accountant-convenience-ambient/57588258": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
   },
   "https://www.reed.co.uk/jobs/finance-business-partner/57597653": {
    "id": "finance",
@@ -6090,11 +6000,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/financial-controller-at-jac-recruitment-4492322213": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
   },
   "https://www.reed.co.uk/jobs/commercial-analyst-role/57590392": {
    "id": "finance",
