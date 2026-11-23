@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 09:18** (UK time) · **1515 open roles** at 859 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 09:36** (UK time) · **1520 open roles** at 861 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,28 +10,28 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 09:14** · hourly scan · checked 201 boards · **6 new roles**
+**Mon 23 Nov, 09:32** · hourly scan · checked 201 boards · **11 new roles**
 
-### Finance (FP&A) CV: 3
+### Finance (FP&A) CV: 8
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-23 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-bnp-paribas-personal-finance-4493633095) | BNP Paribas Personal Finance | Solihull, England, United Kingdom | ❔ |
 | 2026-11-23 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-morgan-mckinley-4493737023) | Morgan McKinley | Bristol, England, United Kingdom | ✅ |
 | 2026-11-23 | [Interim Finance Business Partner](https://www.linkedin.com/jobs/view/interim-finance-business-partner-at-project-people-4492380691) | Project People | Reading, England, United Kingdom | ✅ |
+| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-workplace-futures-group-4492959952) | Workplace Futures Group | London, England, United Kingdom | ❔ |
+| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-ivy-rock-partners-4493627260) | Ivy Rock Partners | Maidenhead, England, United Kingdom | ❔ |
+| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-accountable-recruitment-limited-4493618574) | Accountable Recruitment Limited | Liverpool, England, United Kingdom | ❔ |
+| 2026-11-23 | [Pricing Analyst](https://www.linkedin.com/jobs/view/pricing-analyst-at-ivee-4492396278) | ivee | London Area, United Kingdom | ❔ |
+| 2026-11-23 | [Industry Accountant - Fixed Term Maternity Cover](https://www.linkedin.com/jobs/view/industry-accountant-fixed-term-maternity-cover-at-peak-venues-4493613756) | Peak Venues | Bakewell, England, United Kingdom | ❔ |
 
-### Credit CV: 2
+### Credit CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-23 | [Customer Master Data and Credit Risk Analyst](https://www.linkedin.com/jobs/view/customer-master-data-and-credit-risk-analyst-at-safran-4493739611) | Safran | West Midlands, England, United Kingdom | ✅ |
 | 2026-11-23 | [Private Credit - Middle Office](https://www.linkedin.com/jobs/view/private-credit-middle-office-at-one-ten-associates-4481692243) | One Ten Associates | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Corporate Risk Analyst](https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-personal-finance-4493618452) | BNP Paribas Personal Finance | Solihull, England, United Kingdom | ❔ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Quantitative Researcher - Graduate: 2027](https://www.linkedin.com/jobs/view/quantitative-researcher-graduate-2027-at-susquehanna-international-group-4438413580) | Susquehanna International Group | London, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -42,7 +42,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
 
-**Credit CV** (115 matching)
+**Credit CV** (116 matching)
 
 1. [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) · JPMorgan Chase · BOURNEMOUTH, DORSET, United Kingdom · posted 2026-11-19 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) · Aramco Trading Limited · London Area, United Kingdom · posted 2026-11-22 · ✅
@@ -79,28 +79,28 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Monday 23 November
 
 <details>
-<summary><b>09:14</b> · hourly scan · <b>6 new</b> → Finance 3 · Credit 2 · Other 1</summary>
+<summary><b>09:32</b> · hourly scan · <b>11 new</b> → Finance 8 · Credit 3</summary>
 
-#### Finance (FP&A) CV: 3
+#### Finance (FP&A) CV: 8
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-23 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-bnp-paribas-personal-finance-4493633095) | BNP Paribas Personal Finance | Solihull, England, United Kingdom | ❔ |
 | 2026-11-23 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-morgan-mckinley-4493737023) | Morgan McKinley | Bristol, England, United Kingdom | ✅ |
 | 2026-11-23 | [Interim Finance Business Partner](https://www.linkedin.com/jobs/view/interim-finance-business-partner-at-project-people-4492380691) | Project People | Reading, England, United Kingdom | ✅ |
+| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-workplace-futures-group-4492959952) | Workplace Futures Group | London, England, United Kingdom | ❔ |
+| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-ivy-rock-partners-4493627260) | Ivy Rock Partners | Maidenhead, England, United Kingdom | ❔ |
+| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-accountable-recruitment-limited-4493618574) | Accountable Recruitment Limited | Liverpool, England, United Kingdom | ❔ |
+| 2026-11-23 | [Pricing Analyst](https://www.linkedin.com/jobs/view/pricing-analyst-at-ivee-4492396278) | ivee | London Area, United Kingdom | ❔ |
+| 2026-11-23 | [Industry Accountant - Fixed Term Maternity Cover](https://www.linkedin.com/jobs/view/industry-accountant-fixed-term-maternity-cover-at-peak-venues-4493613756) | Peak Venues | Bakewell, England, United Kingdom | ❔ |
 
-#### Credit CV: 2
+#### Credit CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-23 | [Customer Master Data and Credit Risk Analyst](https://www.linkedin.com/jobs/view/customer-master-data-and-credit-risk-analyst-at-safran-4493739611) | Safran | West Midlands, England, United Kingdom | ✅ |
 | 2026-11-23 | [Private Credit - Middle Office](https://www.linkedin.com/jobs/view/private-credit-middle-office-at-one-ten-associates-4481692243) | One Ten Associates | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Corporate Risk Analyst](https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-personal-finance-4493618452) | BNP Paribas Personal Finance | Solihull, England, United Kingdom | ❔ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Quantitative Researcher - Graduate: 2027](https://www.linkedin.com/jobs/view/quantitative-researcher-graduate-2027-at-susquehanna-international-group-4438413580) | Susquehanna International Group | London, England, United Kingdom | ✅ |
 
 </details>
 
@@ -3307,9 +3307,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (875)](#finance-fpa-cv-875) · [Credit (180)](#credit-cv-180) · [Equity (75)](#equity-cv-75) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (20)](#consulting-cv-20) · [Real Estate (25)](#real-estate-cv-25) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (160)](#other-fits-no-cv-closely-may-still-be-worth-a-look-160)
+Everything matched so far, newest first within each CV: [Finance (880)](#finance-fpa-cv-880) · [Credit (181)](#credit-cv-181) · [Equity (75)](#equity-cv-75) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (20)](#consulting-cv-20) · [Real Estate (25)](#real-estate-cv-25) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (159)](#other-fits-no-cv-closely-may-still-be-worth-a-look-159)
 
-### Finance (FP&A) CV: 875
+### Finance (FP&A) CV: 880
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3319,10 +3319,15 @@ Everything matched so far, newest first within each CV: [Finance (875)](#finance
 | 2026-11-23 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-morgan-mckinley-4493737023) | Morgan McKinley | Bristol, England, United Kingdom | ✅ |
 | 2026-11-23 | [Interim Finance Business Partner](https://www.linkedin.com/jobs/view/interim-finance-business-partner-at-project-people-4492380691) | Project People | Reading, England, United Kingdom | ✅ |
 | 2026-11-23 | [Governance Assistant Accountant](https://www.linkedin.com/jobs/view/governance-assistant-accountant-at-bae-systems-4493604991) | BAE Systems | Preston, England, United Kingdom | ✅ |
+| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-workplace-futures-group-4492959952) | Workplace Futures Group | London, England, United Kingdom | ❔ |
 | 2026-11-23 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-hire-rightt-executive-search-hr-advisory-4488587892) | Hire Rightt - Executive Search & HR Advisory | England, United Kingdom | ❔ |
+| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-ivy-rock-partners-4493627260) | Ivy Rock Partners | Maidenhead, England, United Kingdom | ❔ |
+| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-accountable-recruitment-limited-4493618574) | Accountable Recruitment Limited | Liverpool, England, United Kingdom | ❔ |
 | 2026-11-23 | [Graduate Commercial Analyst - £40,000-£50,000 (London, UK)](https://www.linkedin.com/jobs/view/graduate-commercial-analyst-%C2%A340-000-%C2%A350-000-london-uk-at-cv-bridge-ltd-4493594691) | CV-BRIDGE LTD | Greater London, England, United Kingdom | ❔ |
+| 2026-11-23 | [Pricing Analyst](https://www.linkedin.com/jobs/view/pricing-analyst-at-ivee-4492396278) | ivee | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-michael-page-4493392805) | Michael Page | Ae, Scotland, United Kingdom | ✅ |
 | 2026-11-23 | [FP&A Specialist, AI Expert (Remote, EMEA)](https://www.linkedin.com/jobs/view/fp-a-specialist-ai-expert-remote-emea-at-weekday-ai-yc-w21-4493618407) | Weekday AI | United Kingdom | ❔ |
+| 2026-11-23 | [Industry Accountant - Fixed Term Maternity Cover](https://www.linkedin.com/jobs/view/industry-accountant-fixed-term-maternity-cover-at-peak-venues-4493613756) | Peak Venues | Bakewell, England, United Kingdom | ❔ |
 | — | [Trust Accountant - High Profile Team - Great Progression.....](https://www.reed.co.uk/jobs/trust-accountant-high-profile-team-great-progression/57595625) | Hawke Search | Canterbury, Kent | ❔ |
 | 2026-11-22 | [Finance Business Partner – FP&A – 12-month fixed term contract](https://scotjobsnet.co.uk/job/finance-business-partner-fpa-12-month-fixed-term-contract/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
 | 2026-11-22 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-ingram-micro-4475443932) | Ingram Micro | Northwich, England, United Kingdom | ✅ |
@@ -4189,10 +4194,11 @@ Everything matched so far, newest first within each CV: [Finance (875)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 180
+### Credit CV: 181
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-23 | [Customer Master Data and Credit Risk Analyst](https://www.linkedin.com/jobs/view/customer-master-data-and-credit-risk-analyst-at-safran-4493739611) | Safran | West Midlands, England, United Kingdom | ✅ |
 | 2026-11-23 | [Hedge Fund Ops Analyst - Credit](https://www.linkedin.com/jobs/view/hedge-fund-ops-analyst-credit-at-one-ten-associates-4479359310) | One Ten Associates | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Private Credit - Middle Office](https://www.linkedin.com/jobs/view/private-credit-middle-office-at-one-ten-associates-4481692243) | One Ten Associates | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Corporate Risk Analyst](https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-personal-finance-4493618452) | BNP Paribas Personal Finance | Solihull, England, United Kingdom | ❔ |

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T09:18:26.455Z",
+ "generated_at": "2026-11-23T09:36:46.172Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 115,
+   "matching": 116,
    "picks": [
     {
      "title": "Wholesale Credit Risk Reporting - Analyst",
@@ -7796,35 +7796,60 @@
    "cv": "Credit CV",
    "score": 13
   },
-  "https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-personal-finance-4493618452": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
-  },
-  "https://www.linkedin.com/jobs/view/private-credit-middle-office-at-one-ten-associates-4481692243": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 13
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-bnp-paribas-personal-finance-4493633095": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-morgan-mckinley-4493737023": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
   },
-  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-bnp-paribas-personal-finance-4493633095": {
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-workplace-futures-group-4492959952": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 15
   },
-  "https://www.linkedin.com/jobs/view/quantitative-researcher-graduate-2027-at-susquehanna-international-group-4438413580": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
+  "https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-personal-finance-4493618452": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   },
   "https://www.linkedin.com/jobs/view/interim-finance-business-partner-at-project-people-4492380691": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/private-credit-middle-office-at-one-ten-associates-4481692243": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-ivy-rock-partners-4493627260": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/pricing-analyst-at-ivee-4492396278": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/customer-master-data-and-credit-risk-analyst-at-safran-4493739611": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 25
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-accountable-recruitment-limited-4493618574": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/industry-accountant-fixed-term-maternity-cover-at-peak-venues-4493613756": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

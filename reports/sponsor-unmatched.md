@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1119 firms checked, 558 matched, 561 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1121 firms checked, 558 matched, 563 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (561)
+## Not found (563)
 
 - 01Health
 - 7IM
@@ -391,6 +391,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Payhawk
 - Peabody
 - Peace Recruitment
+- Peak Venues
 - Pear Talent - Finance Recruitment
 - Platinum Recruitment Group
 - Point One - Hedge Fund Talent
@@ -550,6 +551,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Watson-Marlow Fluid Technology Solutions
 - Weekday AI
 - Wilkinson and Associates
+- Workplace Futures Group
 - WorldQuant
 - XPS Group
 - YETI Coolers
