@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 18:31** (UK time) · **1353 open roles** at 802 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 18:52** (UK time) · **1354 open roles** at 802 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,39 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 18:13** · hourly scan · checked 201 boards · **12 new roles**
+**Mon 23 Nov, 18:52** · new firms added: roles already open at firms added this day (no alerts sent) · checked 201 boards · **1 new role**
 
-### Finance (FP&A) CV: 8
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Junior Finance Business Partner](https://www.linkedin.com/jobs/view/junior-finance-business-partner-at-harcourt-matthews-4492635539) | Harcourt Matthews | London, England, United Kingdom | ❔ |
-| 2026-11-23 | [Graduate Financial Analyst](https://www.linkedin.com/jobs/view/graduate-financial-analyst-at-citygrad-4493677426) | CityGrad | London Area, United Kingdom | ❔ |
-| 2026-11-23 | [Assistant Accountant, Treasury and Banking](https://www.linkedin.com/jobs/view/assistant-accountant-treasury-and-banking-at-haven-4488543327) | Haven | Hemel Hempstead, England, United Kingdom | ✅ |
-| 2026-11-23 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-leicestershire-county-council-4492636370) | Leicestershire County Council | Leicestershire, England, United Kingdom | ✅ |
-| 2026-11-23 | [Management Accountant - Private Markets Advisory](https://www.linkedin.com/jobs/view/management-accountant-private-markets-advisory-at-venture-search-4492646260) | Venture Search | London Area, United Kingdom | ❔ |
-| 2026-11-23 | [Commercial Analyst](https://www.linkedin.com/jobs/view/commercial-analyst-at-cdw-4493900152) | CDW | Manchester, England, United Kingdom | ✅ |
-| — | [FP&A Accountant](https://www.reed.co.uk/jobs/fp-a-accountant/57603997) | Resourcery Group | Manchester, Lancashire | ❔ |
-| 2026-11-23 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-sf-partners-4492631643) | SF Partners | Market Harborough, England, United Kingdom | ❔ |
-
-### Credit CV: 2
+### Credit CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-23 | [Financial Credit Analyst](https://www.linkedin.com/jobs/view/financial-credit-analyst-at-cognitive-credit-4492646339) | Cognitive Credit | London, England, United Kingdom | ❔ |
-| 2026-11-23 | [Risk Underwriter- Trade Credit](https://www.linkedin.com/jobs/view/risk-underwriter-trade-credit-at-swiss-re-4468091960) | Swiss Re | London, England, United Kingdom | ✅ |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Private Equity Secondaries (2-3 Years)](https://www.linkedin.com/jobs/view/private-equity-secondaries-2-3-years-at-pearse-partners-4494032311) | Pearse Partners | London Area, United Kingdom | ✅ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127793484) | S1Jobs | Scotland | ❔ |
+| 2026-11-23 | [Capital Modelling Risk Analyst](https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1) | AIG | London | ✅ |
 
 ## Top picks for each CV
 
@@ -53,7 +27,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) · Medpace · London, England, United Kingdom · posted 2026-11-23 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 
-**Credit CV** (103 matching)
+**Credit CV** (104 matching)
 
 1. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) · Aramco Trading Limited · London Area, United Kingdom · posted 2026-11-22 · ✅
 2. [Customer Master Data and Credit Risk Analyst](https://www.linkedin.com/jobs/view/customer-master-data-and-credit-risk-analyst-at-safran-4493739611) · Safran · West Midlands, England, United Kingdom · posted 2026-11-23 · ✅
@@ -88,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<details>
+<summary><b>18:52</b> · new firms added: roles already open at firms added this day (no alerts sent) · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [Capital Modelling Risk Analyst](https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1) | AIG | London | ✅ |
+
+</details>
 
 <details>
 <summary><b>18:13</b> · hourly scan · <b>12 new</b> → Finance 8 · Credit 2 · Investment 1 · Other 1</summary>
@@ -3203,7 +3188,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (791)](#finance-fpa-cv-791) · [Credit (157)](#credit-cv-157) · [Equity (62)](#equity-cv-62) · [Investment (134)](#investment-ib--pe-cv-134) · [Consulting (19)](#consulting-cv-19) · [Real Estate (22)](#real-estate-cv-22) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (129)](#other-fits-no-cv-closely-may-still-be-worth-a-look-129)
+Everything matched so far, newest first within each CV: [Finance (791)](#finance-fpa-cv-791) · [Credit (158)](#credit-cv-158) · [Equity (62)](#equity-cv-62) · [Investment (134)](#investment-ib--pe-cv-134) · [Consulting (19)](#consulting-cv-19) · [Real Estate (22)](#real-estate-cv-22) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (129)](#other-fits-no-cv-closely-may-still-be-worth-a-look-129)
 
 ### Finance (FP&A) CV: 791
 
@@ -4001,7 +3986,7 @@ Everything matched so far, newest first within each CV: [Finance (791)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 157
+### Credit CV: 158
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4011,6 +3996,7 @@ Everything matched so far, newest first within each CV: [Finance (791)](#finance
 | 2026-11-23 | [Credit Portfolio Analyst (CRE)](https://www.linkedin.com/jobs/view/credit-portfolio-analyst-cre-at-montpellier-resourcing-4492610471) | Montpellier Resourcing | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Financial Credit Analyst](https://www.linkedin.com/jobs/view/financial-credit-analyst-at-cognitive-credit-4492646339) | Cognitive Credit | London, England, United Kingdom | ❔ |
 | 2026-11-23 | [Group Risk Analyst](https://www.linkedin.com/jobs/view/group-risk-analyst-at-mnk-group-4493617617) | MNK Group | City Of London, England, United Kingdom | ✅ |
+| 2026-11-23 | [Capital Modelling Risk Analyst](https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1) | AIG | London | ✅ |
 | 2026-11-23 | [Hedge Fund Ops Analyst - Credit](https://www.linkedin.com/jobs/view/hedge-fund-ops-analyst-credit-at-one-ten-associates-4479359310) | One Ten Associates | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Private Credit - Middle Office](https://www.linkedin.com/jobs/view/private-credit-middle-office-at-one-ten-associates-4481692243) | One Ten Associates | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Corporate Risk Analyst](https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-personal-finance-4493618452) | BNP Paribas Personal Finance | Solihull, England, United Kingdom | ❔ |

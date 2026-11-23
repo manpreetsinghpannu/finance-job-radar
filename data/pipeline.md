@@ -2194,4 +2194,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/fund-operations-accountant/57604026 | Trace | Expert Accountancy & Finance Recruitment | Fund Operations Accountant | London | note: via Reed
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127793484 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
+- [ ] https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1 | AIG | Capital Modelling Risk Analyst | London | posted: 2026-11-23
+
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:31:02.146Z",
+ "generated_at": "2026-11-23T18:52:04.977Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 103,
+   "matching": 104,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -7015,6 +7015,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
   }
  }
 }
