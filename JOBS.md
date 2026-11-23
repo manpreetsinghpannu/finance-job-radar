@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 20:19** (UK time) · **1369 open roles** at 816 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 20:48** (UK time) · **1369 open roles** at 816 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,43 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 20:11** · hourly scan · checked 201 boards · **16 new roles**
+**Mon 23 Nov, 20:42** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 12
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Commercial Finance Analyst](https://www.adzuna.co.uk/jobs/land/ad/5976357468) | Medlock Partners Ltd | Rusholme, Manchester | ❔ |
-| 2026-11-23 | [Group FP&A Analyst](https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-walker-hamill-4492644616) | Walker Hamill | London Area, United Kingdom | ✅ |
-| 2026-11-23 | [Finance Analyst](https://www.adzuna.co.uk/jobs/land/ad/5976357398) | Anderson Knight | Glasgow, Scotland | ❔ |
-| 2026-11-23 | [Assistant Management Accountant](https://www.adzuna.co.uk/jobs/land/ad/5976085250) | Pertemps Glasgow Perms | Glasgow, Scotland | ❔ |
-| 2026-11-23 | [Management Accountant - 6 month FTC](https://www.adzuna.co.uk/jobs/land/ad/5976262107) | Axon Moore | Penwortham, Preston | ❔ |
-| 2026-11-23 | [Assistant Accountant](https://www.adzuna.co.uk/jobs/details/5976389483) | Corecruitment International | West London, London | ❔ |
-| 2026-11-23 | [Assistant Accountant](https://www.adzuna.co.uk/jobs/details/5976389093) | VANRATH | Lisburn, Northern Ireland | ❔ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57603951) | Accountancy Action | London | ❔ |
-| 2026-11-23 | [Financial Controller](https://www.adzuna.co.uk/jobs/land/ad/5976085201) | Green Folk | New Cross, South East London | ❔ |
-| 2026-11-23 | [Financial Accountant](https://www.adzuna.co.uk/jobs/details/5976391818) | SF Partners Admin | Nottingham, Nottinghamshire | ❔ |
-| 2026-11-23 | [Qualified Accountant](https://www.adzuna.co.uk/jobs/details/5976389103) | Watson & Colhoun | Omagh, Northern Ireland | ❔ |
-| — | [Junior Accountant](https://www.reed.co.uk/jobs/junior-accountant/57603375) | Accountancy Action | Borehamwood, Hertfordshire | ❔ |
-
-### Credit CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-france-4493699844) | CFP Energy - France | London, England, United Kingdom | ❔ |
-| 2026-11-23 | [Prudential Risk Analyst - Empirical Search](https://www.adzuna.co.uk/jobs/land/ad/5976219137) | Empirical Search | London, UK | ❔ |
-
-### Real Estate CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Property Accountant (Fixed-Term Contract)](https://www.adzuna.co.uk/jobs/land/ad/5976206090) | Trident International Associates | Farringdon, Central London | ❔ |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Fund Accountant / Fund Control – Alternatives and/or Private Credit – Premier Hedge Fund - CassonX](https://www.adzuna.co.uk/jobs/land/ad/5976219139) | CassonX | London, UK | ❔ |
+Nothing new this time. The last scan that found something was **Mon 23 Nov, 20:11** (16: Finance 12 · Credit 2 · Real Estate 1 · Fund 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -92,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<sub>Nothing new at: 20:42</sub>
 
 <details>
 <summary><b>20:11</b> · hourly scan · <b>16 new</b> → Finance 12 · Credit 2 · Real Estate 1 · Fund 1</summary>
@@ -3232,25 +3200,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>20:33</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57580553) | Reed | London | ❔ |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Operations Analyst - Macro / Credit](https://www.reed.co.uk/jobs/operations-analyst-macro-credit/57580545) | eFinancialCareers | London | ✅ |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (802)](#finance-fpa-cv-802) · [Credit (161)](#credit-cv-161) · [Equity (62)](#equity-cv-62) · [Investment (134)](#investment-ib--pe-cv-134) · [Consulting (19)](#consulting-cv-19) · [Real Estate (23)](#real-estate-cv-23) · [Fund (40)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-40) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
@@ -4667,7 +4616,7 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>393 roles taken off the list because the firm closed the posting</summary>
+<summary>392 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -5063,6 +5012,5 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 | Tue 17 Nov, 00:07 | Junior Trader | AEJ Consulting Ltd |
 | Mon 16 Nov, 22:35 | Graduate Accountant | Enra Specialist Finance |
 | Mon 16 Nov, 22:06 | Information Security Risk Analyst | Client Server |
-| Mon 16 Nov, 20:33 | Quantitative Researcher – Systematic Equities | Octavius Finance |
 
 </details>
