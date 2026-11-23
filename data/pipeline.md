@@ -2093,5 +2093,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant/57601360 | Kennedy Pearce Consulting | Assistant Accountant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/temporary-assistant-accountant/57601204 | CMA Recruitment Group | Temporary Assistant Accountant | Poole, Dorset | note: via Reed
 - [ ] https://www.s1jobs.com/job/assistant-management-accountant-127793459 | Pertemps Scotland | Assistant Management Accountant | Glasgow Area, Scotland | posted: 2026-11-23 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-baker-charles-4492202293 | Baker Charles | Finance Business Partner | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-escape-recruitment-services-4493643207 | Escape Recruitment Services | Management Accountant | West Lothian, Scotland, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-ground-control-4493769291 | Ground Control | Management Accountant | Billericay, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-tether-io-4492601520 | Tether.io | Financial Analyst | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-direct-lending-private-credit-at-metis-search-4483057749 | Metis Search | Investment Associate | Direct Lending | Private Credit | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-equity-research-analyst-tmt-sector-at-annonymous-4486767960 | Annonymous | Global Equity Research Analyst - TMT Sector | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-marks-sattin-4485069418 | Marks Sattin | Assistant Management Accountant | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/restructuring-investment-banking-associate-at-metis-search-4492394707 | Metis Search | Restructuring Investment Banking Associate | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/property-accountant-fixed-term-contract/57601591 | Trident | Property Accountant (Fixed-Term Contract) | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-financial-accountant/57601738 | Morgan Law | Assistant Financial Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/executive-accountant/57601466 | TC Group | Executive Accountant | Southampton, Hampshire | note: via Reed
 
 ## Processed

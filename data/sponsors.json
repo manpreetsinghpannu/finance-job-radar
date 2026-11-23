@@ -317,6 +317,11 @@
    "register_name": "Anglian Water Services Ltd",
    "match": "exact"
   },
+  "Annonymous": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Anonymous": {
    "licensed": false,
    "register_name": null,
@@ -661,6 +666,11 @@
    "licensed": true,
    "register_name": "Robert W. Baird Group Ltd",
    "match": "alias"
+  },
+  "Baker Charles": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Balfour Beatty plc": {
    "licensed": true,
@@ -1632,6 +1642,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Escape Recruitment Services": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Evelyn Partners": {
    "licensed": true,
    "register_name": "Evelyn Partners Group Limited",
@@ -2025,6 +2040,11 @@
   "Griffin": {
    "licensed": true,
    "register_name": "Griffin Bank Ltd",
+   "match": "prefix"
+  },
+  "Ground Control": {
+   "licensed": true,
+   "register_name": "Ground Control Studios",
    "match": "prefix"
   },
   "Guggenheim Securities": {
@@ -4812,6 +4832,11 @@
    "register_name": null,
    "match": "none"
   },
+  "TC Group": {
+   "licensed": true,
+   "register_name": "TC GROUP LONDON",
+   "match": "exact"
+  },
   "TCR": {
    "licensed": false,
    "register_name": null,
@@ -4916,6 +4941,11 @@
    "licensed": true,
    "register_name": "Teneo Business Consulting Ltd",
    "match": "alias"
+  },
+  "Tether.io": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Teya": {
    "licensed": true,

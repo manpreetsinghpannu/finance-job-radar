@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1132 firms checked, 562 matched, 570 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1138 firms checked, 564 matched, 574 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (570)
+## Not found (574)
 
 - 01Health
 - 7IM
@@ -40,6 +40,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ameriprise
 - Ampa - Legal & Professional Services
 - Anderson Knight
+- Annonymous
 - Anonymous
 - Apollo Global Management, Inc.
 - Appcastenterprise
@@ -70,6 +71,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - BBC UK
 - BNP Paribas Personal Finance
 - BOLDSCIENCE
+- Baker Charles
 - Barbara Houghton Associates Limited
 - Barker Ross Group
 - Beaumont Select Ltd
@@ -171,6 +173,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Embat
 - Equifind
 - Ernest Gordon Recruitment Limited
+- Escape Recruitment Services
 - Everet Marsh
 - Executive Talent Solutions
 - ExxonMobil
@@ -499,6 +502,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Talentedge
 - Talk Staff
 - Tempest Vane Partners
+- Tether.io
 - The Automobile Association
 - The FA
 - The Global Institute for Health and Human Rights
@@ -577,7 +581,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (73)
+## Matched automatically by close name; worth a glance (74)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -603,6 +607,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Form3 → Form3 Technology Limited (prefix)
 - Global Payment Holding Company → Global Payments UK Ltd (similar (0.96))
 - Griffin → Griffin Bank Ltd (prefix)
+- Ground Control → Ground Control Studios (prefix)
 - HARMAN International → Harman Retail Limited (prefix)
 - Harmonic Finance™ → Harmonic Finance & Operations (prefix)
 - Heitman → Heitman Financial UK LLC (prefix)
