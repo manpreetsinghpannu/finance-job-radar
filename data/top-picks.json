@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T02:14:58.224Z",
+ "generated_at": "2026-11-23T03:14:38.083Z",
  "order": [
   "finance",
   "credit",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 32,
+   "matching": 31,
    "picks": [
     {
      "title": "Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)",
@@ -1770,11 +1770,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://job-boards.greenhouse.io/monzo/jobs/8359155": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-eaton-4487144504": {
    "id": "finance",

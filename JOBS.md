@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 02:14** (UK time) · **1501 open roles** at 852 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 03:14** (UK time) · **1500 open roles** at 851 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 02:11** · hourly scan · checked 201 boards · **1 new role**
+**Mon 23 Nov, 03:11** · hourly scan · checked 201 boards · **0 new roles**
 
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Fund Accountant I-III](https://www.linkedin.com/jobs/view/fund-accountant-i-iii-at-the-global-institute-for-health-and-human-rights-4493603355) | The Global Institute for Health and Human Rights | Newry Mourne And Down, Northern Ireland, United Ki | ❔ |
+Nothing new this time. The last scan that found something was **Mon 23 Nov, 02:11** (1: Fund 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -42,7 +38,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Analyst - Investment Banking M&A](https://www.adzuna.co.uk/jobs/details/5972737427) · Equiteq · London, UK · posted 2026-11-20 · ✅
 2. [French speaking Investment Banking M&A Generalist Analyst & Associate](https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161) · eFinancialCareers · London · posted 2026-11-19 · ✅
 
-**Consulting CV** (32 matching)
+**Consulting CV** (31 matching)
 
 1. [Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)](https://www.linkedin.com/jobs/view/strategy-associate-consultant-generalist-m-f-d-%E2%80%93-hybrid-arrangement-at-l-e-k-consulting-4478950065) · L.E.K. Consulting · London Area, United Kingdom · posted 2026-11-17 · ✅
 2. [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) · Hargreaves Lansdown · Bristol - Welcome Building · posted 2026-11-16 · ✅
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<sub>Nothing new at: 03:11</sub>
 
 <details>
 <summary><b>02:11</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
@@ -3225,20 +3223,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>02:20</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Investment Banking Associate - Technology](https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-robertson-wright-4491284002) | Robertson Wright | London Area, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (867)](#finance-fpa-cv-867) · [Credit (176)](#credit-cv-176) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (21)](#consulting-cv-21) · [Real Estate (25)](#real-estate-cv-25) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (158)](#other-fits-no-cv-closely-may-still-be-worth-a-look-158)
+Everything matched so far, newest first within each CV: [Finance (867)](#finance-fpa-cv-867) · [Credit (176)](#credit-cv-176) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (20)](#consulting-cv-20) · [Real Estate (25)](#real-estate-cv-25) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (158)](#other-fits-no-cv-closely-may-still-be-worth-a-look-158)
 
 ### Finance (FP&A) CV: 867
 
@@ -4518,7 +4505,7 @@ Everything matched so far, newest first within each CV: [Finance (867)](#finance
 | 2026-10-20 | [Investment Banking – France & Benelux Corp DCM - Analyst - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210801986) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-20 | [Associate, Private Markets Data Management](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R265839) | BlackRock | London, Greater London | ✅ |
 
-### Consulting CV: 21
+### Consulting CV: 20
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4532,7 +4519,6 @@ Everything matched so far, newest first within each CV: [Finance (867)](#finance
 | 2026-11-12 | [Customer Data Strategy Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Customer-Data-Strategy-Consultant_R00346003) | Accenture | London | ❔ |
 | — | [Management Consultant Banking](https://www.s1jobs.com/job/management-consultant-banking-127718277) | S1Jobs | Scotland | ❔ |
 | 2026-11-10 | [Investment Strategy Analyst](https://www.linkedin.com/jobs/view/investment-strategy-analyst-at-alignerr-4489405468) | Alignerr | United Kingdom | ❔ |
-| 2026-11-09 | [VAIB Strategy Analyst](https://job-boards.greenhouse.io/monzo/jobs/8359155) | Monzo | Cardiff, London or Remote (UK) | ✅ |
 | 2026-11-06 | [Credit Strategy Analyst](https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-funding-circle-uk-4488400686) | Funding Circle UK | London, England, United Kingdom | ✅ |
 | 2026-11-04 | [Strategy Consultant for Commodity Markets](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Strategy-Consultant-for-Commodity-Markets_R00369068) | Accenture | London | ❔ |
 | 2026-11-04 | [Digital Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Digital-Finance-Transformation-Consultant_R00362313) | Accenture | London | ❔ |
@@ -4784,10 +4770,11 @@ Everything matched so far, newest first within each CV: [Finance (867)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>112 roles taken off the list because the firm closed the posting</summary>
+<summary>113 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 23 Nov, 03:12 | VAIB Strategy Analyst | Monzo |
 | Sun 22 Nov, 23:15 | Commercial Finance Analyst | Hays |
 | Sun 22 Nov, 23:11 | Credit Risk Analyst - 12 month FTC | Next |
 | Sun 22 Nov, 22:14 | Corporate Banking Global Capital Management (GCM) - Associate/Senior Associate - LONDON | Citi |
