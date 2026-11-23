@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 00:19** (UK time) · **1500 open roles** at 851 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 01:07** (UK time) · **1500 open roles** at 851 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,17 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 00:15** · hourly scan · checked 201 boards · **5 new roles**
+**Mon 23 Nov, 01:03** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 5
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Interim Finance Analyst](https://www.reed.co.uk/jobs/interim-finance-analyst/57597856) | eFinancialCareers | Northampton, Northamptonshire | ✅ |
-| 2026-11-22 | [Management Accountant FTC](https://www.reed.co.uk/jobs/management-accountant-ftc/57599741) | Reed | Bristol, Avon | ❔ |
-| 2026-11-22 | [Commercial Analyst - Driving School](https://www.reed.co.uk/jobs/commercial-analyst-driving-school/57599453) | The Automobile Association | Cardiff, South Glamorgan | ❔ |
-| 2026-11-22 | [Financial Accountant (12-Month Fixed-Term Contract)](https://www.linkedin.com/jobs/view/financial-accountant-12-month-fixed-term-contract-at-waters-corporation-4492075310) | Waters Corporation | Wilmslow, England, United Kingdom | ✅ |
-| — | [Trust Accountant - High Profile Team - Great Progression.....](https://www.reed.co.uk/jobs/trust-accountant-high-profile-team-great-progression/57595625) | Hawke Search | Canterbury, Kent | ❔ |
+Nothing new this time. The last scan that found something was **Mon 23 Nov, 00:15** (5: Finance 5); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -67,6 +59,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Monday 23 November
 
+<sub>Nothing new at: 01:03</sub>
+
 <details>
 <summary><b>00:15</b> · hourly scan · <b>5 new</b> → Finance 5</summary>
 
@@ -83,8 +77,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 ### Sunday 22 November
-
-<sub>Nothing new at: 23:59</sub>
 
 <details>
 <summary><b>23:11</b> · hourly scan · <b>2 new</b> → Credit 2</summary>
@@ -3226,19 +3218,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-16 | [Investment Banking Associate - Technology](https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-robertson-wright-4491284002) | Robertson Wright | London Area, United Kingdom | ❔ |
-
-</details>
-
-<details>
-<summary><b>01:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-15 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57568104) | Milton Keynes City Council | Milton Keynes, Buckinghamshire | ❔ |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
