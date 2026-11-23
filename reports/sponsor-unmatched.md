@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1157 firms checked, 570 matched, 587 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1163 firms checked, 571 matched, 592 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (587)
+## Not found (592)
 
 - 01Health
 - 7IM
@@ -179,6 +179,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Equity House
 - Ernest Gordon Recruitment Limited
 - Escape Recruitment Services
+- Essential Employment
 - Everet Marsh
 - Executive Talent Solutions
 - ExxonMobil
@@ -207,6 +208,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Gemini
 - Gen II Fund Services
 - Generali Global Corporate & Commercial
+- Get Recruited
 - Gibson Recruitment Limited
 - Gleeson Recruitment Group
 - Global Accounting Network
@@ -270,6 +272,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Insight Recruitment Solutions Limited
 - Insight Select
 - Insite Energy
+- Integra Talent Group
 - Integris
 - Interactive Investor (alias not on current register (interactive investor services ltd))
 - Inventum Group
@@ -346,6 +349,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Martis Search
 - Matched Group
 - McGinnis Loy Associates Ltd
+- Medlock Partners
 - Mego Employment
 - Mego Employment Limited
 - Melior Capital
@@ -362,6 +366,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Mint Velvet
 - Mitchell Adam
 - Mollie
+- Mondrian Delta
 - Monmouthshire Building Society
 - Montpellier Resourcing
 - Morgan Hunt

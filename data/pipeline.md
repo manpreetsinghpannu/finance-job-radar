@@ -2133,4 +2133,18 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-nec-127793480 | Gibson Recruitment Limited | Quantity Surveyor Nec | Glasgow Area, Scotland | posted: 2026-11-23 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127793488 | GREENE KING BREWING & RETAILING | Quantity Surveyor | Highland, Scotland | posted: 2026-11-23 | note: via S1Jobs
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811189 | JPMorgan Chase | 2027 Asset Management Investments - Equities - Analyst Training Program - London | LONDON, LONDON, United Kingdom | posted: 2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-integra-talent-group-4492628115 | Integra Talent Group | Management Accountant | Manchester, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-medlock-partners-4493660229 | Medlock Partners | Financial Planning Analyst | Chorley, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-%E2%80%93-public-private-equities-%245bn-investment-fund-at-mondrian-delta-4492617504 | Mondrian Delta | Investment Analyst – Public & Private Equities - $5bn Investment Fund | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-investment-strategist-at-7im-4493799444 | 7IM | Quantitative Investment Strategist | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-controller-private-credit-2-4-years-pqe-at-93-mgmt-4492605937 | 93 MGMT | Fund Controller | Private Credit 2-4 Years PQE | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/client-accountant-at-savills-4477504899 | Savills | Client Accountant | Leeds, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-sf-partners-4492620332 | SF Partners | Financial Accountant | Nottingham, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-get-recruited-4493782942 | Get Recruited | Management Accountant | Lincoln, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-headstar-4492622274 | Headstar | Assistant Accountant | Leeds, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/remote-technical-accountant/57602781 | Essential Employment | Remote Technical Accountant | Bournemouth, Dorset | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57602803 | Pavilion Recruitment Solutions | Assistant Management Accountant | Leatherhead, Surrey | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57602948 | Cobb & Jones Recruitment Limited | Management Accountant | Canterbury, Kent | note: via Reed
+
 ## Processed

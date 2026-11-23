@@ -1682,6 +1682,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Essential Employment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Evelyn Partners": {
    "licensed": true,
    "register_name": "Evelyn Partners Group Limited",
@@ -1966,6 +1971,11 @@
    "licensed": true,
    "register_name": "Genius Sports UK Ltd",
    "match": "exact"
+  },
+  "Get Recruited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Giacom": {
    "licensed": true,
@@ -2518,6 +2528,11 @@
    "match": "none"
   },
   "Insite Energy": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Integra Talent Group": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3277,6 +3292,11 @@
    "register_name": "MediaKind Systems UK Limited",
    "match": "prefix"
   },
+  "Medlock Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Medpace": {
    "licensed": true,
    "register_name": "Medpace UK Limited",
@@ -3431,6 +3451,11 @@
    "licensed": true,
    "register_name": "Mondrian Alpha Ltd",
    "match": "exact"
+  },
+  "Mondrian Delta": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Moneybox": {
    "licensed": true,
@@ -4531,6 +4556,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Savills": {
+   "licensed": true,
+   "register_name": "Savills plc",
+   "match": "exact"
   },
   "Scania (Great Britain) Limited": {
    "licensed": true,
