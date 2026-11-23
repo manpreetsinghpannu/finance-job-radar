@@ -2222,6 +2222,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Hire Rightt - Executive Search & HR Advisory": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "HireForce": {
    "licensed": false,
    "register_name": null,
@@ -4436,6 +4441,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Severn Trent": {
+   "licensed": true,
+   "register_name": "Severn Trent",
+   "match": "exact"
   },
   "Seymour John": {
    "licensed": false,

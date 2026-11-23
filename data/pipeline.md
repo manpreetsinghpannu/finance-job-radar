@@ -2043,5 +2043,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fund-accountant-i-iii-at-the-global-institute-for-health-and-human-rights-4493603355 | The Global Institute for Health and Human Rights | Fund Accountant I-III | Newry Mourne And Down, Northern Ireland, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-hire-technical-specialist-at-keoghs-4442828346 | Keoghs | Credit Hire Technical Specialist | Bolton, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-associate-at-michael-page-4493392805 | Michael Page | Finance Associate | Ae, Scotland, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-programme-data-digital-ai-at-severn-trent-4493607794 | Severn Trent | Graduate Finance Programme - Data, Digital & AI | Coventry, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-hire-rightt-executive-search-hr-advisory-4488587892 | Hire Rightt - Executive Search & HR Advisory | Management Accountant | England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed
