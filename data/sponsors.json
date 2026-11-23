@@ -612,6 +612,11 @@
    "register_name": "BNP PARIBAS ASSET MANAGEMENT SERVICES LIMITED",
    "match": "exact"
   },
+  "BNP Paribas Personal Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "BNY": {
    "licensed": true,
    "register_name": "Bank of New York Mellon",
@@ -3945,6 +3950,11 @@
   "Priory": {
    "licensed": true,
    "register_name": "Priory Group",
+   "match": "exact"
+  },
+  "Project People": {
+   "licensed": true,
+   "register_name": "Project People Limited",
    "match": "exact"
   },
   "Propel Holdings": {

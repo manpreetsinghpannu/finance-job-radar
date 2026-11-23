@@ -2052,5 +2052,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-nucleus-financial-4493608970 | Nucleus Financial | Investment Analyst | Salisbury, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-specialist-ai-expert-remote-emea-at-weekday-ai-yc-w21-4493618407 | Weekday AI (YC W21) | FP&A Specialist, AI Expert (Remote, EMEA) | United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/hedge-fund-ops-analyst-credit-at-one-ten-associates-4479359310 | One Ten Associates | Hedge Fund Ops Analyst - Credit | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-risk-analyst-at-bnp-paribas-personal-finance-4493618452 | BNP Paribas Personal Finance | Corporate Risk Analyst | Solihull, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-credit-middle-office-at-one-ten-associates-4481692243 | One Ten Associates | Private Credit - Middle Office | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-morgan-mckinley-4493737023 | Morgan McKinley | Management Accountant | Bristol, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-bnp-paribas-personal-finance-4493633095 | BNP Paribas Personal Finance | Financial Planning Analyst | Solihull, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-graduate-2027-at-susquehanna-international-group-4438413580 | Susquehanna International Group | Quantitative Researcher - Graduate: 2027 | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/interim-finance-business-partner-at-project-people-4492380691 | Project People | Interim Finance Business Partner | Reading, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed
