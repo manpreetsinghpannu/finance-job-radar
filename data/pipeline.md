@@ -2195,5 +2195,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127793484 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 - [ ] https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1 | AIG | Capital Modelling Risk Analyst | London | posted: 2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/analyst-credit-and-collections-at-wesco-4486152747 | Wesco | Analyst - Credit and Collections | Chesterfield, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/etps-management-accountant-at-qinetiq-4485457977 | QinetiQ | ETPS Management Accountant | Amesbury, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed

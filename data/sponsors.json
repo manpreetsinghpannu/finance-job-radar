@@ -4227,6 +4227,11 @@
    "register_name": null,
    "match": "none"
   },
+  "QinetiQ": {
+   "licensed": true,
+   "register_name": "QinetiQ Group Plc",
+   "match": "exact"
+  },
   "Quadrature Capital": {
    "licensed": true,
    "register_name": "Quadrature Capital Limited",
@@ -5726,6 +5731,11 @@
    "licensed": true,
    "register_name": "Wellington Management International Limited",
    "match": "alias"
+  },
+  "Wesco": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Wilkinson and Associates": {
    "licensed": false,

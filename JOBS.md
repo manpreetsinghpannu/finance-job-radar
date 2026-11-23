@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 18:52** (UK time) · **1354 open roles** at 802 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 19:19** (UK time) · **1353 open roles** at 803 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 18:52** · new firms added: roles already open at firms added this day (no alerts sent) · checked 201 boards · **1 new role**
+**Mon 23 Nov, 19:13** · hourly scan · checked 201 boards · **2 new roles**
+
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [ETPS Management Accountant](https://www.linkedin.com/jobs/view/etps-management-accountant-at-qinetiq-4485457977) | QinetiQ | Amesbury, England, United Kingdom | ✅ |
 
 ### Credit CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-23 | [Capital Modelling Risk Analyst](https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1) | AIG | London | ✅ |
+| 2026-11-23 | [Analyst - Credit and Collections](https://www.linkedin.com/jobs/view/analyst-credit-and-collections-at-wesco-4486152747) | Wesco | Chesterfield, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (308 matching)
+**Finance (FP&A) CV** (307 matching)
 
 1. [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) · Medpace · London, England, United Kingdom · posted 2026-11-23 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
@@ -62,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<details>
+<summary><b>19:13</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [ETPS Management Accountant](https://www.linkedin.com/jobs/view/etps-management-accountant-at-qinetiq-4485457977) | QinetiQ | Amesbury, England, United Kingdom | ✅ |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [Analyst - Credit and Collections](https://www.linkedin.com/jobs/view/analyst-credit-and-collections-at-wesco-4486152747) | Wesco | Chesterfield, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>18:52</b> · new firms added: roles already open at firms added this day (no alerts sent) · <b>1 new</b> → Credit 1</summary>
@@ -220,13 +243,12 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>14:14</b> · hourly scan · <b>7 new</b> → Finance 3 · Credit 1 · Other 3</summary>
+<summary><b>14:14</b> · hourly scan · <b>6 new</b> → Finance 2 · Credit 1 · Other 3</summary>
 
-#### Finance (FP&A) CV: 3
+#### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| — | [Commercial Finance Analyst FTC](https://www.reed.co.uk/jobs/commercial-finance-analyst-ftc/57602703) | Turning Point | Manchester, Lancashire | ✅ |
 | 2026-11-23 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-equity-house-4493637960) | Equity House | England, United Kingdom | ❔ |
 | 2026-11-23 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-ea-first-4492612420) | EA First | Stoke-On-Trent, England, United Kingdom | ❔ |
 
@@ -243,6 +265,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-23 | [Quantity Surveyor Pqs](https://www.s1jobs.com/job/quantity-surveyor-pqs-127793482) | Gibson Recruitment Limited | South Lanarkshire, Scotland | ❔ |
 | 2026-11-23 | [Quantity Surveyor Nec](https://www.s1jobs.com/job/quantity-surveyor-nec-127793480) | Gibson Recruitment Limited | Glasgow Area, Scotland | ❔ |
 | 2026-11-23 | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127793488) | GREENE KING BREWING & RETAILING | Highland, Scotland | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3188,15 +3212,14 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (791)](#finance-fpa-cv-791) · [Credit (158)](#credit-cv-158) · [Equity (62)](#equity-cv-62) · [Investment (134)](#investment-ib--pe-cv-134) · [Consulting (19)](#consulting-cv-19) · [Real Estate (22)](#real-estate-cv-22) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (129)](#other-fits-no-cv-closely-may-still-be-worth-a-look-129)
+Everything matched so far, newest first within each CV: [Finance (790)](#finance-fpa-cv-790) · [Credit (159)](#credit-cv-159) · [Equity (62)](#equity-cv-62) · [Investment (134)](#investment-ib--pe-cv-134) · [Consulting (19)](#consulting-cv-19) · [Real Estate (22)](#real-estate-cv-22) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
 
-### Finance (FP&A) CV: 791
+### Finance (FP&A) CV: 790
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-23 | [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) | Medpace | London, England, United Kingdom | ✅ |
 | 2026-11-23 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-medlock-partners-4493677006) | Medlock Partners | Manchester Area, United Kingdom | ❔ |
-| — | [Commercial Finance Analyst FTC](https://www.reed.co.uk/jobs/commercial-finance-analyst-ftc/57602703) | Turning Point | Manchester, Lancashire | ✅ |
 | — | [Commercial Finance Analyst FTC](https://www.reed.co.uk/jobs/commercial-finance-analyst-ftc/57603462) | Appcastenterprise | Manchester, Lancashire | ❔ |
 | — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57603634) | Medlock Partners Limited | Manchester, Lancashire | ❔ |
 | 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-iris-london-4492611989) | Iris London | London Area, United Kingdom | ✅ |
@@ -3225,6 +3248,7 @@ Everything matched so far, newest first within each CV: [Finance (791)](#finance
 | 2026-11-23 | [Management Accountant CYP & DPBD](https://www.linkedin.com/jobs/view/management-accountant-cyp-dpbd-at-cambridgeshire-and-peterborough-nhs-foundation-trust-cpft-4493637780) | Cambridgeshire and Peterborough NHS Foundation Trust | Huntingdon, England, United Kingdom | ✅ |
 | 2026-11-23 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-radius-4493668188) | Radius | Crewe, England, United Kingdom | ✅ |
 | 2026-11-23 | [Operational Management Accountant](https://www.linkedin.com/jobs/view/operational-management-accountant-at-robert-half-4492604790) | Robert Half | Llanelli, Wales, United Kingdom | ✅ |
+| 2026-11-23 | [ETPS Management Accountant](https://www.linkedin.com/jobs/view/etps-management-accountant-at-qinetiq-4485457977) | QinetiQ | Amesbury, England, United Kingdom | ✅ |
 | 2026-11-23 | [Governance Assistant Accountant](https://www.linkedin.com/jobs/view/governance-assistant-accountant-at-bae-systems-4493604991) | BAE Systems | Preston, England, United Kingdom | ✅ |
 | 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-workplace-futures-group-4492959952) | Workplace Futures Group | London, England, United Kingdom | ❔ |
 | 2026-11-23 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-iss-facility-services-uk-4493621390) | ISS Facility Services UK | London Area, United Kingdom | ❔ |
@@ -3966,7 +3990,6 @@ Everything matched so far, newest first within each CV: [Finance (791)](#finance
 | — | [Assistant Accountant (12 month FTC)](https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Assistant-Accountant--12-month-FTC-_RQ14025) | MS Amlin | London | ✅ |
 | 2026-11-05 | [Commercial Analyst](https://umusic.wd5.myworkdayjobs.com/umguk/job/Kings-Cross-London/Commercial-Analyst_UMG-27761) | Universal Music UK | Kings Cross, London | ✅ |
 | — | [Commercial Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/London-Eng/Commercial-Analyst_R1000696) | Capital One UK | London, Eng | ✅ |
-| — | [Reg Reporting Accountant - 12 month FTC](https://jobs.smartrecruiters.com/shawbrook/744000158538198-reg-reporting-accountant-12-month-ftc) | Shawbrook | London, England , United Kingdom | ✅ |
 | — | [Blackstone Credit & Insurance (BXCI) Investment Fund Modeling & Forecasting](https://blackstone.wd1.myworkdayjobs.com/blackstone_careers/job/London/Blackstone-Credit---Insurance----FP-A--Associate_41787) | Blackstone | London | ✅ |
 | 2026-11-05 | [Financial Control, Accountant](https://jobs.ashbyhq.com/clearbank/f3231b04-9538-4931-b7d5-1d0aea6c4c77) | ClearBank | London Office - Hybrid · London - Hybrid · United  | ✅ |
 | — | [Fund Services - Associate, Financial Reporting (Glasgow)](https://morganstanley.eightfold.ai/careers?pid=549800576733&domain=morganstanley.com) | Morgan Stanley | Glasgow, United Kingdom | ✅ |
@@ -3986,7 +4009,7 @@ Everything matched so far, newest first within each CV: [Finance (791)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 158
+### Credit CV: 159
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4003,6 +4026,7 @@ Everything matched so far, newest first within each CV: [Finance (791)](#finance
 | 2026-11-23 | [Debt Capital Markets Analyst](https://www.linkedin.com/jobs/view/debt-capital-markets-analyst-at-together-loans-mortgages-finance-4490451178) | Together - loans, mortgages & finance | Cheadle, England, United Kingdom | ❔ |
 | — | [Prudential Risk Analyst - Empirical Search](https://www.reed.co.uk/jobs/prudential-risk-analyst-empirical-search/57603500) | eFinancialCareers | London | ✅ |
 | 2026-11-23 | [Risk Underwriter- Trade Credit](https://www.linkedin.com/jobs/view/risk-underwriter-trade-credit-at-swiss-re-4468091960) | Swiss Re | London, England, United Kingdom | ✅ |
+| 2026-11-23 | [Analyst - Credit and Collections](https://www.linkedin.com/jobs/view/analyst-credit-and-collections-at-wesco-4486152747) | Wesco | Chesterfield, England, United Kingdom | ❔ |
 | 2026-11-23 | [Distressed Credit Investment Associate](https://www.linkedin.com/jobs/view/distressed-credit-investment-associate-at-metis-search-4492602337) | Metis Search | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Credit Hire Technical Specialist](https://www.linkedin.com/jobs/view/credit-hire-technical-specialist-at-keoghs-4442828346) | Keoghs | Bolton, England, United Kingdom | ❔ |
 | 2026-11-22 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) | Aramco Trading Limited | London Area, United Kingdom | ✅ |
@@ -4450,7 +4474,7 @@ Everything matched so far, newest first within each CV: [Finance (791)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 129
+### Other (fits no CV closely, may still be worth a look): 128
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4581,16 +4605,18 @@ Everything matched so far, newest first within each CV: [Finance (791)](#finance
 | 2026-10-26 | [Quantum Computational Science Specialist](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Derby/Quantum-Computational-Science-Specialist_JR6155409-1) | Rolls-Royce | Derby | ✅ |
 | 2026-10-22 | [Quant Trader - Quantitative Positional Trading (QPT)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8268873) | Maven Securities | London | ✅ |
 | 2026-10-22 | [Trading Analyst - QPT (Quantitative Positional Trading)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8263271) | Maven Securities | London | ✅ |
-| 2026-10-16 | [Quantitative Trader](https://job-boards.greenhouse.io/blockchain/jobs/8289214) | Blockchain.com · startup/SME | London | ❔ |
 | 2026-10-16 | [Trader, Market Making](https://job-boards.greenhouse.io/blockchain/jobs/8289231) | Blockchain.com · startup/SME | London | ❔ |
 
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>390 roles taken off the list because the firm closed the posting</summary>
+<summary>393 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 23 Nov, 19:14 | Commercial Finance Analyst FTC | Turning Point |
+| Mon 23 Nov, 19:14 | Quantitative Trader | Blockchain.com |
+| Mon 23 Nov, 19:14 | Reg Reporting Accountant - 12 month FTC | Shawbrook |
 | Mon 23 Nov, 18:27 | Graduate Credit Policy Analyst | targetjobs UK |
 | Mon 23 Nov, 18:22 | Quantity Surveyor Nec | S1Jobs |
 | Mon 23 Nov, 18:22 | Quantity Surveyor Pqs | S1Jobs |
