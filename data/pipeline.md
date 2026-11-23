@@ -2179,5 +2179,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127793487 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/financial-controller-127793540 | GREENE KING BREWING & RETAILING | Financial Controller | Highland, Scotland | posted: 2026-11-23 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/accountant-xero-127793534 | GREENE KING BREWING & RETAILING | Accountant Xero | Highland, Scotland | posted: 2026-11-23 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/junior-finance-business-partner-at-harcourt-matthews-4492635539 | Harcourt Matthews | Junior Finance Business Partner | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-credit-analyst-at-cognitive-credit-4492646339 | Cognitive Credit | Financial Credit Analyst | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-underwriter-trade-credit-at-swiss-re-4468091960 | Swiss Re | Risk Underwriter- Trade Credit | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-financial-analyst-at-citygrad-4493677426 | CityGrad | Graduate Financial Analyst | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-equity-secondaries-2-3-years-at-pearse-partners-4494032311 | Pearse Partners | Private Equity Secondaries (2-3 Years) | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-leicestershire-county-council-4492636370 | Leicestershire County Council | Assistant Accountant | Leicestershire, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-private-markets-advisory-at-venture-search-4492646260 | Venture Search | Management Accountant - Private Markets Advisory | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-sf-partners-4492631643 | SF Partners | Assistant Accountant | Market Harborough, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-treasury-and-banking-at-haven-4488543327 | Haven | Assistant Accountant, Treasury and Banking | Hemel Hempstead, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-distinct-b-corp-4490319335 | Distinct | B Corp | Financial Accountant | Leeds, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-cdw-4493900152 | CDW | Commercial Analyst | Manchester, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fp-a-accountant/57603997 | Resourcery Group | FP&A Accountant | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/fund-operations-accountant/57604026 | Trace | Expert Accountancy & Finance Recruitment | Fund Operations Accountant | London | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127793484 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 ## Processed

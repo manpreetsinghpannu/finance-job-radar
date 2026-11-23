@@ -957,6 +957,11 @@
    "register_name": null,
    "match": "none"
   },
+  "CDW": {
+   "licensed": true,
+   "register_name": "CDW Limited",
+   "match": "exact"
+  },
   "CER Financial": {
    "licensed": false,
    "register_name": null,
@@ -1331,6 +1336,11 @@
    "licensed": true,
    "register_name": "Codat Limited",
    "match": "exact"
+  },
+  "Cognitive Credit": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Coinbase": {
    "licensed": false,
@@ -2192,6 +2202,11 @@
    "register_name": "Harbour Energy Plc",
    "match": "exact"
   },
+  "Harcourt Matthews": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Hargreaves Land": {
    "licensed": false,
    "register_name": null,
@@ -2261,6 +2276,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Haven": {
+   "licensed": true,
+   "register_name": "Haven (PNH) Limited - The",
+   "match": "exact"
   },
   "Havering Schools": {
    "licensed": false,
@@ -2900,6 +2920,11 @@
   "Leicester City Council": {
    "licensed": true,
    "register_name": "Leicester City Council",
+   "match": "exact"
+  },
+  "Leicestershire County Council": {
+   "licensed": true,
+   "register_name": "Leicestershire County Council",
    "match": "exact"
   },
   "Leigh Day": {
@@ -4942,6 +4967,11 @@
    "register_name": "Susquehanna UK Limited",
    "match": "exact"
   },
+  "Swiss Re": {
+   "licensed": true,
+   "register_name": "Swiss Re Services Ltd",
+   "match": "exact"
+  },
   "Swoop Funding": {
    "licensed": false,
    "register_name": null,
@@ -5463,6 +5493,11 @@
    "match": "none"
   },
   "Venture Recruitment Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Venture Search": {
    "licensed": false,
    "register_name": null,
    "match": "none"

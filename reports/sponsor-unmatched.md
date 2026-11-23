@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1176 firms checked, 576 matched, 600 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1183 firms checked, 580 matched, 603 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (600)
+## Not found (603)
 
 - 01Health
 - 7IM
@@ -142,6 +142,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Client Server
 - Cobalt Recruitment
 - Cobb & Jones Recruitment Limited
+- Cognitive Credit
 - Coinbase
 - Collins Aerospace
 - Connect Recruitment Consultants Ltd.
@@ -233,6 +234,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Hamilton Woods
 - Handpicked Recruitment
 - Handpicked Recruitment Limited
+- Harcourt Matthews
 - Hargreaves Land
 - Harley-Davidson Motor Company
 - Harnham
@@ -559,6 +561,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Vecta
 - Ventula Consulting
 - Venture Recruitment Partners
+- Venture Search
 - Venture Up
 - Veracious Talent Partners
 - Veracious Talent Partners Ltd
