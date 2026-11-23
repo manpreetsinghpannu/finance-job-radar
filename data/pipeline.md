@@ -2216,5 +2216,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-risk-analyst-at-barclay-simpson-4492647733 | Barclay Simpson | Investment Risk Analyst | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/m-a-associate-at-robertson-wright-4493913386 | Robertson Wright | M&A Associate | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-robertson-wright-4493914352 | Robertson Wright | Investment Banking Associate | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/valuation-finance-operations-co-ordinator-12-months-ftc-at-cbre-4493932405 | CBRE | Valuation Finance Operations Co-ordinator (12 months FTC) | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed

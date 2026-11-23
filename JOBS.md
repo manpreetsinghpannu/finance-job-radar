@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 22:20** (UK time) · **1371 open roles** at 817 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 23:21** (UK time) · **1370 open roles** at 817 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 22:12** · hourly scan · checked 201 boards · **3 new roles**
+**Mon 23 Nov, 23:11** · hourly scan · checked 201 boards · **1 new role**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Investment Risk Analyst](https://www.linkedin.com/jobs/view/investment-risk-analyst-at-barclay-simpson-4492647733) | Barclay Simpson | London Area, United Kingdom | ✅ |
-
-### Investment (IB / PE) CV: 2
+### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-23 | [M&A Associate](https://www.linkedin.com/jobs/view/m-a-associate-at-robertson-wright-4493913386) | Robertson Wright | London Area, United Kingdom | ❔ |
-| 2026-11-23 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-robertson-wright-4493914352) | Robertson Wright | London Area, United Kingdom | ❔ |
+| 2026-11-23 | [Valuation Finance Operations Co-ordinator (12 months FTC)](https://www.linkedin.com/jobs/view/valuation-finance-operations-co-ordinator-12-months-ftc-at-cbre-4493932405) | CBRE | London, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -34,7 +27,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) · Medpace · London, England, United Kingdom · posted 2026-11-23 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 
-**Credit CV** (105 matching)
+**Credit CV** (104 matching)
 
 1. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) · Aramco Trading Limited · London Area, United Kingdom · posted 2026-11-22 · ✅
 2. [Customer Master Data and Credit Risk Analyst](https://www.linkedin.com/jobs/view/customer-master-data-and-credit-risk-analyst-at-safran-4493739611) · Safran · West Midlands, England, United Kingdom · posted 2026-11-23 · ✅
@@ -44,7 +37,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) · Rothschild & Co · London · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 
-**Investment (IB / PE) CV** (88 matching)
+**Investment (IB / PE) CV** (89 matching)
 
 1. [Analyst - Investment Banking M&A](https://www.adzuna.co.uk/jobs/details/5972737427) · Equiteq · London, UK · posted 2026-11-20 · ✅
 2. [French speaking Investment Banking M&A Generalist Analyst & Associate](https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161) · eFinancialCareers · London · posted 2026-11-19 · ✅
@@ -54,7 +47,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)](https://www.linkedin.com/jobs/view/strategy-associate-consultant-generalist-m-f-d-%E2%80%93-hybrid-arrangement-at-l-e-k-consulting-4478950065) · L.E.K. Consulting · London Area, United Kingdom · posted 2026-11-17 · ✅
 2. [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) · Hargreaves Lansdown · Bristol - Welcome Building · posted 2026-11-16 · ✅
 
-**Real Estate CV** (29 matching)
+**Real Estate CV** (30 matching)
 
 1. [Investment Analyst - Real Estate](https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878) · London LGPS CIV Limited · London, England, United Kingdom · posted 2026-11-20 · ✅
 2. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
@@ -69,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<details>
+<summary><b>23:11</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [Valuation Finance Operations Co-ordinator (12 months FTC)](https://www.linkedin.com/jobs/view/valuation-finance-operations-co-ordinator-12-months-ftc-at-cbre-4493932405) | CBRE | London, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>22:12</b> · hourly scan · <b>3 new</b> → Credit 1 · Investment 2</summary>
@@ -1807,20 +1811,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 08:21, 07:19</sub>
-
-<details>
-<summary><b>06:15</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-20 | [Fund Accounting Product Change Specialist](https://www.linkedin.com/jobs/view/fund-accounting-product-change-specialist-at-ramsey-portia-4492778475) | Ramsey Portia | London Area, United Kingdom | ❔ |
-
-</details>
-
-<sub>Nothing new at: 05:12</sub>
+<sub>Nothing new at: 08:21, 07:19, 06:15, 05:12</sub>
 
 <details>
 <summary><b>04:14</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
@@ -3190,30 +3181,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-### Monday 16 November
-
-<details>
-<summary><b>23:04</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Associate Accountant – Healthcare – Edinburgh, UK](https://scotjobsnet.co.uk/job/associate-accountant-healthcare-edinburgh-uk-2/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Futures Macro Quant Researcher/ London / Base Bonus](https://www.reed.co.uk/jobs/futures-macro-quant-researcher-london-base-bonus/57575816) | eFinancialCareers | London | ✅ |
-
-</details>
-
-<sub>Nothing new at: 22:34</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (802)](#finance-fpa-cv-802) · [Credit (162)](#credit-cv-162) · [Equity (62)](#equity-cv-62) · [Investment (135)](#investment-ib--pe-cv-135) · [Consulting (19)](#consulting-cv-19) · [Real Estate (23)](#real-estate-cv-23) · [Fund (40)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-40) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
+Everything matched so far, newest first within each CV: [Finance (802)](#finance-fpa-cv-802) · [Credit (161)](#credit-cv-161) · [Equity (62)](#equity-cv-62) · [Investment (136)](#investment-ib--pe-cv-136) · [Consulting (19)](#consulting-cv-19) · [Real Estate (23)](#real-estate-cv-23) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
 
 ### Finance (FP&A) CV: 802
 
@@ -4022,7 +3992,7 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 162
+### Credit CV: 161
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4117,7 +4087,6 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 | 2026-11-16 | [Risk Analyst - Insurance - G MASS Consulting](https://www.reed.co.uk/jobs/risk-analyst-insurance-g-mass-consulting/57575720) | eFinancialCareers | London | ✅ |
 | — | [Trading Risk Analyst Execution & Monitoring](https://www.reed.co.uk/jobs/trading-risk-analyst-execution-monitoring/57567924) | eFinancialCareers | London | ✅ |
 | — | [Credit Assurance Analyst - Macquarie Group](https://www.reed.co.uk/jobs/credit-assurance-analyst-macquarie-group/57574284) | eFinancialCareers | London | ✅ |
-| — | [Quant Risk Analyst - CCR - Contract - Inside IR35 - London - Investigo](https://www.reed.co.uk/jobs/quant-risk-analyst-ccr-contract-inside-ir35-london-investigo/57575365) | eFinancialCareers | London | ✅ |
 | — | [Operations Analyst - Macro / Credit](https://www.reed.co.uk/jobs/operations-analyst-macro-credit/57580545) | eFinancialCareers | London | ✅ |
 | 2026-11-16 | [Non-Financial Risk Analyst (11 month FTC)](https://scotjobsnet.co.uk/job/non-financial-risk-analyst-11-month-ftc/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
 | — | [Enterprise Risk Associate/Senior Associate, Risk Consulting](https://careers.ey.com/ey/job/Enterprise-Risk-AssociateSenior-Associate%2C-Risk-Consulting-048583/697394801/) | EY |  | ✅ |
@@ -4256,12 +4225,13 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 135
+### Investment (IB / PE) CV: 136
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-23 | [Restructuring Investment Banking Associate](https://www.linkedin.com/jobs/view/restructuring-investment-banking-associate-at-metis-search-4492394707) | Metis Search | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Private Equity Secondaries (2-3 Years)](https://www.linkedin.com/jobs/view/private-equity-secondaries-2-3-years-at-pearse-partners-4494032311) | Pearse Partners | London Area, United Kingdom | ✅ |
+| 2026-11-23 | [Valuation Finance Operations Co-ordinator (12 months FTC)](https://www.linkedin.com/jobs/view/valuation-finance-operations-co-ordinator-12-months-ftc-at-cbre-4493932405) | CBRE | London, England, United Kingdom | ✅ |
 | 2026-11-23 | [Mergers and Acquisitions Associate](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-camino-search-4492385795) | Camino Search | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [M&A Associate](https://www.linkedin.com/jobs/view/m-a-associate-at-robertson-wright-4493913386) | Robertson Wright | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-robertson-wright-4493914352) | Robertson Wright | London Area, United Kingdom | ❔ |
@@ -4448,7 +4418,7 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 | — | [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 40
+### Fund CV (written for India; tweak the header for UK roles): 39
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4462,7 +4432,6 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 | 2026-11-20 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-gen-ii-fund-services-4418775609) | Gen II Fund Services | Whitley, England, United Kingdom | ❔ |
 | 2026-11-20 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-lorien-4492932772) | Lorien | Glasgow, Scotland, United Kingdom | ❔ |
 | 2026-11-20 | [Fund Accountant](https://scotjobsnet.co.uk/job/fund-accountant/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
-| 2026-11-20 | [Fund Accounting Product Change Specialist](https://www.linkedin.com/jobs/view/fund-accounting-product-change-specialist-at-ramsey-portia-4492778475) | Ramsey Portia | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Graduate Investment Operations Analyst](https://www.linkedin.com/jobs/view/graduate-investment-operations-analyst-at-citygrad-4492717197) | CityGrad | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-finatal-4492407405) | Finatal | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Trade Support role with Quant Hedge Fund (STEM background required)](https://www.linkedin.com/jobs/view/trade-support-role-with-quant-hedge-fund-stem-background-required-at-ocr-alpha-4492420087) | OCR Alpha | Greater London, England, United Kingdom | ✅ |
@@ -4629,10 +4598,12 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>392 roles taken off the list because the firm closed the posting</summary>
+<summary>393 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 23 Nov, 23:19 | Quant Risk Analyst - CCR - Contract - Inside IR35 - London - Investigo | eFinancialCareers |
+| Mon 23 Nov, 23:12 | Fund Accounting Product Change Specialist | Ramsey Portia |
 | Mon 23 Nov, 22:17 | Investment Banking Associate - Technology | Robertson Wright |
 | Mon 23 Nov, 19:14 | Commercial Finance Analyst FTC | Turning Point |
 | Mon 23 Nov, 19:14 | Quantitative Trader | Blockchain.com |
@@ -5024,6 +4995,5 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 | Tue 17 Nov, 13:31 | FP&A Analyst | Hometree |
 | Tue 17 Nov, 01:07 | Management Accountant | Anderson Knight |
 | Tue 17 Nov, 00:07 | Junior Trader | AEJ Consulting Ltd |
-| Mon 16 Nov, 22:35 | Graduate Accountant | Enra Specialist Finance |
 
 </details>

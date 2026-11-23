@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:20:36.290Z",
+ "generated_at": "2026-11-23T23:21:20.092Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 105,
+   "matching": 104,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 88,
+   "matching": 89,
    "picks": [
     {
      "title": "Analyst - Investment Banking M&A",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 29,
+   "matching": 30,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -3286,11 +3286,6 @@
    "cv": "Credit CV",
    "score": 16
   },
-  "https://www.reed.co.uk/jobs/quant-risk-analyst-ccr-contract-inside-ir35-london-investigo/57575365": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
-  },
   "https://www.reed.co.uk/jobs/investment-analyst-macdonald-company/57575446": {
    "id": "equity",
    "cv": "Equity CV",
@@ -4955,11 +4950,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 10
-  },
-  "https://www.linkedin.com/jobs/view/fund-accounting-product-change-specialist-at-ramsey-portia-4492778475": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 7
   },
   "https://www.reed.co.uk/jobs/assistant-accountant/57595279": {
    "id": "finance",
@@ -7105,6 +7095,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/valuation-finance-operations-co-ordinator-12-months-ftc-at-cbre-4493932405": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
   }
  }
 }
