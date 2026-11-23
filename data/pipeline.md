@@ -2213,5 +2213,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-france-4493699844 | CFP Energy - France | Credit Risk Analyst | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57603951 | Accountancy Action | Management Accountant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/junior-accountant/57603375 | Accountancy Action | Junior Accountant | Borehamwood, Hertfordshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/investment-risk-analyst-at-barclay-simpson-4492647733 | Barclay Simpson | Investment Risk Analyst | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-associate-at-robertson-wright-4493913386 | Robertson Wright | M&A Associate | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-robertson-wright-4493914352 | Robertson Wright | Investment Banking Associate | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed

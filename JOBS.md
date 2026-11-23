@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 21:45** (UK time) · **1369 open roles** at 816 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 22:20** (UK time) · **1371 open roles** at 817 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 21:33** · hourly scan · checked 201 boards · **0 new roles**
+**Mon 23 Nov, 22:12** · hourly scan · checked 201 boards · **3 new roles**
 
-Nothing new this time. The last scan that found something was **Mon 23 Nov, 20:11** (16: Finance 12 · Credit 2 · Real Estate 1 · Fund 1); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [Investment Risk Analyst](https://www.linkedin.com/jobs/view/investment-risk-analyst-at-barclay-simpson-4492647733) | Barclay Simpson | London Area, United Kingdom | ✅ |
+
+### Investment (IB / PE) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [M&A Associate](https://www.linkedin.com/jobs/view/m-a-associate-at-robertson-wright-4493913386) | Robertson Wright | London Area, United Kingdom | ❔ |
+| 2026-11-23 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-robertson-wright-4493914352) | Robertson Wright | London Area, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -23,7 +34,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) · Medpace · London, England, United Kingdom · posted 2026-11-23 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 
-**Credit CV** (104 matching)
+**Credit CV** (105 matching)
 
 1. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) · Aramco Trading Limited · London Area, United Kingdom · posted 2026-11-22 · ✅
 2. [Customer Master Data and Credit Risk Analyst](https://www.linkedin.com/jobs/view/customer-master-data-and-credit-risk-analyst-at-safran-4493739611) · Safran · West Midlands, England, United Kingdom · posted 2026-11-23 · ✅
@@ -58,6 +69,24 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<details>
+<summary><b>22:12</b> · hourly scan · <b>3 new</b> → Credit 1 · Investment 2</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [Investment Risk Analyst](https://www.linkedin.com/jobs/view/investment-risk-analyst-at-barclay-simpson-4492647733) | Barclay Simpson | London Area, United Kingdom | ✅ |
+
+#### Investment (IB / PE) CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [M&A Associate](https://www.linkedin.com/jobs/view/m-a-associate-at-robertson-wright-4493913386) | Robertson Wright | London Area, United Kingdom | ❔ |
+| 2026-11-23 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-robertson-wright-4493914352) | Robertson Wright | London Area, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 21:33, 21:11, 20:42</sub>
 
@@ -3180,11 +3209,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 22:34, 22:05</sub>
+<sub>Nothing new at: 22:34</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (802)](#finance-fpa-cv-802) · [Credit (161)](#credit-cv-161) · [Equity (62)](#equity-cv-62) · [Investment (134)](#investment-ib--pe-cv-134) · [Consulting (19)](#consulting-cv-19) · [Real Estate (23)](#real-estate-cv-23) · [Fund (40)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-40) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
+Everything matched so far, newest first within each CV: [Finance (802)](#finance-fpa-cv-802) · [Credit (162)](#credit-cv-162) · [Equity (62)](#equity-cv-62) · [Investment (135)](#investment-ib--pe-cv-135) · [Consulting (19)](#consulting-cv-19) · [Real Estate (23)](#real-estate-cv-23) · [Fund (40)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-40) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
 
 ### Finance (FP&A) CV: 802
 
@@ -3993,7 +4022,7 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 161
+### Credit CV: 162
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4005,6 +4034,7 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 | 2026-11-23 | [Financial Credit Analyst](https://www.linkedin.com/jobs/view/financial-credit-analyst-at-cognitive-credit-4492646339) | Cognitive Credit | London, England, United Kingdom | ❔ |
 | 2026-11-23 | [Group Risk Analyst](https://www.linkedin.com/jobs/view/group-risk-analyst-at-mnk-group-4493617617) | MNK Group | City Of London, England, United Kingdom | ✅ |
 | 2026-11-23 | [Capital Modelling Risk Analyst](https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1) | AIG | London | ✅ |
+| 2026-11-23 | [Investment Risk Analyst](https://www.linkedin.com/jobs/view/investment-risk-analyst-at-barclay-simpson-4492647733) | Barclay Simpson | London Area, United Kingdom | ✅ |
 | 2026-11-23 | [Hedge Fund Ops Analyst - Credit](https://www.linkedin.com/jobs/view/hedge-fund-ops-analyst-credit-at-one-ten-associates-4479359310) | One Ten Associates | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Private Credit - Middle Office](https://www.linkedin.com/jobs/view/private-credit-middle-office-at-one-ten-associates-4481692243) | One Ten Associates | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Prudential Risk Analyst - Empirical Search](https://www.adzuna.co.uk/jobs/land/ad/5976219137) | Empirical Search | London, UK | ❔ |
@@ -4226,13 +4256,15 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 134
+### Investment (IB / PE) CV: 135
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-23 | [Restructuring Investment Banking Associate](https://www.linkedin.com/jobs/view/restructuring-investment-banking-associate-at-metis-search-4492394707) | Metis Search | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Private Equity Secondaries (2-3 Years)](https://www.linkedin.com/jobs/view/private-equity-secondaries-2-3-years-at-pearse-partners-4494032311) | Pearse Partners | London Area, United Kingdom | ✅ |
 | 2026-11-23 | [Mergers and Acquisitions Associate](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-camino-search-4492385795) | Camino Search | London Area, United Kingdom | ❔ |
+| 2026-11-23 | [M&A Associate](https://www.linkedin.com/jobs/view/m-a-associate-at-robertson-wright-4493913386) | Robertson Wright | London Area, United Kingdom | ❔ |
+| 2026-11-23 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-robertson-wright-4493914352) | Robertson Wright | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Interim Exit Support M&A Consultant](https://www.linkedin.com/jobs/view/interim-exit-support-m-a-consultant-at-finatal-4493634239) | Finatal | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [M&A Advisor](https://www.linkedin.com/jobs/view/m-a-advisor-at-vero-recruitment-4493769757) | Vero Recruitment | Aberdeen, Scotland, United Kingdom | ❔ |
 | — | [Investment Associate - Public Sector Resourcing](https://www.reed.co.uk/jobs/investment-associate-public-sector-resourcing/57598542) | eFinancialCareers | Aberdeen, Aberdeenshire | ✅ |
@@ -4297,7 +4329,6 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 | 2026-11-16 | [Valuation Finance Operations Co-ordinator (12 months FTC)](https://www.linkedin.com/jobs/view/valuation-finance-operations-co-ordinator-12-months-ftc-at-cbre-uk-4491510415) | CBRE UK | London, England, United Kingdom | ✅ |
 | 2026-11-16 | [M&A Analyst (Financial Modelling)](https://www.linkedin.com/jobs/view/m-a-analyst-financial-modelling-at-mdm-resourcing-4489755233) | MDM Resourcing | Manchester Area, United Kingdom | ❔ |
 | 2026-11-16 | [Fund Accountant - Private Equity](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-Accountant---Private-Equity_R1066) | Aztec Group | Southampton | ✅ |
-| 2026-11-16 | [Investment Banking Associate - Technology](https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-robertson-wright-4491284002) | Robertson Wright | London Area, United Kingdom | ❔ |
 | — | [Fund Accountant - Global Private Equity Firm - Up to £110k TC](https://www.reed.co.uk/jobs/fund-accountant-global-private-equity-firm-up-to-110k-tc/57574652) | eFinancialCareers | London | ✅ |
 | — | [Fund Controller - Private Equity Firm - 15 month FTC](https://www.reed.co.uk/jobs/fund-controller-private-equity-firm-15-month-ftc/57574565) | eFinancialCareers | London | ✅ |
 | 2026-11-15 | [Investment Banking Division - FIG Benelux - Associate -](https://www.linkedin.com/jobs/view/investment-banking-division-fig-benelux-associate-at-morgan-stanley-4437562989) | Morgan Stanley | London, England, United Kingdom | ✅ |
@@ -4602,6 +4633,7 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 23 Nov, 22:17 | Investment Banking Associate - Technology | Robertson Wright |
 | Mon 23 Nov, 19:14 | Commercial Finance Analyst FTC | Turning Point |
 | Mon 23 Nov, 19:14 | Quantitative Trader | Blockchain.com |
 | Mon 23 Nov, 19:14 | Reg Reporting Accountant - 12 month FTC | Shawbrook |
@@ -4993,6 +5025,5 @@ Everything matched so far, newest first within each CV: [Finance (802)](#finance
 | Tue 17 Nov, 01:07 | Management Accountant | Anderson Knight |
 | Tue 17 Nov, 00:07 | Junior Trader | AEJ Consulting Ltd |
 | Mon 16 Nov, 22:35 | Graduate Accountant | Enra Specialist Finance |
-| Mon 16 Nov, 22:06 | Information Security Risk Analyst | Client Server |
 
 </details>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T21:45:25.279Z",
+ "generated_at": "2026-11-23T22:20:36.290Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 104,
+   "matching": 105,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -3050,11 +3050,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
-  },
-  "https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-robertson-wright-4491284002": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/finance-graduate-at-targetjobs-uk-4490265104": {
    "id": "other",
@@ -7095,6 +7090,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/investment-risk-analyst-at-barclay-simpson-4492647733": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/m-a-associate-at-robertson-wright-4493913386": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-at-robertson-wright-4493914352": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
   }
  }
 }

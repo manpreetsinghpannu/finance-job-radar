@@ -1,6 +1,6 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1194 firms checked, 581 matched, 613 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1195 firms checked, 582 matched, 613 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
@@ -620,7 +620,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (74)
+## Matched automatically by close name; worth a glance (75)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -630,6 +630,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Automata → Automata Technologies Limited (prefix)
 - Balfour Beatty plc → Balfour Beatty Group Employment Limited (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
+- Barclay Simpson → Barclay Simpson Solutions (prefix)
 - BlueCrest Capital → BlueCrest Capital Management (UK) LLP (prefix)
 - Brookfield → Brookfield Global Asset Management Limited (prefix)
 - CSC → CSC MANAGEMENT SERVICES (UK) LIMITED (prefix)
