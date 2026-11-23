@@ -2045,5 +2045,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-associate-at-michael-page-4493392805 | Michael Page | Finance Associate | Ae, Scotland, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/graduate-finance-programme-data-digital-ai-at-severn-trent-4493607794 | Severn Trent | Graduate Finance Programme - Data, Digital & AI | Coventry, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-hire-rightt-executive-search-hr-advisory-4488587892 | Hire Rightt - Executive Search & HR Advisory | Management Accountant | England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-rexel-uk-ltd-4493606924 | Rexel UK Ltd | Finance Business Partner | Solihull, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/governance-assistant-accountant-at-bae-systems-4493604991 | BAE Systems | Governance Assistant Accountant | Preston, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-programme-at-severn-trent-4493607755 | Severn Trent | Graduate Finance Programme | Coventry, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-commercial-analyst-%C2%A340-000-%C2%A350-000-london-uk-at-cv-bridge-ltd-4493594691 | CV-BRIDGE LTD | Graduate Commercial Analyst - £40,000-£50,000 (London, UK) | Greater London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-nucleus-financial-4493608970 | Nucleus Financial | Investment Analyst | Salisbury, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed

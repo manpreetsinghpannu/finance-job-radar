@@ -1012,6 +1012,11 @@
    "register_name": null,
    "match": "none"
   },
+  "CV-BRIDGE LTD": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CVC Marathon": {
    "licensed": false,
    "register_name": null,
@@ -3542,6 +3547,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Nucleus Financial": {
+   "licensed": true,
+   "register_name": "Nucleus Financial Group Limited",
+   "match": "exact"
+  },
   "OAK LIFE SCIENCE LTD": {
    "licensed": false,
    "register_name": null,
@@ -4131,6 +4141,11 @@
    "licensed": true,
    "register_name": "Revolut Ltd",
    "match": "alias"
+  },
+  "Rexel UK Ltd": {
+   "licensed": true,
+   "register_name": "REXEL SERVICES LIMITED",
+   "match": "exact"
   },
   "Ricardo": {
    "licensed": true,

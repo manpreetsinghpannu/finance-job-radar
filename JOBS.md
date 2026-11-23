@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 06:14** (UK time) · **1502 open roles** at 852 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 07:16** (UK time) · **1507 open roles** at 856 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,33 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 06:11** · hourly scan · checked 201 boards · **2 new roles**
+**Mon 23 Nov, 07:12** · hourly scan · checked 201 boards · **5 new roles**
 
-### Finance (FP&A) CV: 1
+### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-23 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-hire-rightt-executive-search-hr-advisory-4488587892) | Hire Rightt - Executive Search & HR Advisory | England, United Kingdom | ❔ |
+| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-rexel-uk-ltd-4493606924) | Rexel UK Ltd | Solihull, England, United Kingdom | ✅ |
+| 2026-11-23 | [Governance Assistant Accountant](https://www.linkedin.com/jobs/view/governance-assistant-accountant-at-bae-systems-4493604991) | BAE Systems | Preston, England, United Kingdom | ✅ |
+| 2026-11-23 | [Graduate Commercial Analyst - £40,000-£50,000 (London, UK)](https://www.linkedin.com/jobs/view/graduate-commercial-analyst-%C2%A340-000-%C2%A350-000-london-uk-at-cv-bridge-ltd-4493594691) | CV-BRIDGE LTD | Greater London, England, United Kingdom | ❔ |
+
+### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-nucleus-financial-4493608970) | Nucleus Financial | Salisbury, England, United Kingdom | ✅ |
 
 ### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-23 | [Graduate Finance Programme - Data, Digital & AI](https://www.linkedin.com/jobs/view/graduate-finance-programme-data-digital-ai-at-severn-trent-4493607794) | Severn Trent | Coventry, England, United Kingdom | ✅ |
+| 2026-11-23 | [Graduate Finance Programme](https://www.linkedin.com/jobs/view/graduate-finance-programme-at-severn-trent-4493607755) | Severn Trent | Coventry, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (325 matching)
+**Finance (FP&A) CV** (327 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
@@ -38,7 +46,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Wholesale Credit Risk Reporting - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809986) · JPMorgan Chase · BOURNEMOUTH, DORSET, United Kingdom · posted 2026-11-19 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) · Aramco Trading Limited · London Area, United Kingdom · posted 2026-11-22 · ✅
 
-**Equity CV** (64 matching)
+**Equity CV** (65 matching)
 
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) · Rothschild & Co · London · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
@@ -53,7 +61,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)](https://www.linkedin.com/jobs/view/strategy-associate-consultant-generalist-m-f-d-%E2%80%93-hybrid-arrangement-at-l-e-k-consulting-4478950065) · L.E.K. Consulting · London Area, United Kingdom · posted 2026-11-17 · ✅
 2. [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) · Hargreaves Lansdown · Bristol - Welcome Building · posted 2026-11-16 · ✅
 
-**Real Estate CV** (37 matching)
+**Real Estate CV** (38 matching)
 
 1. [Investment Analyst - Real Estate](https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878) · London LGPS CIV Limited · London, England, United Kingdom · posted 2026-11-20 · ✅
 2. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
@@ -68,6 +76,31 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<details>
+<summary><b>07:12</b> · hourly scan · <b>5 new</b> → Finance 3 · Equity 1 · Other 1</summary>
+
+#### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-rexel-uk-ltd-4493606924) | Rexel UK Ltd | Solihull, England, United Kingdom | ✅ |
+| 2026-11-23 | [Governance Assistant Accountant](https://www.linkedin.com/jobs/view/governance-assistant-accountant-at-bae-systems-4493604991) | BAE Systems | Preston, England, United Kingdom | ✅ |
+| 2026-11-23 | [Graduate Commercial Analyst - £40,000-£50,000 (London, UK)](https://www.linkedin.com/jobs/view/graduate-commercial-analyst-%C2%A340-000-%C2%A350-000-london-uk-at-cv-bridge-ltd-4493594691) | CV-BRIDGE LTD | Greater London, England, United Kingdom | ❔ |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-nucleus-financial-4493608970) | Nucleus Financial | Salisbury, England, United Kingdom | ✅ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [Graduate Finance Programme](https://www.linkedin.com/jobs/view/graduate-finance-programme-at-severn-trent-4493607755) | Severn Trent | Coventry, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>06:11</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
@@ -3239,18 +3272,21 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 08:05, 07:11</sub>
+<sub>Nothing new at: 08:05</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (868)](#finance-fpa-cv-868) · [Credit (177)](#credit-cv-177) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (20)](#consulting-cv-20) · [Real Estate (25)](#real-estate-cv-25) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (158)](#other-fits-no-cv-closely-may-still-be-worth-a-look-158)
+Everything matched so far, newest first within each CV: [Finance (871)](#finance-fpa-cv-871) · [Credit (177)](#credit-cv-177) · [Equity (75)](#equity-cv-75) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (20)](#consulting-cv-20) · [Real Estate (25)](#real-estate-cv-25) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (159)](#other-fits-no-cv-closely-may-still-be-worth-a-look-159)
 
-### Finance (FP&A) CV: 868
+### Finance (FP&A) CV: 871
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | — | [Interim Finance Analyst](https://www.reed.co.uk/jobs/interim-finance-analyst/57597856) | eFinancialCareers | Northampton, Northamptonshire | ✅ |
+| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-rexel-uk-ltd-4493606924) | Rexel UK Ltd | Solihull, England, United Kingdom | ✅ |
+| 2026-11-23 | [Governance Assistant Accountant](https://www.linkedin.com/jobs/view/governance-assistant-accountant-at-bae-systems-4493604991) | BAE Systems | Preston, England, United Kingdom | ✅ |
 | 2026-11-23 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-hire-rightt-executive-search-hr-advisory-4488587892) | Hire Rightt - Executive Search & HR Advisory | England, United Kingdom | ❔ |
+| 2026-11-23 | [Graduate Commercial Analyst - £40,000-£50,000 (London, UK)](https://www.linkedin.com/jobs/view/graduate-commercial-analyst-%C2%A340-000-%C2%A350-000-london-uk-at-cv-bridge-ltd-4493594691) | CV-BRIDGE LTD | Greater London, England, United Kingdom | ❔ |
 | 2026-11-23 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-michael-page-4493392805) | Michael Page | Ae, Scotland, United Kingdom | ✅ |
 | — | [Trust Accountant - High Profile Team - Great Progression.....](https://www.reed.co.uk/jobs/trust-accountant-high-profile-team-great-progression/57595625) | Hawke Search | Canterbury, Kent | ❔ |
 | 2026-11-22 | [Finance Business Partner – FP&A – 12-month fixed term contract](https://scotjobsnet.co.uk/job/finance-business-partner-fpa-12-month-fixed-term-contract/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
@@ -4300,10 +4336,11 @@ Everything matched so far, newest first within each CV: [Finance (868)](#finance
 | 2026-10-27 | [Graduate Credit Policy Analyst](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Policy-Analyst_JR_10039776-1) | Ayvens | Bristol CEC | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 74
+### Equity CV: 75
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-23 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-nucleus-financial-4493608970) | Nucleus Financial | Salisbury, England, United Kingdom | ✅ |
 | — | [Investment Analyst or Associate - M&G plc.](https://www.reed.co.uk/jobs/investment-analyst-or-associate-m-g-plc/57599661) | eFinancialCareers | London | ✅ |
 | 2026-11-21 | [Trainee Quantitative Research Analyst](https://www.linkedin.com/jobs/view/trainee-quantitative-research-analyst-at-societe-generale-corporate-and-investment-banking-sgcib-4493249830) | Societe Generale Corporate and Investment Banking - SGCIB | London, England, United Kingdom | ❔ |
 | 2026-11-21 | [Investment Analyst or Associate](https://www.adzuna.co.uk/jobs/land/ad/5973918266) | M&G FA Limited | UK | ❔ |
@@ -4624,11 +4661,12 @@ Everything matched so far, newest first within each CV: [Finance (868)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 158
+### Other (fits no CV closely, may still be worth a look): 159
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-23 | [Graduate Finance Programme - Data, Digital & AI](https://www.linkedin.com/jobs/view/graduate-finance-programme-data-digital-ai-at-severn-trent-4493607794) | Severn Trent | Coventry, England, United Kingdom | ✅ |
+| 2026-11-23 | [Graduate Finance Programme](https://www.linkedin.com/jobs/view/graduate-finance-programme-at-severn-trent-4493607755) | Severn Trent | Coventry, England, United Kingdom | ✅ |
 | 2026-11-22 | [Graduate - Structured Quant (m/f/d)](https://www.linkedin.com/jobs/view/graduate-structured-quant-m-f-d-at-targetjobs-uk-4493114574) | targetjobs UK | Manchester, England, United Kingdom | ❔ |
 | 2026-11-22 | [Graduate - Risk (m/f/d) - Manchester](https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-manchester-at-targetjobs-uk-4493119686) | targetjobs UK | Manchester, England, United Kingdom | ❔ |
 | 2026-11-22 | [Quantity Surveyor / Estimator](https://www.linkedin.com/jobs/view/quantity-surveyor-estimator-at-equals-one-limited-4493331357) | EQUALS ONE LIMITED | Pewsey, England, United Kingdom | ❔ |

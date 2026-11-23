@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T06:14:12.910Z",
+ "generated_at": "2026-11-23T07:16:40.446Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 325,
+   "matching": 327,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 64,
+   "matching": 65,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 37,
+   "matching": 38,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -7760,6 +7760,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-rexel-uk-ltd-4493606924": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/governance-assistant-accountant-at-bae-systems-4493604991": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/graduate-finance-programme-at-severn-trent-4493607755": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/graduate-commercial-analyst-%C2%A340-000-%C2%A350-000-london-uk-at-cv-bridge-ltd-4493594691": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-nucleus-financial-4493608970": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 15
   }
  }
 }
