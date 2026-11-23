@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 07:16** (UK time) · **1507 open roles** at 856 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 08:15** (UK time) · **1507 open roles** at 856 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,27 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 07:12** · hourly scan · checked 201 boards · **5 new roles**
+**Mon 23 Nov, 08:10** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-rexel-uk-ltd-4493606924) | Rexel UK Ltd | Solihull, England, United Kingdom | ✅ |
-| 2026-11-23 | [Governance Assistant Accountant](https://www.linkedin.com/jobs/view/governance-assistant-accountant-at-bae-systems-4493604991) | BAE Systems | Preston, England, United Kingdom | ✅ |
-| 2026-11-23 | [Graduate Commercial Analyst - £40,000-£50,000 (London, UK)](https://www.linkedin.com/jobs/view/graduate-commercial-analyst-%C2%A340-000-%C2%A350-000-london-uk-at-cv-bridge-ltd-4493594691) | CV-BRIDGE LTD | Greater London, England, United Kingdom | ❔ |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-nucleus-financial-4493608970) | Nucleus Financial | Salisbury, England, United Kingdom | ✅ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Graduate Finance Programme](https://www.linkedin.com/jobs/view/graduate-finance-programme-at-severn-trent-4493607755) | Severn Trent | Coventry, England, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Mon 23 Nov, 07:12** (5: Finance 3 · Equity 1 · Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -76,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<sub>Nothing new at: 08:10</sub>
 
 <details>
 <summary><b>07:12</b> · hourly scan · <b>5 new</b> → Finance 3 · Equity 1 · Other 1</summary>
@@ -3271,8 +3255,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-16 | [Group Financial Accountant](https://www.linkedin.com/jobs/view/group-financial-accountant-at-michael-page-4491289954) | Michael Page | Nottingham, England, United Kingdom | ✅ |
 
 </details>
-
-<sub>Nothing new at: 08:05</sub>
 
 ## All open roles by CV
 
