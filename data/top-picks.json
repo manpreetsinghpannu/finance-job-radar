@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T03:14:38.083Z",
+ "generated_at": "2026-11-23T04:17:41.654Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 325,
+   "matching": 324,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -1802,11 +1802,6 @@
    "score": 12
   },
   "https://www.linkedin.com/jobs/view/accountant-at-hays-4488841393": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 7
-  },
-  "https://www.linkedin.com/jobs/view/financial-accountant-at-bupa-uk-4488856023": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 7
@@ -7501,11 +7496,6 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://www.linkedin.com/jobs/view/quantity-surveyor-at-mk-consult-ltd-4493331356": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
   "https://www.linkedin.com/jobs/view/quantity-surveyor-at-onsite-central-limited-4439903348": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -7750,6 +7740,11 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/credit-hire-technical-specialist-at-keoghs-4442828346": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 2
   }
  }
 }

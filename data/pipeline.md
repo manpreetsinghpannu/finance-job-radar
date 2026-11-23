@@ -2041,5 +2041,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/trust-accountant-high-profile-team-great-progression/57595625 | Hawke Search | Trust Accountant - High Profile Team - Great Progression..... | Canterbury, Kent | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/interim-finance-analyst/57597856 | eFinancialCareers | Interim Finance Analyst | Northampton, Northamptonshire | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/fund-accountant-i-iii-at-the-global-institute-for-health-and-human-rights-4493603355 | The Global Institute for Health and Human Rights | Fund Accountant I-III | Newry Mourne And Down, Northern Ireland, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-hire-technical-specialist-at-keoghs-4442828346 | Keoghs | Credit Hire Technical Specialist | Bolton, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed
