@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1124 firms checked, 558 matched, 566 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1132 firms checked, 562 matched, 570 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (566)
+## Not found (570)
 
 - 01Health
 - 7IM
@@ -131,6 +131,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CityGrad
 - Clarkson Owens Recruitment Limited
 - ClearScore
+- Clearwater People Solutions Ltd
 - Client Server
 - Cobalt Recruitment
 - Cobb & Jones Recruitment Limited
@@ -289,6 +290,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Klarna
 - Klipboard
 - Kraft Heinz
+- L&Q
 - L3Harris Technologies
 - Landbay
 - Language Matters
@@ -394,6 +396,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Peace Recruitment
 - Peak Venues
 - Pear Talent - Finance Recruitment
+- Pertemps Scotland
 - Platinum Recruitment Group
 - Point One - Hedge Fund Talent
 - Portman Finance Group
@@ -501,6 +504,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - The Global Institute for Health and Human Rights
 - The Niche Partnership
 - The Scottish National Investment Bank
+- The Wow Company
 - TheyDo - Journey Management
 - ThinkMarkets
 - Thrive Childcare and Education
@@ -573,7 +577,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (72)
+## Matched automatically by close name; worth a glance (73)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -645,5 +649,6 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Triple Point → Triple Point Servco Limited (prefix)
 - United Infrastructure Ltd → United Infrastructure Management Limited (prefix)
 - Universal Music Group UK → Universal Music Operations Ltd (prefix)
+- Vanquis → Vanquis Bank Limited (prefix)
 - Vitality → VITALITY TRADING LIMITED (prefix)
 - We Do Group → WE DO CARE (LONDON) LTD (prefix)

@@ -2072,5 +2072,26 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/eu-finance-analyst-at-viatris-4481464255 | Viatris | EU Finance Analyst | England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/interim-exit-support-m-a-consultant-at-finatal-4493634239 | Finatal | Interim Exit Support M&A Consultant | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57600828 | Mackie Myers | Management Accountant | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-robert-walters-4493760230 | Robert Walters | FP&A Analyst | West Midlands, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commodities-credit-risk-analyst-collateral-management-global-energy-trading-co-at-eaglecliff-recruitment-4492602102 | Eaglecliff Recruitment | Commodities Credit Risk Analyst : Collateral Management : Global Energy Trading Co | Greater London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-risk-analyst-at-mnk-group-4493617617 | MNK Group | Group Risk Analyst | City Of London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/surveyor-valuations-hotels-at-cbre-uk-4493632545 | CBRE UK | Surveyor (Valuations - Hotels) | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-quant-researcher-hedge-fund-london-at-undisclosed-4493615957 | Undisclosed | Equity Quant Researcher | Hedge Fund, London | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089 | Medpace | Entry Level Commercial Finance Analyst | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-l-q-4493620750 | L&Q | Accountant | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/interim-financial-accountant-at-allen-lane-4493619697 | Allen Lane | Interim Financial Accountant | East Midlands, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-music-industry-at-hyered-4489783956 | Hyered | Accountant | Music Industry | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-practice-at-the-wow-company-4493749229 | The Wow Company | Management Accountant (Practice) | United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-at-accountable-recruitment-limited-4493614751 | Accountable Recruitment Limited | Financial Controller | Wirral, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-global-accounting-network-4492392675 | Global Accounting Network | Accountant | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-holland-barrett-4493617712 | Holland & Barrett | Commercial Analyst | Nuneaton, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-treasury-operations-at-vanquis-4493636317 | Vanquis | Analyst - Treasury Operations | Bradford, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/distressed-credit-investment-associate-at-metis-search-4492602337 | Metis Search | Distressed Credit Investment Associate | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/european-real-estate-research-analyst-at-ubs-4493759656 | UBS | European Real Estate Research Analyst | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57601147 | Clearwater People Solutions Ltd | Management Accountant | Bexley, Kent | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57601135 | Halliday Marx | Management Accountant | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant/57601360 | Kennedy Pearce Consulting | Assistant Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/temporary-assistant-accountant/57601204 | CMA Recruitment Group | Temporary Assistant Accountant | Poole, Dorset | note: via Reed
+- [ ] https://www.s1jobs.com/job/assistant-management-accountant-127793459 | Pertemps Scotland | Assistant Management Accountant | Glasgow Area, Scotland | posted: 2026-11-23 | note: via S1Jobs
 
 ## Processed

@@ -247,6 +247,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Allen Lane": {
+   "licensed": true,
+   "register_name": "Allen Lane Limited",
+   "match": "exact"
+  },
   "Allianz Commercial": {
    "licensed": false,
    "register_name": null,
@@ -1233,6 +1238,11 @@
    "match": "alias"
   },
   "ClearScore": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Clearwater People Solutions Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2672,6 +2682,11 @@
    "register_name": "Kroo Bank Ltd",
    "match": "prefix"
   },
+  "L&Q": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "L.E.K. Consulting": {
    "licensed": true,
    "register_name": "L.E.K. Consulting LLP",
@@ -3012,6 +3027,11 @@
    "register_name": null,
    "match": "none"
   },
+  "MNK Group": {
+   "licensed": true,
+   "register_name": "MNK International Limited",
+   "match": "exact"
+  },
   "MS Amlin": {
    "licensed": true,
    "register_name": "MS Amlin Corporate Services Limited",
@@ -3181,6 +3201,11 @@
    "licensed": true,
    "register_name": "MediaKind Systems UK Limited",
    "match": "prefix"
+  },
+  "Medpace": {
+   "licensed": true,
+   "register_name": "Medpace UK Limited",
+   "match": "exact"
   },
   "Mego Employment": {
    "licensed": false,
@@ -3881,6 +3906,11 @@
    "licensed": true,
    "register_name": "PERIGUS ENERGY UK LIMITED",
    "match": "exact"
+  },
+  "Pertemps Scotland": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Phoenix Group": {
    "licensed": true,
@@ -4962,6 +4992,11 @@
    "register_name": "The University of Manchester",
    "match": "exact"
   },
+  "The Wow Company": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "TheyDo - Journey Management": {
    "licensed": false,
    "register_name": null,
@@ -5201,6 +5236,11 @@
    "licensed": true,
    "register_name": "VANGUARD BUILDING COMPLIANCE LIMITED",
    "match": "alias"
+  },
+  "Vanquis": {
+   "licensed": true,
+   "register_name": "Vanquis Bank Limited",
+   "match": "prefix"
   },
   "Vecta": {
    "licensed": false,
