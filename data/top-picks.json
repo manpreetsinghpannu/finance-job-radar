@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T04:17:41.654Z",
+ "generated_at": "2026-11-23T05:17:55.943Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 324,
+   "matching": 325,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -7745,6 +7745,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 2
+  },
+  "https://www.linkedin.com/jobs/view/finance-associate-at-michael-page-4493392805": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Mon 23 Nov, 04:17** (UK time) · **1499 open roles** at 850 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Mon 23 Nov, 05:17** (UK time) · **1500 open roles** at 850 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Mon 23 Nov, 04:14** · hourly scan · checked 201 boards · **1 new role**
+**Mon 23 Nov, 05:14** · hourly scan · checked 201 boards · **1 new role**
 
-### Credit CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-23 | [Credit Hire Technical Specialist](https://www.linkedin.com/jobs/view/credit-hire-technical-specialist-at-keoghs-4442828346) | Keoghs | Bolton, England, United Kingdom | ❔ |
+| 2026-11-23 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-michael-page-4493392805) | Michael Page | Ae, Scotland, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (324 matching)
+**Finance (FP&A) CV** (325 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 2. [Finance Analyst (FP&A)](https://www.linkedin.com/jobs/view/finance-analyst-fp-a-at-element-materials-technology-4489761941) · Element Materials Technology · Edinburgh, Scotland, United Kingdom · posted 2026-11-16 · ✅
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<details>
+<summary><b>05:14</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-23 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-michael-page-4493392805) | Michael Page | Ae, Scotland, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>04:14</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -3205,17 +3216,18 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 08:05, 07:11, 06:04, 05:04</sub>
+<sub>Nothing new at: 08:05, 07:11, 06:04</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (866)](#finance-fpa-cv-866) · [Credit (177)](#credit-cv-177) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (20)](#consulting-cv-20) · [Real Estate (25)](#real-estate-cv-25) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (157)](#other-fits-no-cv-closely-may-still-be-worth-a-look-157)
+Everything matched so far, newest first within each CV: [Finance (867)](#finance-fpa-cv-867) · [Credit (177)](#credit-cv-177) · [Equity (74)](#equity-cv-74) · [Investment (141)](#investment-ib--pe-cv-141) · [Consulting (20)](#consulting-cv-20) · [Real Estate (25)](#real-estate-cv-25) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (157)](#other-fits-no-cv-closely-may-still-be-worth-a-look-157)
 
-### Finance (FP&A) CV: 866
+### Finance (FP&A) CV: 867
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | — | [Interim Finance Analyst](https://www.reed.co.uk/jobs/interim-finance-analyst/57597856) | eFinancialCareers | Northampton, Northamptonshire | ✅ |
+| 2026-11-23 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-michael-page-4493392805) | Michael Page | Ae, Scotland, United Kingdom | ✅ |
 | — | [Trust Accountant - High Profile Team - Great Progression.....](https://www.reed.co.uk/jobs/trust-accountant-high-profile-team-great-progression/57595625) | Hawke Search | Canterbury, Kent | ❔ |
 | 2026-11-22 | [Finance Business Partner – FP&A – 12-month fixed term contract](https://scotjobsnet.co.uk/job/finance-business-partner-fpa-12-month-fixed-term-contract/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
 | 2026-11-22 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-ingram-micro-4475443932) | Ingram Micro | Northwich, England, United Kingdom | ✅ |
@@ -4753,7 +4765,7 @@ Everything matched so far, newest first within each CV: [Finance (866)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>115 roles taken off the list because the firm closed the posting</summary>
+<summary>114 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -4871,6 +4883,5 @@ Everything matched so far, newest first within each CV: [Finance (866)](#finance
 | Mon 16 Nov, 12:12 | Credit Analyst (Commercial Real Estate) | Montpellier Resourcing |
 | Mon 16 Nov, 10:06 | Quantitative Investment Analyst, Multi-Asset | T. Rowe Price |
 | Mon 16 Nov, 06:07 | Quantitative Trading & Research – Securities Services – Analyst or Associate | JPMorgan Chase |
-| Mon 16 Nov, 05:06 | Partnerships - Private Equity | ElevenLabs |
 
 </details>
