@@ -2197,5 +2197,21 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1 | AIG | Capital Modelling Risk Analyst | London | posted: 2026-11-23
 - [ ] https://www.linkedin.com/jobs/view/analyst-credit-and-collections-at-wesco-4486152747 | Wesco | Analyst - Credit and Collections | Chesterfield, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/etps-management-accountant-at-qinetiq-4485457977 | QinetiQ | ETPS Management Accountant | Amesbury, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.adzuna.co.uk/jobs/details/5976391818 | SF Partners Admin | Financial Accountant | Nottingham, Nottinghamshire | posted: 2026-11-23 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5976389483 | Corecruitment International | Assistant Accountant | West London, London | posted: 2026-11-23 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5976389103 | Watson & Colhoun | Qualified Accountant | Omagh, Northern Ireland | posted: 2026-11-23 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5976389093 | VANRATH | Assistant Accountant | Lisburn, Northern Ireland | posted: 2026-11-23 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5976357468 | Medlock Partners Ltd | Commercial Finance Analyst | Rusholme, Manchester | posted: 2026-11-23 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5976357398 | Anderson Knight | Finance Analyst | Glasgow, Scotland | posted: 2026-11-23 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5976262107 | Axon Moore | Management Accountant - 6 month FTC | Penwortham, Preston | posted: 2026-11-23 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5976219139 | CassonX | Fund Accountant / Fund Control – Alternatives and/or Private Credit – Premier Hedge Fund - CassonX | London, UK | posted: 2026-11-23 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5976219137 | Empirical Search | Prudential Risk Analyst - Empirical Search | London, UK | posted: 2026-11-23 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5976206090 | Trident International Associates | Property Accountant (Fixed-Term Contract) | Farringdon, Central London | posted: 2026-11-23 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5976085250 | Pertemps Glasgow Perms | Assistant Management Accountant | Glasgow, Scotland | posted: 2026-11-23 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5976085201 | Green Folk | Financial Controller | New Cross, South East London | posted: 2026-11-23 | note: via Adzuna
+- [ ] https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-walker-hamill-4492644616 | Walker Hamill | Group FP&A Analyst | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-france-4493699844 | CFP Energy - France | Credit Risk Analyst | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57603951 | Accountancy Action | Management Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/junior-accountant/57603375 | Accountancy Action | Junior Accountant | Borehamwood, Hertfordshire | note: via Reed
 
 ## Processed

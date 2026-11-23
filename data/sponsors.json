@@ -977,6 +977,11 @@
    "register_name": "CFP Energy (UK) Limited",
    "match": "exact"
   },
+  "CFP Energy - France": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CGI": {
    "licensed": true,
    "register_name": "Logica Ltd t/a CGI",
@@ -1166,6 +1171,11 @@
    "licensed": true,
    "register_name": "carwow Ltd.",
    "match": "exact"
+  },
+  "CassonX": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Castleton Commodities International": {
    "licensed": true,
@@ -1388,6 +1398,11 @@
    "match": "none"
   },
   "Core3": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Corecruitment International": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -1663,6 +1678,11 @@
    "match": "exact"
   },
   "Embat": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Empirical Search": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2078,6 +2098,11 @@
    "match": "none"
   },
   "Great Places Housing Association": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Green Folk": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3357,6 +3382,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Medlock Partners Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Medpace": {
    "licensed": true,
    "register_name": "Medpace UK Limited",
@@ -4082,6 +4112,11 @@
    "register_name": "PERIGUS ENERGY UK LIMITED",
    "match": "exact"
   },
+  "Pertemps Glasgow Perms": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Pertemps Scotland": {
    "licensed": false,
    "register_name": null,
@@ -4518,6 +4553,11 @@
    "match": "none"
   },
   "SF Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "SF Partners Admin": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5701,6 +5741,11 @@
    "licensed": true,
    "register_name": "Wates Group Ltd",
    "match": "exact"
+  },
+  "Watson & Colhoun": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Watson-Marlow Fluid Technology Solutions": {
    "licensed": false,

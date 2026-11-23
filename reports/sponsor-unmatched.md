@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1185 firms checked, 581 matched, 604 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1194 firms checked, 581 matched, 613 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (604)
+## Not found (613)
 
 - 01Health
 - 7IM
@@ -103,6 +103,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CAMMACH BRYANT LIMITED
 - CCL Facades
 - CER Financial
+- CFP Energy - France
 - CIBC
 - CLARC Recruitment
 - CM Law Recruitment
@@ -126,6 +127,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Care Visions Group
 - Carousel Consultancy Ltd
 - Carr Lyons Search & Selection
+- CassonX
 - Castrol
 - Cazoo
 - Centalion
@@ -150,6 +152,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Consumer Additions and Consumer Exec
 - Cooper Parry Finance Recruitment
 - Core3
+- Corecruitment International
 - Cornell Search
 - Crossing Hurdles
 - Culina
@@ -178,6 +181,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Edward Mann
 - Elevation Recruitment Group
 - Embat
+- Empirical Search
 - Equifind
 - Equity House
 - Ernest Gordon Recruitment Limited
@@ -220,6 +224,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Grafton Banks Finance Ltd
 - Graphite Partners
 - Great Places Housing Association
+- Green Folk
 - Greencore
 - Greenhill
 - Greenwich Partners
@@ -356,6 +361,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - McGinnis Loy Associates Ltd
 - Medlock Partners
 - Medlock Partners Limited
+- Medlock Partners Ltd
 - Mego Employment
 - Mego Employment Limited
 - Melior Capital
@@ -418,6 +424,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Peace Recruitment
 - Peak Venues
 - Pear Talent - Finance Recruitment
+- Pertemps Glasgow Perms
 - Pertemps Scotland
 - Platinum Recruitment Group
 - Point One - Hedge Fund Talent
@@ -465,6 +472,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - SD Business Management
 - SENSIBAL RECRUITMENT LTD
 - SF Partners
+- SF Partners Admin
 - SJC Partners
 - SOCOTEC UK & Ireland
 - SRG
@@ -587,6 +595,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Wade Macdonald
 - Walker Dendle Financial Recruitment
 - Warner Recruitment Limited
+- Watson & Colhoun
 - Watson-Marlow Fluid Technology Solutions
 - Weekday AI
 - Wesco
