@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1152 firms checked, 569 matched, 583 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1157 firms checked, 570 matched, 587 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (583)
+## Not found (587)
 
 - 01Health
 - 7IM
@@ -42,6 +42,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Anderson Knight
 - Annonymous
 - Anonymous
+- Anonymous Company Profile
 - Apollo Global Management, Inc.
 - Appcastenterprise
 - Apply Recruitment
@@ -162,6 +163,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Dojo
 - Doncaster Racecourse and Exhibition Centre
 - Dŵr Cymru Welsh Water
+- EA First
 - EFG Private Banking
 - EQUALS ONE LIMITED
 - Eaglecliff Recruitment
@@ -174,6 +176,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Elevation Recruitment Group
 - Embat
 - Equifind
+- Equity House
 - Ernest Gordon Recruitment Limited
 - Escape Recruitment Services
 - Everet Marsh
@@ -199,6 +202,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - GC Partners
 - GIC
 - GP Fund Solutions
+- GREENE KING BREWING & RETAILING
 - GSR Markets
 - Gemini
 - Gen II Fund Services

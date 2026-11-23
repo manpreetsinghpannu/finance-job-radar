@@ -2125,5 +2125,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/investment-associate-public-sector-resourcing/57598542 | eFinancialCareers | Investment Associate - Public Sector Resourcing | Aberdeen, Aberdeenshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/finance-business-partner/57602118 | T2M Resourcing Ltd | Finance Business Partner | Birmingham, West Midlands (County) | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/recently-qualified-accountant/57601986 | Vitae Financial Recruitment Limited | Recently Qualified Accountant | Stevenage, Hertfordshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-ea-first-4492612420 | EA First | Management Accountant | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-equity-house-4493637960 | Equity House | Financial Analyst | England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-high-yield-credit-analyst-at-anonymous-company-profile-4478424526 | Anonymous Company Profile | Global High Yield Credit Analyst | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst-ftc/57602703 | Turning Point | Commercial Finance Analyst FTC | Manchester, Lancashire | note: via Reed
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-pqs-127793482 | Gibson Recruitment Limited | Quantity Surveyor Pqs | South Lanarkshire, Scotland | posted: 2026-11-23 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-nec-127793480 | Gibson Recruitment Limited | Quantity Surveyor Nec | Glasgow Area, Scotland | posted: 2026-11-23 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-127793488 | GREENE KING BREWING & RETAILING | Quantity Surveyor | Highland, Scotland | posted: 2026-11-23 | note: via S1Jobs
 
 ## Processed

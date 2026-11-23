@@ -332,6 +332,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Anonymous Company Profile": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Aon": {
    "licensed": true,
    "register_name": "Aon UK  Limited",
@@ -1537,6 +1542,11 @@
    "register_name": "e.l.f. Beauty UK Limited",
    "match": "exact"
   },
+  "EA First": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "EFG Private Banking": {
    "licensed": false,
    "register_name": null,
@@ -1656,6 +1666,11 @@
    "licensed": true,
    "register_name": "Equiteq Advisors Ltd",
    "match": "prefix"
+  },
+  "Equity House": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Ernest Gordon Recruitment Limited": {
    "licensed": false,
@@ -1898,6 +1913,11 @@
    "match": "exact"
   },
   "GP Fund Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "GREENE KING BREWING & RETAILING": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5210,6 +5230,11 @@
   "Turner & Townsend": {
    "licensed": true,
    "register_name": "Turner & Townsend Ltd",
+   "match": "exact"
+  },
+  "Turning Point": {
+   "licensed": true,
+   "register_name": "Turning Point",
    "match": "exact"
   },
   "UBS": {
