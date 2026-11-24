@@ -2218,4 +2218,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-robertson-wright-4493914352 | Robertson Wright | Investment Banking Associate | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/valuation-finance-operations-co-ordinator-12-months-ftc-at-cbre-4493932405 | CBRE | Valuation Finance Operations Co-ordinator (12 months FTC) | London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Securitised-Products--SP---Financing-Trader--Commercial-Real-Estate--CRE-_JR-0000139004 | Barclays | Securitised Products (SP), Financing Trader (Commercial Real Estate (CRE) | Canary Wharf, 1 Churchill Place | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-north-air-4493657488 | North Air | Management Accountant | Reigate, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-finalto-4493637923 | Finalto | Accountant | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+
 ## Processed

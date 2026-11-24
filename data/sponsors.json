@@ -1822,6 +1822,11 @@
    "register_name": "FIL Investment Management Limited",
    "match": "alias"
   },
+  "Finalto": {
+   "licensed": true,
+   "register_name": "Finalto Financial Services Ltd",
+   "match": "prefix"
+  },
   "Financial Divisions": {
    "licensed": false,
    "register_name": null,
@@ -3776,6 +3781,11 @@
    "licensed": true,
    "register_name": "Norfolk and Norwich University Hospitals NHS Foundation Trust",
    "match": "exact"
+  },
+  "North Air": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Northern Trust": {
    "licensed": true,

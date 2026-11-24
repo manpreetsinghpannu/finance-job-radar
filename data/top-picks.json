@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:21:20.092Z",
+ "generated_at": "2026-11-24T00:26:59.945Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 308,
+   "matching": 305,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 104,
+   "matching": 98,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 46,
+   "matching": 43,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -123,14 +123,14 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 89,
+   "matching": 88,
    "picks": [
     {
-     "title": "Analyst - Investment Banking M&A",
-     "company": "Equiteq",
-     "location": "London, UK",
-     "posted": "2026-11-20",
-     "url": "https://www.adzuna.co.uk/jobs/details/5972737427",
+     "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
+     "company": "eFinancialCareers",
+     "location": "London",
+     "posted": "2026-11-19",
+     "url": "https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161",
      "score": 30,
      "why": [
       "Investment Banking",
@@ -139,12 +139,12 @@
      "sponsor": true
     },
     {
-     "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
-     "company": "eFinancialCareers",
-     "location": "London",
+     "title": "Investment Banking (M&A) Associate - Business Services",
+     "company": "Dartmouth Partners",
+     "location": "London Area, United Kingdom",
      "posted": "2026-11-19",
-     "url": "https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161",
-     "score": 30,
+     "url": "https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759",
+     "score": 27,
      "why": [
       "Investment Banking",
       "M&A"
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 39,
+   "matching": 36,
    "picks": [
     {
      "title": "Trainee Fund Accountant",
@@ -5351,76 +5351,6 @@
    "cv": "Credit CV",
    "score": 12
   },
-  "https://www.adzuna.co.uk/jobs/details/5973167646": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5973159093": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 6
-  },
-  "https://www.adzuna.co.uk/jobs/details/5973144214": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
-  "https://www.adzuna.co.uk/jobs/details/5973123205": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
-  },
-  "https://www.adzuna.co.uk/jobs/details/5973121289": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 10
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5973080719": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 4
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5973080600": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5973008213": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
-  "https://www.adzuna.co.uk/jobs/details/5972977798": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 10
-  },
-  "https://www.adzuna.co.uk/jobs/details/5972906216": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5972844952": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 6
-  },
-  "https://www.adzuna.co.uk/jobs/details/5972737859": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
-  "https://www.adzuna.co.uk/jobs/details/5972737427": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 30
-  },
-  "https://www.adzuna.co.uk/jobs/details/5972733944": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 20
-  },
   "https://www.linkedin.com/jobs/view/emea-fp-a-analyst-at-f5-4477408814": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -6826,11 +6756,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://www.reed.co.uk/jobs/commercial-finance-analyst-ftc/57603462": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 24
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-at-radius-4493668188": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -7100,6 +7025,21 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Securitised-Products--SP---Financing-Trader--Commercial-Real-Estate--CRE-_JR-0000139004": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-north-air-4493657488": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/accountant-at-finalto-4493637923": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

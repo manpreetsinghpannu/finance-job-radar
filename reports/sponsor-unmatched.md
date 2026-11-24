@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1196 firms checked, 583 matched, 613 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1198 firms checked, 584 matched, 614 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (613)
+## Not found (614)
 
 - 01Health
 - 7IM
@@ -395,6 +395,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Nick Buick Associates
 - Nigel Wright Recruitment
 - No1 Legal and Professional
+- North Air
 - Novuna
 - Nucleus Commercial Finance
 - OAK LIFE SCIENCE LTD
@@ -620,7 +621,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (75)
+## Matched automatically by close name; worth a glance (76)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -644,6 +645,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - EQT Group → EQT Partners Limited (prefix)
 - Element Materials Technology → ELEMENT MATERIALS TECHNOLOGY SHARED SERVICES LIMITED (prefix)
 - Equiteq → Equiteq Advisors Ltd (prefix)
+- Finalto → Finalto Financial Services Ltd (prefix)
 - Form3 → Form3 Technology Limited (prefix)
 - Global Payment Holding Company → Global Payments UK Ltd (similar (0.96))
 - Griffin → Griffin Bank Ltd (prefix)
