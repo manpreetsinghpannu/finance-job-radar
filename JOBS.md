@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 24 Nov, 01:22** (UK time) · **1358 open roles** at 810 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 24 Nov, 02:23** (UK time) · **1358 open roles** at 810 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 24 Nov, 01:12** · hourly scan · checked 201 boards · **1 new role**
+**Tue 24 Nov, 02:12** · hourly scan · checked 201 boards · **0 new roles**
 
-### Consulting CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-24 | [Strategy Associate](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Strategy-Associate_R-00286987-1) | NatWest Group | London | ✅ |
+Nothing new this time. The last scan that found something was **Tue 24 Nov, 01:12** (1: Consulting 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 24 November
+
+<sub>Nothing new at: 02:12</sub>
 
 <details>
 <summary><b>01:12</b> · hourly scan · <b>1 new</b> → Consulting 1</summary>
@@ -3165,7 +3163,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 03:04, 02:04</sub>
+<sub>Nothing new at: 03:04</sub>
 
 ## All open roles by CV
 
