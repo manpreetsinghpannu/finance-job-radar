@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:23:05.898Z",
+ "generated_at": "2026-11-24T08:21:55.964Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 306,
+   "matching": 307,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -7040,6 +7040,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-goodman-masson-4494308715": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
   }
  }
 }
