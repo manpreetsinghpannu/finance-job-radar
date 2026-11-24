@@ -2687,6 +2687,11 @@
    "register_name": "Integrity360 Limited",
    "match": "exact"
   },
+  "IntelliPro": {
+   "licensed": true,
+   "register_name": "INTELLIPRO GROUP UK LIMITED",
+   "match": "exact"
+  },
   "Interactive Investor": {
    "licensed": false,
    "register_name": null,
@@ -2863,6 +2868,11 @@
    "match": "none"
   },
   "Keepmoat": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Kelkoo Group": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5417,6 +5427,11 @@
    "register_name": null,
    "match": "none"
   },
+  "The Honourable Society of the Middle Temple": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "The Niche Partnership": {
    "licensed": false,
    "register_name": null,
@@ -5463,6 +5478,11 @@
    "match": "none"
   },
   "TheyDo - Journey Management": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Think Accountancy and Finance": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5535,6 +5555,11 @@
   "Trace": {
    "licensed": true,
    "register_name": "Trace Group Limited",
+   "match": "exact"
+  },
+  "Tradeweb": {
+   "licensed": true,
+   "register_name": "Tradeweb Europe Limited",
    "match": "exact"
   },
   "Trading 212": {

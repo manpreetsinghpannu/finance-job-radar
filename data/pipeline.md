@@ -2326,4 +2326,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/accountant-127795561 | S1Jobs | Accountant | Scotland | note: via S1Jobs
 - [ ] https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-664201 | Scottish public sector | Debt Recovery Officer (Non-Domestic Rates) | Scotland | posted: 2026-11-24 | note: via MyJobScotland
 
+- [ ] https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Manchester-United-Kingdom/Technology-Risk-Analyst_184040-3 | Vanguard | Technology Risk Analyst | Manchester, United Kingdom | posted: 2026-11-24
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210810854 | JPMorgan Chase | Investment Banking - DACH ECM - Analyst - London | LONDON, LONDON, United Kingdom | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-s1jobs-4494159732 | s1jobs | FP&A Analyst | Glasgow, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-intellipro-4494142849 | IntelliPro | Investment Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-transformation-analyst-at-tradeweb-4494141989 | Tradeweb | Treasury Transformation Analyst | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/payments-treasury-specialist-at-kelkoo-group-4494397256 | Kelkoo Group | Payments & Treasury Specialist | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-brewer-morris-4493039251 | Brewer Morris | Treasury Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/interim-fp-a-analyst/57608584 | Mitchell Adam | Interim FP&A Analyst | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-controller/57608483 | The Honourable Society of the Middle Temple | Financial Controller | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/part-time-accountant/57608600 | Think Accountancy and Finance | Part Time Accountant | Welwyn Garden City, Hertfordshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/treasury-controller/57608391 | NC Associates | Treasury Controller | Liverpool, Merseyside | note: via Reed
+
 ## Processed

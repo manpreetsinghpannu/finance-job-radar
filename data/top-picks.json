@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:49:55.405Z",
+ "generated_at": "2026-11-24T17:20:03.395Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 315,
+   "matching": 316,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 102,
+   "matching": 103,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 44,
+   "matching": 45,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 90,
+   "matching": 91,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 33,
+   "matching": 34,
    "picks": [
     {
      "title": "Strategy Analyst",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 31,
+   "matching": 32,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -6932,11 +6932,6 @@
    "cv": "Consulting CV",
    "score": 19
   },
-  "https://www.linkedin.com/jobs/view/restructuring-advisory-graduate-at-targetjobs-uk-4494307106": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/group-accountant-newly-qualified-at-equifind-4493914262": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -7396,6 +7391,61 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
+  },
+  "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Manchester-United-Kingdom/Technology-Risk-Analyst_184040-3": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210810854": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-s1jobs-4494159732": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-intellipro-4494142849": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/treasury-transformation-analyst-at-tradeweb-4494141989": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/payments-treasury-specialist-at-kelkoo-group-4494397256": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 3
+  },
+  "https://www.linkedin.com/jobs/view/treasury-analyst-at-brewer-morris-4493039251": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.reed.co.uk/jobs/interim-fp-a-analyst/57608584": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/financial-controller/57608483": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 5
+  },
+  "https://www.reed.co.uk/jobs/part-time-accountant/57608600": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
+  },
+  "https://www.reed.co.uk/jobs/treasury-controller/57608391": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
   }
  }
 }
