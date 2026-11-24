@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 24 Nov, 05:41** (UK time) · **1360 open roles** at 811 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 24 Nov, 06:19** (UK time) · **1359 open roles** at 810 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 24 Nov, 05:31** · hourly scan · checked 201 boards · **1 new role**
+**Tue 24 Nov, 06:10** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-24 | [Cost Finance Business Partner](https://www.linkedin.com/jobs/view/cost-finance-business-partner-at-premium-credit-ltd-4494096738) | Premium Credit Ltd | London, England, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Tue 24 Nov, 05:31** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -63,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 24 November
 
-<sub>Nothing new at: 05:10</sub>
+<sub>Nothing new at: 06:10</sub>
 
 <details>
 <summary><b>05:31</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -379,13 +375,12 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>14:14</b> · hourly scan · <b>6 new</b> → Finance 2 · Credit 1 · Other 3</summary>
+<summary><b>14:14</b> · hourly scan · <b>5 new</b> → Finance 1 · Credit 1 · Other 3</summary>
 
-#### Finance (FP&A) CV: 2
+#### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-23 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-equity-house-4493637960) | Equity House | England, United Kingdom | ❔ |
 | 2026-11-23 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-ea-first-4492612420) | EA First | Stoke-On-Trent, England, United Kingdom | ❔ |
 
 #### Credit CV: 1
@@ -402,7 +397,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-23 | [Quantity Surveyor Nec](https://www.s1jobs.com/job/quantity-surveyor-nec-127793480) | Gibson Recruitment Limited | Glasgow Area, Scotland | ❔ |
 | 2026-11-23 | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127793488) | GREENE KING BREWING & RETAILING | Highland, Scotland | ❔ |
 
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3178,17 +3173,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>06:04</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [Consultant, Client Success (Credit Specialist)](https://visa.wd5.myworkdayjobs.com/visa/job/GB---London-United-Kingdom/Consultant--Client-Success--Credit-Specialist-_REF090076W) | Visa | GB - London, United Kingdom | ✅ |
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (792)](#finance-fpa-cv-792) · [Credit (158)](#credit-cv-158) · [Equity (62)](#equity-cv-62) · [Investment (136)](#investment-ib--pe-cv-136) · [Consulting (20)](#consulting-cv-20) · [Real Estate (24)](#real-estate-cv-24) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
@@ -3218,7 +3202,6 @@ Everything matched so far, newest first within each CV: [Finance (792)](#finance
 | 2026-11-23 | [EU Finance Analyst](https://www.linkedin.com/jobs/view/eu-finance-analyst-at-viatris-4481464255) | Viatris | England, United Kingdom | ❔ |
 | 2026-11-23 | [Assistant Management Accountant](https://www.s1jobs.com/job/assistant-management-accountant-127793459) | Pertemps Scotland | Glasgow Area, Scotland | ❔ |
 | 2026-11-23 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-samworth-brothers-4493647242) | Samworth Brothers | Callington, England, United Kingdom | ❔ |
-| 2026-11-23 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-equity-house-4493637960) | Equity House | England, United Kingdom | ❔ |
 | 2026-11-23 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-medlock-partners-4493660229) | Medlock Partners | Chorley, England, United Kingdom | ❔ |
 | 2026-11-23 | [Finance Analyst](https://www.adzuna.co.uk/jobs/land/ad/5976357398) | Anderson Knight | Glasgow, Scotland | ❔ |
 | 2026-11-23 | [Assistant Management Accountant](https://www.adzuna.co.uk/jobs/land/ad/5976085250) | Pertemps Glasgow Perms | Glasgow, Scotland | ❔ |
@@ -4596,10 +4579,11 @@ Everything matched so far, newest first within each CV: [Finance (792)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>409 roles taken off the list because the firm closed the posting</summary>
+<summary>410 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 24 Nov, 06:13 | Financial Analyst | Equity House |
 | Tue 24 Nov, 05:33 | Graduate Accountant | targetjobs UK |
 | Tue 24 Nov, 03:12 | FP&A Analyst | Catalyst |
 | Tue 24 Nov, 01:14 | Management Accountant - GFP | MAGMAS |
