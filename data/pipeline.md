@@ -2290,4 +2290,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/commercial-trading-analyst-at-currys-plc-4494342926 | Currys plc | Commercial Trading Analyst | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/interim-m-a-at-finatal-4494141017 | Finatal | Interim M&A | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811157 | JPMorgan Chase | Wholesale Credit Risk - London - 2027 ReEntry Program | LONDON, United Kingdom | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/investment-officer-investment-associate-impact-investing-family-office-foundation-at-hedge-impact-headhunting-4223548338 | Hedge Impact headhunting | Investment Officer / Investment Associate, Impact Investing, Family Office / Foundation | City Of London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant-part-time/57607006 | PRATAP PARTNERSHIP LTD | Management Accountant- Part Time | York, North Yorkshire | note: via Reed
+
 ## Processed

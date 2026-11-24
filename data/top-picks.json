@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T13:26:01.848Z",
+ "generated_at": "2026-11-24T14:24:53.398Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 310,
+   "matching": 308,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,8 +57,21 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 100,
+   "matching": 101,
    "picks": [
+    {
+     "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
+     "company": "JPMorgan Chase",
+     "location": "LONDON, United Kingdom",
+     "posted": "2026-11-24",
+     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811157",
+     "score": 32,
+     "why": [
+      "Credit Risk",
+      "Wholesale Credit"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Credit Risk Analyst",
      "company": "Aramco Trading Limited",
@@ -66,19 +79,6 @@
      "posted": "2026-11-22",
      "url": "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095",
      "score": 26,
-     "why": [
-      "Credit Risk",
-      "Risk Analyst"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Customer Master Data and Credit Risk Analyst",
-     "company": "Safran",
-     "location": "West Midlands, England, United Kingdom",
-     "posted": "2026-11-23",
-     "url": "https://www.linkedin.com/jobs/view/customer-master-data-and-credit-risk-analyst-at-safran-4493739611",
-     "score": 25,
      "why": [
       "Credit Risk",
       "Risk Analyst"
@@ -761,11 +761,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-perigus-energy-4479390755": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/investment-associate-%E2%80%93-venture-capital-at-cornell-search-4478669808": {
    "id": "investment",
@@ -1806,16 +1801,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
-  },
-  "https://www.s1jobs.com/job/qualified-accountant-127727627": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
-  "https://www.s1jobs.com/job/qualified-accountant-127727626": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 7
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808268": {
    "id": "investment",
@@ -7281,6 +7266,21 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811157": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 32
+  },
+  "https://www.linkedin.com/jobs/view/investment-officer-investment-associate-impact-investing-family-office-foundation-at-hedge-impact-headhunting-4223548338": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/management-accountant-part-time/57607006": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }
