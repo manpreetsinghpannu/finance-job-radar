@@ -2355,5 +2355,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/corporate-treasury-funding-execution-trader-associate-london-at-goldman-sachs-4486045523 | Goldman Sachs | Corporate Treasury-Funding Execution Trader- Associate - London | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-planning-analysis/57608685 | Michael Page Finance | Financial Planning & Analysis | Warrington, Cheshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/treasury-assistant/57608728 | Resourcery Group | Treasury Assistant | Liverpool, Merseyside | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-incentives-at-waters-corporation-4494190357 | Waters Corporation | Financial Analyst, Incentives | Wilmslow, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-underwriter-at-allianz-trade-in-uk-ireland-4494190591 | Allianz Trade in UK & Ireland | Credit Underwriter | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/esg-quant-analyst-at-mason-blake-4494711901 | Mason Blake | ESG Quant Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/management-accountant-127795807 | Pertemps Scotland | Management Accountant | Stirling, Scotland | posted: 2026-11-24 | note: via S1Jobs
 
 ## Processed

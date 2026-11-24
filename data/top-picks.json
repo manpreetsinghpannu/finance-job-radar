@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:25:34.473Z",
+ "generated_at": "2026-11-24T19:23:09.996Z",
  "order": [
   "finance",
   "credit",
@@ -1465,11 +1465,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
-  },
-  "https://www.reed.co.uk/jobs/assistant-accountant/57544693": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
   },
   "https://www.reed.co.uk/jobs/management-accountant/57544744": {
    "id": "finance",
@@ -3540,11 +3535,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-chalk-hill-group-4491559945": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/credit-analyst-at-centalion-4484018952": {
    "id": "credit",
@@ -7485,6 +7475,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-incentives-at-waters-corporation-4494190357": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/credit-underwriter-at-allianz-trade-in-uk-ireland-4494190591": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/esg-quant-analyst-at-mason-blake-4494711901": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/management-accountant-127795807": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

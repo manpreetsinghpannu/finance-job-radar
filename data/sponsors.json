@@ -287,6 +287,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Allianz Trade in UK & Ireland": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Allianz UK": {
    "licensed": true,
    "register_name": "Allianz Insurance plc",
