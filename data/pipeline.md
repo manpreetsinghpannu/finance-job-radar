@@ -2223,5 +2223,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/accountant-at-finalto-4493637923 | Finalto | Accountant | London Area, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 
 - [ ] https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Strategy-Associate_R-00286987-1 | NatWest Group | Strategy Associate | London | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/restructuring-advisory-graduate-at-targetjobs-uk-4494307106 | targetjobs UK | Restructuring Advisory Graduate | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed
