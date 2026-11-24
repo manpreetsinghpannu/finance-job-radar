@@ -2233,5 +2233,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-cmc-consulting-ltd-4492696214 | CMC Consulting Ltd | Management Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-analyst-associate-real-estate-debt-at-belmont-search-ltd-4494320535 | Belmont Search Ltd | Investment Analyst/Associate - Real Estate Debt | Greater London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant/57605153 | Equifind Group | Assistant Accountant | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-telent-technology-services-ltd-4493997953 | Telent Technology Services Ltd | Management Accountant | Warwick, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-operations-and-supply-chain-at-ancient-%2B-brave-b-corp-4491115183 | Ancient + Brave | B Corp | Finance Business Partner - Operations and Supply Chain | Lewes, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-sefe-marketing-trading-ltd-4492680948 | SEFE Marketing & Trading Ltd | Graduate - Analyst, Technology Risk & Assurance (m/f/d) | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-senior-associate-liquid-credit-research-at-partners-group-4494328391 | Partners Group | Associate / Senior Associate, Liquid Credit Research | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-trace-expert-accountancy-finance-recruitment-4493001168 | Trace | Expert Accountancy & Finance Recruitment | Fund Accountant | Greater London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-operations-accountant-at-trace-expert-accountancy-finance-recruitment-4492697244 | Trace | Expert Accountancy & Finance Recruitment | Fund Operations Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/regulatory-reporting-accountant-at-fordham-talent-partnership-4489423981 | Fordham Talent Partnership | Regulatory Reporting Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-control-accountant-at-coventry-university-4492689548 | Coventry University | Financial Control Accountant | Coventry, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-lacoste-4486173898 | Lacoste | Management Accountant | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-2027-at-ocado-group-4486413086 | Ocado Group | Finance Graduate 2027 | Hatfield, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-settlements-at-ipoe-consulting-4493992999 | IPOE Consulting | Treasury Settlements | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-analyst-remote-at-crossing-hurdles-4494320717 | Crossing Hurdles | M&A Analyst | Remote | United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-remote-at-crossing-hurdles-4494321691 | Crossing Hurdles | Finance Analyst | Remote | United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-operations-cash-equities-at-ipoe-consulting-4494103532 | IPOE Consulting | Investment Operations, Cash Equities | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant/57605449 | Accountancy Action | Assistant Accountant | Watford, Hertfordshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant/57605451 | Social Care Locums | Assistant Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/accountants-assistant/57605329 | Room At The Top Recruitment | Accountants Assistant | Hoddesdon, Hertfordshire | note: via Reed
 
 ## Processed

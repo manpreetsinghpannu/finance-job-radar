@@ -322,6 +322,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Ancient + Brave": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Anderson Knight": {
    "licensed": false,
    "register_name": null,
@@ -1427,6 +1432,11 @@
    "register_name": "Coventry City Council",
    "match": "exact"
   },
+  "Coventry University": {
+   "licensed": true,
+   "register_name": "Coventry University",
+   "match": "exact"
+  },
   "Crossing Hurdles": {
    "licensed": false,
    "register_name": null,
@@ -1888,6 +1898,11 @@
    "match": "alias"
   },
   "Foodbuy Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Fordham Talent Partnership": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2917,6 +2932,11 @@
    "register_name": "LSL Property Services PLC",
    "match": "exact"
   },
+  "Lacoste": {
+   "licensed": true,
+   "register_name": "Lacoste UK Limited",
+   "match": "exact"
+  },
   "Laing O'Rourke": {
    "licensed": true,
    "register_name": "Laing O'Rourke PLC",
@@ -3852,6 +3872,11 @@
    "register_name": "OakNorth Bank Plc",
    "match": "alias"
   },
+  "Ocado Group": {
+   "licensed": true,
+   "register_name": "Ocado Retail Limited",
+   "match": "prefix"
+  },
   "Ocean Network Express (Europe) Ltd": {
    "licensed": true,
    "register_name": "Ocean Network Express (Europe) Limited",
@@ -4507,6 +4532,11 @@
    "register_name": "Rolls-Royce plc",
    "match": "alias"
   },
+  "Room At The Top Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Rothesay": {
    "licensed": true,
    "register_name": "Rothesay Pensions Management Limited",
@@ -4862,6 +4892,11 @@
    "register_name": "SmartestEnergy Limited",
    "match": "exact"
   },
+  "Social Care Locums": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Societe Generale": {
    "licensed": true,
    "register_name": "Societe Generale Equipment Finance Ltd",
@@ -5185,6 +5220,11 @@
   "Tarmac Trading Limited": {
    "licensed": true,
    "register_name": "Tarmac Trading Limited",
+   "match": "exact"
+  },
+  "Telent Technology Services Ltd": {
+   "licensed": true,
+   "register_name": "Telent Technology Services Limited",
    "match": "exact"
   },
   "Tempest Vane Partners": {

@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1200 firms checked, 585 matched, 615 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1208 firms checked, 589 matched, 619 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (615)
+## Not found (619)
 
 - 01Health
 - 7IM
@@ -41,6 +41,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Altum Consulting
 - Ameriprise
 - Ampa - Legal & Professional Services
+- Ancient + Brave
 - Anderson Knight
 - Annonymous
 - Anonymous
@@ -203,6 +204,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Fletcher George Recruitment Ltd
 - Flex
 - Foodbuy Group
+- Fordham Talent Partnership
 - Forge Talent
 - Free-Work UK
 - Frontier Agriculture
@@ -465,6 +467,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Roberts Bakery 1887
 - Robertson Bell
 - Robertson Wright
+- Room At The Top Recruitment
 - Rothstein Recruitment
 - Royal Caribbean Group
 - Royal College Of Physicians & Surgeons Of Glasgow
@@ -504,6 +507,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Signet Resources
 - Singular Recruitment
 - SitusAMC
+- Social Care Locums
 - Societe Generale Corporate and Investment Banking - SGCIB
 - South West Water
 - Sowena Group
@@ -622,7 +626,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (76)
+## Matched automatically by close name; worth a glance (77)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -675,6 +679,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Norfolk and Norwich University Hospital → Norfolk and Norwich University Hospitals NHS Foundation Trust (prefix)
 - OCS → OCS Consulting plc (prefix)
 - OCS Group → OCS Consulting plc (prefix)
+- Ocado Group → Ocado Retail Limited (prefix)
 - Octopus Group → Octopus Energy Limited (prefix)
 - Ohme → Ohme Operations UK Limited (prefix)
 - Oliver James → Oliver James Homes Ltd (prefix)
