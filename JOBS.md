@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 24 Nov, 08:21** (UK time) · **1359 open roles** at 809 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 24 Nov, 09:26** (UK time) · **1362 open roles** at 809 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,27 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 24 Nov, 08:11** · hourly scan · checked 201 boards · **1 new role**
+**Tue 24 Nov, 09:14** · hourly scan · checked 201 boards · **4 new roles**
 
-### Finance (FP&A) CV: 1
+### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-24 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-goodman-masson-4494308715) | Goodman Masson | London Area, United Kingdom | ✅ |
+| 2026-11-24 | [Assistant Management Accountant - PQ](https://www.linkedin.com/jobs/view/assistant-management-accountant-pq-at-hays-4494311850) | Hays | Leeds, England, United Kingdom | ✅ |
+| 2026-11-24 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-cmc-consulting-ltd-4492696214) | CMC Consulting Ltd | London Area, United Kingdom | ❔ |
+| — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57605153) | Equifind Group | London | ❔ |
+
+### Real Estate CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-24 | [Investment Analyst/Associate - Real Estate Debt](https://www.linkedin.com/jobs/view/investment-analyst-associate-real-estate-debt-at-belmont-search-ltd-4494320535) | Belmont Search Ltd | Greater London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (307 matching)
+**Finance (FP&A) CV** (308 matching)
 
 1. [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) · Medpace · London, England, United Kingdom · posted 2026-11-23 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
@@ -62,6 +70,25 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 24 November
+
+<details>
+<summary><b>09:14</b> · hourly scan · <b>4 new</b> → Finance 3 · Real Estate 1</summary>
+
+#### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-24 | [Assistant Management Accountant - PQ](https://www.linkedin.com/jobs/view/assistant-management-accountant-pq-at-hays-4494311850) | Hays | Leeds, England, United Kingdom | ✅ |
+| 2026-11-24 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-cmc-consulting-ltd-4492696214) | CMC Consulting Ltd | London Area, United Kingdom | ❔ |
+| — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57605153) | Equifind Group | London | ❔ |
+
+#### Real Estate CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-24 | [Investment Analyst/Associate - Real Estate Debt](https://www.linkedin.com/jobs/view/investment-analyst-associate-real-estate-debt-at-belmont-search-ltd-4494320535) | Belmont Search Ltd | Greater London, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>08:11</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -1948,9 +1975,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>00:58</b> · hourly scan · <b>70 new</b> → Finance 49 · Credit 3 · Equity 3 · Investment 7 · Consulting 2 · Real Estate 3 · Fund 2 · Other 1</summary>
+<summary><b>00:58</b> · hourly scan · <b>69 new</b> → Finance 48 · Credit 3 · Equity 3 · Investment 7 · Consulting 2 · Real Estate 3 · Fund 2 · Other 1</summary>
 
-#### Finance (FP&A) CV: 49
+#### Finance (FP&A) CV: 48
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -1999,7 +2026,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57581898) | Michael Page Finance | Sevenoaks, Kent | ❔ |
 | — | [Junior Assistant Accountant](https://www.reed.co.uk/jobs/junior-assistant-accountant/57583225) | Mitchell Adam | Birmingham, West Midlands (County) | ❔ |
 | 2026-11-19 | [3rd Level Treasury Systems Support with FIS Integrity Treasury Management Systems TMS](https://www.linkedin.com/jobs/view/3rd-level-treasury-systems-support-with-fis-integrity-treasury-management-systems-tms-at-free-work-uk-4492469076) | Free-Work UK | London, England, United Kingdom | ❔ |
-| 2026-11-19 | [3rd Level Treasury Systems Support Consultant with FIS Integrity Treasury Application](https://www.linkedin.com/jobs/view/3rd-level-treasury-systems-support-consultant-with-fis-integrity-treasury-application-at-nexus-jobs-4492413617) | Nexus Jobs | London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Interim Capital Accountant](https://www.linkedin.com/jobs/view/interim-capital-accountant-at-sellick-partnership-4491639047) | Sellick Partnership | Newport, Wales, United Kingdom | ❔ |
 | — | [Interim Part-Qualified Financial Accountant](https://www.reed.co.uk/jobs/interim-part-qualified-financial-accountant/57581236) | Hays Specialist Recruitment Limited | Bristol, Avon | ❔ |
 | — | [New role in privately owned accounting firm - Part or Qualified Accountant](https://www.reed.co.uk/jobs/new-role-in-privately-owned-accounting-firm-part-or-qualified-accountant/57582924) | Reed | Ipswich, Suffolk | ❔ |
@@ -2060,7 +2086,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | — | [Valuations Associate - Universities Superannuation Scheme Limited](https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025) | eFinancialCareers | London | ✅ |
 
-<sub>17 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>18 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3159,35 +3185,19 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>09:05</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [FP&A Analyst (Revenue & COGS)](https://www.linkedin.com/jobs/view/fp-a-analyst-revenue-cogs-at-mediakind-4479984422) | MediaKind | United Kingdom | ✅ |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Junior Investment Associate](https://www.reed.co.uk/jobs/junior-investment-associate/57581186) | PGS LTD | London | ❔ |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (793)](#finance-fpa-cv-793) · [Credit (157)](#credit-cv-157) · [Equity (62)](#equity-cv-62) · [Investment (136)](#investment-ib--pe-cv-136) · [Consulting (20)](#consulting-cv-20) · [Real Estate (24)](#real-estate-cv-24) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
+Everything matched so far, newest first within each CV: [Finance (795)](#finance-fpa-cv-795) · [Credit (157)](#credit-cv-157) · [Equity (62)](#equity-cv-62) · [Investment (136)](#investment-ib--pe-cv-136) · [Consulting (20)](#consulting-cv-20) · [Real Estate (25)](#real-estate-cv-25) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
 
-### Finance (FP&A) CV: 793
+### Finance (FP&A) CV: 795
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-24 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-goodman-masson-4494308715) | Goodman Masson | London Area, United Kingdom | ✅ |
+| 2026-11-24 | [Assistant Management Accountant - PQ](https://www.linkedin.com/jobs/view/assistant-management-accountant-pq-at-hays-4494311850) | Hays | Leeds, England, United Kingdom | ✅ |
 | 2026-11-24 | [Cost Finance Business Partner](https://www.linkedin.com/jobs/view/cost-finance-business-partner-at-premium-credit-ltd-4494096738) | Premium Credit Ltd | London, England, United Kingdom | ✅ |
+| 2026-11-24 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-cmc-consulting-ltd-4492696214) | CMC Consulting Ltd | London Area, United Kingdom | ❔ |
+| — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57605153) | Equifind Group | London | ❔ |
 | — | [Financial Controller](https://www.reed.co.uk/jobs/financial-controller/57604479) | eFinancialCareers | London | ✅ |
 | 2026-11-23 | [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) | Medpace | London, England, United Kingdom | ✅ |
 | 2026-11-23 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-medlock-partners-4493677006) | Medlock Partners | Manchester Area, United Kingdom | ❔ |
@@ -3547,7 +3557,6 @@ Everything matched so far, newest first within each CV: [Finance (793)](#finance
 | 2026-11-19 | [Finance Services & Treasury Associate (12m fixed term)](https://www.linkedin.com/jobs/view/finance-services-treasury-associate-12m-fixed-term-at-alti-tiedemann-global-4492152675) | AlTi Tiedemann Global | London, England, United Kingdom | ❔ |
 | — | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57571811) | Robert Half | Edinburgh, Midlothian | ✅ |
 | 2026-11-19 | [3rd Level Treasury Systems Support with FIS Integrity Treasury Management Systems TMS](https://www.linkedin.com/jobs/view/3rd-level-treasury-systems-support-with-fis-integrity-treasury-management-systems-tms-at-free-work-uk-4492469076) | Free-Work UK | London, England, United Kingdom | ❔ |
-| 2026-11-19 | [3rd Level Treasury Systems Support Consultant with FIS Integrity Treasury Application](https://www.linkedin.com/jobs/view/3rd-level-treasury-systems-support-consultant-with-fis-integrity-treasury-application-at-nexus-jobs-4492413617) | Nexus Jobs | London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Finance Transformation Partner](https://scotjobsnet.co.uk/job/finance-transformation-partner/) | via ScotJobsNet | Stirlingshire Stirling Falkirk Job, Scotland | ❔ |
 | 2026-11-19 | [Part Qualified Accountant](https://scotjobsnet.co.uk/job/part-qualified-accountant-2/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
 | 2026-11-19 | [Group Accountant](https://scotjobsnet.co.uk/job/group-accountant-2/) | via ScotJobsNet | Lanarkshire, Scotland | ❔ |
@@ -4375,10 +4384,11 @@ Everything matched so far, newest first within each CV: [Finance (793)](#finance
 | 2026-10-07 | [Oracle ERP Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Oracle-ERP-Finance-Transformation-Consultant_R00361406) | Accenture | London | ❔ |
 | 2026-10-06 | [Intercompany Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Intercompany-Finance-Transformation-Consultant_R00359314) | Accenture | London | ❔ |
 
-### Real Estate CV: 24
+### Real Estate CV: 25
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-24 | [Investment Analyst/Associate - Real Estate Debt](https://www.linkedin.com/jobs/view/investment-analyst-associate-real-estate-debt-at-belmont-search-ltd-4494320535) | Belmont Search Ltd | Greater London, England, United Kingdom | ❔ |
 | 2026-11-24 | [Securitised Products (SP), Financing Trader (Commercial Real Estate (CRE)](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Securitised-Products--SP---Financing-Trader--Commercial-Real-Estate--CRE-_JR-0000139004) | Barclays | Canary Wharf, 1 Churchill Place | ✅ |
 | 2026-11-23 | [Property Valuation Consultant](https://www.linkedin.com/jobs/view/property-valuation-consultant-at-jazz-fm-4493658109) | Jazz FM | London, England, United Kingdom | ❔ |
 | 2026-11-23 | [Property Accountant (Fixed-Term Contract)](https://www.adzuna.co.uk/jobs/land/ad/5976206090) | Trident International Associates | Farringdon, Central London | ❔ |
@@ -4584,10 +4594,11 @@ Everything matched so far, newest first within each CV: [Finance (793)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>411 roles taken off the list because the firm closed the posting</summary>
+<summary>412 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 24 Nov, 09:15 | 3rd Level Treasury Systems Support Consultant with FIS Integrity Treasury Application | Nexus Jobs |
 | Tue 24 Nov, 07:15 | Credit Risk Analyst | CFP Energy - France |
 | Tue 24 Nov, 06:32 | Financial Analyst | Equity House |
 | Tue 24 Nov, 05:33 | Graduate Accountant | targetjobs UK |

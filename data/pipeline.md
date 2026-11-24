@@ -2229,5 +2229,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/cost-finance-business-partner-at-premium-credit-ltd-4494096738 | Premium Credit Ltd | Cost Finance Business Partner | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-goodman-masson-4494308715 | Goodman Masson | FP&A Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-accountant-at-distinct-b-corp-4494101515 | Distinct | B Corp | Commercial Accountant | West Yorkshire, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-pq-at-hays-4494311850 | Hays | Assistant Management Accountant - PQ | Leeds, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-cmc-consulting-ltd-4492696214 | CMC Consulting Ltd | Management Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-associate-real-estate-debt-at-belmont-search-ltd-4494320535 | Belmont Search Ltd | Investment Analyst/Associate - Real Estate Debt | Greater London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant/57605153 | Equifind Group | Assistant Accountant | London | note: via Reed
 
 ## Processed

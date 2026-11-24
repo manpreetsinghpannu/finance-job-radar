@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T08:21:55.964Z",
+ "generated_at": "2026-11-24T09:26:48.167Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 307,
+   "matching": 308,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -4746,11 +4746,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 7
   },
-  "https://www.linkedin.com/jobs/view/3rd-level-treasury-systems-support-consultant-with-fis-integrity-treasury-application-at-nexus-jobs-4492413617": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 7
-  },
   "https://www.linkedin.com/jobs/view/it-support-analyst-with-2nd-level-treasury-management-systems-tms-support-%E2%80%93-fis-integrity-at-free-work-uk-4492455746": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -7045,6 +7040,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-pq-at-hays-4494311850": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-cmc-consulting-ltd-4492696214": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-associate-real-estate-debt-at-belmont-search-ltd-4494320535": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 23
+  },
+  "https://www.reed.co.uk/jobs/assistant-accountant/57605153": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }
