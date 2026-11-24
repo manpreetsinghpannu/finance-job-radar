@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T04:22:43.557Z",
+ "generated_at": "2026-11-24T05:19:09.166Z",
  "order": [
   "finance",
   "credit",
@@ -3490,11 +3490,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/graduate-accountant-at-targetjobs-uk-4490169813": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
   },
   "https://www.reed.co.uk/jobs/financial-accountant/57572548": {
    "id": "finance",
