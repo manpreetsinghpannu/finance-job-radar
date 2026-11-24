@@ -2224,5 +2224,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Strategy-Associate_R-00286987-1 | NatWest Group | Strategy Associate | London | posted: 2026-11-24
 - [ ] https://www.linkedin.com/jobs/view/restructuring-advisory-graduate-at-targetjobs-uk-4494307106 | targetjobs UK | Restructuring Advisory Graduate | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-accountant-newly-qualified-at-equifind-4493914262 | Equifind | Group Accountant (Newly Qualified) | City Of London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-controller/57604479 | eFinancialCareers | Financial Controller | London | note: via Reed
 
 ## Processed
