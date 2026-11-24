@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 24 Nov, 22:22** (UK time) · **1461 open roles** at 868 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 24 Nov, 23:25** (UK time) · **1461 open roles** at 869 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,26 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 24 Nov, 22:12** · hourly scan · checked 201 boards · **4 new roles**
+**Tue 24 Nov, 23:13** · hourly scan · checked 201 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-24 | [Commodity Trading Accountant](https://centrica.wd3.myworkdayjobs.com/centrica/job/Greater-London/Commodity-Trading-Accountant_R0092302) | Centrica | Greater London | ✅ |
-
-### Credit CV: 2
+### Credit CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-24 | [Debt Strategy and Performance Analyst](https://centrica.wd3.myworkdayjobs.com/centrica/job/Leicester/Debt-Strategy-and-Performance-Analyst_R0090149-1) | Centrica | Leicester | ✅ |
-| 2026-11-24 | [Fund Controller - Private Credit](https://www.linkedin.com/jobs/view/fund-controller-private-credit-at-aria-partners-4494416304) | Aria Partners | London Area, United Kingdom | ❔ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-24 | [Assistant Quantity Surveyor](https://www.s1jobs.com/job/assistant-quantity-surveyor-127795811) | Gibson Recruitment Limited | North Lanarkshire, Scotland | ❔ |
+| 2026-11-24 | [Debt Strategy and Performance Analyst](https://www.linkedin.com/jobs/view/debt-strategy-and-performance-analyst-at-british-gas-4494737705) | British Gas | Leicester, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -75,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 24 November
+
+<details>
+<summary><b>23:13</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-24 | [Debt Strategy and Performance Analyst](https://www.linkedin.com/jobs/view/debt-strategy-and-performance-analyst-at-british-gas-4494737705) | British Gas | Leicester, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>22:12</b> · hourly scan · <b>4 new</b> → Finance 1 · Credit 2 · Other 1</summary>
@@ -3293,41 +3291,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 00:04</sub>
 
-### Tuesday 17 November
-
-<details>
-<summary><b>23:04</b> · hourly scan · <b>1 new</b> → Consulting 1</summary>
-
-#### Consulting CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) | Hargreaves Lansdown | Bristol - Welcome Building | ✅ |
-
-</details>
-
-<details>
-<summary><b>22:42</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-16 | [Pricing Analyst, Container Shipping, Asia Europe Trade](https://www.reed.co.uk/jobs/pricing-analyst-container-shipping-asia-europe-trade/57579945) | Ocean Network Express (Europe) Ltd | London | ✅ |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [Early Careers Program - Private Equity/Marine](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/_R0020308) | Howden |  | ✅ |
-
-</details>
-
-<sub>Nothing new at: 22:26</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (857)](#finance-fpa-cv-857) · [Credit (169)](#credit-cv-169) · [Equity (64)](#equity-cv-64) · [Investment (143)](#investment-ib--pe-cv-143) · [Consulting (20)](#consulting-cv-20) · [Real Estate (27)](#real-estate-cv-27) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (138)](#other-fits-no-cv-closely-may-still-be-worth-a-look-138)
+Everything matched so far, newest first within each CV: [Finance (857)](#finance-fpa-cv-857) · [Credit (170)](#credit-cv-170) · [Equity (64)](#equity-cv-64) · [Investment (143)](#investment-ib--pe-cv-143) · [Consulting (20)](#consulting-cv-20) · [Real Estate (27)](#real-estate-cv-27) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (137)](#other-fits-no-cv-closely-may-still-be-worth-a-look-137)
 
 ### Finance (FP&A) CV: 857
 
@@ -4191,7 +4157,7 @@ Everything matched so far, newest first within each CV: [Finance (857)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 169
+### Credit CV: 170
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4208,6 +4174,7 @@ Everything matched so far, newest first within each CV: [Finance (857)](#finance
 | 2026-11-24 | [Associate, Credit Solutions, Growth & Middle Market Technology EMEA](https://www.linkedin.com/jobs/view/associate-credit-solutions-growth-middle-market-technology-emea-at-mufg-4494156528) | MUFG | London Area, United Kingdom | ✅ |
 | 2026-11-24 | [Fund Controller - Private Credit](https://www.linkedin.com/jobs/view/fund-controller-private-credit-at-aria-partners-4494416304) | Aria Partners | London Area, United Kingdom | ❔ |
 | 2026-11-24 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-at-adecco-4493009037) | Adecco | London Area, United Kingdom | ✅ |
+| 2026-11-24 | [Debt Strategy and Performance Analyst](https://www.linkedin.com/jobs/view/debt-strategy-and-performance-analyst-at-british-gas-4494737705) | British Gas | Leicester, England, United Kingdom | ❔ |
 | 2026-11-24 | [Credit Management Adviser](https://skipton.wd3.myworkdayjobs.com/careers-skipton/job/Skipton-England/Credit-Management-Adviser_JR4395) | Skipton Building Society | Skipton, England | ✅ |
 | 2026-11-24 | [Credit Underwriter](https://www.linkedin.com/jobs/view/credit-underwriter-at-allianz-trade-in-uk-ireland-4494190591) | Allianz Trade in UK & Ireland | London, England, United Kingdom | ❔ |
 | 2026-11-24 | [Debt Recovery Officer (Non-Domestic Rates)](https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-664201) | Scottish public sector | Scotland | ❔ |
@@ -4687,7 +4654,7 @@ Everything matched so far, newest first within each CV: [Finance (857)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 138
+### Other (fits no CV closely, may still be worth a look): 137
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4786,7 +4753,6 @@ Everything matched so far, newest first within each CV: [Finance (857)](#finance
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127703217) | S1Jobs | Scotland | ❔ |
 | 2026-11-11 | [2027 Finance Graduate Programme - January 2027](https://www.linkedin.com/jobs/view/2027-finance-graduate-programme-january-2027-at-tui-4489941298) | TUI | Luton, England, United Kingdom | ❔ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127702965) | S1Jobs | Scotland | ❔ |
-| 2026-11-11 | [Accountancy and Finance Graduate](https://www.linkedin.com/jobs/view/accountancy-and-finance-graduate-at-targetjobs-uk-4488692935) | targetjobs UK | Saltcoats, Scotland, United Kingdom | ❔ |
 | 2026-11-11 | [Graduate Finance Assistant](https://www.linkedin.com/jobs/view/graduate-finance-assistant-at-newlon-housing-trust-4489993409) | Newlon Housing Trust | London Area, United Kingdom | ❔ |
 | 2026-11-11 | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127733045) | Peace Recruitment | North Lanarkshire, Scotland | ❔ |
 | 2026-11-11 | [Analyst, Portfolio Management](https://www.linkedin.com/jobs/view/analyst-portfolio-management-at-heitman-4474547522) | Heitman | London, England, United Kingdom | ✅ |
@@ -4833,10 +4799,11 @@ Everything matched so far, newest first within each CV: [Finance (857)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>433 roles taken off the list because the firm closed the posting</summary>
+<summary>434 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 24 Nov, 23:21 | Accountancy and Finance Graduate | targetjobs UK |
 | Tue 24 Nov, 22:14 | Assistant Accountant | CMC Consulting Ltd |
 | Tue 24 Nov, 22:13 | Transfer Pricing Analyst | Robert Half |
 | Tue 24 Nov, 21:20 | Management Accountant | EA First |

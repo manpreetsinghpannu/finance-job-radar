@@ -927,6 +927,11 @@
    "register_name": null,
    "match": "none"
   },
+  "British Gas": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "British International Investment": {
    "licensed": true,
    "register_name": "British International Investment plc",

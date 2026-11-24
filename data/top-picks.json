@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:22:48.737Z",
+ "generated_at": "2026-11-24T23:25:14.973Z",
  "order": [
   "finance",
   "credit",
@@ -2020,11 +2020,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
-  },
-  "https://www.linkedin.com/jobs/view/accountancy-and-finance-graduate-at-targetjobs-uk-4488692935": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://www.reed.co.uk/jobs/assistant-accountant-insurance/57558777": {
    "id": "finance",
@@ -7555,6 +7550,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/debt-strategy-and-performance-analyst-at-british-gas-4494737705": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }

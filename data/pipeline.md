@@ -2380,5 +2380,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://centrica.wd3.myworkdayjobs.com/centrica/job/Greater-London/Commodity-Trading-Accountant_R0092302 | Centrica | Commodity Trading Accountant | Greater London | posted: 2026-11-24
 - [ ] https://www.linkedin.com/jobs/view/fund-controller-private-credit-at-aria-partners-4494416304 | Aria Partners | Fund Controller - Private Credit | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.s1jobs.com/job/assistant-quantity-surveyor-127795811 | Gibson Recruitment Limited | Assistant Quantity Surveyor | North Lanarkshire, Scotland | posted: 2026-11-24 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/debt-strategy-and-performance-analyst-at-british-gas-4494737705 | British Gas | Debt Strategy and Performance Analyst | Leicester, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed
