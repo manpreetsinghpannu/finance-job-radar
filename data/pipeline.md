@@ -2305,15 +2305,24 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/graduate-finance-assistant/57607222 | Trinity House Group | Graduate Finance Assistant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/accountant-qualified-or-nearly-qualified/57607180 | Lloyd Recruitment Services Ltd | Accountant - Qualified or Nearly Qualified | Sutton, Surrey | note: via Reed
 
-- [ ] https://centrica.wd3.myworkdayjobs.com/centrica/job/Greater-London/Commodity-Trading-Accountant_R0092302 | Centrica | Commodity Trading Accountant | Greater London | posted: 2026-11-24
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R266629 | BlackRock | Associate, Private Markets Data Management | London, Greater London | posted: 2026-11-24
 - [ ] https://www.linkedin.com/jobs/view/strategic-finance-associate-uk-at-prima-4478502563 | Prima | Strategic Finance Associate UK | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-management-accountant-at-pilgrim-s-europe-4494384571 | Pilgrim's Europe | Management Accountant, Management Accountant | Dungannon, Northern Ireland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-credit-solutions-growth-middle-market-technology-emea-at-mufg-4494156528 | MUFG | Associate, Credit Solutions, Growth & Middle Market Technology EMEA | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-adecco-4493009037 | Adecco | Credit Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-high-yield-at-mason-blake-4472529321 | Mason Blake | Credit Analyst, High Yield | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-at-bnp-paribas-4494150826 | BNP Paribas | Quantitative Researcher | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/strategy-analyst-at-abb-4494164283 | ABB | Strategy Analyst | Stonehouse, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-mac-recruit-group-ltd-4494150527 | MAC Recruit Group Ltd | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/client-treasury-accounts-assistant-at-trafalgar-house-pensions-administration-4494387455 | Trafalgar House Pensions Administration | Client Treasury Accounts Assistant | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-robert-walters-4494382477 | Robert Walters | Assistant Accountant | Warrington, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
-- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-mac-recruit-group-ltd-4494150527 | MAC Recruit Group Ltd | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-service-care-solutions-4493022728 | Service Care Solutions | Assistant Management Accountant | Ashington, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/cost-accountant-at-walker-hamill-4480664116 | Walker Hamill | Cost Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
-- [ ] https://www.linkedin.com/jobs/view/associate-credit-solutions-growth-middle-market-technology-emea-at-mufg-4494156528 | MUFG | Associate, Credit Solutions, Growth & Middle Market Technology EMEA | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/reporting-performance-accountant-at-investigo-4494129161 | Investigo | Reporting & Performance Accountant | Port Glasgow, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/credit-analyst-front-office/57608370 | Adecco | Credit Analyst - Front Office | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57607942 | Rutherford Briant | Management Accountant | Cambridge, Cambridgeshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-accountant-maternity-cover/57608282 | Centre People Appointments | Financial Accountant (Maternity Cover) | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/treasury-controller/57608042 | Adele Carr Recruitment Limited | Treasury Controller | Liverpool, Merseyside | note: via Reed
 - [ ] https://www.s1jobs.com/job/accountant-127795561 | S1Jobs | Accountant | Scotland | note: via S1Jobs
 - [ ] https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-664201 | Scottish public sector | Debt Recovery Officer (Non-Domestic Rates) | Scotland | posted: 2026-11-24 | note: via MyJobScotland
 

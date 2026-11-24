@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1231 firms checked, 596 matched, 635 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1236 firms checked, 598 matched, 638 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (635)
+## Not found (638)
 
 - 01Health
 - 7IM
@@ -26,6 +26,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Accountable Recruitment Limited
 - Accountancy Action
 - Addington Ball Recruitment Ltd
+- Adele Carr Recruitment Limited
 - Adyen
 - Agility
 - AlTi Tiedemann Global
@@ -369,6 +370,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Marlin Selection Recruitment
 - Marshall & Machado Recruitment Services Ltd
 - Martis Search
+- Mason Blake
 - Matched Group
 - McGinnis Loy Associates Ltd
 - Medlock Partners
@@ -509,6 +511,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Selby Jennings
 - Select Tech
 - Sellick Partnership
+- Service Care Solutions
 - Service Service
 - Seven Investment Management
 - Seymour John

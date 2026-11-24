@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:28:02.712Z",
+ "generated_at": "2026-11-24T16:49:55.405Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 314,
+   "matching": 315,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 100,
+   "matching": 102,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 89,
+   "matching": 90,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -156,8 +156,20 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 32,
+   "matching": 33,
    "picks": [
+    {
+     "title": "Strategy Analyst",
+     "company": "ABB",
+     "location": "Stonehouse, England, United Kingdom",
+     "posted": "2026-11-24",
+     "url": "https://www.linkedin.com/jobs/view/strategy-analyst-at-abb-4494164283",
+     "score": 21,
+     "why": [
+      "Strategy Analyst"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)",
      "company": "L.E.K. Consulting",
@@ -168,18 +180,6 @@
      "why": [
       "Strategy Associate",
       "Consultant"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Strategy Associate",
-     "company": "NatWest Group",
-     "location": "London",
-     "posted": "2026-11-24",
-     "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Strategy-Associate_R-00286987-1",
-     "score": 19,
-     "why": [
-      "Strategy Associate"
      ],
      "sponsor": true
     }
@@ -606,11 +606,6 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 6
-  },
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Strategy-Consultant-for-Commodity-Markets_R00369068": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 11
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Digital-Finance-Transformation-Consultant_R00362313": {
    "id": "consulting",
@@ -7302,15 +7297,50 @@
    "cv": "Finance (FP&A) CV",
    "score": 4
   },
-  "https://centrica.wd3.myworkdayjobs.com/centrica/job/Greater-London/Commodity-Trading-Accountant_R0092302": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
+  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R266629": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/strategic-finance-associate-uk-at-prima-4478502563": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-management-accountant-at-pilgrim-s-europe-4494384571": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/associate-credit-solutions-growth-middle-market-technology-emea-at-mufg-4494156528": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-at-adecco-4493009037": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-high-yield-at-mason-blake-4472529321": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-researcher-at-bnp-paribas-4494150826": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/strategy-analyst-at-abb-4494164283": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-mac-recruit-group-ltd-4494150527": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   },
   "https://www.linkedin.com/jobs/view/client-treasury-accounts-assistant-at-trafalgar-house-pensions-administration-4494387455": {
    "id": "finance",
@@ -7322,30 +7352,40 @@
    "cv": "Finance (FP&A) CV",
    "score": 15
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-mac-recruit-group-ltd-4494150527": {
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-service-care-solutions-4493022728": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 14
+   "score": 18
   },
   "https://www.linkedin.com/jobs/view/cost-accountant-at-walker-hamill-4480664116": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/associate-credit-solutions-growth-middle-market-technology-emea-at-mufg-4494156528": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/reporting-performance-accountant-at-investigo-4494129161": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
   },
+  "https://www.reed.co.uk/jobs/credit-analyst-front-office/57608370": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
   "https://www.reed.co.uk/jobs/management-accountant/57607942": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://www.reed.co.uk/jobs/financial-accountant-maternity-cover/57608282": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/treasury-controller/57608042": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
   },
   "https://www.s1jobs.com/job/accountant-127795561": {
    "id": "finance",

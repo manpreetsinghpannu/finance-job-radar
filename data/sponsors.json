@@ -42,6 +42,11 @@
    "register_name": null,
    "match": "none"
   },
+  "ABB": {
+   "licensed": true,
+   "register_name": "ABB Limited",
+   "match": "exact"
+  },
   "ACCA Careers": {
    "licensed": false,
    "register_name": null,
@@ -176,6 +181,11 @@
    "licensed": true,
    "register_name": "Adecco UK Limited",
    "match": "exact"
+  },
+  "Adele Carr Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Adler & Allan": {
    "licensed": true,
@@ -1231,6 +1241,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Centre People Appointments": {
+   "licensed": true,
+   "register_name": "Centre People Appointments Limited",
+   "match": "exact"
   },
   "Centrica": {
    "licensed": true,
@@ -3432,6 +3447,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Mason Blake": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Mastercard": {
    "licensed": true,
    "register_name": "Mastercard UK Management Services LTD",
@@ -4868,6 +4888,11 @@
    "match": "none"
   },
   "Sellick Partnership": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Service Care Solutions": {
    "licensed": false,
    "register_name": null,
    "match": "none"
