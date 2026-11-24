@@ -4197,6 +4197,11 @@
    "register_name": "Premier Foods",
    "match": "exact"
   },
+  "Premium Credit Ltd": {
+   "licensed": true,
+   "register_name": "Premium Credit Limited",
+   "match": "exact"
+  },
   "Pret A Manger": {
    "licensed": true,
    "register_name": "Pret a Manger (Europe) Limited",

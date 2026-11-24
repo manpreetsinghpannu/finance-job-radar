@@ -2226,5 +2226,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/restructuring-advisory-graduate-at-targetjobs-uk-4494307106 | targetjobs UK | Restructuring Advisory Graduate | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/group-accountant-newly-qualified-at-equifind-4493914262 | Equifind | Group Accountant (Newly Qualified) | City Of London, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-controller/57604479 | eFinancialCareers | Financial Controller | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/cost-finance-business-partner-at-premium-credit-ltd-4494096738 | Premium Credit Ltd | Cost Finance Business Partner | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed

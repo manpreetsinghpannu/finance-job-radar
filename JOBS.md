@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 24 Nov, 05:19** (UK time) · **1359 open roles** at 810 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 24 Nov, 05:41** (UK time) · **1360 open roles** at 811 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 24 Nov, 05:10** · hourly scan · checked 201 boards · **0 new roles**
+**Tue 24 Nov, 05:31** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Tue 24 Nov, 04:12** (2: Finance 2); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-24 | [Cost Finance Business Partner](https://www.linkedin.com/jobs/view/cost-finance-business-partner-at-premium-credit-ltd-4494096738) | Premium Credit Ltd | London, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (305 matching)
+**Finance (FP&A) CV** (306 matching)
 
 1. [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) · Medpace · London, England, United Kingdom · posted 2026-11-23 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
@@ -60,6 +64,17 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Tuesday 24 November
 
 <sub>Nothing new at: 05:10</sub>
+
+<details>
+<summary><b>05:31</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-24 | [Cost Finance Business Partner](https://www.linkedin.com/jobs/view/cost-finance-business-partner-at-premium-credit-ltd-4494096738) | Premium Credit Ltd | London, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>04:12</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -3182,6 +3197,7 @@ Everything matched so far, newest first within each CV: [Finance (792)](#finance
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-24 | [Cost Finance Business Partner](https://www.linkedin.com/jobs/view/cost-finance-business-partner-at-premium-credit-ltd-4494096738) | Premium Credit Ltd | London, England, United Kingdom | ✅ |
 | — | [Financial Controller](https://www.reed.co.uk/jobs/financial-controller/57604479) | eFinancialCareers | London | ✅ |
 | 2026-11-23 | [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) | Medpace | London, England, United Kingdom | ✅ |
 | 2026-11-23 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-medlock-partners-4493677006) | Medlock Partners | Manchester Area, United Kingdom | ❔ |
@@ -4584,7 +4600,7 @@ Everything matched so far, newest first within each CV: [Finance (792)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Tue 24 Nov, 05:12 | Graduate Accountant | targetjobs UK |
+| Tue 24 Nov, 05:33 | Graduate Accountant | targetjobs UK |
 | Tue 24 Nov, 03:12 | FP&A Analyst | Catalyst |
 | Tue 24 Nov, 01:14 | Management Accountant - GFP | MAGMAS |
 | Tue 24 Nov, 00:26 | Financial Controller | Lyst |

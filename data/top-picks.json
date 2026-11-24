@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T05:19:09.166Z",
+ "generated_at": "2026-11-24T05:41:02.066Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 305,
+   "matching": 306,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -7045,6 +7045,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/cost-finance-business-partner-at-premium-credit-ltd-4494096738": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
