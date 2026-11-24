@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 24 Nov, 06:19** (UK time) · **1359 open roles** at 810 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 24 Nov, 06:38** (UK time) · **1359 open roles** at 810 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 24 Nov, 06:10** · hourly scan · checked 201 boards · **0 new roles**
+**Tue 24 Nov, 06:30** · hourly scan · checked 201 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Tue 24 Nov, 05:31** (1: Finance 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 24 November
 
-<sub>Nothing new at: 06:10</sub>
+<sub>Nothing new at: 06:30</sub>
 
 <details>
 <summary><b>05:31</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -4583,7 +4583,7 @@ Everything matched so far, newest first within each CV: [Finance (792)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Tue 24 Nov, 06:13 | Financial Analyst | Equity House |
+| Tue 24 Nov, 06:32 | Financial Analyst | Equity House |
 | Tue 24 Nov, 05:33 | Graduate Accountant | targetjobs UK |
 | Tue 24 Nov, 03:12 | FP&A Analyst | Catalyst |
 | Tue 24 Nov, 01:14 | Management Accountant - GFP | MAGMAS |
