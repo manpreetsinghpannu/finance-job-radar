@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1250 firms checked, 603 matched, 647 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1263 firms checked, 605 matched, 658 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (647)
+## Not found (658)
 
 - 01Health
 - 7IM
@@ -73,6 +73,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Avove Utilities
 - Axon Moore
 - Axon Moore Group Ltd
+- Azenta Life Sciences
 - B&Q
 - BAT
 - BBC UK
@@ -105,6 +106,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Broster Buchanan
 - Bruin
 - Bruntwood SciTech
+- Bucks and Berks Recruitment
 - Burman Recruitment
 - Butler Rose
 - Byron Recruitment
@@ -118,6 +120,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CMA Recruitment Group
 - CMC Consulting Limited
 - CMC Consulting Ltd
+- CMR Jobs Limited
 - CMS UK
 - CONTRACT SCOTLAND LIMITED
 - COREcruitment Ltd
@@ -157,6 +160,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Coinbase
 - Collins Aerospace
 - Connect Recruitment Consultants Ltd.
+- Connect2Hackney
 - Conrad Consulting
 - Consumer Additions and Consumer Exec
 - Cooper Parry Finance Recruitment
@@ -407,6 +411,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Motorway
 - Murphy
 - NC Associates
+- Neal's Yard Remedies
 - New Avenues
 - Newlon Housing Trust
 - Nexus Jobs
@@ -437,6 +442,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Paddle (alias not on current register (paddle com market limited))
 - Palatine Talent
 - Pan Macmillan
+- Panoramic Associates
+- Partou Childcare
 - Pave Bank
 - Pavilion Recruitment Solutions
 - Payhawk
@@ -453,6 +460,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Portman Finance Group
 - Preventx
 - Prime Personnel UK
+- Prospect Us
 - Public Sector Resourcing
 - Public Sector Resourcing CWS
 - Puma Capital Group
@@ -515,6 +523,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Scout Global
 - Searchability Ltd
 - Seccl
+- Sectora Group
 - Selby Jennings
 - Select Tech
 - Sellick Partnership
@@ -585,6 +594,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Trafalgar House Pensions Administration
 - Trainline
 - TransUnion
+- Transaction Recruitment
 - Trial Balance Consulting
 - Trident International Associates
 - Trostan Dene
@@ -634,6 +644,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Weekday AI
 - Wesco
 - Wilkinson and Associates
+- Workforce Staffing
 - Workplace Futures Group
 - WorldQuant
 - XPS Group

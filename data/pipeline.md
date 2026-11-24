@@ -2360,4 +2360,20 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/esg-quant-analyst-at-mason-blake-4494711901 | Mason Blake | ESG Quant Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.s1jobs.com/job/management-accountant-127795807 | Pertemps Scotland | Management Accountant | Stirling, Scotland | posted: 2026-11-24 | note: via S1Jobs
 
+- [ ] https://skipton.wd3.myworkdayjobs.com/careers-skipton/job/Skipton-England/Credit-Management-Adviser_JR4395 | Skipton Building Society | Credit Management Adviser | Skipton, England | posted: 2026-11-24
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5977564944 | Azenta Life Sciences | Treasury Accountant | Carrington, Manchester | posted: 2026-11-24 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5977564885 | CMR Jobs Limited | Accountant | Rusholme, Manchester | posted: 2026-11-24 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5977562232 | Workforce Staffing | Bookkeeper & Accounts Preparation Accountant | Balsall Heath, Birmingham | posted: 2026-11-24 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5977436291 | Michael Page | Assistant Accountant | Hertfordshire, Eastern England | posted: 2026-11-24 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5977401990 | High Finance Limited | M&A Analyst | Monument, Central London | posted: 2026-11-24 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5977343018 | Connect2Hackney | Group Accountant | Hackney, East London | posted: 2026-11-24 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5977266587 | Prospect Us | Property Rental Income Accountant | London, UK | posted: 2026-11-24 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5977265078 | Panoramic Associates | Interim Management Accountant | UK | posted: 2026-11-24 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5977262534 | Transaction Recruitment | Assistant Accountant | Bickenhill, Solihull | posted: 2026-11-24 | note: via Adzuna
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-sectora-group-4494192112 | Sectora Group | Financial Analyst | Bournemouth, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-finance-business-partner-denton-at-partou-childcare-4494199785 | Partou Childcare | Assistant Finance Business Partner - Denton | Denton, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-the-university-of-edinburgh-4493045343 | The University of Edinburgh | Finance Business Partner | Edinburgh, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-supply-chain-at-neal-s-yard-remedies-4493039372 | Neal's Yard Remedies | Finance Business Partner - Supply Chain | Gillingham, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57608972 | Bucks and Berks Recruitment | Assistant Management Accountant | Windsor, Berkshire | note: via Reed
+
 ## Processed

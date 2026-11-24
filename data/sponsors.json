@@ -612,6 +612,11 @@
    "register_name": "LeasePlan UK Ltd",
    "match": "alias"
   },
+  "Azenta Life Sciences": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Aztec Group": {
    "licensed": true,
    "register_name": "Aztec Group Financial Services (UK) Limited",
@@ -972,6 +977,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Bucks and Berks Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Bupa UK": {
    "licensed": true,
    "register_name": "Bupa",
@@ -1086,6 +1096,11 @@
    "licensed": true,
    "register_name": "CME Congresses Limited",
    "match": "alias"
+  },
+  "CMR Jobs Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "CMS UK": {
    "licensed": false,
@@ -1443,6 +1458,11 @@
    "match": "none"
   },
   "Connect Recruitment Consultants Ltd.": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Connect2Hackney": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2456,6 +2476,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "High Finance Limited": {
+   "licensed": true,
+   "register_name": "High Finance (UK) Limited",
+   "match": "exact"
   },
   "Higher Capital Consulting": {
    "licensed": false,
@@ -3837,6 +3862,11 @@
    "register_name": "Natixis Investment Managers UK LImited",
    "match": "exact"
   },
+  "Neal's Yard Remedies": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Network Rail": {
    "licensed": true,
    "register_name": "Network Rail Infrastructure",
@@ -4172,6 +4202,11 @@
    "register_name": "Panmure Liberum Limited",
    "match": "alias"
   },
+  "Panoramic Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Pantheon": {
    "licensed": true,
    "register_name": "Pantheon Platform UK Limited",
@@ -4181,6 +4216,11 @@
    "licensed": true,
    "register_name": "Partners Group (UK) Ltd.",
    "match": "exact"
+  },
+  "Partou Childcare": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Pave Bank": {
    "licensed": false,
@@ -4406,6 +4446,11 @@
    "licensed": true,
    "register_name": "Propel Holdings Limited",
    "match": "exact"
+  },
+  "Prospect Us": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Public Sector Resourcing": {
    "licensed": false,
@@ -4928,6 +4973,11 @@
    "match": "none"
   },
   "Seccl": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Sectora Group": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5512,6 +5562,11 @@
    "register_name": "The Travel Company Limited",
    "match": "exact"
   },
+  "The University of Edinburgh": {
+   "licensed": true,
+   "register_name": "University of Edinburgh",
+   "match": "exact"
+  },
   "The University of Manchester": {
    "licensed": true,
    "register_name": "The University of Manchester",
@@ -5628,6 +5683,11 @@
    "match": "none"
   },
   "TransUnion": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Transaction Recruitment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -6101,6 +6161,11 @@
    "licensed": true,
    "register_name": "UK Wise Group Ltd",
    "match": "exact"
+  },
+  "Workforce Staffing": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Workplace Futures Group": {
    "licensed": false,
