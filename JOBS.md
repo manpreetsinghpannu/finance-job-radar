@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 24 Nov, 06:38** (UK time) · **1359 open roles** at 810 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 24 Nov, 07:23** (UK time) · **1358 open roles** at 809 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 24 Nov, 06:30** · hourly scan · checked 201 boards · **0 new roles**
+**Tue 24 Nov, 07:13** · hourly scan · checked 201 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Tue 24 Nov, 05:31** (1: Finance 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 24 November
 
-<sub>Nothing new at: 06:30</sub>
+<sub>Nothing new at: 07:13, 06:30</sub>
 
 <details>
 <summary><b>05:31</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -160,7 +160,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 <sub>Nothing new at: 21:33, 21:11, 20:42</sub>
 
 <details>
-<summary><b>20:11</b> · hourly scan · <b>16 new</b> → Finance 12 · Credit 2 · Real Estate 1 · Fund 1</summary>
+<summary><b>20:11</b> · hourly scan · <b>15 new</b> → Finance 12 · Credit 1 · Real Estate 1 · Fund 1</summary>
 
 #### Finance (FP&A) CV: 12
 
@@ -179,11 +179,10 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-23 | [Qualified Accountant](https://www.adzuna.co.uk/jobs/details/5976389103) | Watson & Colhoun | Omagh, Northern Ireland | ❔ |
 | — | [Junior Accountant](https://www.reed.co.uk/jobs/junior-accountant/57603375) | Accountancy Action | Borehamwood, Hertfordshire | ❔ |
 
-#### Credit CV: 2
+#### Credit CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-23 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-france-4493699844) | CFP Energy - France | London, England, United Kingdom | ❔ |
 | 2026-11-23 | [Prudential Risk Analyst - Empirical Search](https://www.adzuna.co.uk/jobs/land/ad/5976219137) | Empirical Search | London, UK | ❔ |
 
 #### Real Estate CV: 1
@@ -197,6 +196,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-23 | [Fund Accountant / Fund Control – Alternatives and/or Private Credit – Premier Hedge Fund - CassonX](https://www.adzuna.co.uk/jobs/land/ad/5976219139) | CassonX | London, UK | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3162,20 +3163,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 08:04</sub>
 
-<details>
-<summary><b>07:05</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [Quantitative Risk Analyst](https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-aaa-global-4491110614) | AAA Global | London Area, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (792)](#finance-fpa-cv-792) · [Credit (158)](#credit-cv-158) · [Equity (62)](#equity-cv-62) · [Investment (136)](#investment-ib--pe-cv-136) · [Consulting (20)](#consulting-cv-20) · [Real Estate (24)](#real-estate-cv-24) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
+Everything matched so far, newest first within each CV: [Finance (792)](#finance-fpa-cv-792) · [Credit (157)](#credit-cv-157) · [Equity (62)](#equity-cv-62) · [Investment (136)](#investment-ib--pe-cv-136) · [Consulting (20)](#consulting-cv-20) · [Real Estate (24)](#real-estate-cv-24) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
 
 ### Finance (FP&A) CV: 792
 
@@ -3974,13 +3964,12 @@ Everything matched so far, newest first within each CV: [Finance (792)](#finance
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 | 2026-10-14 | [Finance Business Partner – Retail](https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862) | Landsec | London | ✅ |
 
-### Credit CV: 158
+### Credit CV: 157
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-23 | [Customer Master Data and Credit Risk Analyst](https://www.linkedin.com/jobs/view/customer-master-data-and-credit-risk-analyst-at-safran-4493739611) | Safran | West Midlands, England, United Kingdom | ✅ |
 | 2026-11-23 | [Commodities Credit Risk Analyst : Collateral Management : Global Energy Trading Co](https://www.linkedin.com/jobs/view/commodities-credit-risk-analyst-collateral-management-global-energy-trading-co-at-eaglecliff-recruitment-4492602102) | Eaglecliff Recruitment | Greater London, England, United Kingdom | ❔ |
-| 2026-11-23 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-cfp-energy-france-4493699844) | CFP Energy - France | London, England, United Kingdom | ❔ |
 | 2026-11-23 | [Global High Yield Credit Analyst](https://www.linkedin.com/jobs/view/global-high-yield-credit-analyst-at-anonymous-company-profile-4478424526) | Anonymous Company Profile | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Credit Portfolio Analyst (CRE)](https://www.linkedin.com/jobs/view/credit-portfolio-analyst-cre-at-montpellier-resourcing-4492610471) | Montpellier Resourcing | London Area, United Kingdom | ❔ |
 | 2026-11-23 | [Financial Credit Analyst](https://www.linkedin.com/jobs/view/financial-credit-analyst-at-cognitive-credit-4492646339) | Cognitive Credit | London, England, United Kingdom | ❔ |
@@ -4579,10 +4568,11 @@ Everything matched so far, newest first within each CV: [Finance (792)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>410 roles taken off the list because the firm closed the posting</summary>
+<summary>411 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 24 Nov, 07:15 | Credit Risk Analyst | CFP Energy - France |
 | Tue 24 Nov, 06:32 | Financial Analyst | Equity House |
 | Tue 24 Nov, 05:33 | Graduate Accountant | targetjobs UK |
 | Tue 24 Nov, 03:12 | FP&A Analyst | Catalyst |
