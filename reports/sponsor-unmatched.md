@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1227 firms checked, 595 matched, 632 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1231 firms checked, 596 matched, 635 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (632)
+## Not found (635)
 
 - 01Health
 - 7IM
@@ -347,6 +347,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lucy Group
 - Lyreco
 - M&G FA Limited
+- MAC Recruit Group Ltd
 - MAGMAS
 - MBDA Missile Systems
 - MDM Resourcing
@@ -482,6 +483,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Royal Caribbean Group
 - Royal College Of Physicians & Surgeons Of Glasgow
 - Rushlift GSE
+- Rutherford Briant
 - S1Jobs
 - SBFM
 - SD Business Management
@@ -568,6 +570,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Torfaen County Borough Council
 - Totum Partners
 - Tower Transit Group
+- Trafalgar House Pensions Administration
 - Trainline
 - TransUnion
 - Trial Balance Consulting

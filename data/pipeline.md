@@ -2305,4 +2305,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/graduate-finance-assistant/57607222 | Trinity House Group | Graduate Finance Assistant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/accountant-qualified-or-nearly-qualified/57607180 | Lloyd Recruitment Services Ltd | Accountant - Qualified or Nearly Qualified | Sutton, Surrey | note: via Reed
 
+- [ ] https://centrica.wd3.myworkdayjobs.com/centrica/job/Greater-London/Commodity-Trading-Accountant_R0092302 | Centrica | Commodity Trading Accountant | Greater London | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/strategic-finance-associate-uk-at-prima-4478502563 | Prima | Strategic Finance Associate UK | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/client-treasury-accounts-assistant-at-trafalgar-house-pensions-administration-4494387455 | Trafalgar House Pensions Administration | Client Treasury Accounts Assistant | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-robert-walters-4494382477 | Robert Walters | Assistant Accountant | Warrington, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-mac-recruit-group-ltd-4494150527 | MAC Recruit Group Ltd | Management Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/cost-accountant-at-walker-hamill-4480664116 | Walker Hamill | Cost Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-credit-solutions-growth-middle-market-technology-emea-at-mufg-4494156528 | MUFG | Associate, Credit Solutions, Growth & Middle Market Technology EMEA | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/reporting-performance-accountant-at-investigo-4494129161 | Investigo | Reporting & Performance Accountant | Port Glasgow, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57607942 | Rutherford Briant | Management Accountant | Cambridge, Cambridgeshire | note: via Reed
+- [ ] https://www.s1jobs.com/job/accountant-127795561 | S1Jobs | Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.myjobscotland.gov.uk/apply?jobId=PXOFK026203F3VBQB798M8MZY-664201 | Scottish public sector | Debt Recovery Officer (Non-Domestic Rates) | Scotland | posted: 2026-11-24 | note: via MyJobScotland
+
 ## Processed

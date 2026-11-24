@@ -3237,6 +3237,11 @@
    "register_name": "M & G PlC",
    "match": "exact"
   },
+  "MAC Recruit Group Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MAGMAS": {
    "licensed": false,
    "register_name": null,
@@ -4302,6 +4307,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Prima": {
+   "licensed": true,
+   "register_name": "Prima International Ltd",
+   "match": "exact"
+  },
   "Prime Personnel UK": {
    "licensed": false,
    "register_name": null,
@@ -4643,6 +4653,11 @@
    "match": "exact"
   },
   "Rushlift GSE": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Rutherford Briant": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5501,6 +5516,11 @@
    "licensed": true,
    "register_name": "Trading 212 UK Ltd",
    "match": "alias"
+  },
+  "Trafalgar House Pensions Administration": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Trafigura": {
    "licensed": true,
