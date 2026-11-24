@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T00:26:59.945Z",
+ "generated_at": "2026-11-24T01:22:45.236Z",
  "order": [
   "finance",
   "credit",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 30,
+   "matching": 31,
    "picks": [
     {
      "title": "Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)",
@@ -172,14 +172,14 @@
      "sponsor": true
     },
     {
-     "title": "Strategy Analyst",
-     "company": "Hargreaves Lansdown",
-     "location": "Bristol - Welcome Building",
-     "posted": "2026-11-16",
-     "url": "https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070",
+     "title": "Strategy Associate",
+     "company": "NatWest Group",
+     "location": "London",
+     "posted": "2026-11-24",
+     "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Strategy-Associate_R-00286987-1",
      "score": 19,
      "why": [
-      "Strategy Analyst"
+      "Strategy Associate"
      ],
      "sponsor": true
     }
@@ -3449,11 +3449,6 @@
   "https://www.reed.co.uk/jobs/operations-analyst-macro-credit/57580545": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 12
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-gfp-at-magmas-4490940057": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
    "score": 12
   },
   "https://www.linkedin.com/jobs/view/graduate-accountant-at-aria-finance-4490120785": {
@@ -7040,6 +7035,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Strategy-Associate_R-00286987-1": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 19
   }
  }
 }

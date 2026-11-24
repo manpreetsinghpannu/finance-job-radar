@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Tue 24 Nov, 00:26** (UK time) · **1358 open roles** at 809 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Tue 24 Nov, 01:22** (UK time) · **1358 open roles** at 810 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Tue 24 Nov, 00:16** · hourly scan · checked 201 boards · **3 new roles**
+**Tue 24 Nov, 01:12** · hourly scan · checked 201 boards · **1 new role**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-23 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-north-air-4493657488) | North Air | Reigate, England, United Kingdom | ❔ |
-| 2026-11-23 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-finalto-4493637923) | Finalto | London Area, United Kingdom | ✅ |
-
-### Real Estate CV: 1
+### Consulting CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-24 | [Securitised Products (SP), Financing Trader (Commercial Real Estate (CRE)](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Securitised-Products--SP---Financing-Trader--Commercial-Real-Estate--CRE-_JR-0000139004) | Barclays | Canary Wharf, 1 Churchill Place | ✅ |
+| 2026-11-24 | [Strategy Associate](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Strategy-Associate_R-00286987-1) | NatWest Group | London | ✅ |
 
 ## Top picks for each CV
 
@@ -49,10 +42,10 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [French speaking Investment Banking M&A Generalist Analyst & Associate](https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161) · eFinancialCareers · London · posted 2026-11-19 · ✅
 2. [Investment Banking (M&A) Associate - Business Services](https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759) · Dartmouth Partners · London Area, United Kingdom · posted 2026-11-19 · ✅
 
-**Consulting CV** (30 matching)
+**Consulting CV** (31 matching)
 
 1. [Strategy Associate Consultant, Generalist (M, F, D) – (Hybrid Arrangement)](https://www.linkedin.com/jobs/view/strategy-associate-consultant-generalist-m-f-d-%E2%80%93-hybrid-arrangement-at-l-e-k-consulting-4478950065) · L.E.K. Consulting · London Area, United Kingdom · posted 2026-11-17 · ✅
-2. [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) · Hargreaves Lansdown · Bristol - Welcome Building · posted 2026-11-16 · ✅
+2. [Strategy Associate](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Strategy-Associate_R-00286987-1) · NatWest Group · London · posted 2026-11-24 · ✅
 
 **Real Estate CV** (30 matching)
 
@@ -69,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 24 November
+
+<details>
+<summary><b>01:12</b> · hourly scan · <b>1 new</b> → Consulting 1</summary>
+
+#### Consulting CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-24 | [Strategy Associate](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Strategy-Associate_R-00286987-1) | NatWest Group | London | ✅ |
+
+</details>
 
 <details>
 <summary><b>00:16</b> · hourly scan · <b>3 new</b> → Finance 2 · Real Estate 1</summary>
@@ -3161,13 +3165,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 03:04, 02:04, 01:04</sub>
+<sub>Nothing new at: 03:04, 02:04</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (793)](#finance-fpa-cv-793) · [Credit (158)](#credit-cv-158) · [Equity (62)](#equity-cv-62) · [Investment (135)](#investment-ib--pe-cv-135) · [Consulting (19)](#consulting-cv-19) · [Real Estate (24)](#real-estate-cv-24) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
+Everything matched so far, newest first within each CV: [Finance (792)](#finance-fpa-cv-792) · [Credit (158)](#credit-cv-158) · [Equity (62)](#equity-cv-62) · [Investment (135)](#investment-ib--pe-cv-135) · [Consulting (20)](#consulting-cv-20) · [Real Estate (24)](#real-estate-cv-24) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (128)](#other-fits-no-cv-closely-may-still-be-worth-a-look-128)
 
-### Finance (FP&A) CV: 793
+### Finance (FP&A) CV: 792
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3630,7 +3634,6 @@ Everything matched so far, newest first within each CV: [Finance (793)](#finance
 | 2026-11-16 | [Management Accountant - GFP](https://www.linkedin.com/jobs/view/management-accountant-gfp-at-frontier-agriculture-4490673365) | Frontier Agriculture | Brigg, England, United Kingdom | ❔ |
 | 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-frontier-agriculture-4490670888) | Frontier Agriculture | Witham St Hughs, England, United Kingdom | ❔ |
 | 2026-11-16 | [Management Accountant Finance B6](https://scotjobsnet.co.uk/job/management-accountant-finance-b6/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
-| 2026-11-16 | [Management Accountant - GFP](https://www.linkedin.com/jobs/view/management-accountant-gfp-at-magmas-4490940057) | MAGMAS | Brigg, England, United Kingdom | ❔ |
 | 2026-11-16 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-arup-4489748521) | Arup | London, England, United Kingdom | ❔ |
 | 2026-11-16 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-pure-search-4490639378) | Pure Search | London Area, United Kingdom | ❔ |
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57572729) | Morgan Law | London | ❔ |
@@ -4335,10 +4338,11 @@ Everything matched so far, newest first within each CV: [Finance (793)](#finance
 | 2026-10-20 | [Investment Banking – France & Benelux Corp DCM - Analyst - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210801986) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-20 | [Associate, Private Markets Data Management](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R265839) | BlackRock | London, Greater London | ✅ |
 
-### Consulting CV: 19
+### Consulting CV: 20
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-24 | [Strategy Associate](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Strategy-Associate_R-00286987-1) | NatWest Group | London | ✅ |
 | 2026-11-19 | [Treasury & Commodity Advisory – Consultant](https://www.linkedin.com/jobs/view/treasury-commodity-advisory-%E2%80%93-consultant-at-cfgi-4431674463) | CFGI | London, England, United Kingdom | ✅ |
 | 2026-11-19 | [Strategy Associate](https://www.linkedin.com/jobs/view/strategy-associate-at-jagex-the-runescape-company-4492173080) | Jagex: The RuneScape Company | Cambridge, England, United Kingdom | ❔ |
 | 2026-11-18 | [Strategy Analyst](https://scotjobsnet.co.uk/job/strategy-analyst/) | via ScotJobsNet | Ayrshire, Scotland | ❔ |
@@ -4572,6 +4576,7 @@ Everything matched so far, newest first within each CV: [Finance (793)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 24 Nov, 01:14 | Management Accountant - GFP | MAGMAS |
 | Tue 24 Nov, 00:26 | Financial Controller | Lyst |
 | Tue 24 Nov, 00:26 | Financial Controller | Accountable Recruitment |
 | Tue 24 Nov, 00:26 | Finance Analyst | Vistry Homes Ltd |
@@ -4978,6 +4983,5 @@ Everything matched so far, newest first within each CV: [Finance (793)](#finance
 | Tue 17 Nov, 13:31 | Financial Analyst - Retail/Wholesale | New Avenues |
 | Tue 17 Nov, 13:31 | Graduate Finance Accountant - Investment Startup | Carousel Consultancy Ltd |
 | Tue 17 Nov, 13:31 | FP&A Analyst | Hometree |
-| Tue 17 Nov, 01:07 | Management Accountant | Anderson Knight |
 
 </details>
