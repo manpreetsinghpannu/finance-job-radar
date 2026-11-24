@@ -2338,6 +2338,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/part-time-accountant/57608600 | Think Accountancy and Finance | Part Time Accountant | Welwyn Garden City, Hertfordshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/treasury-controller/57608391 | NC Associates | Treasury Controller | Liverpool, Merseyside | note: via Reed
 
+- [ ] https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1176 | Aztec Group | Trainee Fund Accountant | Southampton | posted: 2026-11-24
 - [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799769 | JPMorgan Chase | EMEA Credit Risk Analyst - Diversified Industries | LONDON, United Kingdom | posted: 2026-11-24
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-accountant-at-london-borough-of-redbridge-4494394461 | London Borough of Redbridge | Financial Planning Accountant | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-bear-consulting-uk-ltd-4493047085 | Bear Consulting (UK) Ltd | Leveraged Finance Credit Analyst | City Of London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
@@ -2346,8 +2347,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-aila-recruitment-b-corp%E2%84%A2-4494162952 | Aila Recruitment | B Corp™ | Financial Analyst | Aylesbury, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/company-accountant-at-regent-college-london-4393499829 | Regent College London | Company Accountant | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-pertemps-network-group-4493020989 | Pertemps Network Group | Management Accountant | Stirling, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-platinum-recruitment-group-ltd-4493025745 | Platinum Recruitment Group Ltd | Management Accountant | Trafford Park, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/trainee-finance-assistant-graduate-at-s1jobs-4494162498 | s1jobs | Trainee Finance Assistant ( Graduate ) | Aberdeen, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-reporting-trainee-at-bhp-chartered-accountants-4494185321 | BHP, Chartered Accountants | Financial Reporting Trainee | Sheffield, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-kainos-4494174877 | Kainos | Financial Accountant | Belfast, Northern Ireland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-execution-dealer-banking-at-montpellier-resourcing-4493036494 | Montpellier Resourcing | Treasury Execution Dealer (Banking) | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-treasury-funding-execution-trader-associate-london-at-goldman-sachs-4486045523 | Goldman Sachs | Corporate Treasury-Funding Execution Trader- Associate - London | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-planning-analysis/57608685 | Michael Page Finance | Financial Planning & Analysis | Warrington, Cheshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/treasury-assistant/57608728 | Resourcery Group | Treasury Assistant | Liverpool, Merseyside | note: via Reed
 
 ## Processed

@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1247 firms checked, 603 matched, 644 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1249 firms checked, 603 matched, 646 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (644)
+## Not found (646)
 
 - 01Health
 - 7IM
@@ -75,6 +75,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - B&Q
 - BAT
 - BBC UK
+- BHP, Chartered Accountants
 - BNP Paribas Personal Finance
 - BOC UK & Ireland
 - BOLDSCIENCE
@@ -446,6 +447,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Pertemps Network Group
 - Pertemps Scotland
 - Platinum Recruitment Group
+- Platinum Recruitment Group Ltd
 - Point One - Hedge Fund Talent
 - Portman Finance Group
 - Preventx

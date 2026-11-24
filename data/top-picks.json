@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:01:54.318Z",
+ "generated_at": "2026-11-24T18:25:34.473Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 318,
+   "matching": 320,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 38,
+   "matching": 39,
    "picks": [
     {
      "title": "Assistant Fund Accountant",
@@ -236,15 +236,14 @@
      "sponsor": true
     },
     {
-     "title": "UK Product Team – NAV & Valuation Oversight - Associate",
-     "company": "JPMorgan Chase",
-     "location": "LONDON, LONDON, United Kingdom",
-     "posted": "2026-11-03",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341",
-     "score": 19,
+     "title": "Trainee Fund Accountant",
+     "company": "Aztec Group",
+     "location": "Southampton",
+     "posted": "2026-11-24",
+     "url": "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1176",
+     "score": 21,
      "why": [
-      "NAV",
-      "Valuation Oversight"
+      "Fund Accountant"
      ],
      "sponsor": true
     }
@@ -7407,6 +7406,11 @@
    "cv": "Finance (FP&A) CV",
    "score": 4
   },
+  "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1176": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 21
+  },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799769": {
    "id": "credit",
    "cv": "Credit CV",
@@ -7442,20 +7446,45 @@
    "cv": "Finance (FP&A) CV",
    "score": 14
   },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-platinum-recruitment-group-ltd-4493025745": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
   "https://www.linkedin.com/jobs/view/trainee-finance-assistant-graduate-at-s1jobs-4494162498": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/financial-reporting-trainee-at-bhp-chartered-accountants-4494185321": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   },
   "https://www.linkedin.com/jobs/view/financial-accountant-at-kainos-4494174877": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
   },
+  "https://www.linkedin.com/jobs/view/treasury-execution-dealer-banking-at-montpellier-resourcing-4493036494": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/corporate-treasury-funding-execution-trader-associate-london-at-goldman-sachs-4486045523": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
   "https://www.reed.co.uk/jobs/financial-planning-analysis/57608685": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://www.reed.co.uk/jobs/treasury-assistant/57608728": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

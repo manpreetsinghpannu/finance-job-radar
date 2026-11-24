@@ -647,6 +647,11 @@
    "register_name": "BGF Services Ltd",
    "match": "exact"
   },
+  "BHP, Chartered Accountants": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "BMO": {
    "licensed": true,
    "register_name": "Bank Of Montreal",
@@ -4303,6 +4308,11 @@
    "match": "exact"
   },
   "Platinum Recruitment Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Platinum Recruitment Group Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
