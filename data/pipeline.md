@@ -2250,5 +2250,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant/57605449 | Accountancy Action | Assistant Accountant | Watford, Hertfordshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant/57605451 | Social Care Locums | Assistant Accountant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/accountants-assistant/57605329 | Room At The Top Recruitment | Accountants Assistant | Hoddesdon, Hertfordshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/credit-officer-at-adecco-4493009037 | Adecco | Credit Officer | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-special-situations-at-cmc-consulting-ltd-4492695368 | CMC Consulting Ltd | M&A Special Situations | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-t2m-resourcing-4494104752 | T2M Resourcing | Management Accountant | Kidderminster, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commodity-trading-accountant-at-centrica-energy-4494331504 | Centrica Energy | Commodity Trading Accountant | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-walker-hamill-4482532313 | Walker Hamill | Investment Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-accountable-recruitment-limited-4494111223 | Accountable Recruitment Limited | Accountant | Ormskirk, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127795513 | S1Jobs | Trainee Finance Assistant Graduate | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/accountant-127795530 | S1Jobs | Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127795523 | S1Jobs | Management Accountant 1 Year Contract Part Time | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/reporting-accountant-127795520 | S1Jobs | Reporting Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-127795516 | S1Jobs | Management Accountant | Scotland | note: via S1Jobs
 
 ## Processed

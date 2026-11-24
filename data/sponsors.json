@@ -1227,6 +1227,11 @@
    "register_name": "Centrica plc",
    "match": "alias"
   },
+  "Centrica Energy": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Chalk Hill Group": {
    "licensed": false,
    "register_name": null,

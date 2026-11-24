@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T10:26:00.543Z",
+ "generated_at": "2026-11-24T11:22:10.171Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 309,
+   "matching": 308,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 99,
+   "matching": 100,
    "picks": [
     {
      "title": "Credit Risk Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 43,
+   "matching": 44,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 88,
+   "matching": 87,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 30,
+   "matching": 31,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -497,11 +497,6 @@
    "score": 18
   },
   "https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Reinsurance-Pricing-Analyst_RQ14184": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
-  "https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Assistant-Accountant--12-month-FTC-_RQ14025": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
@@ -2890,11 +2885,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-octopus-energy-4474762507": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 12
   },
   "https://www.linkedin.com/jobs/view/finance-business-partner-at-vitae-financial-recruitment-4488959358": {
    "id": "finance",
@@ -7100,6 +7090,61 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/credit-officer-at-adecco-4493009037": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/m-a-special-situations-at-cmc-consulting-ltd-4492695368": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-t2m-resourcing-4494104752": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/commodity-trading-accountant-at-centrica-energy-4494331504": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-walker-hamill-4482532313": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/accountant-at-accountable-recruitment-limited-4494111223": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127795513": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/accountant-127795530": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
+  },
+  "https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127795523": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.s1jobs.com/job/reporting-accountant-127795520": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/management-accountant-127795516": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }
