@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T12:24:27.289Z",
+ "generated_at": "2026-11-24T13:26:01.848Z",
  "order": [
   "finance",
   "credit",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 88,
+   "matching": 89,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -2801,11 +2801,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-djh-4488991960": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
   },
   "https://www.linkedin.com/jobs/view/operations-accountant-at-banham-poultry-2018-limited-4490709790": {
    "id": "finance",
@@ -7231,6 +7226,61 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-latus-group-4494133434": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/experienced-analyst-%E2%80%93-investment-banking-power-utilities-renewables-at-guggenheim-securities-4424905541": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/quant-researcher-systematic-equities-mft-at-radley-james-4459695664": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-equifind-4494121933": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-university-hospitals-tees-4494148194": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/corporate-accountant-at-torfaen-county-borough-council-4494110706": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/assistant-project-accountant-at-roke-4494106685": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/part-qualified-accountant-at-sheridan-maine-accounting-audit-tax-recruitment-4492696979": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-hiring-people-4494369646": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/commercial-trading-analyst-at-currys-plc-4494342926": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/interim-m-a-at-finatal-4494141017": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }

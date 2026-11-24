@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1215 firms checked, 592 matched, 623 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1221 firms checked, 593 matched, 628 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (623)
+## Not found (628)
 
 - 01Health
 - 7IM
@@ -266,6 +266,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Hire Rightt - Executive Search & HR Advisory
 - HireForce
 - HireIQ
+- Hiring People
 - Hometree
 - Hoop Recruitment
 - Howden, A Chart Industries Company
@@ -324,6 +325,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Landbay
 - Language Matters
 - Larbey Evans
+- Latus Group
 - Lemonade
 - Lightsource bp
 - Lightspeed Commerce
@@ -453,6 +455,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - RM Recruit
 - RSPB
 - Radiant
+- Radley James
 - Ramsey Portia
 - Randstad Finance
 - Raymond James, Thorpe Park Leeds
@@ -469,6 +472,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Roberts Bakery 1887
 - Robertson Bell
 - Robertson Wright
+- Roke
 - Room At The Top Recruitment
 - Rothstein Recruitment
 - Royal Caribbean Group
@@ -557,6 +561,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - TikTok
 - TipTopJob
 - Together - loans, mortgages & finance
+- Torfaen County Borough Council
 - Totum Partners
 - Tower Transit Group
 - Trainline

@@ -1467,6 +1467,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Currys plc": {
+   "licensed": true,
+   "register_name": "Currys Group Limited",
+   "match": "exact"
+  },
   "Cushman & Wakefield": {
    "licensed": true,
    "register_name": "Cushman & Wakefield Debenham Tie Leung Limited",
@@ -2437,6 +2442,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Hiring People": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Hiscox": {
    "licensed": true,
    "register_name": "HISCOX UNDERWRITING GROUP SERVICES LIMITED",
@@ -2973,6 +2983,11 @@
    "match": "none"
   },
   "Larbey Evans": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Latus Group": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4412,6 +4427,11 @@
    "register_name": "Radius Systems Limited",
    "match": "prefix"
   },
+  "Radley James": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ramsey Portia": {
    "licensed": false,
    "register_name": null,
@@ -4538,6 +4558,11 @@
    "match": "none"
   },
   "Robertson Wright": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Roke": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5413,6 +5438,11 @@
    "match": "exact"
   },
   "Together - loans, mortgages & finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Torfaen County Borough Council": {
    "licensed": false,
    "register_name": null,
    "match": "none"

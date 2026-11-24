@@ -2278,5 +2278,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/assistant-property-accountant/57606286 | Reed | Assistant Property Accountant | Norwich, Norfolk | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57606176 | Bis Henderson | Management Accountant | Warrington, Cheshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/part-qualified-accountant/57606285 | Sheridan Maine | Part Qualified Accountant | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-latus-group-4494133434 | Latus Group | Financial Planning Analyst | Kingston upon Hull, England Metropolitan Area | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/experienced-analyst-%E2%80%93-investment-banking-power-utilities-renewables-at-guggenheim-securities-4424905541 | Guggenheim Securities | Experienced Analyst – Investment Banking, Power, Utilities & Renewables | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quant-researcher-systematic-equities-mft-at-radley-james-4459695664 | Radley James | Quant Researcher - Systematic Equities (MFT) | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-equifind-4494121933 | Equifind | Assistant Accountant | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-university-hospitals-tees-4494148194 | University Hospitals Tees | Management Accountant | Middlesbrough, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-accountant-at-torfaen-county-borough-council-4494110706 | Torfaen County Borough Council | Corporate Accountant | Pontypool, Wales, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-project-accountant-at-roke-4494106685 | Roke | Assistant Project Accountant | Romsey, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/part-qualified-accountant-at-sheridan-maine-accounting-audit-tax-recruitment-4492696979 | Sheridan Maine - Accounting, Audit & Tax Recruitment | Part Qualified Accountant | Birmingham, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-hiring-people-4494369646 | Hiring People | Financial Accountant | Derby, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-trading-analyst-at-currys-plc-4494342926 | Currys plc | Commercial Trading Analyst | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/interim-m-a-at-finatal-4494141017 | Finatal | Interim M&A | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed
