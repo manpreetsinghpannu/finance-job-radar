@@ -2261,5 +2261,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127795523 | S1Jobs | Management Accountant 1 Year Contract Part Time | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/reporting-accountant-127795520 | S1Jobs | Reporting Accountant | Scotland | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/management-accountant-127795516 | S1Jobs | Management Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-regulated-fintech-at-jss-4492696689 | JSS | FP&A Analyst - Regulated Fintech | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-acca-careers-4494125609 | ACCA Careers | Finance Business Partner | Swadlincote, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-acca-careers-4494117794 | ACCA Careers | Management Accountant | Derby, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/strategic-financial-analyst-at-aej-consulting-ltd-4494117688 | AEJ Consulting Ltd | Strategic Financial Analyst | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-tarmac-4486829067 | Tarmac | Finance Graduate | Solihull, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/2lod-credit-risk-project-finance-essential-at-the-rp-research-4494125378 | The RP Research | 2LOD Credit Risk (Project Finance essential) | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-12-month-ftc-at-acca-careers-4494131131 | ACCA Careers | Financial Accountant (12-Month FTC) | Sheffield, England, United Kingdom | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-financial-accountant-european-language-speaker-at-univar-solutions-4494126276 | Univar Solutions | Assistant Financial Accountant - European Language Speaker | Bradford, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-hfg-insurance-recruitment-4494332484 | HFG Insurance Recruitment | Financial Accountant | City Of London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-saltgate-4494131194 | Saltgate | Fund Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-services-investment-banking-associate-%E2%80%93-london-at-tandem-search-4481450688 | Tandem Search | Business Services Investment Banking Associate – London | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-energy-renewables-advisory-at-walker-hamill-4482529321 | Walker Hamill | Corporate Finance, Energy/Renewables Advisory | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-fund-accountant-at-langham-hall-4493007443 | Langham Hall | Assistant Fund Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/interim-capital-accountant/57606350 | Morgan Law | Interim Capital Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-property-accountant/57606286 | Reed | Assistant Property Accountant | Norwich, Norfolk | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57606176 | Bis Henderson | Management Accountant | Warrington, Cheshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/part-qualified-accountant/57606285 | Sheridan Maine | Part Qualified Accountant | Birmingham, West Midlands (County) | note: via Reed
 
 ## Processed

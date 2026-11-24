@@ -802,6 +802,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Bis Henderson": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Black Swan Group": {
    "licensed": true,
    "register_name": "Black Swan Group Ltd",
@@ -2957,6 +2962,11 @@
    "register_name": "Land Securities Properties Ltd",
    "match": "alias"
   },
+  "Langham Hall": {
+   "licensed": true,
+   "register_name": "Langham Hall UK Services LLP",
+   "match": "exact"
+  },
   "Language Matters": {
    "licensed": false,
    "register_name": null,
@@ -4697,6 +4707,11 @@
    "register_name": "SALT Group Limited",
    "match": "exact"
   },
+  "Saltgate": {
+   "licensed": true,
+   "register_name": "Saltgate (UK) Limited",
+   "match": "exact"
+  },
   "Salutem Care And Education": {
    "licensed": false,
    "register_name": null,
@@ -5222,6 +5237,16 @@
    "register_name": "Tandem Bank Limited",
    "match": "alias"
   },
+  "Tandem Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Tarmac": {
+   "licensed": true,
+   "register_name": "Tarmac Trading Limited",
+   "match": "prefix"
+  },
   "Tarmac Trading Limited": {
    "licensed": true,
    "register_name": "Tarmac Trading Limited",
@@ -5311,6 +5336,11 @@
    "licensed": true,
    "register_name": "Nottingham Building Society",
    "match": "exact"
+  },
+  "The RP Research": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "The Scottish National Investment Bank": {
    "licensed": false,
