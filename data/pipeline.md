@@ -2293,5 +2293,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811157 | JPMorgan Chase | Wholesale Credit Risk - London - 2027 ReEntry Program | LONDON, United Kingdom | posted: 2026-11-24
 - [ ] https://www.linkedin.com/jobs/view/investment-officer-investment-associate-impact-investing-family-office-foundation-at-hedge-impact-headhunting-4223548338 | Hedge Impact headhunting | Investment Officer / Investment Associate, Impact Investing, Family Office / Foundation | City Of London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant-part-time/57607006 | PRATAP PARTNERSHIP LTD | Management Accountant- Part Time | York, North Yorkshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analysis-accountant-at-knights-4494390012 | Knights | Financial Planning & Analysis Accountant | Stoke-On-Trent, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-livgreen-retrofit-specialists-4494156151 | LivGreen - Retrofit Specialists | FP&A Analyst | Greater Bristol Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-analyst-at-peak-international-group-4494384168 | PEAK International Group | Graduate Finance Analyst | Glasgow, Scotland, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-forge-talent-4494150224 | Forge Talent | Finance Business Partner | Newton-Le-Willows, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-greencore-4399530096 | Greencore | Finance Business Partner | Freiston, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-financial-accountant-at-alexander-daniels-finance-recruitment-4494148505 | Alexander Daniels Finance Recruitment | M&A Financial Accountant | Birmingham, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-commercial-analyst-at-booker-4494367989 | Booker | Junior Commercial Analyst | Wellingborough, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-w-talent-4494155090 | W Talent | Fund Accountant | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-pharmacy2u-certified-b-corp-4494134842 | Pharmacy2U | Certified B Corp | Management Accountant | Leeds, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/graduate-finance-assistant/57607222 | Trinity House Group | Graduate Finance Assistant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/accountant-qualified-or-nearly-qualified/57607180 | Lloyd Recruitment Services Ltd | Accountant - Qualified or Nearly Qualified | Sutton, Surrey | note: via Reed
 
 ## Processed

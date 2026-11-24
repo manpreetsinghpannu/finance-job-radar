@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T14:24:53.398Z",
+ "generated_at": "2026-11-24T15:19:41.729Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 308,
+   "matching": 309,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 101,
+   "matching": 100,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -3547,11 +3547,6 @@
    "cv": "Credit CV",
    "score": 6
   },
-  "https://www.reed.co.uk/jobs/interim-financial-accountant/57582939": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-hb-partners-limited-4491571239": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3641,11 +3636,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 18
-  },
-  "https://www.reed.co.uk/jobs/risk-analyst-lorien/57584116": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
   },
   "https://www.reed.co.uk/jobs/management-accountant/57584184": {
    "id": "finance",
@@ -6327,11 +6317,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/financial-controller-at-accountable-recruitment-limited-4493614751": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
-  },
   "https://www.linkedin.com/jobs/view/accountant-at-global-accounting-network-4492392675": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -7281,6 +7266,56 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analysis-accountant-at-knights-4494390012": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-livgreen-retrofit-specialists-4494156151": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/graduate-finance-analyst-at-peak-international-group-4494384168": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-forge-talent-4494150224": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-greencore-4399530096": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/m-a-financial-accountant-at-alexander-daniels-finance-recruitment-4494148505": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/junior-commercial-analyst-at-booker-4494367989": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-w-talent-4494155090": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/graduate-finance-assistant/57607222": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/accountant-qualified-or-nearly-qualified/57607180": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
   }
  }
 }

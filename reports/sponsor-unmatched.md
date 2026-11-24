@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1222 firms checked, 593 matched, 629 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1227 firms checked, 595 matched, 632 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (629)
+## Not found (632)
 
 - 01Health
 - 7IM
@@ -89,6 +89,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Blockchain.com
 - Blood Cancer UK
 - Bloom Money
+- Booker
 - Brainkind
 - Brewer Morris
 - Briggs Equipment
@@ -320,6 +321,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Keoghs
 - Klarna
 - Klipboard
+- Knights
 - Kraft Heinz
 - L&Q
 - L3Harris Technologies
@@ -333,6 +335,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Linear Partners
 - LivGreen - Retrofit Specialists
 - Lloyd Recruitment - Epsom
+- Lloyd Recruitment Services Ltd
 - Lochead Sandford Recruitment
 - Lomond
 - Lomond Group
@@ -636,7 +639,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (78)
+## Matched automatically by close name; worth a glance (79)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -694,6 +697,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ohme → Ohme Operations UK Limited (prefix)
 - Oliver James → Oliver James Homes Ltd (prefix)
 - Orbit Group → Orbit Partners Limited (prefix)
+- PEAK International Group → Peak Retail Ltd (prefix)
 - Pantheon → Pantheon Platform UK Limited (prefix)
 - Paxos → Paxos Technology Limited (prefix)
 - People First → People First Care (Rennington) Ltd (prefix)

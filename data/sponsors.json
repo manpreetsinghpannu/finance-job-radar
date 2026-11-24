@@ -852,6 +852,11 @@
    "register_name": "BlueCrest Capital Management (UK) LLP",
    "match": "prefix"
   },
+  "Booker": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Boots UK": {
    "licensed": true,
    "register_name": "The Boots Group Services Limited",
@@ -2882,6 +2887,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Knights": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Kobalt Music": {
    "licensed": true,
    "register_name": "Kobalt Music Group Limited",
@@ -3098,6 +3108,11 @@
    "match": "exact"
   },
   "Lloyd Recruitment - Epsom": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Lloyd Recruitment Services Ltd": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4017,6 +4032,11 @@
    "register_name": null,
    "match": "none"
   },
+  "PEAK International Group": {
+   "licensed": true,
+   "register_name": "Peak Retail Ltd",
+   "match": "prefix"
+  },
   "PER": {
    "licensed": false,
    "register_name": null,
@@ -4206,6 +4226,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Pharmacy2U": {
+   "licensed": true,
+   "register_name": "Pharmacy2U",
+   "match": "exact"
   },
   "Phoenix Group": {
    "licensed": true,
