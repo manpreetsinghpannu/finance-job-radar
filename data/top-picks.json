@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T17:20:03.395Z",
+ "generated_at": "2026-11-24T18:01:54.318Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 316,
+   "matching": 318,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 103,
+   "matching": 104,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -1842,11 +1842,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 4
   },
-  "https://www.s1jobs.com/job/quantity-surveyor-pqs-security-cleared-127727650": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808312": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -1901,21 +1896,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
-  },
-  "https://www.s1jobs.com/job/financial-controller-127727844": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
-  "https://www.s1jobs.com/job/accountant-xero-127727840": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
-  "https://www.s1jobs.com/job/treasury-ap-127727833": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
   },
   "https://www.linkedin.com/jobs/view/executive-corporate-finance-at-frp-advisory-4487497721": {
    "id": "investment",
@@ -1991,11 +1971,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
-  },
-  "https://www.s1jobs.com/job/trainee-accountant-127699648": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
   },
   "https://www.s1jobs.com/job/financial-controller-127692768": {
    "id": "finance",
@@ -5557,11 +5532,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/drilling-accountant-at-orion-group-4492972185": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 9
-  },
   "https://www.linkedin.com/jobs/view/quantitative-trader-graduate-2027-at-susquehanna-international-group-4438424006": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -6332,11 +6302,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://www.reed.co.uk/jobs/management-accountant/57601135": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
   "https://www.reed.co.uk/jobs/assistant-accountant/57601360": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -6741,11 +6706,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/junior-finance-business-partner-at-harcourt-matthews-4492635539": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 19
   },
   "https://www.linkedin.com/jobs/view/financial-credit-analyst-at-cognitive-credit-4492646339": {
    "id": "credit",
@@ -7446,6 +7406,56 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799769": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 26
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-accountant-at-london-borough-of-redbridge-4494394461": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-bear-consulting-uk-ltd-4493047085": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 23
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-researcher-at-bnp-paribas-asset-management-4494194094": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/2027-graduate-talent-program-global-banking-dcm-london-at-ubs-4494183116": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/company-accountant-at-regent-college-london-4393499829": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-pertemps-network-group-4493020989": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/trainee-finance-assistant-graduate-at-s1jobs-4494162498": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-kainos-4494174877": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.reed.co.uk/jobs/financial-planning-analysis/57608685": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }

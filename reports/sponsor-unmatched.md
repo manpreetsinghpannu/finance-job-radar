@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1241 firms checked, 600 matched, 641 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1247 firms checked, 603 matched, 644 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (641)
+## Not found (644)
 
 - 01Health
 - 7IM
@@ -29,6 +29,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Adele Carr Recruitment Limited
 - Adyen
 - Agility
+- Aila Recruitment
 - AlTi Tiedemann Global
 - Alan Mitchell
 - Alexander Chapman
@@ -80,6 +81,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Baker Charles
 - Barbara Houghton Associates Limited
 - Barker Ross Group
+- Bear Consulting (UK) Ltd
 - Beaumont Select Ltd
 - Believ
 - Belmont Search Ltd
@@ -441,6 +443,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Peak Venues
 - Pear Talent - Finance Recruitment
 - Pertemps Glasgow Perms
+- Pertemps Network Group
 - Pertemps Scotland
 - Platinum Recruitment Group
 - Point One - Hedge Fund Talent
@@ -648,7 +651,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - twentyAI
 - via ScotJobsNet
 
-## Matched automatically by close name; worth a glance (79)
+## Matched automatically by close name; worth a glance (80)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
@@ -686,6 +689,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ikarus Capital → Ikarus Capital Advisory (prefix)
 - Investec → Investec Bank PLC (prefix)
 - Janus Henderson → JANUS HENDERSON ADMINISTRATION UK LIMITED (prefix)
+- Kainos → Kainos Software Ltd (prefix)
 - Kroll → Kroll Advisory Ltd (prefix)
 - Kroo → Kroo Bank Ltd (prefix)
 - Ledger → Ledger Technologies UK LTD (prefix)

@@ -212,6 +212,11 @@
    "register_name": "Agora Talent Limited",
    "match": "exact"
   },
+  "Aila Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Airwallex": {
    "licensed": true,
    "register_name": "Airwallex (UK) Limited",
@@ -761,6 +766,11 @@
    "licensed": true,
    "register_name": "Beamery Ltd",
    "match": "exact"
+  },
+  "Bear Consulting (UK) Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Beaumont Select Ltd": {
    "licensed": false,
@@ -2862,6 +2872,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Kainos": {
+   "licensed": true,
+   "register_name": "Kainos Software Ltd",
+   "match": "prefix"
+  },
   "Keeler Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -3185,6 +3200,11 @@
   "London Borough of Havering": {
    "licensed": true,
    "register_name": "London Borough of Havering",
+   "match": "exact"
+  },
+  "London Borough of Redbridge": {
+   "licensed": true,
+   "register_name": "London Borough of Redbridge",
    "match": "exact"
   },
   "London LGPS CIV Limited": {
@@ -4257,6 +4277,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Pertemps Network Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Pertemps Scotland": {
    "licensed": false,
    "register_name": null,
@@ -4546,6 +4571,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Regent College London": {
+   "licensed": true,
+   "register_name": "Regent College",
+   "match": "exact"
   },
   "Rendall & Rittner": {
    "licensed": false,
