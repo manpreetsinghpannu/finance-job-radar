@@ -2376,4 +2376,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-supply-chain-at-neal-s-yard-remedies-4493039372 | Neal's Yard Remedies | Finance Business Partner - Supply Chain | Gillingham, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57608972 | Bucks and Berks Recruitment | Assistant Management Accountant | Windsor, Berkshire | note: via Reed
 
+- [ ] https://centrica.wd3.myworkdayjobs.com/centrica/job/Leicester/Debt-Strategy-and-Performance-Analyst_R0090149-1 | Centrica | Debt Strategy and Performance Analyst | Leicester | posted: 2026-11-24
+- [ ] https://centrica.wd3.myworkdayjobs.com/centrica/job/Greater-London/Commodity-Trading-Accountant_R0092302 | Centrica | Commodity Trading Accountant | Greater London | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/fund-controller-private-credit-at-aria-partners-4494416304 | Aria Partners | Fund Controller - Private Credit | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/assistant-quantity-surveyor-127795811 | Gibson Recruitment Limited | Assistant Quantity Surveyor | North Lanarkshire, Scotland | posted: 2026-11-24 | note: via S1Jobs
+
 ## Processed

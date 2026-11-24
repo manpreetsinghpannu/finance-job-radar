@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:27:24.727Z",
+ "generated_at": "2026-11-24T22:22:48.737Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 105,
+   "matching": 106,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 34,
+   "matching": 35,
    "picks": [
     {
      "title": "Strategy Analyst",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 38,
+   "matching": 39,
    "picks": [
     {
      "title": "Assistant Fund Accountant",
@@ -4496,11 +4496,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 17
   },
-  "https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-robert-half-4491633827": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-lincoln-international-4490699759": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -4560,11 +4555,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
-  },
-  "https://www.linkedin.com/jobs/view/assistant-accountant-at-cmc-consulting-ltd-4491604292": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
   },
   "https://www.linkedin.com/jobs/view/assistant-accountant-at-global-accounting-network-4491602148": {
    "id": "finance",
@@ -7545,6 +7535,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://centrica.wd3.myworkdayjobs.com/centrica/job/Leicester/Debt-Strategy-and-Performance-Analyst_R0090149-1": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://centrica.wd3.myworkdayjobs.com/centrica/job/Greater-London/Commodity-Trading-Accountant_R0092302": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/fund-controller-private-credit-at-aria-partners-4494416304": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.s1jobs.com/job/assistant-quantity-surveyor-127795811": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
