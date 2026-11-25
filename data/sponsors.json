@@ -587,6 +587,11 @@
    "register_name": "Automata Technologies Limited",
    "match": "prefix"
   },
+  "Autotrader": {
+   "licensed": true,
+   "register_name": "Autotrader Limited",
+   "match": "exact"
+  },
   "Aviva": {
    "licensed": true,
    "register_name": "Aviva plc",
@@ -1016,6 +1021,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Buzzacott": {
+   "licensed": true,
+   "register_name": "Buzzacott",
+   "match": "exact"
   },
   "Byron Recruitment": {
    "licensed": false,
@@ -1536,6 +1546,11 @@
    "licensed": true,
    "register_name": "Coventry University",
    "match": "exact"
+  },
+  "Cpl Life Sciences": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Crossing Hurdles": {
    "licensed": false,
@@ -2215,6 +2230,11 @@
   "Goodman Masson": {
    "licensed": true,
    "register_name": "Goodman Masson Ltd",
+   "match": "exact"
+  },
+  "Gowling WLG": {
+   "licensed": true,
+   "register_name": "Gowling WLG (UK) LLP",
    "match": "exact"
   },
   "Grafton Banks Finance Ltd": {
@@ -3207,6 +3227,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Lime Talent": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Lincoln International": {
    "licensed": true,
    "register_name": "Lincoln International LLP",
@@ -3661,6 +3686,11 @@
    "licensed": true,
    "register_name": "Mercury Capital (W12) LTD",
    "match": "prefix"
+  },
+  "Meridian Business Support": {
+   "licensed": true,
+   "register_name": "Meridian Business Support LTD",
+   "match": "exact"
   },
   "Mersey and West Lancashire Teaching Hospitals NHS Trust": {
    "licensed": true,
@@ -4581,6 +4611,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Quanteam UK": {
+   "licensed": true,
+   "register_name": "QUANTEAM UK LIMITED",
+   "match": "exact"
   },
   "Quantexa": {
    "licensed": true,
@@ -5565,6 +5600,11 @@
   "The AA": {
    "licensed": true,
    "register_name": "AA (GLW) LTD",
+   "match": "exact"
+  },
+  "The American School in London": {
+   "licensed": true,
+   "register_name": "The American School in London",
    "match": "exact"
   },
   "The Automobile Association": {

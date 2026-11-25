@@ -2416,5 +2416,21 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/financial-controller-127801582 | Shetland Space Centre Limited | Financial Controller | Aberdeenshire, Scotland | posted: 2026-11-25 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/management-accountant-127801241 | Morgan Hunt Group Limited | Management Accountant | Fife, Scotland | posted: 2026-11-25 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-pqs-sc-cleared-127801101 | Peace Recruitment | Quantity Surveyor Pqs Sc Cleared | Fife, Scotland | posted: 2026-11-25 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-product-at-global-payments-inc-4487062052 | Global Payments Inc. | Financial Analyst - Product | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-reporting-and-analysis-analyst-at-gowling-wlg-4494616655 | Gowling WLG | Financial Reporting and Analysis Analyst | Birmingham, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-michael-page-4494635064 | Michael Page | Commercial Finance Analyst | Manchester, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-autotrader-4494905507 | Autotrader | Commercial Finance Analyst | Manchester, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-cpl-life-sciences-4494629116 | Cpl Life Sciences | FP&A ANALYST | Basingstoke, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-corporate-credit-at-man-group-4494618809 | Man Group | Analyst - Corporate Credit | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-analyst-market-risk-modelling-at-quanteam-uk-4483066591 | Quanteam UK | Quantitative Analyst (Market Risk Modelling) | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/debt-advisory-analyst-at-alan-mitchell-4494901764 | Alan Mitchell | Debt Advisory Analyst | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-trainee%E2%80%AF-at-sanctuary-graduates-apprentices-4493417096 | Sanctuary Graduates & Apprentices | Finance Graduate Trainee | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-fashion-scale-up-southwest-london-4-days-a-week-in-office-at-better-placed-4494617769 | Better Placed | Assistant Management Accountant | Fashion Scale-Up | Southwest London | 4 days a week in office | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-seymour-john-4493404913 | Seymour John | Assistant Accountant | Telford, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/manufacturing-accountant-at-meridian-business-support-4493425036 | Meridian Business Support | Manufacturing Accountant | Salisbury, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-executive-at-buzzacott-4484050836 | Buzzacott | M&A Executive | City Of London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/strategy-consultant-food-bev-at-lime-talent-4493051076 | Lime Talent | Strategy Consultant - Food & Bev | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57611307 | Michael Page Finance | Commercial Finance Analyst | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57611269 | The American School in London | Management Accountant | London | note: via Reed
 
 ## Processed
