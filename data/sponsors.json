@@ -5292,6 +5292,11 @@
    "register_name": "SumUp Payments Limited",
    "match": "prefix"
   },
+  "Sumer": {
+   "licensed": true,
+   "register_name": "Sumer Group Holdings Limited",
+   "match": "exact"
+  },
   "Summit Energy Europe": {
    "licensed": false,
    "register_name": null,

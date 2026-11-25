@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T02:50:23.676Z",
+ "generated_at": "2026-11-25T03:25:15.370Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 103,
+   "matching": 102,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 88,
+   "matching": 89,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 37,
+   "matching": 36,
    "picks": [
     {
      "title": "Assistant Fund Accountant",
@@ -521,11 +521,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 15
   },
-  "https://landsecurities.wd3.myworkdayjobs.com/landseccareers/job/London/Finance-Business-Partner---Retail_R0003862": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
-  },
   "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
@@ -740,11 +735,6 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/hedge-fund-risk-analyst-at-black-swan-group-4488409544": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
   },
   "https://www.linkedin.com/jobs/view/l-s-investment-analyst-at-alexander-chapman-4488161713": {
    "id": "equity",
@@ -7415,6 +7405,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/m-a-associate-at-sumer-4484208673": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
   }
  }
 }

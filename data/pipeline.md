@@ -2385,5 +2385,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-tiptopjob-4494468281 | TipTopJob | Assistant Accountant | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-accountant/57600765 | Trace | Expert Accountancy & Finance Recruitment | Financial Accountant | London | posted: 2026-11-24 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57608780 | KFM | Management Accountant | Denmark Hill, London | posted: 2026-11-24 | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/m-a-associate-at-sumer-4484208673 | Sumer | M&A Associate | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
