@@ -2383,6 +2383,5 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/debt-strategy-and-performance-analyst-at-british-gas-4494737705 | British Gas | Debt Strategy and Performance Analyst | Leicester, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-modeller-permanent-at-collective-work-4494439722 | Collective.work | Credit Risk Modeller - Permanent | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-tiptopjob-4494468281 | TipTopJob | Assistant Accountant | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
-- [ ] https://www.reed.co.uk/jobs/financial-accountant/57600765 | Trace | Expert Accountancy & Finance Recruitment | Financial Accountant | London | posted: 2026-11-24 | note: via Reed
 
 ## Processed

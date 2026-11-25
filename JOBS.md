@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 25 Nov, 01:20** (UK time) · **1437 open roles** at 848 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 25 Nov, 01:45** (UK time) · **1436 open roles** at 848 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 25 Nov, 01:10** · hourly scan · checked 201 boards · **2 new roles**
+**Wed 25 Nov, 01:31** · hourly scan · checked 201 boards · **2 new roles**
 
 ### Finance (FP&A) CV: 1
 
@@ -28,7 +28,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (314 matching)
+**Finance (FP&A) CV** (313 matching)
 
 1. [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) · Medpace · London, England, United Kingdom · posted 2026-11-23 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
@@ -58,7 +58,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Investment Analyst - Real Estate](https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878) · London LGPS CIV Limited · London, England, United Kingdom · posted 2026-11-20 · ✅
 2. [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) · Ares Management · London, UK · ✅
 
-**Fund CV (written for India; tweak the header for UK roles)** (38 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (37 matching)
 
 1. [Assistant Fund Accountant](https://www.linkedin.com/jobs/view/assistant-fund-accountant-at-langham-hall-4493007443) · Langham Hall · London Area, United Kingdom · posted 2026-11-24 · ✅
 2. [Trainee Fund Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1176) · Aztec Group · Southampton · posted 2026-11-24 · ✅
@@ -70,7 +70,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Wednesday 25 November
 
 <details>
-<summary><b>01:10</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
+<summary><b>01:31</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -83,8 +83,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-24 | [Credit Risk Modeller - Permanent](https://www.linkedin.com/jobs/view/credit-risk-modeller-permanent-at-collective-work-4494439722) | Collective.work | London, England, United Kingdom | ❔ |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3269,7 +3267,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (839)](#finance-fpa-cv-839) · [Credit (170)](#credit-cv-170) · [Equity (63)](#equity-cv-63) · [Investment (142)](#investment-ib--pe-cv-142) · [Consulting (20)](#consulting-cv-20) · [Real Estate (27)](#real-estate-cv-27) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (135)](#other-fits-no-cv-closely-may-still-be-worth-a-look-135)
+Everything matched so far, newest first within each CV: [Finance (839)](#finance-fpa-cv-839) · [Credit (170)](#credit-cv-170) · [Equity (63)](#equity-cv-63) · [Investment (142)](#investment-ib--pe-cv-142) · [Consulting (20)](#consulting-cv-20) · [Real Estate (27)](#real-estate-cv-27) · [Fund (40)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-40) · [Other (135)](#other-fits-no-cv-closely-may-still-be-worth-a-look-135)
 
 ### Finance (FP&A) CV: 839
 
@@ -4562,7 +4560,7 @@ Everything matched so far, newest first within each CV: [Finance (839)](#finance
 | — | [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 41
+### Fund CV (written for India; tweak the header for UK roles): 40
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4588,7 +4586,6 @@ Everything matched so far, newest first within each CV: [Finance (839)](#finance
 | 2026-11-17 | [Investment Operations Associate – Model Portfolio Service (MPS)](https://www.linkedin.com/jobs/view/investment-operations-associate-%E2%80%93-model-portfolio-service-mps-at-cameron-kennedy-4480650397) | Cameron Kennedy | London Area, United Kingdom | ✅ |
 | 2026-11-17 | [Investment Operations Analyst, Multi Asset Funds Investor, London, UK](https://www.linkedin.com/jobs/view/investment-operations-analyst-multi-asset-funds-investor-london-uk-at-per-4483622299) | PER | London, England, United Kingdom | ❔ |
 | 2026-11-17 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-deverellsmith-4490462516) | deverellsmith | London, England, United Kingdom | ❔ |
-| 2026-11-16 | [Trainee Fund Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1071) | Aztec Group | Southampton | ✅ |
 | 2026-11-16 | [Investment Operations Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1) | Barclays | Glasgow Campus | ✅ |
 | — | [Fund Accounting Opportunities](https://www.reed.co.uk/jobs/fund-accounting-opportunities/57574534) | eFinancialCareers | Edinburgh, Midlothian | ✅ |
 | 2026-11-16 | [Pension Fund Accountant](https://www.linkedin.com/jobs/view/pension-fund-accountant-at-xps-group-4490686616) | XPS Group | Reading, England, United Kingdom | ❔ |
@@ -4751,13 +4748,14 @@ Everything matched so far, newest first within each CV: [Finance (839)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>458 roles taken off the list because the firm closed the posting</summary>
+<summary>459 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Wed 25 Nov, 01:17 | Assistant Accountant | Michael Page Finance |
-| Wed 25 Nov, 01:14 | Fund Accountant - Private Markets | Aria Partners |
-| Wed 25 Nov, 01:12 | Graduate - Analyst, Technology Risk & Assurance (m/f/d) | SEFE Marketing & Trading Ltd |
+| Wed 25 Nov, 01:41 | Assistant Accountant | Michael Page Finance |
+| Wed 25 Nov, 01:35 | Fund Accountant - Private Markets | Aria Partners |
+| Wed 25 Nov, 01:33 | Graduate - Analyst, Technology Risk & Assurance (m/f/d) | SEFE Marketing & Trading Ltd |
+| Wed 25 Nov, 01:33 | Trainee Fund Accountant | Aztec Group |
 | Wed 25 Nov, 00:24 | French Financial Planning Associate | Fisher Careers |
 | Wed 25 Nov, 00:24 | Assistant Finance Analyst | Vistry Homes Ltd |
 | Wed 25 Nov, 00:24 | URBN - Financial Accountant | Urban Outfitters, Inc. |
