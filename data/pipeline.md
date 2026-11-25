@@ -2453,4 +2453,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-pharmacy2u-certified-b-corp-4494648197 | Pharmacy2U | Certified B Corp | Management Accountant | Leeds, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-certas-energy-4494623760 | Certas Energy | Financial Accountant | Larbert, Scotland, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 
+- [ ] https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-Accountant---Private-Equity_R1165 | Aztec Group | Fund Accountant - Private Equity | Southampton | posted: 2026-11-25
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Emerging-Market-Trader--Equities_261012293 | Citi | Emerging Market Trader, Equities | London United Kingdom | posted: 2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-kennedy-pearce-consulting-4493436081 | Kennedy Pearce Consulting | Financial Analyst | Portsmouth, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/product-control-analyst-ftc-potential-secondment-opportunity-at-smartestenergy-uk-4467233308 | SmartestEnergy UK | Product Control Analyst - FTC/Potential Secondment opportunity | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-long-biased-equity-hedge-fund-at-edgworth-partners-4494657050 | Edgworth Partners | Investment Analyst - Long-Biased Equity Hedge Fund | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-%E2%80%93-m-a-at-cross-path-4494641799 | Cross Path | Investment Banking Associate – M&A | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-for-valuations-disputes-bilingual-english-german-at-hays-4494923408 | Hays | Analyst for Valuations & Disputes: bilingual English/German | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-asset-management-operations-at-targetjobs-uk-4494929166 | targetjobs UK | Graduate - Asset Management - Operations | Cardiff, Wales, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/analyst-for-valuations-disputes-bilingual-english-german/57612167 | Hays Specialist Recruitment Limited | Analyst for Valuations & Disputes: bilingual English/German | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/corporate-accountant/57612272 | Reed | Corporate Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/pricing-analyst/57612141 | Vermelo RPO | Pricing Analyst | Peterborough, Cambridgeshire | note: via Reed
+
 ## Processed

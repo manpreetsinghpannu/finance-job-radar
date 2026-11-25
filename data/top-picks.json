@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T14:22:57.968Z",
+ "generated_at": "2026-11-25T15:21:53.743Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 325,
+   "matching": 327,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 44,
+   "matching": 46,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 92,
+   "matching": 93,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -220,7 +220,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 36,
+   "matching": 37,
    "picks": [
     {
      "title": "Assistant Fund Accountant",
@@ -710,11 +710,6 @@
    "cv": "Credit CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/corporate-credit-analyst-at-city-recruitment-associates-4488126750": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 15
-  },
   "https://www.linkedin.com/jobs/view/wholesale-credit-risk-emea-emerging-markets-mena-associate-at-jpmorganchase-4403159570": {
    "id": "credit",
    "cv": "Credit CV",
@@ -736,11 +731,6 @@
    "score": 18
   },
   "https://www.linkedin.com/jobs/view/l-s-investment-analyst-at-alexander-chapman-4488161713": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/investment-analyst-at-scout-global-4485826581": {
    "id": "equity",
    "cv": "Equity CV",
    "score": 9
@@ -7679,6 +7669,61 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
+  },
+  "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-Accountant---Private-Equity_R1165": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 17
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Emerging-Market-Trader--Equities_261012293": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-kennedy-pearce-consulting-4493436081": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/product-control-analyst-ftc-potential-secondment-opportunity-at-smartestenergy-uk-4467233308": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-long-biased-equity-hedge-fund-at-edgworth-partners-4494657050": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-%E2%80%93-m-a-at-cross-path-4494641799": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 26
+  },
+  "https://www.linkedin.com/jobs/view/analyst-for-valuations-disputes-bilingual-english-german-at-hays-4494923408": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/graduate-asset-management-operations-at-targetjobs-uk-4494929166": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/analyst-for-valuations-disputes-bilingual-english-german/57612167": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.reed.co.uk/jobs/corporate-accountant/57612272": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 5
+  },
+  "https://www.reed.co.uk/jobs/pricing-analyst/57612141": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
