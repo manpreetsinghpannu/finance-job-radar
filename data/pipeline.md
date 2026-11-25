@@ -2449,5 +2449,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant-london/57611563 | Marks Sattin | Management Accountant - London | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57611554 | Abacus Consulting | Management Accountant | Welwyn Garden City, Hertfordshire | note: via Reed
 - [ ] https://www.s1jobs.com/job/graduate-quantity-surveyor-127801603 | GH Resourcing limited | Graduate Quantity Surveyor | East Ayrshire, Scotland | posted: 2026-11-25 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-12-month-ftc-at-ciphr-4493430181 | Ciphr | FP&A Analyst (12 month FTC) | Reading, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-pharmacy2u-certified-b-corp-4494648197 | Pharmacy2U | Certified B Corp | Management Accountant | Leeds, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-certas-energy-4494623760 | Certas Energy | Financial Accountant | Larbert, Scotland, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
