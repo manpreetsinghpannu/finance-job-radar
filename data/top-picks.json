@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T13:19:34.913Z",
+ "generated_at": "2026-11-25T13:45:40.373Z",
  "order": [
   "finance",
   "credit",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 91,
+   "matching": 92,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -187,7 +187,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 31,
+   "matching": 32,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -7585,6 +7585,21 @@
    "cv": "Finance (FP&A) CV",
    "score": 14
   },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-notemachine-uk-ltd-4493420536": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/trading-market-risk-advisor-eame-crude-at-exxonmobil-4451504983": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/investment-associate-secondaries-at-finatal-4494627615": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 10
+  },
   "https://www.linkedin.com/jobs/view/asset-management-associate-%E2%80%93-private-equity-at-eaton-recruitment-4493424235": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -7595,35 +7610,65 @@
    "cv": "Investment (IB / PE) CV",
    "score": 15
   },
-  "https://www.linkedin.com/jobs/view/r2r-accountant-at-sse-plc-4494620706": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
-  },
   "https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-salix-homes-4494632599": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
   },
-  "https://www.linkedin.com/jobs/view/financial-accountant-at-certas-energy-4494623760": {
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-nottinghamshire-police-4494904952": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/r2r-accountant-at-sse-plc-4494620706": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
   },
-  "https://www.linkedin.com/jobs/view/investment-associate-secondaries-at-finatal-4494627615": {
+  "https://www.linkedin.com/jobs/view/management-accountant-at-diocese-of-lincoln-4494627581": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-vertu-motors-plc-4478439356": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/corporate-finance-specialist-at-%C5%9Fi%C5%9Fecam-4493430112": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 10
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/valuation-and-consultancy-surveyor-at-savills-4467614490": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-places-leisure-4494646181": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   },
   "https://www.reed.co.uk/jobs/mandarin-speaking-credit-analyst-banking/57611586": {
    "id": "credit",
    "cv": "Credit CV",
    "score": 18
   },
+  "https://www.reed.co.uk/jobs/management-accountant-london/57611563": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
   "https://www.reed.co.uk/jobs/management-accountant/57611554": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://www.s1jobs.com/job/graduate-quantity-surveyor-127801603": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

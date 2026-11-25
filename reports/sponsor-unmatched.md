@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1299 firms checked, 620 matched, 679 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1304 firms checked, 619 matched, 685 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (679)
+## Not found (685)
 
 - 01Health
 - 7IM
@@ -185,6 +185,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Deutsche Asset Management
 - Deutsche Bank
 - Dignity Group
+- Diocese of Lincoln
 - Distinct Recruitment
 - Dojo
 - Doncaster Racecourse and Exhibition Centre
@@ -232,6 +233,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - FryerMiles
 - Futures
 - GC Partners
+- GH Resourcing limited
 - GIC
 - GP Fund Solutions
 - GREENE KING BREWING & RETAILING
@@ -435,6 +437,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Nigel Wright Recruitment
 - No1 Legal and Professional
 - North Air
+- NoteMachine UK Ltd
+- Nottinghamshire Police
 - Novuna
 - Nucleus Commercial Finance
 - OAK LIFE SCIENCE LTD
@@ -469,6 +473,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Pertemps Glasgow Perms
 - Pertemps Network Group
 - Pertemps Scotland
+- Places Leisure
 - Platinum Recruitment Group
 - Platinum Recruitment Group Ltd
 - Point One - Hedge Fund Talent
@@ -685,6 +690,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - targetjobs UK
 - twentyAI
 - via ScotJobsNet
+- Şişecam
 
 ## Matched automatically by close name; worth a glance (80)
 

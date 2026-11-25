@@ -1687,6 +1687,11 @@
    "register_name": "Dimensional Fund Advisors Ltd",
    "match": "alias"
   },
+  "Diocese of Lincoln": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Distinct": {
    "licensed": true,
    "register_name": "Distinct Services (Freight Networking) Ltd",
@@ -2118,6 +2123,11 @@
    "match": "none"
   },
   "GC Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "GH Resourcing limited": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4072,10 +4082,20 @@
    "register_name": "Northern Trust Management Services Limited",
    "match": "alias"
   },
+  "NoteMachine UK Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Nottingham Building Society": {
    "licensed": true,
    "register_name": "Nottingham Building Society",
    "match": "exact"
+  },
+  "Nottinghamshire Police": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Novuna": {
    "licensed": false,
@@ -4461,6 +4481,11 @@
    "licensed": true,
    "register_name": "Pilgrims Group Ltd",
    "match": "exact"
+  },
+  "Places Leisure": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Platinum Recruitment Group": {
    "licensed": false,
@@ -6493,6 +6518,11 @@
    "match": "none"
   },
   "via ScotJobsNet": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Şişecam": {
    "licensed": false,
    "register_name": null,
    "match": "none"
