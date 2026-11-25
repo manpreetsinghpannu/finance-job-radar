@@ -1897,6 +1897,11 @@
    "register_name": "Enra Specialist Finance Ltd",
    "match": "exact"
   },
+  "Epsilon": {
+   "licensed": true,
+   "register_name": "Epsilon International UK Limited",
+   "match": "exact"
+  },
   "Equals One": {
    "licensed": false,
    "register_name": null,

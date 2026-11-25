@@ -2505,5 +2505,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/r2r-accountant-at-tarmac-4494684124 | Tarmac | R2R Accountant | Solihull, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/pricing-analyst-at-nuffield-health-4494687185 | Nuffield Health | Pricing Analyst | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/commercial-analyst/57613227 | Axon Moore Group Ltd | Commercial Analyst | Preston, Lancashire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-epsilon-4486303553 | Epsilon | Financial Planning and Analysis Analyst | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-global-media-internet-at-mason-blake-4494952310 | Mason Blake | Equity Research Analyst - Global Media & Internet | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/economics-investment-strategy-consultant-at-pa-consulting-4494947225 | PA Consulting | Economics & Investment Strategy Consultant | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
