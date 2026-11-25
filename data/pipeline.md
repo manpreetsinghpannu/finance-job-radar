@@ -2386,5 +2386,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/financial-accountant/57600765 | Trace | Expert Accountancy & Finance Recruitment | Financial Accountant | London | posted: 2026-11-24 | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57608780 | KFM | Management Accountant | Denmark Hill, London | posted: 2026-11-24 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/m-a-associate-at-sumer-4484208673 | Sumer | M&A Associate | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/2027-asset-management-investments-equities-analyst-training-program-london-at-jpmorganchase-4494482346 | JPMorganChase | 2027 Asset Management Investments - Equities - Analyst Training Program - London | Greater London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-dach-ecm-analyst-london-at-jpmorganchase-4494494056 | JPMorganChase | Investment Banking - DACH ECM - Analyst - London | Greater London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/statutory-accountant-job-in-darwen-at-stafty-com-4494781262 | Stafty.com | Statutory Accountant Job In Darwen | Darwen, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
