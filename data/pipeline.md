@@ -2395,4 +2395,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/credit-modeller-ii-based-in-mauritius-the-mauritius-commercial-bank-limited/57610120 | eFinancialCareers | Credit Modeller II Based in Mauritius - The Mauritius Commercial Bank Limited | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/execution-trader-futures-options--private-office/57610125 | MBD Ventures | Execution Trader (Futures & Options) – Private Office | London | note: via Reed
 
+- [ ] https://centrica.wd3.myworkdayjobs.com/centrica/job/Reading/Finance-Business-Partner---Home-Improvements---EcoTech_R0089088-1 | Centrica | Finance Business Partner - Home Improvements & EcoTech | 2 Locations | posted: 2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-aggreko-4479208285 | Aggreko | Finance Analyst | Dumbarton, Scotland, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/high-yield-credit-analyst-at-natixis-corporate-investment-banking-4493094849 | Natixis Corporate & Investment Banking | High Yield Credit Analyst | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/uk-investment-banking-investment-companies-at-jefferies-4372799889 | Jefferies | UK Investment Banking - Investment Companies | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-confidential-4494796589 | Confidential | Financial Accountant | Coventry, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-ltpa-at-qinetiq-4494702319 | QinetiQ | Management Accountant - LTPA | Farnborough, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-altum-consulting-4494601715 | Altum Consulting | Assistant Accountant | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-trelleborg-sealing-solutions-4486071831 | Trelleborg Sealing Solutions | Assistant Accountant | Tewkesbury, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-mfc-at-millwall-football-club-4483570498 | Millwall Football Club | Finance Business Partner (MFC) | London, England, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-administration-officer-at-sibanye-stillwater-4494900299 | Sibanye-Stillwater | Treasury Administration Officer | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fund-accountant/57610649 | Wade Macdonald | Fund Accountant | Basingstoke, Hampshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/project-accountant/57610711 | Seymour John | Project Accountant | Telford, Shropshire | note: via Reed
+
 ## Processed

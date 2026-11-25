@@ -202,6 +202,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Aggreko": {
+   "licensed": true,
+   "register_name": "Aggreko UK Limited",
+   "match": "exact"
+  },
   "Agility": {
    "licensed": false,
    "register_name": null,
@@ -1463,6 +1468,11 @@
    "match": "alias"
   },
   "Collins Aerospace": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Confidential": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2867,6 +2877,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Jefferies": {
+   "licensed": true,
+   "register_name": "Jefferies International Limited",
+   "match": "exact"
+  },
   "Joblet-AI": {
    "licensed": false,
    "register_name": null,
@@ -3687,6 +3702,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Millwall Football Club": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Milton Keynes City Council": {
    "licensed": false,
    "register_name": null,
@@ -3876,6 +3896,11 @@
    "licensed": true,
    "register_name": "National Grid plc",
    "match": "exact"
+  },
+  "Natixis Corporate & Investment Banking": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Natixis Investment Managers": {
    "licensed": true,
@@ -5072,6 +5097,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Sibanye-Stillwater": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Signet Resources": {
    "licensed": false,
    "register_name": null,
@@ -5721,6 +5751,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Trelleborg Sealing Solutions": {
+   "licensed": true,
+   "register_name": "Trelleborg Sealing Solutions UK Ltd",
+   "match": "exact"
   },
   "Trial Balance Consulting": {
    "licensed": false,
