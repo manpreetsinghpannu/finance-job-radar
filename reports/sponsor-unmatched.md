@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1307 firms checked, 621 matched, 686 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1321 firms checked, 625 matched, 696 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (686)
+## Not found (696)
 
 - 01Health
 - 7IM
@@ -30,6 +30,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Adele Carr Recruitment Limited
 - Adyen
 - Agility
+- Agratas – A Tata Enterprise
 - Aila Recruitment
 - AlTi Tiedemann Global
 - Alan Mitchell
@@ -42,6 +43,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Allen Associates
 - Allianz Commercial
 - Allianz Trade in UK & Ireland
+- Allotment Productions Ltd
 - Altum Consulting
 - Ameriprise
 - Ampa - Legal & Professional Services
@@ -65,6 +67,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Arup
 - Ashbury
 - Ashdown Group
+- Ashley Kate HR & Finance
 - Aster Group
 - Aster Group UK
 - Atkinson Moss
@@ -212,6 +215,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ernest Gordon Recruitment Limited
 - Escape Recruitment Services
 - Essential Employment
+- Euro Car Parts Ltd.
 - Everet Marsh
 - Executive Talent Solutions
 - ExxonMobil
@@ -277,6 +281,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Hastings Direct
 - Havering Schools
 - Hawke Search
+- Hawthorn One
 - Hays Specialist Recruitment Limited
 - Headstar
 - Heap & Co
@@ -430,6 +435,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - NC Associates
 - Natixis Corporate & Investment Banking
 - Neal's Yard Remedies
+- Neuberger
 - New Avenues
 - Newlon Housing Trust
 - Nexus Jobs
@@ -463,6 +469,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Palatine Talent
 - Pan Macmillan
 - Panoramic Associates
+- Paragon Alpha - Hedge Fund Talent Business
 - Partou Childcare
 - Pave Bank
 - Pavilion Recruitment Solutions
@@ -471,6 +478,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Peace Recruitment
 - Peak Venues
 - Pear Talent - Finance Recruitment
+- Pearse Portfolio
 - Pertemps Glasgow Perms
 - Pertemps Network Group
 - Pertemps Scotland
@@ -495,6 +503,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - REFYT
 - RG Consultancy Ltd
 - RHR
+- RJC Group
 - RM Recruit
 - RSPB
 - Radiant
@@ -522,6 +531,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Royal College Of Physicians & Surgeons Of Glasgow
 - Rushlift GSE
 - Rutherford Briant
+- Rutherford Cross
 - S1Jobs
 - SBFM
 - SD Business Management
@@ -693,9 +703,10 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - via ScotJobsNet
 - Şişecam
 
-## Matched automatically by close name; worth a glance (80)
+## Matched automatically by close name; worth a glance (81)
 
 - 3S Money → 3S Money Club Limited (prefix)
+- AVEVA → AVEVA Solutions Ltd (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)

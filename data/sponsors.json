@@ -117,6 +117,11 @@
    "register_name": "ASSA ABLOY Ltd",
    "match": "exact"
   },
+  "AVEVA": {
+   "licensed": true,
+   "register_name": "AVEVA Solutions Ltd",
+   "match": "prefix"
+  },
   "AXA UK": {
    "licensed": true,
    "register_name": "AXA UK Plc",
@@ -222,6 +227,11 @@
    "register_name": "Agora Talent Limited",
    "match": "exact"
   },
+  "Agratas – A Tata Enterprise": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Aila Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -311,6 +321,11 @@
    "licensed": true,
    "register_name": "Allica Bank",
    "match": "alias"
+  },
+  "Allotment Productions Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Almac Group": {
    "licensed": true,
@@ -527,6 +542,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Ashley Kate HR & Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ashurst Perkins Coie": {
    "licensed": true,
    "register_name": "Ashurst Perkins Coie (International) LLP",
@@ -686,6 +706,11 @@
    "licensed": true,
    "register_name": "Bank Of Montreal",
    "match": "alias"
+  },
+  "BMS Group": {
+   "licensed": true,
+   "register_name": "BMS Services Ltd",
+   "match": "exact"
   },
   "BNP Paribas": {
    "licensed": true,
@@ -1907,6 +1932,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Euro Car Parts Ltd.": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Evelyn Partners": {
    "licensed": true,
    "register_name": "Evelyn Partners Group Limited",
@@ -2227,6 +2257,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Glencore": {
+   "licensed": true,
+   "register_name": "Glencore UK Ltd",
+   "match": "exact"
+  },
   "Global Accounting Network": {
    "licensed": false,
    "register_name": null,
@@ -2513,6 +2548,11 @@
    "match": "none"
   },
   "Hawke Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Hawthorn One": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4002,6 +4042,11 @@
    "register_name": "Network Rail Infrastructure",
    "match": "prefix"
   },
+  "Neuberger": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "New Avenues": {
    "licensed": false,
    "register_name": null,
@@ -4352,6 +4397,11 @@
    "register_name": "Pantheon Platform UK Limited",
    "match": "prefix"
   },
+  "Paragon Alpha - Hedge Fund Talent Business": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Partners Group": {
    "licensed": true,
    "register_name": "Partners Group (UK) Ltd.",
@@ -4416,6 +4466,11 @@
    "licensed": true,
    "register_name": "Pearse Partners Ltd",
    "match": "exact"
+  },
+  "Pearse Portfolio": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Pearson": {
    "licensed": true,
@@ -4712,6 +4767,11 @@
    "register_name": null,
    "match": "none"
   },
+  "RJC Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "RM Recruit": {
    "licensed": false,
    "register_name": null,
@@ -4928,6 +4988,11 @@
    "match": "none"
   },
   "Rutherford Briant": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Rutherford Cross": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -6365,6 +6430,11 @@
   "Wise": {
    "licensed": true,
    "register_name": "UK Wise Group Ltd",
+   "match": "exact"
+  },
+  "Women in Data®": {
+   "licensed": true,
+   "register_name": "Women in Data Limited",
    "match": "exact"
   },
   "Workforce Staffing": {
