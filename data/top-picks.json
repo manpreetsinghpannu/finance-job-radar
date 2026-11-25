@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T07:21:21.744Z",
+ "generated_at": "2026-11-25T08:24:14.065Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 311,
+   "matching": 312,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -2176,11 +2176,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 13
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-orla-rose-associates-4490315608": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-at-alexander-daniels-finance-recruitment-4490312589": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3630,11 +3625,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 16
-  },
-  "https://www.linkedin.com/jobs/view/graduate-associate-debt-advisory-at-targetjobs-uk-4491490163": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 11
   },
   "https://www.reed.co.uk/jobs/financial-accountant/57582961": {
    "id": "finance",
@@ -7425,6 +7415,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 15
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst-based-in-mauritius-the-mauritius-commercial-bank-limited/57610085": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
