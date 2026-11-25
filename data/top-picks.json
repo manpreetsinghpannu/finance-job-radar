@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T19:20:08.781Z",
+ "generated_at": "2026-11-25T20:21:31.739Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 109,
+   "matching": 110,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 95,
+   "matching": 96,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -389,11 +389,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 19
-  },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805760": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 15
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210778053": {
    "id": "other",
@@ -7909,6 +7904,16 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/restructuring-and-insolvency-graduate-programme-leeds-at-alvarez-marsal-4478719121": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.reed.co.uk/jobs/analyst-corporate-credit-man-group-plc/57613469": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }
