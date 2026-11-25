@@ -2411,5 +2411,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-anne-corder-recruitment-4494621094 | Anne Corder Recruitment | Finance Business Partner | Market Deeping, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/valuation-surveyor-at-btg-eddisons-4471341437 | BTG Eddisons | Valuation Surveyor | St Albans, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-controller/57610914 | Equals One | Financial Controller | Southampton, Hampshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-iwoca-4494618453 | iwoca | Credit Strategy Analyst | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-vervlife-4493421050 | VervLife | Assistant Management Accountant | Harrogate, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/financial-controller-127801582 | Shetland Space Centre Limited | Financial Controller | Aberdeenshire, Scotland | posted: 2026-11-25 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/management-accountant-127801241 | Morgan Hunt Group Limited | Management Accountant | Fife, Scotland | posted: 2026-11-25 | note: via S1Jobs
+- [ ] https://www.s1jobs.com/job/quantity-surveyor-pqs-sc-cleared-127801101 | Peace Recruitment | Quantity Surveyor Pqs Sc Cleared | Fife, Scotland | posted: 2026-11-25 | note: via S1Jobs
 
 ## Processed

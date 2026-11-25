@@ -3827,6 +3827,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Morgan Hunt Group Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Morgan Hunt Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -5112,6 +5117,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Shetland Space Centre Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Sibanye-Stillwater": {
    "licensed": false,
    "register_name": null,
@@ -6017,6 +6027,11 @@
    "register_name": "Vertu Motors plc",
    "match": "exact"
   },
+  "VervLife": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Viatris": {
    "licensed": false,
    "register_name": null,
@@ -6381,6 +6396,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "iwoca": {
+   "licensed": true,
+   "register_name": "iwoca Limited",
+   "match": "exact"
   },
   "px Group": {
    "licensed": true,
