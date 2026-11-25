@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 25 Nov, 22:26** (UK time) · **1546 open roles** at 916 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 25 Nov, 22:50** (UK time) · **1545 open roles** at 915 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,47 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 25 Nov, 22:16** · hourly scan · checked 201 boards · **15 new roles**
+**Wed 25 Nov, 22:42** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 9
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-25 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-greene-king-4495209151) | Greene King | Bury St Edmunds, England, United Kingdom | ✅ |
-| 2026-11-25 | [Finance Business Partner](https://www.adzuna.co.uk/jobs/details/5978659678) | Brainkind | UK | ❔ |
-| 2026-11-25 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-brewdog-4494950644) | BrewDog | Aberdeenshire, Scotland, United Kingdom | ❔ |
-| 2026-11-25 | [Assistant Accountant](https://www.adzuna.co.uk/jobs/details/5978651908) | Dove & Hawk | Enfield, London | ❔ |
-| 2026-11-25 | [Liquidity Analyst (18-month fixed-term contract) - Treasury - Global Financial Services PLC - £40,000 - £50,000 Bonus Benefits - City/London (with hybrid working)](https://www.adzuna.co.uk/jobs/land/ad/5978586117) | LH Partners | London, UK | ❔ |
-| 2026-11-25 | [Financial Accountant - Growing Tech Business](https://www.adzuna.co.uk/jobs/land/ad/5978822742) | Hays Senior Finance | The City, Central London | ❔ |
-| 2026-11-25 | [Interim Technical Accountant](https://www.adzuna.co.uk/jobs/land/ad/5978644055) | SF Partners | Balsall Heath, Birmingham | ❔ |
-| 2026-11-25 | [Brewery Accountant](https://www.adzuna.co.uk/jobs/details/5978583076) | Small Batch Standard | UK | ❔ |
-| 2026-11-25 | [Treasury & Risk Consultant](https://www.adzuna.co.uk/jobs/details/5978582352) | Owens & Minor | UK | ❔ |
-
-### Credit CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-25 | [Credit Risk Analyst - Bruin](https://www.adzuna.co.uk/jobs/land/ad/5978755013) | Bruin | London, UK | ❔ |
-| 2026-11-25 | [Commercial Credit Analyst, Dealer Commercial Services](https://www.adzuna.co.uk/jobs/details/5978581356) | M&T Bank | UK | ❔ |
-| 2026-11-25 | [Analyst - Corporate Credit - Man Group plc](https://www.adzuna.co.uk/jobs/land/ad/5978755010) | Man Group plc | London, UK | ✅ |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-25 | [Investment Analyst (Mid-Level)](https://www.adzuna.co.uk/jobs/details/5978582423) | USAA | UK | ❔ |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-25 | [Investment Banking Expert - Remote](https://www.adzuna.co.uk/jobs/details/5978746537) | YO HR Consultancy | UK | ❔ |
-
-### Consulting CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-25 | [Finance & Strategy Analyst, Product](https://www.adzuna.co.uk/jobs/details/5978582913) | Coinbase | UK | ❔ |
+Nothing new this time. The last scan that found something was **Wed 25 Nov, 22:16** (15: Finance 9 · Credit 3 · Equity 1 · Investment 1 · Consulting 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -96,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 25 November
+
+<sub>Nothing new at: 22:42</sub>
 
 <details>
 <summary><b>22:16</b> · hourly scan · <b>15 new</b> → Finance 9 · Credit 3 · Equity 1 · Investment 1 · Consulting 1</summary>
@@ -2904,9 +2868,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>00:58</b> · hourly scan · <b>66 new</b> → Finance 45 · Credit 3 · Equity 3 · Investment 7 · Consulting 2 · Real Estate 3 · Fund 2 · Other 1</summary>
+<summary><b>00:58</b> · hourly scan · <b>65 new</b> → Finance 44 · Credit 3 · Equity 3 · Investment 7 · Consulting 2 · Real Estate 3 · Fund 2 · Other 1</summary>
 
-#### Finance (FP&A) CV: 45
+#### Finance (FP&A) CV: 44
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -2930,7 +2894,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-19 | [Part Time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57588412) | Accountable Recruitment | Liverpool, Merseyside | ❔ |
 | 2026-11-19 | [Part time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57589411) | Resourcery Group | Liverpool, Merseyside | ❔ |
 | 2026-11-19 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-wpr-4492426199) | WPR | London Area, United Kingdom | ❔ |
-| 2026-11-19 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-global-accounting-network-4491602148) | Global Accounting Network | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [IT Support Analyst with 2nd Level Treasury Management Systems TMS Support – FIS Integrity](https://www.linkedin.com/jobs/view/it-support-analyst-with-2nd-level-treasury-management-systems-tms-support-%E2%80%93-fis-integrity-at-free-work-uk-4492455746) | Free-Work UK | London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Assistant accountant](https://www.reed.co.uk/jobs/assistant-accountant/57589454) | Marc Daniels | London | ❔ |
 | 2026-11-19 | [German or Dutch Speaking Assistant Accountant - Remote](https://www.reed.co.uk/jobs/german-or-dutch-speaking-assistant-accountant-remote/57591912) | Reed | London | ❔ |
@@ -3012,7 +2975,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | — | [Valuations Associate - Universities Superannuation Scheme Limited](https://www.reed.co.uk/jobs/valuations-associate-universities-superannuation-scheme-limited/57585025) | eFinancialCareers | London | ✅ |
 
-<sub>21 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>22 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3398,9 +3361,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (904)](#finance-fpa-cv-904) · [Credit (180)](#credit-cv-180) · [Equity (69)](#equity-cv-69) · [Investment (159)](#investment-ib--pe-cv-159) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (903)](#finance-fpa-cv-903) · [Credit (180)](#credit-cv-180) · [Equity (69)](#equity-cv-69) · [Investment (159)](#investment-ib--pe-cv-159) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
-### Finance (FP&A) CV: 904
+### Finance (FP&A) CV: 903
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3879,7 +3842,6 @@ Everything matched so far, newest first within each CV: [Finance (904)](#finance
 | 2026-11-19 | [Part Time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57588412) | Accountable Recruitment | Liverpool, Merseyside | ❔ |
 | 2026-11-19 | [Part time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57589411) | Resourcery Group | Liverpool, Merseyside | ❔ |
 | 2026-11-19 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-wpr-4492426199) | WPR | London Area, United Kingdom | ❔ |
-| 2026-11-19 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-global-accounting-network-4491602148) | Global Accounting Network | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [IT Support Analyst with 2nd Level Treasury Management Systems TMS Support – FIS Integrity](https://www.linkedin.com/jobs/view/it-support-analyst-with-2nd-level-treasury-management-systems-tms-support-%E2%80%93-fis-integrity-at-free-work-uk-4492455746) | Free-Work UK | London, England, United Kingdom | ❔ |
 | 2026-11-19 | [Assistant accountant](https://www.reed.co.uk/jobs/assistant-accountant/57589454) | Marc Daniels | London | ❔ |
 | 2026-11-19 | [German or Dutch Speaking Assistant Accountant - Remote](https://www.reed.co.uk/jobs/german-or-dutch-speaking-assistant-accountant-remote/57591912) | Reed | London | ❔ |
@@ -4989,10 +4951,11 @@ Everything matched so far, newest first within each CV: [Finance (904)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>469 roles taken off the list because the firm closed the posting</summary>
+<summary>470 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 25 Nov, 22:43 | Assistant Accountant | Global Accounting Network |
 | Wed 25 Nov, 22:18 | Project Finance Credit Analyst | Carr Lyons Search & Selection |
 | Wed 25 Nov, 22:18 | Financial Accountant - Gross Margin Accounting (9-12M FTC) | Sainsbury's |
 | Wed 25 Nov, 22:18 | Debt Capital Markets Analyst | Together |
