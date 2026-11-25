@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1327 firms checked, 629 matched, 698 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1338 firms checked, 631 matched, 707 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (698)
+## Not found (707)
 
 - 01Health
 - 7IM
@@ -103,6 +103,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Bloom Money
 - Booker
 - Brainkind
+- BrewDog
 - Brewer Morris
 - Briggs Equipment
 - Brit Insurance
@@ -194,6 +195,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Distinct Recruitment
 - Dojo
 - Doncaster Racecourse and Exhibition Centre
+- Dove & Hawk
 - Dŵr Cymru Welsh Water
 - EA First
 - EFG Private Banking
@@ -283,6 +285,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Havering Schools
 - Hawke Search
 - Hawthorn One
+- Hays Senior Finance
 - Hays Specialist Recruitment Limited
 - Headstar
 - Heap & Co
@@ -355,6 +358,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Kraft Heinz
 - L&Q
 - L3Harris Technologies
+- LH Partners
 - Landbay
 - Language Matters
 - Larbey Evans
@@ -378,6 +382,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lucy Group
 - Lyreco
 - M&G FA Limited
+- M&T Bank
 - MAC Recruit Group Ltd
 - MAGMAS
 - MBD Ventures
@@ -460,6 +465,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - One Ten Associates
 - Onmo
 - Orla Rose Associates
+- Owens & Minor
 - PA Consulting
 - PARALLEL RECRUITMENT LTD
 - PER
@@ -573,6 +579,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Signet Resources
 - Singular Recruitment
 - SitusAMC
+- Small Batch Standard
 - Social Care Locums
 - Societe Generale Corporate and Investment Banking - SGCIB
 - South West Water
@@ -637,6 +644,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - UBS
 - UCEA - Family Office Group
 - UKPHARM LIMITED
+- USAA
 - Undisclosed
 - Univar Solutions
 - University Hospitals Tees
@@ -687,6 +695,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - WorldQuant
 - XPS Group
 - YETI Coolers
+- YO HR Consultancy
 - YRH Finance Team Limited
 - Yolk Recruitment Ltd
 - Zachary Daniels

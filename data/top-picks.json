@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:19:24.961Z",
+ "generated_at": "2026-11-25T22:26:05.636Z",
  "order": [
   "finance",
   "credit",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 97,
+   "matching": 96,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -3150,11 +3150,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 7
   },
-  "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400098222": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
-  },
   "https://www.linkedin.com/jobs/view/credit-risk-analyst-energy-at-vallum-associates-4490699614": {
    "id": "credit",
    "cv": "Credit CV",
@@ -3705,11 +3700,6 @@
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 13
   },
-  "https://www.linkedin.com/jobs/view/debt-capital-markets-analyst-at-together-4492034173": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 13
-  },
   "https://www.s1jobs.com/job/assistant-quantity-surveyor-127773738": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -3789,11 +3779,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 16
-  },
-  "https://www.linkedin.com/jobs/view/project-finance-credit-analyst-at-carr-lyons-search-selection-4490899676": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 17
   },
   "https://www.reed.co.uk/jobs/assistant-management-accountant/57589240": {
    "id": "finance",
@@ -7919,6 +7904,81 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5978822742": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5978755013": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 23
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5978755010": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.adzuna.co.uk/jobs/details/5978746537": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/details/5978659678": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.adzuna.co.uk/jobs/details/5978651908": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5978644055": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5978586117": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.adzuna.co.uk/jobs/details/5978583076": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/details/5978582913": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 18
+  },
+  "https://www.adzuna.co.uk/jobs/details/5978582352": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/details/5978582423": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/details/5978581356": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-brewdog-4494950644": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-greene-king-4495209151": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
   }
  }
 }

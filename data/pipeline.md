@@ -2513,5 +2513,20 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/analyst-corporate-credit-man-group-plc/57613469 | eFinancialCareers | Analyst - Corporate Credit - Man Group plc | London | note: via Reed
 
 - [ ] https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/CA-Toronto-York-St-2425/Capital-Markets-Analyst_R0027362 | Nasdaq | Capital Markets Analyst | CA-Toronto-York St 24/25 | posted: 2026-11-25
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5978822742 | Hays Senior Finance | Financial Accountant - Growing Tech Business | The City, Central London | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5978755013 | Bruin | Credit Risk Analyst - Bruin | London, UK | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5978755010 | Man Group plc | Analyst - Corporate Credit - Man Group plc | London, UK | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5978746537 | YO HR Consultancy | Investment Banking Expert - Remote | UK | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5978659678 | Brainkind | Finance Business Partner | UK | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5978651908 | Dove & Hawk | Assistant Accountant | Enfield, London | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5978644055 | SF Partners | Interim Technical Accountant | Balsall Heath, Birmingham | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5978586117 | LH Partners | Liquidity Analyst (18-month fixed-term contract) - Treasury - Global Financial Services PLC - £40,000 - £50,000 Bonus Benefits - City/London (with hybrid working) | London, UK | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5978583076 | Small Batch Standard | Brewery Accountant | UK | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5978582913 | Coinbase | Finance & Strategy Analyst, Product | UK | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5978582352 | Owens & Minor | Treasury & Risk Consultant | UK | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5978582423 | USAA | Investment Analyst (Mid-Level) | UK | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5978581356 | M&T Bank | Commercial Credit Analyst, Dealer Commercial Services | UK | posted: 2026-11-25 | note: via Adzuna
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-brewdog-4494950644 | BrewDog | Management Accountant | Aberdeenshire, Scotland, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-greene-king-4495209151 | Greene King | Management Accountant | Bury St Edmunds, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed

@@ -962,6 +962,11 @@
    "register_name": "BREVAN HOWARD ASSET MANAGEMENT SERVICES LIMITED",
    "match": "alias"
   },
+  "BrewDog": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Brewer Morris": {
    "licensed": false,
    "register_name": null,
@@ -1752,6 +1757,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Dove & Hawk": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Duco": {
    "licensed": true,
    "register_name": "Duco Technology Limited",
@@ -2357,6 +2367,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Greene King": {
+   "licensed": true,
+   "register_name": "Greene King Limited",
+   "match": "exact"
+  },
   "Greenhill": {
    "licensed": false,
    "register_name": null,
@@ -2571,6 +2586,11 @@
    "licensed": true,
    "register_name": "Hays PLC",
    "match": "alias"
+  },
+  "Hays Senior Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Hays Specialist Recruitment Limited": {
    "licensed": false,
@@ -3177,6 +3197,11 @@
    "register_name": "LGPS Central Limited",
    "match": "exact"
   },
+  "LH Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "LHH Recruitment Solutions": {
    "licensed": true,
    "register_name": "Badenoch and Clark Limited T/A LHH Recruitment Solutions",
@@ -3477,6 +3502,11 @@
    "register_name": "M & G PlC",
    "match": "exact"
   },
+  "M&T Bank": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MAC Recruit Group Ltd": {
    "licensed": false,
    "register_name": null,
@@ -3591,6 +3621,11 @@
    "licensed": true,
    "register_name": "MAN CORPORATION LIMITED",
    "match": "alias"
+  },
+  "Man Group plc": {
+   "licensed": true,
+   "register_name": "MAN CORPORATION LIMITED",
+   "match": "exact"
   },
   "ManpowerGroup Talent Solutions": {
    "licensed": false,
@@ -4323,6 +4358,11 @@
    "match": "exact"
   },
   "Orla Rose Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Owens & Minor": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5352,6 +5392,11 @@
    "register_name": "Sky Services Ltd",
    "match": "alias"
   },
+  "Small Batch Standard": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Smarkets": {
    "licensed": true,
    "register_name": "Smarkets Limited",
@@ -6037,6 +6082,11 @@
    "register_name": null,
    "match": "none"
   },
+  "USAA": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Undisclosed": {
    "licensed": false,
    "register_name": null,
@@ -6508,6 +6558,11 @@
    "match": "exact"
   },
   "YETI Coolers": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "YO HR Consultancy": {
    "licensed": false,
    "register_name": null,
    "match": "none"
