@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:24:14.065Z",
+ "generated_at": "2026-11-25T09:24:45.886Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 103,
+   "matching": 104,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -7420,6 +7420,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.reed.co.uk/jobs/credit-modeller-ii-based-in-mauritius-the-mauritius-commercial-bank-limited/57610120": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/execution-trader-futures-options--private-office/57610125": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

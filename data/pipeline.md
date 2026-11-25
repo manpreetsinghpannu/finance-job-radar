@@ -2392,5 +2392,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/emea-credit-risk-analyst-diversified-industries-at-jpmorganchase-4494480724 | JPMorganChase | EMEA Credit Risk Analyst - Diversified Industries | Greater London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-united-utilities-4494483556 | United Utilities | Risk Analyst | Manchester, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/finance-analyst-based-in-mauritius-the-mauritius-commercial-bank-limited/57610085 | eFinancialCareers | Finance Analyst Based in Mauritius - The Mauritius Commercial Bank Limited | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/credit-modeller-ii-based-in-mauritius-the-mauritius-commercial-bank-limited/57610120 | eFinancialCareers | Credit Modeller II Based in Mauritius - The Mauritius Commercial Bank Limited | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/execution-trader-futures-options--private-office/57610125 | MBD Ventures | Execution Trader (Futures & Options) – Private Office | London | note: via Reed
 
 ## Processed
