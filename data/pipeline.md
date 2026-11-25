@@ -2495,5 +2495,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/part-time-accountant/57612531 | Fletcher George Recruitment Ltd | Part Time Accountant | Weybridge, Surrey | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/liquidity-analyst-18-month-fixed-term-contract-treasury-global-financial-services-plc-40000-50000-bonus-benefits-city-london-with-hybrid-working/57612803 | eFinancialCareers | Liquidity Analyst 18-month fixed-term contract - Treasury - Global Financial Services PLC - £40,000 - £50,000 Bonus Benefits - City/London with hybrid working | London | note: via Reed
 - [ ] https://www.s1jobs.com/job/interim-accountant-127801617 | Rutherford Cross | Interim Accountant | City of Edinburgh, Scotland | posted: 2026-11-25 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-wolseley-group-4494681271 | Wolseley Group | Management Accountant | Milton Keynes, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-consumer-retail-london-associate-at-goldman-sachs-4392855825 | Goldman Sachs | Global Banking & Markets, Investment Banking, Classic, Consumer Retail, London, Associate | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-research-at-nottingham-trent-university-4494939403 | Nottingham Trent University | Management Accountant (Research) | Nottingham, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-control-accountant-at-acca-careers-4494936673 | ACCA Careers | Financial Control Accountant | Coventry, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/strategy-analyst-at-vc-backed-fintech-startups-%C2%A335-45k-at-jumpstart-4494610455 | Jumpstart | Strategy Analyst at VC backed Fintech startups (£35-45k) | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-xeinadin-4485077755 | Xeinadin | Assistant Management Accountant | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-chemanager-international-4494939520 | CHEManager International | Financial Accountant | Oxford, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/r2r-accountant-at-tarmac-4494684124 | Tarmac | R2R Accountant | Solihull, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/pricing-analyst-at-nuffield-health-4494687185 | Nuffield Health | Pricing Analyst | London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/commercial-analyst/57613227 | Axon Moore Group Ltd | Commercial Analyst | Preston, Lancashire | note: via Reed
 
 ## Processed

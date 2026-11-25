@@ -1112,6 +1112,11 @@
    "register_name": "Logica Ltd t/a CGI",
    "match": "trading name"
   },
+  "CHEManager International": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "CIBC": {
    "licensed": false,
    "register_name": null,
@@ -3022,6 +3027,11 @@
    "register_name": "Jump Trading International Limited",
    "match": "alias"
   },
+  "Jumpstart": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "KBRA": {
    "licensed": false,
    "register_name": null,
@@ -4147,6 +4157,11 @@
    "register_name": "Nottingham Building Society",
    "match": "exact"
   },
+  "Nottingham Trent University": {
+   "licensed": true,
+   "register_name": "Nottingham Trent University - Human Resources",
+   "match": "prefix"
+  },
   "Nottinghamshire Police": {
    "licensed": false,
    "register_name": null,
@@ -4166,6 +4181,11 @@
    "licensed": true,
    "register_name": "Nucleus Financial Group Limited",
    "match": "exact"
+  },
+  "Nuffield Health": {
+   "licensed": true,
+   "register_name": "Nuffield Health - Hospitals Division",
+   "match": "prefix"
   },
   "OAK LIFE SCIENCE LTD": {
    "licensed": false,
@@ -6430,6 +6450,11 @@
   "Wise": {
    "licensed": true,
    "register_name": "UK Wise Group Ltd",
+   "match": "exact"
+  },
+  "Wolseley Group": {
+   "licensed": true,
+   "register_name": "WOLSELEY UK LIMITED",
    "match": "exact"
   },
   "Women in Data®": {

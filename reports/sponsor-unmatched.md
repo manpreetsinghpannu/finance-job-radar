@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1321 firms checked, 625 matched, 696 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1326 firms checked, 628 matched, 698 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (696)
+## Not found (698)
 
 - 01Health
 - 7IM
@@ -121,6 +121,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CCL Facades
 - CER Financial
 - CFP Energy - France
+- CHEManager International
 - CIBC
 - CLARC Recruitment
 - CM Law Recruitment
@@ -335,6 +336,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Johnson Controls
 - Johnsons Workwear
 - Johnsons Workwear Ltd
+- Jumpstart
 - KBRA
 - KBS Corporate
 - KDR Talent Solutions
@@ -703,7 +705,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - via ScotJobsNet
 - Şişecam
 
-## Matched automatically by close name; worth a glance (81)
+## Matched automatically by close name; worth a glance (83)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - AVEVA → AVEVA Solutions Ltd (prefix)
@@ -756,6 +758,8 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Network Rail → Network Rail Infrastructure (prefix)
 - Nium → Nium Fintech Ltd (prefix)
 - Norfolk and Norwich University Hospital → Norfolk and Norwich University Hospitals NHS Foundation Trust (prefix)
+- Nottingham Trent University → Nottingham Trent University - Human Resources (prefix)
+- Nuffield Health → Nuffield Health - Hospitals Division (prefix)
 - OCS → OCS Consulting plc (prefix)
 - OCS Group → OCS Consulting plc (prefix)
 - Ocado Group → Ocado Retail Limited (prefix)

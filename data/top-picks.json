@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T17:25:03.427Z",
+ "generated_at": "2026-11-25T18:22:08.190Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 333,
+   "matching": 338,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 94,
+   "matching": 95,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -1044,11 +1044,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.s1jobs.com/job/uk-statutory-reporting-accountant-127657830": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
   },
   "https://jobs.ashbyhq.com/flagstone/448c1cb5-e1b4-4a20-a967-e6ef8ffff780": {
    "id": "finance",
@@ -2010,11 +2005,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://www.s1jobs.com/job/financial-controller-127733037": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-fitch-ratings-4489005926": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2074,11 +2064,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
-  },
-  "https://www.s1jobs.com/job/quantity-surveyor-127733045": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://scotjobsnet.co.uk/job/interim-finance-business-partner-not-for-profit/": {
    "id": "finance",
@@ -6375,11 +6360,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 19
   },
-  "https://www.linkedin.com/jobs/view/debt-capital-markets-analyst-at-together-loans-mortgages-finance-4490451178": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/financial-management-reporting-accountant-at-sharp-europe-4492632352": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -7866,6 +7846,56 @@
    "score": 12
   },
   "https://www.s1jobs.com/job/interim-accountant-127801617": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-wolseley-group-4494681271": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-consumer-retail-london-associate-at-goldman-sachs-4392855825": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-research-at-nottingham-trent-university-4494939403": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/financial-control-accountant-at-acca-careers-4494936673": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/strategy-analyst-at-vc-backed-fintech-startups-%C2%A335-45k-at-jumpstart-4494610455": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-xeinadin-4485077755": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-chemanager-international-4494939520": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/r2r-accountant-at-tarmac-4494684124": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/pricing-analyst-at-nuffield-health-4494687185": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/commercial-analyst/57613227": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
