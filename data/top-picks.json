@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:22:05.595Z",
+ "generated_at": "2026-11-25T07:21:21.744Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 312,
+   "matching": 311,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -2570,11 +2570,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
-  },
-  "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400098226": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
   },
   "https://www.s1jobs.com/job/associate-quantity-surveyor-127746797": {
    "id": "other",
