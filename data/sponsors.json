@@ -122,6 +122,11 @@
    "register_name": "AXA UK Plc",
    "match": "exact"
   },
+  "Abacus Consulting": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Aberdeen": {
    "licensed": true,
    "register_name": "Aberdeen Group Plc",
@@ -1322,6 +1327,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Certas Energy": {
+   "licensed": true,
+   "register_name": "Certas Energy UK Limited",
+   "match": "exact"
+  },
   "Chalk Hill Group": {
    "licensed": false,
    "register_name": null,
@@ -1756,6 +1766,11 @@
    "licensed": true,
    "register_name": "Eaton Ltd",
    "match": "exact"
+  },
+  "Eaton Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Eaton Syalon Limited": {
    "licensed": false,
@@ -4957,6 +4972,11 @@
    "register_name": null,
    "match": "none"
   },
+  "SSE plc": {
+   "licensed": true,
+   "register_name": "SSE Plc",
+   "match": "exact"
+  },
   "STEP Fusion": {
    "licensed": false,
    "register_name": null,
@@ -4991,6 +5011,11 @@
    "licensed": true,
    "register_name": "Salary Finance Limited",
    "match": "alias"
+  },
+  "Salix Homes": {
+   "licensed": true,
+   "register_name": "Salix Homes Ltd",
+   "match": "exact"
   },
   "Salt": {
    "licensed": true,
@@ -6363,6 +6388,11 @@
    "match": "none"
   },
   "Zachary Daniels": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Zaz Ventures": {
    "licensed": false,
    "register_name": null,
    "match": "none"

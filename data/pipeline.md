@@ -2432,5 +2432,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/strategy-consultant-food-bev-at-lime-talent-4493051076 | Lime Talent | Strategy Consultant - Food & Bev | London Area, United Kingdom | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/commercial-finance-analyst/57611307 | Michael Page Finance | Commercial Finance Analyst | Manchester, Lancashire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57611269 | The American School in London | Management Accountant | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/asset-management-associate-%E2%80%93-private-equity-at-eaton-recruitment-4493424235 | Eaton Recruitment | Asset Management Associate – Private Equity | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-deep-tech-financing-and-m-a-at-zaz-ventures-4494623771 | Zaz Ventures | Associate - Deep Tech Financing and M&A | United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/r2r-accountant-at-sse-plc-4494620706 | SSE plc | R2R Accountant | Perth, Scotland, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-salix-homes-4494632599 | Salix Homes | Assistant Financial Accountant | Manchester, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-certas-energy-4494623760 | Certas Energy | Financial Accountant | Larbert, Scotland, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-secondaries-at-finatal-4494627615 | Finatal | Investment Associate, Secondaries | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/mandarin-speaking-credit-analyst-banking/57611586 | People First | Mandarin speaking Credit Analyst (Banking) | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57611554 | Abacus Consulting | Management Accountant | Welwyn Garden City, Hertfordshire | note: via Reed
 
 ## Processed

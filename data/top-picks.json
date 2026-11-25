@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:28:31.332Z",
+ "generated_at": "2026-11-25T13:19:34.913Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 320,
+   "matching": 323,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 107,
+   "matching": 108,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -2249,11 +2249,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/investment-associate-at-acl-partners-4490355171": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 6
   },
   "https://www.linkedin.com/jobs/view/investment-banking-analyst-tech-services-at-baird-4445401702": {
    "id": "investment",
@@ -7589,6 +7584,46 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/asset-management-associate-%E2%80%93-private-equity-at-eaton-recruitment-4493424235": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/associate-deep-tech-financing-and-m-a-at-zaz-ventures-4494623771": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/r2r-accountant-at-sse-plc-4494620706": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-salix-homes-4494632599": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-certas-energy-4494623760": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/investment-associate-secondaries-at-finatal-4494627615": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/mandarin-speaking-credit-analyst-banking/57611586": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57611554": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }

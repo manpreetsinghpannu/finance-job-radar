@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1293 firms checked, 617 matched, 676 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1299 firms checked, 620 matched, 679 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (676)
+## Not found (679)
 
 - 01Health
 - 7IM
@@ -20,6 +20,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - AMS Public Sector Resourcing
 - ASC Connections Ltd
 - ASDA
+- Abacus Consulting
 - Abound
 - Accenture (alias not on current register (accenture song brand uk limited))
 - Accountable Recruitment
@@ -192,6 +193,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - EFG Private Banking
 - EQUALS ONE LIMITED
 - Eaglecliff Recruitment
+- Eaton Recruitment
 - Eaton Syalon Limited
 - Eaton Syalon Ltd
 - Echo
@@ -670,6 +672,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - YRH Finance Team Limited
 - Yolk Recruitment Ltd
 - Zachary Daniels
+- Zaz Ventures
 - Zego
 - Zenobē
 - abrdn
