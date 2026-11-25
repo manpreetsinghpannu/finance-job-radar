@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 25 Nov, 03:25** (UK time) · **1432 open roles** at 846 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 25 Nov, 04:24** (UK time) · **1431 open roles** at 846 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 25 Nov, 03:15** · hourly scan · checked 201 boards · **1 new role**
+**Wed 25 Nov, 04:13** · hourly scan · checked 201 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-25 | [M&A Associate](https://www.linkedin.com/jobs/view/m-a-associate-at-sumer-4484208673) | Sumer | London, England, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Wed 25 Nov, 03:15** (1: Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 25 November
+
+<sub>Nothing new at: 04:13</sub>
 
 <details>
 <summary><b>03:15</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -3236,24 +3234,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 05:04, 04:23, 04:04</sub>
-
-<details>
-<summary><b>03:54</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-18 | [Graduate Associate, Debt Advisory](https://www.linkedin.com/jobs/view/graduate-associate-debt-advisory-at-targetjobs-uk-4491490163) | targetjobs UK | London Area, United Kingdom | ❔ |
-
-</details>
+<sub>Nothing new at: 05:04</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (837)](#finance-fpa-cv-837) · [Credit (167)](#credit-cv-167) · [Equity (63)](#equity-cv-63) · [Investment (143)](#investment-ib--pe-cv-143) · [Consulting (20)](#consulting-cv-20) · [Real Estate (27)](#real-estate-cv-27) · [Fund (40)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-40) · [Other (135)](#other-fits-no-cv-closely-may-still-be-worth-a-look-135)
+Everything matched so far, newest first within each CV: [Finance (836)](#finance-fpa-cv-836) · [Credit (167)](#credit-cv-167) · [Equity (63)](#equity-cv-63) · [Investment (143)](#investment-ib--pe-cv-143) · [Consulting (20)](#consulting-cv-20) · [Real Estate (27)](#real-estate-cv-27) · [Fund (40)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-40) · [Other (135)](#other-fits-no-cv-closely-may-still-be-worth-a-look-135)
 
-### Finance (FP&A) CV: 837
+### Finance (FP&A) CV: 836
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4046,7 +4033,6 @@ Everything matched so far, newest first within each CV: [Finance (837)](#finance
 | 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-spectrum-brands-uk-limited-4486986777) | Spectrum Brands (UK) Limited | Greater Manchester, England, United Kingdom | ✅ |
 | 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-mears-group-plc-4434030589) | Mears Group PLC | Gloucestershire, England, United Kingdom | ✅ |
 | 2026-11-06 | [Management Accountant (Fixed Term Contract)](https://www.reed.co.uk/jobs/management-accountant-fixed-term-contract/57538817) | Lightfoot | Exeter, Devon | ✅ |
-| 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-marks-sattin-4486248562) | Marks Sattin | London Area, United Kingdom | ❔ |
 | 2026-11-06 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57534852) | Kennedy Pearce Consulting | London | ❔ |
 | 2026-11-06 | [Graduate Financial Accountant](https://www.reed.co.uk/jobs/graduate-financial-accountant/57537301) | Robert Walters | Birmingham, West Midlands (County) | ✅ |
 | 2026-11-06 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-echo-4487345742) | Echo | Walsall, England, United Kingdom | ❔ |
@@ -4728,10 +4714,11 @@ Everything matched so far, newest first within each CV: [Finance (837)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>463 roles taken off the list because the firm closed the posting</summary>
+<summary>464 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 25 Nov, 04:18 | Management Accountant | Marks Sattin |
 | Wed 25 Nov, 03:22 | Hedge Fund Risk Analyst | Black Swan Group |
 | Wed 25 Nov, 03:19 | Finance Business Partner – Retail | Landsec |
 | Wed 25 Nov, 02:47 | FP&A Analyst | Gleeson Recruitment Group |
