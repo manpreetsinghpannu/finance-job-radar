@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:42:58.704Z",
+ "generated_at": "2026-11-25T21:19:24.961Z",
  "order": [
   "finance",
   "credit",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 96,
+   "matching": 97,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -7914,6 +7914,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/CA-Toronto-York-St-2425/Capital-Markets-Analyst_R0027362": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }

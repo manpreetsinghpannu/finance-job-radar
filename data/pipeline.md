@@ -2512,4 +2512,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/credit-risk-analyst-bruin/57613485 | eFinancialCareers | Credit Risk Analyst - Bruin | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/analyst-corporate-credit-man-group-plc/57613469 | eFinancialCareers | Analyst - Corporate Credit - Man Group plc | London | note: via Reed
 
+- [ ] https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/CA-Toronto-York-St-2425/Capital-Markets-Analyst_R0027362 | Nasdaq | Capital Markets Analyst | CA-Toronto-York St 24/25 | posted: 2026-11-25
+
 ## Processed

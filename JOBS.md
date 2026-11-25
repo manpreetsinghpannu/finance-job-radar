@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 25 Nov, 20:42** (UK time) · **1533 open roles** at 904 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 25 Nov, 21:19** (UK time) · **1534 open roles** at 905 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 25 Nov, 20:31** · hourly scan · checked 201 boards · **3 new roles**
-
-### Credit CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Credit Risk Analyst - Bruin](https://www.reed.co.uk/jobs/credit-risk-analyst-bruin/57613485) | eFinancialCareers | London | ✅ |
-| — | [Analyst - Corporate Credit - Man Group plc](https://www.reed.co.uk/jobs/analyst-corporate-credit-man-group-plc/57613469) | eFinancialCareers | London | ✅ |
+**Wed 25 Nov, 21:12** · hourly scan · checked 201 boards · **1 new role**
 
 ### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-25 | [Restructuring and Insolvency Graduate Programme - Leeds](https://www.linkedin.com/jobs/view/restructuring-and-insolvency-graduate-programme-leeds-at-alvarez-marsal-4478719121) | Alvarez & Marsal | Leeds, England, United Kingdom | ✅ |
+| 2026-11-25 | [Capital Markets Analyst](https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/CA-Toronto-York-St-2425/Capital-Markets-Analyst_R0027362) | Nasdaq | CA-Toronto-York St 24/25 | ✅ |
 
 ## Top picks for each CV
 
@@ -44,7 +37,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Equity Research Analyst (Graduate or 1 years' experience buy/sell side)](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544) · Rothschild & Co · London · posted 2026-11-18 · ✅
 2. [Equity Research Analyst](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918) · MFS · London · ✅
 
-**Investment (IB / PE) CV** (96 matching)
+**Investment (IB / PE) CV** (97 matching)
 
 1. [French speaking Investment Banking M&A Generalist Analyst & Associate](https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161) · eFinancialCareers · London · posted 2026-11-19 · ✅
 2. [Investment Banking (M&A) Associate - Business Services](https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759) · Dartmouth Partners · London Area, United Kingdom · posted 2026-11-19 · ✅
@@ -69,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 25 November
+
+<details>
+<summary><b>21:12</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-25 | [Capital Markets Analyst](https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/CA-Toronto-York-St-2425/Capital-Markets-Analyst_R0027362) | Nasdaq | CA-Toronto-York St 24/25 | ✅ |
+
+</details>
 
 <details>
 <summary><b>20:31</b> · hourly scan · <b>3 new</b> → Credit 2 · Investment 1</summary>
@@ -3326,26 +3330,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 21:39</sub>
 
-<details>
-<summary><b>21:04</b> · hourly scan · <b>2 new</b> → Finance 1 · Real Estate 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-18 | [Finance Business Partner – FP&A – 12-month fixed term contract](https://bailliegifford.wd3.myworkdayjobs.com/bailliegiffordcareers/job/Edinburgh/Finance-Business-Partner---FP-A---12-month-fixed-term-contract_R0004642) | Baillie Gifford | Edinburgh | ✅ |
-
-#### Real Estate CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-18 | [Finance / Operations - Leading Asset Management Firm - Up to 80k base + WFH!](https://www.linkedin.com/jobs/view/finance-operations-leading-asset-management-firm-up-to-80k-base-%2B-wfh%21-at-mondrian-alpha-4490889696) | Mondrian Alpha | London Area, United Kingdom | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (896)](#finance-fpa-cv-896) · [Credit (179)](#credit-cv-179) · [Equity (68)](#equity-cv-68) · [Investment (157)](#investment-ib--pe-cv-157) · [Consulting (22)](#consulting-cv-22) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (896)](#finance-fpa-cv-896) · [Credit (179)](#credit-cv-179) · [Equity (68)](#equity-cv-68) · [Investment (158)](#investment-ib--pe-cv-158) · [Consulting (22)](#consulting-cv-22) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
 ### Finance (FP&A) CV: 896
 
@@ -4505,7 +4492,7 @@ Everything matched so far, newest first within each CV: [Finance (896)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 157
+### Investment (IB / PE) CV: 158
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4521,6 +4508,7 @@ Everything matched so far, newest first within each CV: [Finance (896)](#finance
 | 2026-11-25 | [Fund Management Associate - Leading Private Equity Fund](https://www.linkedin.com/jobs/view/fund-management-associate-leading-private-equity-fund-at-pearse-portfolio-4494939353) | Pearse Portfolio | London Area, United Kingdom | ❔ |
 | 2026-11-25 | [Associate - Deep Tech Financing and M&A](https://www.linkedin.com/jobs/view/associate-deep-tech-financing-and-m-a-at-zaz-ventures-4494623771) | Zaz Ventures | United Kingdom | ❔ |
 | 2026-11-25 | [Restructuring and Insolvency Graduate Programme - Leeds](https://www.linkedin.com/jobs/view/restructuring-and-insolvency-graduate-programme-leeds-at-alvarez-marsal-4478719121) | Alvarez & Marsal | Leeds, England, United Kingdom | ✅ |
+| 2026-11-25 | [Capital Markets Analyst](https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/CA-Toronto-York-St-2425/Capital-Markets-Analyst_R0027362) | Nasdaq | CA-Toronto-York St 24/25 | ✅ |
 | 2026-11-25 | [Valuation Surveyor](https://www.linkedin.com/jobs/view/valuation-surveyor-at-btg-eddisons-4471341437) | BTG Eddisons | St Albans, England, United Kingdom | ❔ |
 | 2026-11-25 | [Investment Associate, Secondaries](https://www.linkedin.com/jobs/view/investment-associate-secondaries-at-finatal-4494627615) | Finatal | London Area, United Kingdom | ❔ |
 | 2026-11-25 | [Corporate Finance Specialist](https://www.linkedin.com/jobs/view/corporate-finance-specialist-at-%C5%9Fi%C5%9Fecam-4493430112) | Şişecam | London Area, United Kingdom | ❔ |
@@ -4923,7 +4911,7 @@ Everything matched so far, newest first within each CV: [Finance (896)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>468 roles taken off the list because the firm closed the posting</summary>
+<summary>467 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -5394,6 +5382,5 @@ Everything matched so far, newest first within each CV: [Finance (896)](#finance
 | Thu 19 Nov, 02:55 | Finance Graduate Programme: Commercial Finance & FP&A | targetjobs UK |
 | Wed 18 Nov, 23:06 | Investment Analyst - French speaker | Bruin |
 | Wed 18 Nov, 21:41 | Leveraged Finance Credit Analyst | Carr Lyons Search & Selection |
-| Wed 18 Nov, 21:07 | Credit Risk Analyst | Brook Green Supply |
 
 </details>
