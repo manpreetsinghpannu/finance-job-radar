@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:45:03.291Z",
+ "generated_at": "2026-11-25T02:23:49.450Z",
  "order": [
   "finance",
   "credit",
@@ -3736,11 +3736,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 16
   },
-  "https://www.linkedin.com/jobs/view/risk-analyst-at-generali-global-corporate-commercial-4492009656": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 11
-  },
   "https://www.linkedin.com/jobs/view/investment-analyst-fixed-income-at-lgps-central-4491831487": {
    "id": "equity",
    "cv": "Equity CV",
@@ -7430,6 +7425,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57608780": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
   }
  }
 }
