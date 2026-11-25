@@ -362,6 +362,11 @@
    "register_name": "Anglian Water Services Ltd",
    "match": "exact"
   },
+  "Anne Corder Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Annonymous": {
    "licensed": false,
    "register_name": null,
@@ -711,6 +716,11 @@
    "licensed": true,
    "register_name": "BT Group",
    "match": "exact"
+  },
+  "BTG Eddisons": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Babcock International Group": {
    "licensed": true,
@@ -1811,6 +1821,11 @@
    "licensed": true,
    "register_name": "Enra Specialist Finance Ltd",
    "match": "exact"
+  },
+  "Equals One": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Equifind": {
    "licensed": false,
@@ -6083,6 +6098,11 @@
    "match": "none"
   },
   "WH Finance Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "WH Scott": {
    "licensed": false,
    "register_name": null,
    "match": "none"

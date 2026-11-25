@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T10:24:56.581Z",
+ "generated_at": "2026-11-25T10:51:50.672Z",
  "order": [
   "finance",
   "credit",
@@ -7472,6 +7472,26 @@
    "score": 10
   },
   "https://www.reed.co.uk/jobs/project-accountant/57610711": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-wh-scott-4494903389": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-anne-corder-recruitment-4494621094": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/valuation-surveyor-at-btg-eddisons-4471341437": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/financial-controller/57610914": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4

@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1277 firms checked, 610 matched, 667 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1281 firms checked, 610 matched, 671 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (667)
+## Not found (671)
 
 - 01Health
 - 7IM
@@ -46,6 +46,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Ampa - Legal & Professional Services
 - Ancient + Brave
 - Anderson Knight
+- Anne Corder Recruitment
 - Annonymous
 - Anonymous
 - Anonymous Company Profile
@@ -81,6 +82,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - BNP Paribas Personal Finance
 - BOC UK & Ireland
 - BOLDSCIENCE
+- BTG Eddisons
 - Baker Charles
 - Barbara Houghton Associates Limited
 - Barker Ross Group
@@ -198,6 +200,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Elevation Recruitment Group
 - Embat
 - Empirical Search
+- Equals One
 - Equifind
 - Equifind Group
 - Equity House
@@ -639,6 +642,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Vonage
 - W Talent
 - WH Finance Ltd
+- WH Scott
 - WINGSTOP UK
 - WINGSTOP UK&I
 - WM Morrisons

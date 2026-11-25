@@ -2407,5 +2407,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-administration-officer-at-sibanye-stillwater-4494900299 | Sibanye-Stillwater | Treasury Administration Officer | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/fund-accountant/57610649 | Wade Macdonald | Fund Accountant | Basingstoke, Hampshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/project-accountant/57610711 | Seymour John | Project Accountant | Telford, Shropshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-wh-scott-4494903389 | WH Scott | Finance Business Partner | Bristol, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-anne-corder-recruitment-4494621094 | Anne Corder Recruitment | Finance Business Partner | Market Deeping, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/valuation-surveyor-at-btg-eddisons-4471341437 | BTG Eddisons | Valuation Surveyor | St Albans, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-controller/57610914 | Equals One | Financial Controller | Southampton, Hampshire | note: via Reed
 
 ## Processed
