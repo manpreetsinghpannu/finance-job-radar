@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:25:14.973Z",
+ "generated_at": "2026-11-25T00:24:49.784Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 320,
+   "matching": 314,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 106,
+   "matching": 103,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 45,
+   "matching": 44,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 92,
+   "matching": 88,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 35,
+   "matching": 33,
    "picks": [
     {
      "title": "Strategy Analyst",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 32,
+   "matching": 31,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 39,
+   "matching": 38,
    "picks": [
     {
      "title": "Assistant Fund Accountant",
@@ -2891,11 +2891,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 11
   },
-  "https://www.linkedin.com/jobs/view/pricing-analyst-loan-portfolio-s-sql-python-%C2%A370-000-at-salt-4489700326": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/treasury-analyst-at-arm-4482656414": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2915,11 +2910,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-retirement-villages-group-ltd-4491269409": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
   },
   "https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142": {
    "id": "finance",
@@ -3080,11 +3070,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/commercial-analyst-at-perigus-energy-4482906037": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
   },
   "https://www.linkedin.com/jobs/view/investment-analyst-%E2%80%93-private-credit-at-everet-marsh-4490610984": {
    "id": "credit",
@@ -4966,11 +4951,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://job-boards.eu.greenhouse.io/eqtpartners/jobs/5042646101": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 11
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-hdi-global-se-4491921583": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5606,96 +5586,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 16
   },
-  "https://www.adzuna.co.uk/jobs/details/5974378254": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
-  "https://www.adzuna.co.uk/jobs/details/5974378189": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
-  },
-  "https://www.adzuna.co.uk/jobs/details/5974378133": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 7
-  },
-  "https://www.adzuna.co.uk/jobs/details/5974364399": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
-  "https://www.adzuna.co.uk/jobs/details/5974362518": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
-  "https://www.adzuna.co.uk/jobs/details/5974360608": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5974039646": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5973992185": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 19
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5973991358": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 25
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5973991366": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
-  "https://www.adzuna.co.uk/jobs/details/5973989936": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 14
-  },
-  "https://www.adzuna.co.uk/jobs/details/5973978489": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 7
-  },
-  "https://www.adzuna.co.uk/jobs/details/5973937739": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
-  "https://www.adzuna.co.uk/jobs/details/5973919197": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5973918266": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 10
-  },
-  "https://www.adzuna.co.uk/jobs/details/5973916833": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
-  "https://www.adzuna.co.uk/jobs/details/5973681330": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 15
-  },
-  "https://www.adzuna.co.uk/jobs/details/5973501784": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
   "https://www.linkedin.com/jobs/view/project-accountant-at-imultiply-4491962655": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -6120,11 +6010,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/pricing-analyst-at-ivee-4492396278": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
   },
   "https://www.linkedin.com/jobs/view/customer-master-data-and-credit-risk-analyst-at-safran-4493739611": {
    "id": "credit",
