@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T22:50:33.995Z",
+ "generated_at": "2026-11-25T23:19:44.720Z",
  "order": [
   "finance",
   "credit",
@@ -1844,11 +1844,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
-  },
-  "https://www.linkedin.com/jobs/view/top-tier-investment-banking-associate-at-everet-marsh-4470908615": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 12
   },
   "https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/London---Baker-Street/Quantitative-Solutions-Executive_R20990": {
    "id": "other",
@@ -4260,11 +4255,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 16
   },
-  "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-cmc-consulting-ltd-4491390667": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 26
-  },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-harrow-council-4485505826": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5265,11 +5255,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 16
   },
-  "https://www.linkedin.com/jobs/view/assistant-accountant-at-ukpharm-limited-4493266729": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
-  },
   "https://www.linkedin.com/jobs/view/assistant-accountant-at-collins-aerospace-4485374763": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5419,11 +5404,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 6
-  },
-  "https://www.reed.co.uk/jobs/quant-analyst-insurance-capital-solutions-macquarie-group/57599035": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://www.linkedin.com/jobs/view/forward-deployed-investment-professional-private-credit-at-harvey-4485170415": {
    "id": "credit",
