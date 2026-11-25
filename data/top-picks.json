@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T00:24:49.784Z",
+ "generated_at": "2026-11-25T01:20:50.433Z",
  "order": [
   "finance",
   "credit",
@@ -1204,11 +1204,6 @@
   "https://www.linkedin.com/jobs/view/fp-a-private-markets-at-aria-partners-4474790264": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 11
-  },
-  "https://www.linkedin.com/jobs/view/fund-accountant-private-markets-at-aria-partners-4487503898": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 11
   },
   "https://www.reed.co.uk/jobs/revenue-finance-business-partner/57537707": {
@@ -4666,11 +4661,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://www.reed.co.uk/jobs/assistant-accountant/57581898": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
-  },
   "https://www.reed.co.uk/jobs/assistant-accountant/57594260": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -6771,11 +6761,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 17
   },
-  "https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-sefe-marketing-trading-ltd-4492680948": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
   "https://www.linkedin.com/jobs/view/associate-senior-associate-liquid-credit-research-at-partners-group-4494328391": {
    "id": "credit",
    "cv": "Credit CV",
@@ -7440,6 +7425,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-modeller-permanent-at-collective-work-4494439722": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-tiptopjob-4494468281": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
   }
  }
 }
