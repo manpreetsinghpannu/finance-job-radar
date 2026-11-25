@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 25 Nov, 20:21** (UK time) · **1533 open roles** at 904 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 25 Nov, 20:42** (UK time) · **1533 open roles** at 904 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,12 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 25 Nov, 20:13** · hourly scan · checked 201 boards · **2 new roles**
+**Wed 25 Nov, 20:31** · hourly scan · checked 201 boards · **3 new roles**
 
-### Credit CV: 1
+### Credit CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| — | [Credit Risk Analyst - Bruin](https://www.reed.co.uk/jobs/credit-risk-analyst-bruin/57613485) | eFinancialCareers | London | ✅ |
 | — | [Analyst - Corporate Credit - Man Group plc](https://www.reed.co.uk/jobs/analyst-corporate-credit-man-group-plc/57613469) | eFinancialCareers | London | ✅ |
 
 ### Investment (IB / PE) CV: 1
@@ -33,7 +34,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) · Medpace · London, England, United Kingdom · posted 2026-11-23 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-michael-page-4494635064) · Michael Page · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
 
-**Credit CV** (110 matching)
+**Credit CV** (111 matching)
 
 1. [Wholesale Credit Risk - London - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811157) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-24 · ✅
 2. [Customer Master Data and Credit Risk Analyst](https://www.linkedin.com/jobs/view/customer-master-data-and-credit-risk-analyst-at-safran-4493739611) · Safran · West Midlands, England, United Kingdom · posted 2026-11-23 · ✅
@@ -70,12 +71,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Wednesday 25 November
 
 <details>
-<summary><b>20:13</b> · hourly scan · <b>2 new</b> → Credit 1 · Investment 1</summary>
+<summary><b>20:31</b> · hourly scan · <b>3 new</b> → Credit 2 · Investment 1</summary>
 
-#### Credit CV: 1
+#### Credit CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| — | [Credit Risk Analyst - Bruin](https://www.reed.co.uk/jobs/credit-risk-analyst-bruin/57613485) | eFinancialCareers | London | ✅ |
 | — | [Analyst - Corporate Credit - Man Group plc](https://www.reed.co.uk/jobs/analyst-corporate-credit-man-group-plc/57613469) | eFinancialCareers | London | ✅ |
 
 #### Investment (IB / PE) CV: 1
@@ -3343,7 +3345,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (896)](#finance-fpa-cv-896) · [Credit (178)](#credit-cv-178) · [Equity (68)](#equity-cv-68) · [Investment (157)](#investment-ib--pe-cv-157) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (896)](#finance-fpa-cv-896) · [Credit (179)](#credit-cv-179) · [Equity (68)](#equity-cv-68) · [Investment (157)](#investment-ib--pe-cv-157) · [Consulting (22)](#consulting-cv-22) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
 ### Finance (FP&A) CV: 896
 
@@ -4246,12 +4248,13 @@ Everything matched so far, newest first within each CV: [Finance (896)](#finance
 | 2026-10-20 | [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) | Capital One UK | Nottingham, Eng | ✅ |
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 
-### Credit CV: 178
+### Credit CV: 179
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-25 | [EMEA Credit Risk Analyst - Diversified Industries](https://www.linkedin.com/jobs/view/emea-credit-risk-analyst-diversified-industries-at-jpmorganchase-4494480724) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-25 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-bruin-4494925791) | Bruin | London, England, United Kingdom | ❔ |
+| — | [Credit Risk Analyst - Bruin](https://www.reed.co.uk/jobs/credit-risk-analyst-bruin/57613485) | eFinancialCareers | London | ✅ |
 | 2026-11-25 | [High Yield Credit Analyst](https://www.linkedin.com/jobs/view/high-yield-credit-analyst-at-natixis-corporate-investment-banking-4493094849) | Natixis Corporate & Investment Banking | London Area, United Kingdom | ❔ |
 | — | [Mandarin speaking Credit Analyst (Banking)](https://www.reed.co.uk/jobs/mandarin-speaking-credit-analyst-banking/57611586) | People First | London | ✅ |
 | 2026-11-25 | [Market Risk Analyst](https://www.linkedin.com/jobs/view/market-risk-analyst-at-rjc-group-4494663322) | RJC Group | London Area, United Kingdom | ❔ |
@@ -4664,7 +4667,7 @@ Everything matched so far, newest first within each CV: [Finance (896)](#finance
 | 2026-10-20 | [Investment Banking – France & Benelux Corp DCM - Analyst - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210801986) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-20 | [Associate, Private Markets Data Management](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R265839) | BlackRock | London, Greater London | ✅ |
 
-### Consulting CV: 23
+### Consulting CV: 22
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4681,7 +4684,6 @@ Everything matched so far, newest first within each CV: [Finance (896)](#finance
 | 2026-11-17 | [Commercial Strategy Associate](https://ig.wd103.myworkdayjobs.com/EXT_IG/job/City-of-London---United-Kingdom/Commercial-Strategy-Associate_R_17859) | IG Group | City of London - United Kingdom | ✅ |
 | 2026-11-16 | [Strategy Analyst](https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070) | Hargreaves Lansdown | Bristol - Welcome Building | ✅ |
 | — | [Finance Transformation - Associate/Senior Associate, Business Consulting - Finance](https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/) | EY |  | ✅ |
-| 2026-11-12 | [Customer Data Strategy Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Customer-Data-Strategy-Consultant_R00346003) | Accenture | London | ❔ |
 | 2026-11-10 | [Investment Strategy Analyst](https://www.linkedin.com/jobs/view/investment-strategy-analyst-at-alignerr-4489405468) | Alignerr | United Kingdom | ❔ |
 | 2026-11-06 | [Credit Strategy Analyst](https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-funding-circle-uk-4488400686) | Funding Circle UK | London, England, United Kingdom | ✅ |
 | 2026-11-04 | [Digital Finance Transformation Consultant](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Digital-Finance-Transformation-Consultant_R00362313) | Accenture | London | ❔ |
@@ -4921,11 +4923,12 @@ Everything matched so far, newest first within each CV: [Finance (896)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>467 roles taken off the list because the firm closed the posting</summary>
+<summary>468 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Wed 25 Nov, 20:16 | Equity Derivatives Trading Services - Efficiency Strategy Associate | JPMorgan Chase |
+| Wed 25 Nov, 20:34 | Equity Derivatives Trading Services - Efficiency Strategy Associate | JPMorgan Chase |
+| Wed 25 Nov, 20:34 | Customer Data Strategy Consultant | Accenture |
 | Wed 25 Nov, 19:18 | Management Accountant | Cedar |
 | Wed 25 Nov, 18:21 | Quantity Surveyor | Peace Recruitment |
 | Wed 25 Nov, 18:21 | Financial Controller | Oliver Smith Recruitment |

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:21:31.739Z",
+ "generated_at": "2026-11-25T20:42:58.704Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 110,
+   "matching": 111,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -2424,11 +2424,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
-  },
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Customer-Data-Strategy-Consultant_R00346003": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 11
   },
   "https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-thg-4489561644": {
    "id": "finance",
@@ -7909,6 +7904,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://www.reed.co.uk/jobs/credit-risk-analyst-bruin/57613485": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
   },
   "https://www.reed.co.uk/jobs/analyst-corporate-credit-man-group-plc/57613469": {
    "id": "credit",
