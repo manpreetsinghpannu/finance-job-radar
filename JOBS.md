@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Wed 25 Nov, 05:25** (UK time) · **1434 open roles** at 847 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Wed 25 Nov, 06:22** (UK time) · **1436 open roles** at 848 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,14 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Wed 25 Nov, 05:14** · hourly scan · checked 201 boards · **3 new roles**
+**Wed 25 Nov, 06:13** · hourly scan · checked 201 boards · **2 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-25 | [Statutory Accountant Job In Darwen](https://www.linkedin.com/jobs/view/statutory-accountant-job-in-darwen-at-stafty-com-4494781262) | Stafty.com | Darwen, England, United Kingdom | ❔ |
-
-### Equity CV: 1
+### Credit CV: 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-25 | [2027 Asset Management Investments - Equities - Analyst Training Program - London](https://www.linkedin.com/jobs/view/2027-asset-management-investments-equities-analyst-training-program-london-at-jpmorganchase-4494482346) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-25 | [Investment Banking - DACH ECM - Analyst - London](https://www.linkedin.com/jobs/view/investment-banking-dach-ecm-analyst-london-at-jpmorganchase-4494494056) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+| 2026-11-25 | [EMEA Credit Risk Analyst - Diversified Industries](https://www.linkedin.com/jobs/view/emea-credit-risk-analyst-diversified-industries-at-jpmorganchase-4494480724) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+| 2026-11-25 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-united-utilities-4494483556) | United Utilities | Manchester, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -39,7 +28,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) · Medpace · London, England, United Kingdom · posted 2026-11-23 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) · Goodman Masson · London Area, United Kingdom · posted 2026-11-19 · ✅
 
-**Credit CV** (102 matching)
+**Credit CV** (103 matching)
 
 1. [Wholesale Credit Risk - London - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811157) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-24 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) · Aramco Trading Limited · London Area, United Kingdom · posted 2026-11-22 · ✅
@@ -74,6 +63,18 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 25 November
+
+<details>
+<summary><b>06:13</b> · hourly scan · <b>2 new</b> → Credit 2</summary>
+
+#### Credit CV: 2
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-25 | [EMEA Credit Risk Analyst - Diversified Industries](https://www.linkedin.com/jobs/view/emea-credit-risk-analyst-diversified-industries-at-jpmorganchase-4494480724) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+| 2026-11-25 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-united-utilities-4494483556) | United Utilities | Manchester, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>05:14</b> · hourly scan · <b>3 new</b> → Finance 1 · Equity 1 · Investment 1</summary>
@@ -3262,20 +3263,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 08:04, 07:05</sub>
 
-<details>
-<summary><b>06:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-17 | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57582961) | Specsavers | Nottingham, Nottinghamshire | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (837)](#finance-fpa-cv-837) · [Credit (167)](#credit-cv-167) · [Equity (64)](#equity-cv-64) · [Investment (144)](#investment-ib--pe-cv-144) · [Consulting (20)](#consulting-cv-20) · [Real Estate (27)](#real-estate-cv-27) · [Fund (40)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-40) · [Other (135)](#other-fits-no-cv-closely-may-still-be-worth-a-look-135)
+Everything matched so far, newest first within each CV: [Finance (837)](#finance-fpa-cv-837) · [Credit (169)](#credit-cv-169) · [Equity (64)](#equity-cv-64) · [Investment (144)](#investment-ib--pe-cv-144) · [Consulting (20)](#consulting-cv-20) · [Real Estate (27)](#real-estate-cv-27) · [Fund (40)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-40) · [Other (135)](#other-fits-no-cv-closely-may-still-be-worth-a-look-135)
 
 ### Finance (FP&A) CV: 837
 
@@ -4119,10 +4109,12 @@ Everything matched so far, newest first within each CV: [Finance (837)](#finance
 | 2026-10-20 | [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) | Capital One UK | Nottingham, Eng | ✅ |
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 
-### Credit CV: 167
+### Credit CV: 169
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-25 | [EMEA Credit Risk Analyst - Diversified Industries](https://www.linkedin.com/jobs/view/emea-credit-risk-analyst-diversified-industries-at-jpmorganchase-4494480724) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+| 2026-11-25 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-united-utilities-4494483556) | United Utilities | Manchester, England, United Kingdom | ✅ |
 | 2026-11-24 | [Wholesale Credit Risk - London - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811157) | JPMorgan Chase | LONDON, United Kingdom | ✅ |
 | 2026-11-24 | [EMEA Credit Risk Analyst - Diversified Industries](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799769) | JPMorgan Chase | LONDON, United Kingdom | ✅ |
 | 2026-11-24 | [Leveraged Finance Credit Analyst](https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-bear-consulting-uk-ltd-4493047085) | Bear Consulting (UK) Ltd | City Of London, England, United Kingdom | ❔ |

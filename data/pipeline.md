@@ -2389,5 +2389,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/2027-asset-management-investments-equities-analyst-training-program-london-at-jpmorganchase-4494482346 | JPMorganChase | 2027 Asset Management Investments - Equities - Analyst Training Program - London | Greater London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-dach-ecm-analyst-london-at-jpmorganchase-4494494056 | JPMorganChase | Investment Banking - DACH ECM - Analyst - London | Greater London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/statutory-accountant-job-in-darwen-at-stafty-com-4494781262 | Stafty.com | Statutory Accountant Job In Darwen | Darwen, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/emea-credit-risk-analyst-diversified-industries-at-jpmorganchase-4494480724 | JPMorganChase | EMEA Credit Risk Analyst - Diversified Industries | Greater London, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-united-utilities-4494483556 | United Utilities | Risk Analyst | Manchester, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed

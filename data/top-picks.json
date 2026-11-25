@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:25:28.626Z",
+ "generated_at": "2026-11-25T06:22:05.595Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 102,
+   "matching": 103,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -7420,6 +7420,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/emea-credit-risk-analyst-diversified-industries-at-jpmorganchase-4494480724": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 23
+  },
+  "https://www.linkedin.com/jobs/view/risk-analyst-at-united-utilities-4494483556": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
   }
  }
 }

@@ -5797,6 +5797,11 @@
    "register_name": "United Infrastructure Management Limited",
    "match": "prefix"
   },
+  "United Utilities": {
+   "licensed": true,
+   "register_name": "United Utilities PLC",
+   "match": "exact"
+  },
   "Univar Solutions": {
    "licensed": false,
    "register_name": null,
