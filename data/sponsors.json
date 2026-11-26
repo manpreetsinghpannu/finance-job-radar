@@ -1052,6 +1052,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Buckley Prichard": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Bucks and Berks Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -2867,6 +2872,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Impax Asset Management": {
+   "licensed": true,
+   "register_name": "Impax Asset Management Group plc",
+   "match": "exact"
+  },
   "In2 Consult": {
    "licensed": false,
    "register_name": null,
@@ -3952,6 +3962,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Molson Coors Beverage Company": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Momentum": {
    "licensed": true,
    "register_name": "MOMENTUM AI LIMITED",
@@ -4503,6 +4518,11 @@
    "match": "prefix"
   },
   "Paragon Alpha - Hedge Fund Talent Business": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Paragon Banking Group PLC": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5246,6 +5266,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Sanctuary": {
+   "licensed": true,
+   "register_name": "Sanctuary Ltd",
+   "match": "exact"
   },
   "Sanctuary Graduates & Apprentices": {
    "licensed": false,

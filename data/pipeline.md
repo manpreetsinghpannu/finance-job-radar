@@ -2544,5 +2544,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/emea-product-administration-nav-valuation-oversight-associate-at-jpmorganchase-4487505275 | JPMorganChase | EMEA Product Administration - NAV & Valuation Oversight - Associate | Greater London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-4423004563 | Universal Music Group | Management Accountant | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-lord-search-selection-4493495890 | Lord Search & Selection | Finance Business Partner | Birmingham, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-impax-asset-management-4494999961 | Impax Asset Management | Research Analyst | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-programme-at-molson-coors-beverage-company-4476490508 | Molson Coors Beverage Company | Graduate Finance Programme | Burton Upon Trent, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-finance-analyst-%E2%80%93-renewables-at-buckley-prichard-4493812295 | Buckley Prichard | Portfolio Finance Analyst – Renewables | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-development-programme-%E2%80%93-finance-at-sanctuary-4495289194 | Sanctuary | Graduate Development Programme – Finance | Worcester, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-paragon-banking-group-plc-4493801606 | Paragon Banking Group PLC | Treasury Analyst | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-equity-associate-mid-market-at-pearse-partners-4495006608 | Pearse Partners | Private Equity Associate (Mid-Market) | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed
