@@ -262,6 +262,11 @@
    "register_name": "Alantra Partners International Limited",
    "match": "prefix"
   },
+  "Aldermore Bank": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Alexander Chapman": {
    "licensed": false,
    "register_name": null,
@@ -1347,6 +1352,11 @@
    "register_name": "Carey Olsen LLP",
    "match": "exact"
   },
+  "Carlsberg Britvic": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Carousel Consultancy Ltd": {
    "licensed": false,
    "register_name": null,
@@ -1598,6 +1608,11 @@
    "match": "alias"
   },
   "Collins Aerospace": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Computershare UK": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5557,6 +5572,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Siemens": {
+   "licensed": true,
+   "register_name": "Siemens Holdings plc (including Siemens plc)",
+   "match": "exact"
+  },
   "Signet Resources": {
    "licensed": false,
    "register_name": null,
@@ -6458,6 +6478,11 @@
    "match": "none"
   },
   "Venture Up": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Veolia": {
    "licensed": false,
    "register_name": null,
    "match": "none"

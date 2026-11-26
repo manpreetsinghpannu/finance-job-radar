@@ -2626,5 +2626,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/company-accountant-at-ardeta-search-4495511382 | Ardeta Search | Company Accountant | Barnsley, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/group-accountant-at-jasperrose-4495511940 | JasperRose | Group Accountant | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/pricing-analyst/57617123 | Office Angels | Pricing Analyst | Bracknell, Berkshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-strategy-analyst-at-veolia-uk-4495042380 | Veolia | UK | Finance Strategy Analyst | City Of London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-anglian-water-services-4493845189 | Anglian Water Services | Management Accountant | Huntingdon, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aldermore-bank-4493840579 | Aldermore Bank | Credit Risk Analyst | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-b2b-nutrition-at-thg-4486893627 | THG | Assistant Management Accountant - B2B | Nutrition | Manchester, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-computershare-uk-4495037375 | Computershare UK | Treasury Analyst | Bristol, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-project-accountant-at-siemens-4495050060 | Siemens | Assistant Project Accountant | Manchester, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-carlsberg-britvic-4493828847 | Carlsberg Britvic | Finance Analyst | Solihull, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-renewable-energy-at-hays-4495040436 | Hays | Financial Accountant (Renewable Energy) | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-jss-4493824916 | JSS | Treasury Analyst | Greater London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/3rd-level-treasury-systems-support-consultant-with-fis-integrity-treasury-management-systems-tms-at-free-work-uk-4495511705 | Free-Work UK | 3rd Level Treasury Systems Support Consultant with FIS Integrity Treasury Management Systems TMS | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57617124 | Accountable Recruitment | Management Accountant | Warrington, Cheshire | note: via Reed
 
 ## Processed
