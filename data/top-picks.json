@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T06:22:42.339Z",
+ "generated_at": "2026-11-26T07:20:40.161Z",
  "order": [
   "finance",
   "credit",
@@ -289,16 +289,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 8
-  },
-  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R265839": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 6
-  },
-  "https://invesco.wd1.myworkdayjobs.com/ivz/job/London-London/Associate--Private-Credit_R-13259": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 13
   },
   "https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/EMEA-Rates-Trader_MFS-231851": {
    "id": "other",
@@ -7889,6 +7879,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-bess-broadway-4493497429": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }

@@ -872,6 +872,11 @@
    "register_name": "Berkeley Research Group (UK) Limited",
    "match": "alias"
   },
+  "Bess Broadway": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Beta": {
    "licensed": true,
    "register_name": "BETA UK LIMITED",

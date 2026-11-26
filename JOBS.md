@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 26 Nov, 06:22** (UK time) · **1528 open roles** at 907 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 26 Nov, 07:20** (UK time) · **1527 open roles** at 907 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 26 Nov, 06:12** · hourly scan · checked 201 boards · **0 new roles**
+**Thu 26 Nov, 07:10** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Thu 26 Nov, 03:34** (1: Finance 1); open it in the scan log below.
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-26 | [Mergers and Acquisitions Associate](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-bess-broadway-4493497429) | Bess Broadway | England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<details>
+<summary><b>07:10</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-26 | [Mergers and Acquisitions Associate](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-bess-broadway-4493497429) | Bess Broadway | England, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 06:12, 05:31, 04:11</sub>
 
@@ -3309,20 +3324,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>07:04</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Financial Accountant](https://www.reed.co.uk/jobs/financial-accountant/57571811) | Robert Half | Edinburgh, Midlothian | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (887)](#finance-fpa-cv-887) · [Credit (180)](#credit-cv-180) · [Equity (69)](#equity-cv-69) · [Investment (158)](#investment-ib--pe-cv-158) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (887)](#finance-fpa-cv-887) · [Credit (179)](#credit-cv-179) · [Equity (69)](#equity-cv-69) · [Investment (158)](#investment-ib--pe-cv-158) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
 ### Finance (FP&A) CV: 887
 
@@ -4216,7 +4220,7 @@ Everything matched so far, newest first within each CV: [Finance (887)](#finance
 | 2026-10-20 | [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) | Capital One UK | Nottingham, Eng | ✅ |
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 
-### Credit CV: 180
+### Credit CV: 179
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4396,7 +4400,6 @@ Everything matched so far, newest first within each CV: [Finance (887)](#finance
 | 2026-11-02 | [Credit Analyst](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Credit-Analyst_JR016652) | Rothschild & Co | London | ✅ |
 | 2026-11-02 | [Associate, Private Credit Portfolio Analytics & Reporting, PFS - Edinburgh](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--Private-Credit-Portfolio-Analytics---Reporting--PFS---Edinburgh_R265410) | BlackRock | Edinburgh, Scotland | ✅ |
 | 2026-11-02 | [Associate, Private Credit Portfolio Analytics & Reporting, PFS - Edinburgh](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Associate--Private-Credit-Portfolio-Analytics---Reporting--PFS---Edinburgh_R265409) | BlackRock | Edinburgh, Scotland | ✅ |
-| 2026-11-02 | [Associate, Private Credit](https://invesco.wd1.myworkdayjobs.com/ivz/job/London-London/Associate--Private-Credit_R-13259) | Invesco | London, London | ✅ |
 | 2026-10-28 | [Delegated Underwriting Analyst](https://msamlin.wd3.myworkdayjobs.com/msamlincareers/job/London/Delegated-Underwriting-Analyst_RQ14442) | MS Amlin | London | ✅ |
 | 2026-10-27 | [Graduate Credit Policy Analyst](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Policy-Analyst_JR_10039776-1) | Ayvens | Bristol CEC | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
@@ -4480,6 +4483,7 @@ Everything matched so far, newest first within each CV: [Finance (887)](#finance
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-26 | [Real Estate, Gaming, Lodging and Leisure (REGLL), Investment Banking & Capital Markets (IBCM)](https://www.linkedin.com/jobs/view/real-estate-gaming-lodging-and-leisure-regll-investment-banking-capital-markets-ibcm-at-deutsche-bank-4495242200) | Deutsche Bank | London, England, United Kingdom | ❔ |
+| 2026-11-26 | [Mergers and Acquisitions Associate](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-associate-at-bess-broadway-4493497429) | Bess Broadway | England, United Kingdom | ❔ |
 | 2026-11-25 | [Investment Banking Associate – M&A](https://www.linkedin.com/jobs/view/investment-banking-associate-%E2%80%93-m-a-at-cross-path-4494641799) | Cross Path | London Area, United Kingdom | ❔ |
 | 2026-11-25 | [M&A Executive](https://www.linkedin.com/jobs/view/m-a-executive-at-buzzacott-4484050836) | Buzzacott | City Of London, England, United Kingdom | ✅ |
 | 2026-11-25 | [IB M&A - Analyst/Associate (Greek speaking)](https://www.linkedin.com/jobs/view/ib-m-a-analyst-associate-greek-speaking-at-jefferies-4434470484) | Jefferies | London, England, United Kingdom | ✅ |
@@ -4636,7 +4640,6 @@ Everything matched so far, newest first within each CV: [Finance (887)](#finance
 | 2026-10-22 | [Investment Banking - EMEA Strategic Investors Group (SIG) – Associate – Family Investment Firms Coverage – London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210790735) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-21 | [Associate - Corporate Finance (Business Services M&A)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Business-Services-M-A-_R3635) | Houlihan Lokey | London, UK | ✅ |
 | 2026-10-20 | [Investment Banking – France & Benelux Corp DCM - Analyst - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210801986) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
-| 2026-10-20 | [Associate, Private Markets Data Management](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Private-Markets-Data-Management_R265839) | BlackRock | London, Greater London | ✅ |
 
 ### Consulting CV: 23
 
@@ -4895,10 +4898,12 @@ Everything matched so far, newest first within each CV: [Finance (887)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>491 roles taken off the list because the firm closed the posting</summary>
+<summary>493 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 26 Nov, 07:13 | Associate, Private Markets Data Management | BlackRock |
+| Thu 26 Nov, 07:13 | Associate, Private Credit | Invesco |
 | Thu 26 Nov, 05:38 | Revenue Finance Analyst | Hays Specialist Recruitment Limited |
 | Thu 26 Nov, 05:35 | Finance Business Partner | Michael Page |
 | Thu 26 Nov, 05:35 | Leveraged Finance Specialist | Kennedy Pearce Consulting |
