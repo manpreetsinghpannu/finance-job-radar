@@ -1262,6 +1262,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Capco": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Capgemini": {
    "licensed": true,
    "register_name": "Capgemini UK PLC",
@@ -2877,6 +2882,11 @@
    "register_name": "Informa UK Limited",
    "match": "alias"
   },
+  "Infrassocs": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ingram Micro": {
    "licensed": true,
    "register_name": "Ingram Micro (UK) Ltd",
@@ -3463,6 +3473,11 @@
    "match": "none"
   },
   "Lord Accounting & Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Lord Search & Selection": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4902,6 +4917,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Raylo": {
+   "licensed": true,
+   "register_name": "Raylo Group Limited",
+   "match": "exact"
+  },
   "Raymond James, Thorpe Park Leeds": {
    "licensed": false,
    "register_name": null,
@@ -6141,6 +6161,11 @@
    "licensed": true,
    "register_name": "Univers U.K. LTD",
    "match": "exact"
+  },
+  "Universal Music Group": {
+   "licensed": true,
+   "register_name": "Universal Music Operations Ltd",
+   "match": "prefix"
   },
   "Universal Music Group UK": {
    "licensed": true,

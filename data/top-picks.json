@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T09:19:48.625Z",
+ "generated_at": "2026-11-26T10:21:31.886Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 327,
+   "matching": 328,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 111,
+   "matching": 112,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 47,
+   "matching": 46,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -187,7 +187,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 32,
+   "matching": 31,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -3020,11 +3020,6 @@
    "cv": "Credit CV",
    "score": 16
   },
-  "https://www.reed.co.uk/jobs/investment-analyst-macdonald-company/57575446": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 12
-  },
   "https://www.reed.co.uk/jobs/investment-specialist-analyst-private-debt-london-tikehau-capital/57574647": {
    "id": "credit",
    "cv": "Credit CV",
@@ -3650,11 +3645,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://www.linkedin.com/jobs/view/fund-accountant-leading-private-credit-investor-london-uk-at-per-4483694635": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 13
-  },
   "https://www.s1jobs.com/job/assistant-quantity-surveyor-127773738": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -3884,11 +3874,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 6
-  },
-  "https://www.linkedin.com/jobs/view/fund-accountant-at-finatal-4492407405": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 13
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-burman-recruitment-4492297561": {
    "id": "finance",
@@ -7879,6 +7864,51 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-emea-leveraged-finance-analyst-german-speaking-london-at-jpmorganchase-4470912230": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/risk-associate-at-raylo-4495014178": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/management-consultant-financial-risk-at-capco-4494627621": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/investment-associate-at-infrassocs-4495286010": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/m-a-analyst-aca-plus-ts-experience-at-alan-mitchell-4484523300": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/2027-global-investment-banking-analyst-program-full-time-london-at-jpmorganchase-4470666717": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/emea-product-administration-nav-valuation-oversight-associate-at-jpmorganchase-4487505275": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 20
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-universal-music-group-4423004563": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-lord-search-selection-4493495890": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

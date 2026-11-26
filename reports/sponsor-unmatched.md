@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1343 firms checked, 632 matched, 711 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1348 firms checked, 634 matched, 714 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (711)
+## Not found (714)
 
 - 01Health
 - 7IM
@@ -143,6 +143,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Camino Search
 - Campbell Brown Associates
 - Candidate Source - TEAM
+- Capco
 - Capital Outsourcing Group Ltd
 - Caravel
 - Card Factory
@@ -320,6 +321,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Impact Food Group
 - In2 Consult
 - Independent Office for Police Conduct
+- Infrassocs
 - Insight Recruitment Solutions Limited
 - Insight Select
 - Insite Energy
@@ -379,6 +381,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lomond Group
 - Lookers Motor Group Limited
 - Lord Accounting & Finance
+- Lord Search & Selection
 - Lorien
 - Lottie
 - Lucy Developments
@@ -718,7 +721,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - via ScotJobsNet
 - Şişecam
 
-## Matched automatically by close name; worth a glance (83)
+## Matched automatically by close name; worth a glance (84)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - AVEVA → AVEVA Solutions Ltd (prefix)
@@ -799,6 +802,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - The Dune Group → Dune Advisors Limited (prefix)
 - Triple Point → Triple Point Servco Limited (prefix)
 - United Infrastructure Ltd → United Infrastructure Management Limited (prefix)
+- Universal Music Group → Universal Music Operations Ltd (prefix)
 - Universal Music Group UK → Universal Music Operations Ltd (prefix)
 - Vanquis → Vanquis Bank Limited (prefix)
 - Vitality → VITALITY TRADING LIMITED (prefix)
