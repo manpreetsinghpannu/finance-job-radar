@@ -2662,5 +2662,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.adzuna.co.uk/jobs/details/5979406615 | Capco | Management Consultant - Finance Transformation | Edinburgh, Scotland | posted: 2026-11-26 | note: via Adzuna
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-hsl-compliance-4495061100 | HSL Compliance | Management Accountant | Chorley, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-accountant-12-month-contract-at-distinct-b-corp-4495564076 | Distinct | B Corp | Treasury Accountant - 12 month contract | West Yorkshire, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-creative-artists-agency-4495565238 | Creative Artists Agency | FP&A Analyst | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-12-month-ftc-at-next-wholly-owned-brands-4495544980 | NEXT Wholly Owned Brands | Finance Business Partner - 12 month FTC | Leicester, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed

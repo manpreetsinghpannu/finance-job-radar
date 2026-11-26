@@ -1702,6 +1702,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Creative Artists Agency": {
+   "licensed": true,
+   "register_name": "Creative Artists Agency UK Ltd",
+   "match": "exact"
+  },
   "Cross Path": {
    "licensed": false,
    "register_name": null,
@@ -4286,6 +4291,11 @@
    "licensed": true,
    "register_name": "NET-A-PORTER GROUP Ltd",
    "match": "exact"
+  },
+  "NEXT Wholly Owned Brands": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "NWG": {
    "licensed": true,
