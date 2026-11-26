@@ -2202,6 +2202,11 @@
    "register_name": "Freetrade Limited",
    "match": "alias"
   },
+  "Front Row Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Front Row Recruitment Ltd": {
    "licensed": false,
    "register_name": null,
@@ -2922,6 +2927,11 @@
    "register_name": null,
    "match": "none"
   },
+  "InPost UK": {
+   "licensed": true,
+   "register_name": "InPost UK Limited",
+   "match": "exact"
+  },
   "Independent Office for Police Conduct": {
    "licensed": false,
    "register_name": null,
@@ -3632,6 +3642,11 @@
    "register_name": "MDPI UK LIMITED",
    "match": "exact"
   },
+  "MECC ALTE (UK) LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MFS": {
    "licensed": true,
    "register_name": "MFS International (UK) Ltd",
@@ -3931,6 +3946,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Metro": {
+   "licensed": true,
+   "register_name": "METRO BANK PLC",
+   "match": "prefix"
   },
   "Metro Bank": {
    "licensed": true,
@@ -4336,6 +4356,11 @@
    "licensed": true,
    "register_name": "Nuffield Health - Hospitals Division",
    "match": "prefix"
+  },
+  "Nuveen, a TIAA company": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "OAK LIFE SCIENCE LTD": {
    "licensed": false,
