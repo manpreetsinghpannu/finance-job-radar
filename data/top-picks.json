@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T12:22:48.193Z",
+ "generated_at": "2026-11-26T13:24:26.168Z",
  "order": [
   "finance",
   "credit",
@@ -1130,11 +1130,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://www.s1jobs.com/job/quantity-surveyor-127662881": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
   "https://www.linkedin.com/jobs/view/group-accountant-at-bath-north-east-somerset-council-4488441876": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -1289,11 +1284,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 24
-  },
-  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-halliday-marx-4487138535": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 15
   },
   "https://www.linkedin.com/jobs/view/investment-banking-associate-at-everet-marsh-4488841226": {
    "id": "investment",
@@ -2049,26 +2039,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
-  },
-  "https://www.s1jobs.com/job/trainee-finance-assistant-graduate-127738727": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://www.s1jobs.com/job/management-accountant-127738667": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
-  "https://www.s1jobs.com/job/reporting-accountant-127738623": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
-  },
-  "https://www.s1jobs.com/job/management-accountant-1-year-contract-part-time-127738556": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-cms-uk-4482137543": {
    "id": "finance",
@@ -3459,11 +3429,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 11
-  },
-  "https://www.linkedin.com/jobs/view/fund-accountant-private-equity-at-gen-ii-fund-services-4491591911": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 10
   },
   "https://www.linkedin.com/jobs/view/investment-banking-emea-strategic-investors-group-sig-analyst-associate-london-at-jpmorganchase-4490194192": {
    "id": "investment",
@@ -7973,6 +7938,51 @@
   "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-moore-walker-partners-4495283672": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-bruin-4493819517": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-4367-at-wade-macdonald-4493817560": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-equifind-4495289359": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/graduate-business-finance-advisor-at-westminster-commercial-finance-4495276713": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/graduate-finance-assistant-at-equity-house-4495274865": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-lalu-4495274607": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/junior-accountant-at-centralis-group-4472309522": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/service-charge-accountant-at-premier-estates-limited-4494931480": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/commercial-data-fp-a-analyst-at-succeed-recruitment-solutions-4495502119": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
    "score": 18
   }
  }

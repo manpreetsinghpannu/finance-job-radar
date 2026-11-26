@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1356 firms checked, 636 matched, 720 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1361 firms checked, 636 matched, 725 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (720)
+## Not found (725)
 
 - 01Health
 - 7IM
@@ -155,6 +155,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Castrol
 - Cazoo
 - Centalion
+- Centralis Group
 - Centrica Energy
 - Chalk Hill Group
 - Chambers and Partners
@@ -366,6 +367,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - L&Q
 - L3Harris Technologies
 - LH Partners
+- Lalu
 - Landbay
 - Language Matters
 - Larbey Evans
@@ -507,6 +509,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Platinum Recruitment Group Ltd
 - Point One - Hedge Fund Talent
 - Portman Finance Group
+- Premier Estates Limited
 - Preventx
 - Prime Personnel UK
 - Prospect Us
@@ -606,6 +609,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Statera Talent
 - Stoneacre Motor Group
 - Strand Hill
+- Succeed Recruitment Solutions
 - Summit Energy Europe
 - Superdrug
 - Swoop Funding
@@ -702,6 +706,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Watson-Marlow Fluid Technology Solutions
 - Weekday AI
 - Wesco
+- Westminster Commercial Finance
 - Wilkinson and Associates
 - Workforce Staffing
 - Workplace Futures Group

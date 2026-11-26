@@ -1372,6 +1372,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Centralis Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Centre People Appointments": {
    "licensed": true,
    "register_name": "Centre People Appointments Limited",
@@ -3277,6 +3282,11 @@
    "register_name": "Laing O'Rourke PLC",
    "match": "exact"
   },
+  "Lalu": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Landbay": {
    "licensed": false,
    "register_name": null,
@@ -4732,6 +4742,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Premier Estates Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Premier Foods": {
    "licensed": true,
    "register_name": "Premier Foods",
@@ -5662,6 +5677,11 @@
    "register_name": "STRIPE CONSULTING LIMITED",
    "match": "alias"
   },
+  "Succeed Recruitment Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "SumUp": {
    "licensed": true,
    "register_name": "SumUp Payments Limited",
@@ -6553,6 +6573,11 @@
    "match": "alias"
   },
   "Wesco": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Westminster Commercial Finance": {
    "licensed": false,
    "register_name": null,
    "match": "none"
