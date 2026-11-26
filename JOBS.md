@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 26 Nov, 15:24** (UK time) · **1573 open roles** at 940 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 26 Nov, 15:45** (UK time) · **1576 open roles** at 942 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 26 Nov, 15:12** · hourly scan · checked 201 boards · **11 new roles**
+**Thu 26 Nov, 15:34** · hourly scan · checked 201 boards · **14 new roles**
 
-### Finance (FP&A) CV: 6
+### Finance (FP&A) CV: 8
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -21,15 +21,18 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 | 2026-11-26 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-metro-4495510235) | Metro | Birmingham, England, United Kingdom | ✅ |
 | 2026-11-26 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-jss-4493829313) | JSS | London Area, United Kingdom | ❔ |
 | — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57616178) | Mackie Myers | London | ❔ |
+| 2026-11-26 | [Commercial Management Accountant](https://www.linkedin.com/jobs/view/commercial-management-accountant-at-the-british-psychological-society-4495027601) | The British Psychological Society | Leicester, England, United Kingdom | ❔ |
 | 2026-11-26 | [Finance, UK & Europe Financial Accountant, Based in London](https://www.linkedin.com/jobs/view/finance-uk-europe-financial-accountant-based-in-london-at-nuveen-a-tiaa-company-4486500562) | Nuveen, a TIAA company | Greater London, England, United Kingdom | ❔ |
+| — | [Assistant Accountant 12m FTC](https://www.reed.co.uk/jobs/assistant-accountant-12m-ftc/57616559) | Finspire Talent Limited | London | ❔ |
 
-### Credit CV: 3
+### Credit CV: 4
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-26 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-at-radius-4487745097) | Radius | Crewe, England, United Kingdom | ✅ |
 | — | [Credit structuring, asset side](https://careers.nomura.com/Nomura/job/London-Credit-structuring%2C-asset-side-Lond-EC4R-3AB/1454017900/) | Nomura | London | ✅ |
 | 2026-11-26 | [Credit Adminstrator](https://www.linkedin.com/jobs/view/credit-adminstrator-at-booker-4495030514) | Booker | Eccles, England, United Kingdom | ❔ |
+| 2026-11-26 | [Market Risk Control Specialist - Structured Rates](https://www.linkedin.com/jobs/view/market-risk-control-specialist-structured-rates-at-ubs-4474978358) | UBS | London, England, United Kingdom | ❔ |
 
 ### Fund CV (written for India; tweak the header for UK roles): 2
 
@@ -84,9 +87,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Thursday 26 November
 
 <details>
-<summary><b>15:12</b> · hourly scan · <b>11 new</b> → Finance 6 · Credit 3 · Fund 2</summary>
+<summary><b>15:34</b> · hourly scan · <b>14 new</b> → Finance 8 · Credit 4 · Fund 2</summary>
 
-#### Finance (FP&A) CV: 6
+#### Finance (FP&A) CV: 8
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -95,15 +98,18 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-26 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-metro-4495510235) | Metro | Birmingham, England, United Kingdom | ✅ |
 | 2026-11-26 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-jss-4493829313) | JSS | London Area, United Kingdom | ❔ |
 | — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57616178) | Mackie Myers | London | ❔ |
+| 2026-11-26 | [Commercial Management Accountant](https://www.linkedin.com/jobs/view/commercial-management-accountant-at-the-british-psychological-society-4495027601) | The British Psychological Society | Leicester, England, United Kingdom | ❔ |
 | 2026-11-26 | [Finance, UK & Europe Financial Accountant, Based in London](https://www.linkedin.com/jobs/view/finance-uk-europe-financial-accountant-based-in-london-at-nuveen-a-tiaa-company-4486500562) | Nuveen, a TIAA company | Greater London, England, United Kingdom | ❔ |
+| — | [Assistant Accountant 12m FTC](https://www.reed.co.uk/jobs/assistant-accountant-12m-ftc/57616559) | Finspire Talent Limited | London | ❔ |
 
-#### Credit CV: 3
+#### Credit CV: 4
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-26 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-at-radius-4487745097) | Radius | Crewe, England, United Kingdom | ✅ |
 | — | [Credit structuring, asset side](https://careers.nomura.com/Nomura/job/London-Credit-structuring%2C-asset-side-Lond-EC4R-3AB/1454017900/) | Nomura | London | ✅ |
 | 2026-11-26 | [Credit Adminstrator](https://www.linkedin.com/jobs/view/credit-adminstrator-at-booker-4495030514) | Booker | Eccles, England, United Kingdom | ❔ |
+| 2026-11-26 | [Market Risk Control Specialist - Structured Rates](https://www.linkedin.com/jobs/view/market-risk-control-specialist-structured-rates-at-ubs-4474978358) | UBS | London, England, United Kingdom | ❔ |
 
 #### Fund CV (written for India; tweak the header for UK roles): 2
 
@@ -3398,9 +3404,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (914)](#finance-fpa-cv-914) · [Credit (183)](#credit-cv-183) · [Equity (70)](#equity-cv-70) · [Investment (167)](#investment-ib--pe-cv-167) · [Consulting (24)](#consulting-cv-24) · [Real Estate (28)](#real-estate-cv-28) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (143)](#other-fits-no-cv-closely-may-still-be-worth-a-look-143)
+Everything matched so far, newest first within each CV: [Finance (916)](#finance-fpa-cv-916) · [Credit (184)](#credit-cv-184) · [Equity (70)](#equity-cv-70) · [Investment (167)](#investment-ib--pe-cv-167) · [Consulting (24)](#consulting-cv-24) · [Real Estate (28)](#real-estate-cv-28) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (143)](#other-fits-no-cv-closely-may-still-be-worth-a-look-143)
 
-### Finance (FP&A) CV: 914
+### Finance (FP&A) CV: 916
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3424,6 +3430,7 @@ Everything matched so far, newest first within each CV: [Finance (914)](#finance
 | 2026-11-26 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-wade-macdonald-4493817560) | Wade Macdonald | Reading, England, United Kingdom | ❔ |
 | 2026-11-26 | [Commercial Management Accountant](https://www.linkedin.com/jobs/view/commercial-management-accountant-at-alexander-daniels-finance-recruitment-4495292284) | Alexander Daniels Finance Recruitment | Burton Upon Trent, England, United Kingdom | ❔ |
 | 2026-11-26 | [Finance Business Partner 4367](https://www.linkedin.com/jobs/view/finance-business-partner-4367-at-wade-macdonald-4493817560) | Wade Macdonald | Reading, England, United Kingdom | ❔ |
+| 2026-11-26 | [Commercial Management Accountant](https://www.linkedin.com/jobs/view/commercial-management-accountant-at-the-british-psychological-society-4495027601) | The British Psychological Society | Leicester, England, United Kingdom | ❔ |
 | 2026-11-26 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-paragon-banking-group-plc-4493801606) | Paragon Banking Group PLC | London, England, United Kingdom | ❔ |
 | 2026-11-26 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-3s-money-4493814864) | 3S Money | London Area, United Kingdom | ✅ |
 | 2026-11-26 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-lalu-4495274607) | Lalu | Cardiff, Wales, United Kingdom | ❔ |
@@ -3431,6 +3438,7 @@ Everything matched so far, newest first within each CV: [Finance (914)](#finance
 | 2026-11-26 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-ellison-institute-of-technology-oxford-4495292571) | Ellison Institute of Technology Oxford | Oxford, England, United Kingdom | ✅ |
 | — | [Management Accountant](https://www.s1jobs.com/job/management-accountant-127807568) | S1Jobs | Scotland | ❔ |
 | 2026-11-26 | [Finance, UK & Europe Financial Accountant, Based in London](https://www.linkedin.com/jobs/view/finance-uk-europe-financial-accountant-based-in-london-at-nuveen-a-tiaa-company-4486500562) | Nuveen, a TIAA company | Greater London, England, United Kingdom | ❔ |
+| — | [Assistant Accountant 12m FTC](https://www.reed.co.uk/jobs/assistant-accountant-12m-ftc/57616559) | Finspire Talent Limited | London | ❔ |
 | 2026-11-26 | [Commercial & Operations Accountant](https://www.linkedin.com/jobs/view/commercial-operations-accountant-at-hw-finance-4493810493) | HW Finance | Doncaster, England, United Kingdom | ❔ |
 | 2026-11-26 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-equifind-4495289359) | Equifind | Glasgow, Scotland, United Kingdom | ❔ |
 | 2026-11-26 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-cumming-group-uk-europe-4495015857) | Cumming Group UK & Europe | Cardiff, Wales, United Kingdom | ❔ |
@@ -4319,7 +4327,7 @@ Everything matched so far, newest first within each CV: [Finance (914)](#finance
 | 2026-10-20 | [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) | Capital One UK | Nottingham, Eng | ✅ |
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 
-### Credit CV: 183
+### Credit CV: 184
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4328,6 +4336,7 @@ Everything matched so far, newest first within each CV: [Finance (914)](#finance
 | 2026-11-26 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-at-radius-4487745097) | Radius | Crewe, England, United Kingdom | ✅ |
 | — | [Credit structuring, asset side](https://careers.nomura.com/Nomura/job/London-Credit-structuring%2C-asset-side-Lond-EC4R-3AB/1454017900/) | Nomura | London | ✅ |
 | 2026-11-26 | [Credit Adminstrator](https://www.linkedin.com/jobs/view/credit-adminstrator-at-booker-4495030514) | Booker | Eccles, England, United Kingdom | ❔ |
+| 2026-11-26 | [Market Risk Control Specialist - Structured Rates](https://www.linkedin.com/jobs/view/market-risk-control-specialist-structured-rates-at-ubs-4474978358) | UBS | London, England, United Kingdom | ❔ |
 | 2026-11-25 | [Wholesale Credit Risk - London - 2027 ReEntry Program](https://www.linkedin.com/jobs/view/wholesale-credit-risk-london-2027-reentry-program-at-jpmorganchase-4494493114) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-25 | [EMEA Credit Risk Analyst - Diversified Industries](https://www.linkedin.com/jobs/view/emea-credit-risk-analyst-diversified-industries-at-jpmorganchase-4494480724) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-25 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-bruin-4494925791) | Bruin | London, England, United Kingdom | ❔ |
@@ -5020,9 +5029,9 @@ Everything matched so far, newest first within each CV: [Finance (914)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Thu 26 Nov, 15:22 | Assistant Quantity Surveyor | CONTRACT SCOTLAND LIMITED |
-| Thu 26 Nov, 15:22 | Financial Accountant | FT Recruitment Group |
-| Thu 26 Nov, 15:22 | Technical Accountant | Harvey Nash |
+| Thu 26 Nov, 15:43 | Assistant Quantity Surveyor | CONTRACT SCOTLAND LIMITED |
+| Thu 26 Nov, 15:43 | Financial Accountant | FT Recruitment Group |
+| Thu 26 Nov, 15:43 | Technical Accountant | Harvey Nash |
 | Thu 26 Nov, 13:44 | Management Accountant 1 Year Contract Part Time | Right People Recruitment Solutions |
 | Thu 26 Nov, 13:44 | Reporting Accountant | Right People Recruitment Solutions |
 | Thu 26 Nov, 13:44 | Management Accountant | Right People Recruitment Solutions |

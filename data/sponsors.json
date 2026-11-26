@@ -2122,6 +2122,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Finspire Talent Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Fisher Careers": {
    "licensed": false,
    "register_name": null,
@@ -5973,6 +5978,11 @@
    "match": "exact"
   },
   "The Automobile Association": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "The British Psychological Society": {
    "licensed": false,
    "register_name": null,
    "match": "none"

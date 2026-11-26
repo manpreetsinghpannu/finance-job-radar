@@ -2600,13 +2600,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-distinct-b-corp-4495299714 | Distinct | B Corp | Financial Analyst FP&A | Leicester, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-inpost-uk-4495500445 | InPost UK | Financial Analyst | Edinburgh, Scotland, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-costing-management-reporting-at-mecc-alte-uk-limited-4495299449 | MECC ALTE (UK) LIMITED | Financial Analyst (Costing & Management Reporting) | Oakham, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-management-accountant-at-the-british-psychological-society-4495027601 | The British Psychological Society | Commercial Management Accountant | Leicester, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-officer-at-radius-4487745097 | Radius | Credit Officer | Crewe, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-adminstrator-at-booker-4495030514 | Booker | Credit Adminstrator | Eccles, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/market-risk-control-specialist-structured-rates-at-ubs-4474978358 | UBS | Market Risk Control Specialist - Structured Rates | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/pension-fund-accountant-at-front-row-recruitment-4493832225 | Front Row Recruitment | Pension Fund Accountant | West Berkshire, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-uk-europe-financial-accountant-based-in-london-at-nuveen-a-tiaa-company-4486500562 | Nuveen, a TIAA company | Finance, UK & Europe Financial Accountant, Based in London | Greater London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-jss-4493829313 | JSS | Management Accountant | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-metro-4495510235 | Metro | Finance Business Partner | Birmingham, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/fp-a-analyst/57616178 | Mackie Myers | FP&A Analyst | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/fund-accountant/57616180 | Reed | Fund Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant-12m-ftc/57616559 | Finspire Talent Limited | Assistant Accountant 12m FTC | London | note: via Reed
 
 ## Processed

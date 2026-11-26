@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T15:24:16.420Z",
+ "generated_at": "2026-11-26T15:45:08.290Z",
  "order": [
   "finance",
   "credit",
@@ -8075,6 +8075,11 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
+  "https://www.linkedin.com/jobs/view/commercial-management-accountant-at-the-british-psychological-society-4495027601": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
   "https://www.linkedin.com/jobs/view/credit-officer-at-radius-4487745097": {
    "id": "credit",
    "cv": "Credit CV",
@@ -8084,6 +8089,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/market-risk-control-specialist-structured-rates-at-ubs-4474978358": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 3
   },
   "https://www.linkedin.com/jobs/view/pension-fund-accountant-at-front-row-recruitment-4493832225": {
    "id": "fund",
@@ -8114,6 +8124,11 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 11
+  },
+  "https://www.reed.co.uk/jobs/assistant-accountant-12m-ftc/57616559": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }
