@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 26 Nov, 02:23** (UK time) · **1530 open roles** at 906 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 26 Nov, 03:22** (UK time) · **1531 open roles** at 907 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 26 Nov, 02:13** · hourly scan · checked 201 boards · **0 new roles**
+**Thu 26 Nov, 03:13** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Thu 26 Nov, 01:11** (1: Investment 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-25 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-go-off-road-powersports-4495213283) | Go Off Road Powersports | Wakefield, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<details>
+<summary><b>03:13</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-25 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-go-off-road-powersports-4495213283) | Go Off Road Powersports | Wakefield, England, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 02:13</sub>
 
@@ -3332,13 +3347,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 04:04, 03:29, 03:04, 02:52</sub>
+<sub>Nothing new at: 04:04, 03:29</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (888)](#finance-fpa-cv-888) · [Credit (180)](#credit-cv-180) · [Equity (69)](#equity-cv-69) · [Investment (159)](#investment-ib--pe-cv-159) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (889)](#finance-fpa-cv-889) · [Credit (180)](#credit-cv-180) · [Equity (69)](#equity-cv-69) · [Investment (159)](#investment-ib--pe-cv-159) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
-### Finance (FP&A) CV: 888
+### Finance (FP&A) CV: 889
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3416,6 +3431,7 @@ Everything matched so far, newest first within each CV: [Finance (888)](#finance
 | 2026-11-25 | [Interim Technical Accountant](https://www.adzuna.co.uk/jobs/land/ad/5978644055) | SF Partners | Balsall Heath, Birmingham | ❔ |
 | 2026-11-25 | [Brewery Accountant](https://www.adzuna.co.uk/jobs/details/5978583076) | Small Batch Standard | UK | ❔ |
 | 2026-11-25 | [Treasury & Risk Consultant](https://www.adzuna.co.uk/jobs/details/5978582352) | Owens & Minor | UK | ❔ |
+| 2026-11-25 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-go-off-road-powersports-4495213283) | Go Off Road Powersports | Wakefield, England, United Kingdom | ❔ |
 | — | [Corporate Accountant](https://www.reed.co.uk/jobs/corporate-accountant/57612272) | Reed | London | ❔ |
 | — | [Project Accountant](https://www.reed.co.uk/jobs/project-accountant/57610711) | Seymour John | Telford, Shropshire | ❔ |
 | — | [Financial Controller](https://www.reed.co.uk/jobs/financial-controller/57610914) | Equals One | Southampton, Hampshire | ❔ |
@@ -4911,7 +4927,7 @@ Everything matched so far, newest first within each CV: [Finance (888)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>488 roles taken off the list because the firm closed the posting</summary>
+<summary>487 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -5402,6 +5418,5 @@ Everything matched so far, newest first within each CV: [Finance (888)](#finance
 | Thu 19 Nov, 15:06 | Management Accountant | Nick Buick Associates |
 | Thu 19 Nov, 12:18 | Equity Research Associate, Industrials coverage, Global Bank | Greenwich Partners |
 | Thu 19 Nov, 11:06 | Commercial and Investment Banking - Treasury analyst (MENA) | JPMorgan Chase |
-| Thu 19 Nov, 02:55 | Finance Graduate Programme: Commercial Finance & FP&A | targetjobs UK |
 
 </details>

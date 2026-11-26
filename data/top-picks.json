@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T02:23:31.088Z",
+ "generated_at": "2026-11-26T03:22:14.024Z",
  "order": [
   "finance",
   "credit",
@@ -7899,6 +7899,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/accountant-at-go-off-road-powersports-4495213283": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

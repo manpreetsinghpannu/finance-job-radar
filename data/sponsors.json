@@ -2312,6 +2312,11 @@
    "register_name": "Global Payments UK Ltd",
    "match": "exact"
   },
+  "Go Off Road Powersports": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "GoCardless": {
    "licensed": true,
    "register_name": "GoCardless Limited",

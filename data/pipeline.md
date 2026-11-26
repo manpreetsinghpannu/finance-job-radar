@@ -2532,5 +2532,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-reporting-accountant-at-bmsi-4494964354 | BMSI | FP&A Reporting Accountant | Warrington, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-accountant-4494928257 | P and I Generators | Assistant Accountant | Havant, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/real-estate-gaming-lodging-and-leisure-regll-investment-banking-capital-markets-ibcm-at-deutsche-bank-4495242200 | Deutsche Bank | Real Estate, Gaming, Lodging and Leisure (REGLL), Investment Banking & Capital Markets (IBCM) | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-go-off-road-powersports-4495213283 | Go Off Road Powersports | Accountant | Wakefield, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
