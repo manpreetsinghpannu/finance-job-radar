@@ -712,6 +712,11 @@
    "register_name": "BMS Services Ltd",
    "match": "exact"
   },
+  "BMSI": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "BNP Paribas": {
    "licensed": true,
    "register_name": "BNP Paribas London Branch",
@@ -1031,6 +1036,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Bruntwood": {
+   "licensed": true,
+   "register_name": "Bruntwood Group Limited",
+   "match": "exact"
   },
   "Bruntwood SciTech": {
    "licensed": false,
@@ -4363,6 +4373,11 @@
    "match": "none"
   },
   "Owens & Minor": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "P and I Generators": {
    "licensed": false,
    "register_name": null,
    "match": "none"

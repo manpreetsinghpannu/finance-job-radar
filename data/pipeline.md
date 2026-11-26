@@ -2528,5 +2528,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.adzuna.co.uk/jobs/details/5978581356 | M&T Bank | Commercial Credit Analyst, Dealer Commercial Services | UK | posted: 2026-11-25 | note: via Adzuna
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-brewdog-4494950644 | BrewDog | Management Accountant | Aberdeenshire, Scotland, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-greene-king-4495209151 | Greene King | Management Accountant | Bury St Edmunds, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-executive-ftc-graduates-welcome-at-bruntwood-4494963480 | Bruntwood | Finance Executive (FTC [Graduates welcome]) | Greater Manchester, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-reporting-accountant-at-bmsi-4494964354 | BMSI | FP&A Reporting Accountant | Warrington, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-4494928257 | P and I Generators | Assistant Accountant | Havant, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
