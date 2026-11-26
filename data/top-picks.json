@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T05:18:50.281Z",
+ "generated_at": "2026-11-26T05:40:04.067Z",
  "order": [
   "finance",
   "credit",
@@ -559,11 +559,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
-  },
-  "https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Risk-Analyst_JR_10039785": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 21
   },
   "https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Finance--FP-A--Analyst_R249821": {
    "id": "finance",
