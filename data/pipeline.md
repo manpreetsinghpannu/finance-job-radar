@@ -2642,5 +2642,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/technology-risk-graduate-programme-northern-ireland-september-2027-intake-at-ey-4471482450 | EY | Technology Risk Graduate Programme - Northern Ireland - September 2027 intake | Londonderry, Northern Ireland, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-infinite-talent-4493830997 | Infinite Talent | Management Accountant | West Midlands, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/operations-analyst-m-a-transaction-services-at-corpay-4486784380 | Corpay | Operations Analyst - M&A Transaction Services | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-sbfm-4493844566 | SBFM | Finance Business Partner | Sheffield, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-thg-fulfil-at-thg-ingenuity-4476465784 | THG Ingenuity | Management Accountant - THG Fulfil | Manchester, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-client-accountant-acca-part-qualified-with-1-2-yrs-exp-at-csc-4477309175 | CSC | Associate Client Accountant (ACCA part-qualified with 1-2 yrs exp) | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-financial-project-analyst-12mths-ftc-at-london-irish-centre-4495549083 | London Irish Centre | Management Accountant / Financial & Project Analyst (12mths FTC) | Camden Town, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-managed-estate-at-st-austell-brewery-4495532762 | St Austell Brewery | Finance Business Partner- Managed Estate | St Austell, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed

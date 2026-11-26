@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:27:38.207Z",
+ "generated_at": "2026-11-26T20:20:50.025Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 343,
+   "matching": 344,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -569,11 +569,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
-  },
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Management-Consultant---Comms--Media--Technology_R00354599": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 11
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Oracle-ERP-Finance-Transformation-Consultant_R00361406": {
    "id": "consulting",
@@ -1369,11 +1364,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-apl-media-limited-4488848667": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
   },
   "https://www.reed.co.uk/jobs/finance-analyst-pensions/57544583": {
    "id": "finance",
@@ -7380,11 +7370,6 @@
    "cv": "Equity CV",
    "score": 17
   },
-  "https://www.linkedin.com/jobs/view/investment-banking-associate-%E2%80%93-m-a-at-cross-path-4494641799": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 26
-  },
   "https://www.linkedin.com/jobs/view/analyst-for-valuations-disputes-bilingual-english-german-at-hays-4494923408": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -8209,6 +8194,31 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-sbfm-4493844566": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-thg-fulfil-at-thg-ingenuity-4476465784": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/associate-client-accountant-acca-part-qualified-with-1-2-yrs-exp-at-csc-4477309175": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-financial-project-analyst-12mths-ftc-at-london-irish-centre-4495549083": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-managed-estate-at-st-austell-brewery-4495532762": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
   }
  }
 }

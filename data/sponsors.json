@@ -3582,6 +3582,11 @@
    "register_name": "London Borough of Redbridge",
    "match": "exact"
   },
+  "London Irish Centre": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "London LGPS CIV Limited": {
    "licensed": true,
    "register_name": "London LGPS CIV",
@@ -5737,6 +5742,11 @@
    "register_name": "Squarepoint Capital LLP",
    "match": "alias"
   },
+  "St Austell Brewery": {
+   "licensed": true,
+   "register_name": "ST AUSTELL BREWERY COMPANY LIMITED",
+   "match": "exact"
+  },
   "St. Helens and Knowsley Teaching Hospitals NHS Trust": {
    "licensed": false,
    "register_name": null,
@@ -5931,6 +5941,11 @@
    "licensed": true,
    "register_name": "THG PLC",
    "match": "exact"
+  },
+  "THG Ingenuity": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "TMR Group Ltd": {
    "licensed": false,

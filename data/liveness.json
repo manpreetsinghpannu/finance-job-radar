@@ -95,7 +95,7 @@
  },
  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-London_JR-0000129352": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:44Z"
+  "checked_at": "2026-11-26T20:17:53Z"
  },
  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-Glasgow_JR-0000129392": {
   "status": "closed",
@@ -517,15 +517,17 @@
  },
  "https://mmc.wd1.myworkdayjobs.com/mmc/job/London---Tower-Place-West/UK-Financial-Controller--Consulting_R_365937": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:24Z"
+  "checked_at": "2026-11-26T20:17:30Z"
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Management-Consultant---Comms--Media--Technology_R00354599": {
-  "status": "live",
-  "checked_at": "2026-11-26T06:15:39Z"
+  "status": "closed",
+  "checked_at": "2026-11-26T20:17:48Z",
+  "closed_at": "2026-11-26T20:17:48Z",
+  "reason": "Workday CXS answers 403 S22 — posting withdrawn"
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Oracle-ERP-Finance-Transformation-Consultant_R00361406": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:40Z"
+  "checked_at": "2026-11-26T20:17:49Z"
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Strategy-Consultant-for-Commodity-Markets_R00369068": {
   "status": "closed",
@@ -535,7 +537,7 @@
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Digital-Finance-Transformation-Consultant_R00362313": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:41Z"
+  "checked_at": "2026-11-26T20:17:50Z"
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Management-Consultant---Insurance_R00344089": {
   "status": "closed",
@@ -545,15 +547,15 @@
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Automotive-Management-Consultant_R00362436": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:42Z"
+  "checked_at": "2026-11-26T20:17:50Z"
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Management-Consultant--National-Security_R00343555-2": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:43Z"
+  "checked_at": "2026-11-26T20:17:51Z"
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/London/Intercompany-Finance-Transformation-Consultant_R00359314": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:44Z"
+  "checked_at": "2026-11-26T20:17:53Z"
  },
  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/Finance-Transformation---AI-Specialist_JR-0000084336-1": {
   "status": "closed",
@@ -669,7 +671,7 @@
  },
  "https://www.linkedin.com/jobs/view/wholesale-credit-risk-emea-emerging-markets-mena-associate-at-jpmorganchase-4403159570": {
   "status": "live",
-  "checked_at": "2026-11-26T05:37:12Z"
+  "checked_at": "2026-11-26T20:15:10Z"
  },
  "https://www.linkedin.com/jobs/view/credit-risk-underwriter-structured-lending-at-morgan-mckinley-4486985902": {
   "status": "closed",
@@ -679,7 +681,7 @@
  },
  "https://www.linkedin.com/jobs/view/goldman-sachs-alternatives-private-credit-investing-analyst-london-at-goldman-sachs-4479147204": {
   "status": "live",
-  "checked_at": "2026-11-26T05:37:19Z"
+  "checked_at": "2026-11-26T20:15:13Z"
  },
  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-ventula-consulting-4485733754": {
   "status": "closed",
@@ -689,11 +691,11 @@
  },
  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-propel-holdings-4472012111": {
   "status": "live",
-  "checked_at": "2026-11-26T05:37:26Z"
+  "checked_at": "2026-11-26T20:15:17Z"
  },
  "https://www.linkedin.com/jobs/view/credit-strategy-analyst-at-funding-circle-uk-4488400686": {
   "status": "live",
-  "checked_at": "2026-11-26T05:37:34Z"
+  "checked_at": "2026-11-26T20:15:20Z"
  },
  "https://www.linkedin.com/jobs/view/hedge-fund-risk-analyst-at-black-swan-group-4488409544": {
   "status": "closed",
@@ -885,11 +887,11 @@
  },
  "https://www.linkedin.com/jobs/view/private-bank-endowments-foundations-portfolio-management-team-program-analyst-at-jpmorganchase-4488706602": {
   "status": "live",
-  "checked_at": "2026-11-26T05:35:36Z"
+  "checked_at": "2026-11-26T20:18:51Z"
  },
  "https://www.linkedin.com/jobs/view/fund-finance-associate-private-equity-at-deutsche-asset-management-4472213705": {
   "status": "live",
-  "checked_at": "2026-11-26T05:35:43Z"
+  "checked_at": "2026-11-26T20:19:05Z"
  },
  "https://www.linkedin.com/jobs/view/financial-accountant-insurance-asset-management-at-miryco-consultants-ltd-4488433134": {
   "status": "closed",
@@ -899,7 +901,7 @@
  },
  "https://www.linkedin.com/jobs/view/divisional-accountant-at-lookers-motor-group-limited-4469737810": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:00Z"
+  "checked_at": "2026-11-26T20:16:10Z"
  },
  "https://www.linkedin.com/jobs/view/v-i-e-12-months-financial-planning-amp-analysis-f-m-london-at-natixis-investment-managers-4401611824": {
   "status": "live",
@@ -983,11 +985,11 @@
  },
  "https://www.linkedin.com/jobs/view/quantitative-researcher-equities-at-drw-4408269115": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:03Z"
+  "checked_at": "2026-11-26T20:16:13Z"
  },
  "https://www.linkedin.com/jobs/view/graduate-chartered-accountant-at-armstrong-watson-4460345110": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:07Z"
+  "checked_at": "2026-11-26T20:16:16Z"
  },
  "https://www.linkedin.com/jobs/view/investment-banking-analyst-remote-at-joblet-ai-4487391466": {
   "status": "closed",
@@ -1177,7 +1179,7 @@
  },
  "https://www.linkedin.com/jobs/view/quantitative-solutions-analyst-at-lcm-partners-4488851537": {
   "status": "live",
-  "checked_at": "2026-11-26T06:13:39Z"
+  "checked_at": "2026-11-26T20:15:48Z"
  },
  "https://www.linkedin.com/jobs/view/graduate-investment-analyst-at-perch-group-4488863148": {
   "status": "closed",
@@ -1192,8 +1194,10 @@
   "reason": "LinkedIn shows \"No longer accepting applications\" and no apply control"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-apl-media-limited-4488848667": {
-  "status": "live",
-  "checked_at": "2026-11-26T06:13:42Z"
+  "status": "closed",
+  "checked_at": "2026-11-26T20:15:52Z",
+  "closed_at": "2026-11-26T20:15:52Z",
+  "reason": "LinkedIn shows \"No longer accepting applications\" and no apply control"
  },
  "https://www.linkedin.com/jobs/view/of-management-accountant-freehold-at-frasers-group-4488841973": {
   "status": "closed",
@@ -1337,7 +1341,7 @@
  },
  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-legend-4436758947": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:34Z"
+  "checked_at": "2026-11-26T20:17:44Z"
  },
  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-lseg-4487928884": {
   "status": "live",
@@ -1373,7 +1377,7 @@
  },
  "https://www.linkedin.com/jobs/view/credit-officer-at-citi-4489409787": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:31Z"
+  "checked_at": "2026-11-26T20:17:40Z"
  },
  "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77687": {
   "status": "closed",
@@ -1875,19 +1879,19 @@
  },
  "https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:35Z"
+  "checked_at": "2026-11-26T20:17:45Z"
  },
  "https://bdouk.wd3.myworkdayjobs.com/bdo_careers/job/London/M-A-Consultant---Commercial-Due-Diligence---Life-Sciences_R21618": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:39Z"
+  "checked_at": "2026-11-26T20:17:49Z"
  },
  "https://www.teneo.com/careers/open-positions/8197497003?gh_jid=8197497003": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:39Z"
+  "checked_at": "2026-11-26T20:17:49Z"
  },
  "https://www.teneo.com/careers/open-positions/8197494003?gh_jid=8197494003": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:39Z"
+  "checked_at": "2026-11-26T20:17:49Z"
  },
  "https://www.linkedin.com/jobs/view/international-credit-analysis-reporting-at-cameron-kennedy-4485820654": {
   "status": "live",
@@ -2075,7 +2079,7 @@
  },
  "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-agora-talent-4488576608": {
   "status": "live",
-  "checked_at": "2026-11-26T05:35:15Z"
+  "checked_at": "2026-11-26T20:18:15Z"
  },
  "https://www.linkedin.com/jobs/view/group-management-accountant-at-kennedy-pearce-consulting-4488907790": {
   "status": "closed",
@@ -2389,7 +2393,7 @@
  },
  "https://www.linkedin.com/jobs/view/commercial-accountant-at-samworth-brothers-4482461883": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:38Z"
+  "checked_at": "2026-11-26T20:17:47Z"
  },
  "https://www.linkedin.com/jobs/view/fp-a-analyst-maternity-cover-at-circana-4480694747": {
   "status": "live",
@@ -2537,11 +2541,11 @@
  },
  "https://www.linkedin.com/jobs/view/graduate-analyst-puma-property-finance-at-targetjobs-uk-4490269019": {
   "status": "live",
-  "checked_at": "2026-11-26T05:37:41Z"
+  "checked_at": "2026-11-26T20:15:24Z"
  },
  "https://www.linkedin.com/jobs/view/2027-quantitative-analytics-associate-graduate-programme-at-targetjobs-uk-4490247886": {
   "status": "live",
-  "checked_at": "2026-11-26T05:37:48Z"
+  "checked_at": "2026-11-26T20:15:27Z"
  },
  "https://www.linkedin.com/jobs/view/group-financial-accountant-at-michael-page-4491289954": {
   "status": "live",
@@ -2647,7 +2651,7 @@
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210790747": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:40Z"
+  "checked_at": "2026-11-26T20:17:49Z"
  },
  "https://www.linkedin.com/jobs/view/treasury-analyst-at-arup-4489748521": {
   "status": "live",
@@ -2781,7 +2785,7 @@
  },
  "https://www.linkedin.com/jobs/view/analyst-healthcare-m-a-at-lincoln-international-4456606508": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:45Z"
+  "checked_at": "2026-11-26T20:16:55Z"
  },
  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000129312-1": {
   "status": "unknown",
@@ -2815,7 +2819,7 @@
  },
  "https://visa.wd5.myworkdayjobs.com/visa/job/GB---London-United-Kingdom/Consultant--Client-Success--Credit-Specialist-_REF090076W": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:41Z"
+  "checked_at": "2026-11-26T20:17:50Z"
  },
  "https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-aaa-global-4491110614": {
   "status": "live",
@@ -2867,7 +2871,7 @@
  },
  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-finatal-4490454182": {
   "status": "live",
-  "checked_at": "2026-11-26T05:35:57Z"
+  "checked_at": "2026-11-26T20:15:03Z"
  },
  "https://www.linkedin.com/jobs/view/equity-research-associate-long-short-hedge-fund-london-at-greenwich-partners-4490422952": {
   "status": "closed",
@@ -2963,7 +2967,7 @@
  },
  "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107014": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:39Z"
+  "checked_at": "2026-11-26T20:17:49Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-johnsons-workwear-4490462963": {
   "status": "live",
@@ -2989,7 +2993,7 @@
  },
  "https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol---Welcome-Building/Strategy-Analyst_R10070": {
   "status": "unknown",
-  "checked_at": "2026-11-26T06:15:42Z"
+  "checked_at": "2026-11-26T20:17:51Z"
  },
  "https://www.linkedin.com/jobs/view/risk-analyst-private-markets-at-aberdeen-4491776243": {
   "status": "live",
@@ -3097,7 +3101,7 @@
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-alf-recruit-4490882790": {
   "status": "live",
-  "checked_at": "2026-11-26T05:35:18Z"
+  "checked_at": "2026-11-26T20:18:22Z"
  },
  "https://www.linkedin.com/jobs/view/investment-analyst-at-alexander-chapman-4492041100": {
   "status": "closed",
@@ -3241,7 +3245,7 @@
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-revenue-at-global-payments-inc-4492201673": {
   "status": "live",
-  "checked_at": "2026-11-26T05:37:05Z"
+  "checked_at": "2026-11-26T20:15:06Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-care-visions-group-4492043170": {
   "status": "live",
@@ -3249,7 +3253,7 @@
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-quanex-4492257080": {
   "status": "live",
-  "checked_at": "2026-11-26T05:37:55Z"
+  "checked_at": "2026-11-26T20:15:31Z"
  },
  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Systematic-Credit-Trader_26998633": {
   "status": "live",
@@ -3275,11 +3279,11 @@
  },
  "https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759": {
   "status": "live",
-  "checked_at": "2026-11-26T05:35:22Z"
+  "checked_at": "2026-11-26T20:18:29Z"
  },
  "https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london/job/Lloyds-UK-London/Solvency-Reporting-Accountant_R5345": {
   "status": "unknown",
-  "checked_at": "2026-11-26T06:15:43Z"
+  "checked_at": "2026-11-26T20:17:52Z"
  },
  "https://www.linkedin.com/jobs/view/corporate-credit-associate-at-quantum-search-group-4492133811": {
   "status": "live",
@@ -3357,7 +3361,7 @@
  },
  "https://www.linkedin.com/jobs/view/investment-banking-associate-telco-digital-infra-m-a-at-dartmouth-partners-4466859063": {
   "status": "live",
-  "checked_at": "2026-11-26T05:35:29Z"
+  "checked_at": "2026-11-26T20:18:37Z"
  },
  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-alexander-daniels-finance-recruitment-4492432414": {
   "status": "live",
@@ -3443,7 +3447,7 @@
  },
  "https://www.linkedin.com/jobs/view/commercial-financial-analyst-at-dignity-group-4491633427": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:27Z"
+  "checked_at": "2026-11-26T20:17:37Z"
  },
  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-south-west-water-4492186621": {
   "status": "live",
@@ -3455,7 +3459,7 @@
  },
  "https://www.linkedin.com/jobs/view/junior-finance-business-partner-at-fera-science-ltd-4492465384": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:42Z"
+  "checked_at": "2026-11-26T20:16:51Z"
  },
  "https://www.linkedin.com/jobs/view/finance-analyst-at-allianz-commercial-4492498788": {
   "status": "live",
@@ -3767,7 +3771,7 @@
  },
  "https://www.linkedin.com/jobs/view/graduate-finance-programme-at-targetjobs-uk-4492551053": {
   "status": "live",
-  "checked_at": "2026-11-26T05:35:50Z"
+  "checked_at": "2026-11-26T20:19:13Z"
  },
  "https://www.linkedin.com/jobs/view/fund-accounting-product-change-specialist-at-ramsey-portia-4492778475": {
   "status": "closed",
@@ -3841,15 +3845,15 @@
  },
  "https://www.linkedin.com/jobs/view/contract-accountant-foodbuy-group-at-foodbuy-group-4492472273": {
   "status": "live",
-  "checked_at": "2026-11-26T06:13:25Z"
+  "checked_at": "2026-11-26T20:15:35Z"
  },
  "https://www.linkedin.com/jobs/view/treasury-operations-officer-at-harvey-nash-4492919045": {
   "status": "live",
-  "checked_at": "2026-11-26T06:13:28Z"
+  "checked_at": "2026-11-26T20:15:38Z"
  },
  "https://www.linkedin.com/jobs/view/oracle-treasury-cash-management-professional-at-next-ventures-4491618230": {
   "status": "live",
-  "checked_at": "2026-11-26T06:13:32Z"
+  "checked_at": "2026-11-26T20:15:41Z"
  },
  "https://www.linkedin.com/jobs/view/leveraged-finance-investment-banking-associate-at-metis-search-4491914278": {
   "status": "live",
@@ -3957,7 +3961,7 @@
  },
  "https://www.linkedin.com/jobs/view/finance-business-partner-%E2%80%93-global-functions-technology-central-functions-at-castrol-4471905352": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:49Z"
+  "checked_at": "2026-11-26T20:16:58Z"
  },
  "https://www.linkedin.com/jobs/view/associate-%E2%80%93-commercial-real-estate-asset-management-at-auricoe-4491919879": {
   "status": "live",
@@ -4161,7 +4165,7 @@
  },
  "https://www.linkedin.com/jobs/view/technology-risk-graduate-programme-september-2027-intake-at-ey-4477806240": {
   "status": "live",
-  "checked_at": "2026-11-26T06:13:49Z"
+  "checked_at": "2026-11-26T20:15:59Z"
  },
  "https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-william-blair-4437622721": {
   "status": "live",
@@ -4259,7 +4263,7 @@
  },
  "https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803": {
   "status": "live",
-  "checked_at": "2026-11-26T06:13:56Z"
+  "checked_at": "2026-11-26T20:16:06Z"
  },
  "https://www.linkedin.com/jobs/view/commercial-debt-srm-at-ecotricity-4492580819": {
   "status": "live",
@@ -4383,11 +4387,11 @@
  },
  "https://www.linkedin.com/jobs/view/finance-systems-implementation-accountant-aca-at-police-federation-of-england-and-wales-4483508475": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:35Z"
+  "checked_at": "2026-11-26T20:16:44Z"
  },
  "https://www.linkedin.com/jobs/view/financial-controller-at-qs-recruitment-4488841953": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:38Z"
+  "checked_at": "2026-11-26T20:16:48Z"
  },
  "https://www.linkedin.com/jobs/view/forward-deployed-investment-professional-private-credit-at-harvey-4485170415": {
   "status": "live",
@@ -4461,7 +4465,7 @@
  },
  "https://www.linkedin.com/jobs/view/assistant-accountant-multi-franchise-at-stoneacre-motor-group-4493117630": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:31Z"
+  "checked_at": "2026-11-26T20:16:41Z"
  },
  "https://www.linkedin.com/jobs/view/quantity-surveyor-at-m-group-4389712794": {
   "status": "live",
@@ -4577,11 +4581,11 @@
  },
  "https://www.linkedin.com/jobs/view/project-accountant-at-lockheed-martin-4492367034": {
   "status": "live",
-  "checked_at": "2026-11-26T05:35:32Z"
+  "checked_at": "2026-11-26T20:18:44Z"
  },
  "https://www.linkedin.com/jobs/view/global-banking-markets-structured-credit-strats-london-at-goldman-sachs-4476862508": {
   "status": "live",
-  "checked_at": "2026-11-26T05:35:36Z"
+  "checked_at": "2026-11-26T20:18:58Z"
  },
  "https://www.linkedin.com/jobs/view/client-accountant-at-csc-4466692857": {
   "status": "live",
@@ -4639,11 +4643,11 @@
  },
  "https://www.linkedin.com/jobs/view/graduate-finance-programme-data-digital-ai-at-severn-trent-4493607794": {
   "status": "live",
-  "checked_at": "2026-11-26T06:13:46Z"
+  "checked_at": "2026-11-26T20:15:55Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-hire-rightt-executive-search-hr-advisory-4488587892": {
   "status": "live",
-  "checked_at": "2026-11-26T06:13:53Z"
+  "checked_at": "2026-11-26T20:16:02Z"
  },
  "https://www.linkedin.com/jobs/view/finance-business-partner-at-rexel-uk-ltd-4493606924": {
   "status": "live",
@@ -4963,19 +4967,19 @@
  },
  "https://www.reed.co.uk/jobs/finance-business-partner/57523746": {
   "status": "live",
-  "checked_at": "2026-11-26T11:24:00Z"
+  "checked_at": "2026-11-26T20:19:23Z"
  },
  "https://www.reed.co.uk/jobs/financial-accountant/57537297": {
   "status": "live",
-  "checked_at": "2026-11-26T11:24:02Z"
+  "checked_at": "2026-11-26T20:19:25Z"
  },
  "https://www.reed.co.uk/jobs/credit-analyst/57540471": {
   "status": "live",
-  "checked_at": "2026-11-26T11:24:04Z"
+  "checked_at": "2026-11-26T20:19:27Z"
  },
  "https://www.reed.co.uk/jobs/credit-operations-support-graduate/57536031": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:18Z"
+  "checked_at": "2026-11-26T20:19:29Z"
  },
  "https://www.reed.co.uk/jobs/analyst-programme-capital-solutions-barings/57527859": {
   "status": "closed",
@@ -4997,7 +5001,7 @@
  },
  "https://www.reed.co.uk/jobs/investment-analyst/57538040": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:20Z"
+  "checked_at": "2026-11-26T20:19:32Z"
  },
  "https://www.reed.co.uk/jobs/fund-accounting-analyst/57540632": {
   "status": "closed",
@@ -5043,23 +5047,23 @@
  },
  "https://www.reed.co.uk/jobs/accounts-assistant-progression-to-chartered-accountant/57536249": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:23Z"
+  "checked_at": "2026-11-26T20:19:34Z"
  },
  "https://www.reed.co.uk/jobs/finance-business-partner/57536236": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:25Z"
+  "checked_at": "2026-11-26T20:19:36Z"
  },
  "https://www.reed.co.uk/jobs/financial-accountant--accounts-administration-6-month-ftc/57531036": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:27Z"
+  "checked_at": "2026-11-26T20:19:38Z"
  },
  "https://www.reed.co.uk/jobs/financial-accountant/57540747": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:29Z"
+  "checked_at": "2026-11-26T20:19:41Z"
  },
  "https://www.reed.co.uk/jobs/treasury-accountant/57534932": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:32Z"
+  "checked_at": "2026-11-26T20:19:43Z"
  },
  "https://www.reed.co.uk/jobs/finance-business-partner-grants/57523853": {
   "status": "closed",
@@ -5069,35 +5073,35 @@
  },
  "https://www.reed.co.uk/jobs/management-accountant/57532879": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:34Z"
+  "checked_at": "2026-11-26T20:19:45Z"
  },
  "https://www.reed.co.uk/jobs/group-management-accountant/57540501": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:36Z"
+  "checked_at": "2026-11-26T20:19:47Z"
  },
  "https://www.reed.co.uk/jobs/management-accountant/57531271": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:38Z"
+  "checked_at": "2026-11-26T20:19:49Z"
  },
  "https://www.reed.co.uk/jobs/service-charge-accountant/57533588": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:41Z"
+  "checked_at": "2026-11-26T20:19:52Z"
  },
  "https://www.reed.co.uk/jobs/management-accountant-fixed-term-contract/57538817": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:43Z"
+  "checked_at": "2026-11-26T20:19:54Z"
  },
  "https://www.reed.co.uk/jobs/management-accountant/57534852": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:45Z"
+  "checked_at": "2026-11-26T20:19:56Z"
  },
  "https://www.reed.co.uk/jobs/management-accountant/57523485": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:50Z"
+  "checked_at": "2026-11-26T20:20:01Z"
  },
  "https://www.reed.co.uk/jobs/management-accountant/57533298": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:52Z"
+  "checked_at": "2026-11-26T20:20:03Z"
  },
  "https://scotjobsnet.co.uk/job/finance-business-partner/": {
   "status": "live",
@@ -7611,11 +7615,11 @@
  },
  "https://www.reed.co.uk/jobs/fp-a-analyst/57580553": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:54Z"
+  "checked_at": "2026-11-26T20:20:05Z"
  },
  "https://www.reed.co.uk/jobs/operations-analyst-macro-credit/57580545": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:56Z"
+  "checked_at": "2026-11-26T20:20:07Z"
  },
  "https://www.reed.co.uk/jobs/restructuring-analyst-to-associate-investment-bank/57574373": {
   "status": "closed",
@@ -7625,23 +7629,23 @@
  },
  "https://www.reed.co.uk/jobs/credit-risk-associate-fx-forwards-3s-money/57580537": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:59Z"
+  "checked_at": "2026-11-26T20:20:09Z"
  },
  "https://www.reed.co.uk/jobs/futures-macro-quant-researcher-london-base-bonus/57575816": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:01Z"
+  "checked_at": "2026-11-26T20:20:12Z"
  },
  "https://www.reed.co.uk/jobs/risk-analyst-insurance-g-mass-consulting/57575720": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:03Z"
+  "checked_at": "2026-11-26T20:20:14Z"
  },
  "https://www.reed.co.uk/jobs/group-management-accountant/57579996": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:05Z"
+  "checked_at": "2026-11-26T20:20:16Z"
  },
  "https://www.reed.co.uk/jobs/interim-management-accountant/57576001": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:08Z"
+  "checked_at": "2026-11-26T20:20:18Z"
  },
  "https://www.reed.co.uk/jobs/analyst-associate-private-credit-french-speaker-efinancialcareers/57574595": {
   "status": "closed",
@@ -7651,27 +7655,27 @@
  },
  "https://www.reed.co.uk/jobs/financial-analyst-educate2trade-ltd/57574460": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:10Z"
+  "checked_at": "2026-11-26T20:20:21Z"
  },
  "https://www.reed.co.uk/jobs/discretionary-trader/57573877": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:12Z"
+  "checked_at": "2026-11-26T20:20:23Z"
  },
  "https://www.reed.co.uk/jobs/financial-accountant/57572548": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:14Z"
+  "checked_at": "2026-11-26T20:20:25Z"
  },
  "https://www.reed.co.uk/jobs/junior-investment-associate/57581186": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:17Z"
+  "checked_at": "2026-11-26T20:20:27Z"
  },
  "https://www.reed.co.uk/jobs/management-accountant/57581424": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:19Z"
+  "checked_at": "2026-11-26T20:20:30Z"
  },
  "https://www.reed.co.uk/jobs/business-development-specialist-private-equity/57581398": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:21Z"
+  "checked_at": "2026-11-26T20:20:32Z"
  },
  "https://www.reed.co.uk/jobs/financial-controller/57581792": {
   "status": "closed",
@@ -7681,15 +7685,15 @@
  },
  "https://www.reed.co.uk/jobs/management-accountant/57581779": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:23Z"
+  "checked_at": "2026-11-26T20:20:34Z"
  },
  "https://www.reed.co.uk/jobs/financial-analyst/57582463": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:26Z"
+  "checked_at": "2026-11-26T20:20:36Z"
  },
  "https://www.reed.co.uk/jobs/investment-associate-debt-emerging-markets-french-speaking/57582704": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:28Z"
+  "checked_at": "2026-11-26T20:20:39Z"
  },
  "https://www.reed.co.uk/jobs/interim-financial-accountant/57582939": {
   "status": "closed",
@@ -7699,11 +7703,11 @@
  },
  "https://www.reed.co.uk/jobs/leveraged-finance-credit-risk-2lod/57582934": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:30Z"
+  "checked_at": "2026-11-26T20:20:41Z"
  },
  "https://www.reed.co.uk/jobs/management-accountant/57583084": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:32Z"
+  "checked_at": "2026-11-26T20:20:43Z"
  },
  "https://www.reed.co.uk/jobs/interim-finance-analyst/57583753": {
   "status": "live",
@@ -8239,7 +8243,7 @@
  },
  "https://aig.wd1.myworkdayjobs.com/aig/job/London/Capital-Modelling-Risk-Analyst_JR2604773-1": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:38Z"
+  "checked_at": "2026-11-26T20:17:47Z"
  },
  "https://www.reed.co.uk/jobs/commercial-finance-analyst-ftc/57602703": {
   "status": "closed",
@@ -8695,7 +8699,7 @@
  },
  "https://www.reed.co.uk/jobs/management-accountant-part-time/57607006": {
   "status": "live",
-  "checked_at": "2026-11-26T12:21:47Z"
+  "checked_at": "2026-11-26T20:19:58Z"
  },
  "https://www.linkedin.com/jobs/view/financial-planning-analysis-accountant-at-knights-4494390012": {
   "status": "live",
@@ -9107,7 +9111,7 @@
  },
  "https://www.linkedin.com/jobs/view/m-a-associate-at-sumer-4484208673": {
   "status": "live",
-  "checked_at": "2026-11-26T06:13:35Z"
+  "checked_at": "2026-11-26T20:15:45Z"
  },
  "https://www.linkedin.com/jobs/view/2027-asset-management-investments-equities-analyst-training-program-london-at-jpmorganchase-4494482346": {
   "status": "live",
@@ -9275,11 +9279,11 @@
  },
  "https://www.reed.co.uk/jobs/commercial-finance-analyst/57611307": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:35Z"
+  "checked_at": "2026-11-26T20:20:45Z"
  },
  "https://www.reed.co.uk/jobs/management-accountant/57611269": {
   "status": "live",
-  "checked_at": "2026-11-26T12:22:37Z"
+  "checked_at": "2026-11-26T20:20:48Z"
  },
  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-notemachine-uk-ltd-4493420536": {
   "status": "live",
@@ -9369,27 +9373,29 @@
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-at-kennedy-pearce-consulting-4493436081": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:10Z"
+  "checked_at": "2026-11-26T20:16:20Z"
  },
  "https://www.linkedin.com/jobs/view/product-control-analyst-ftc-potential-secondment-opportunity-at-smartestenergy-uk-4467233308": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:14Z"
+  "checked_at": "2026-11-26T20:16:23Z"
  },
  "https://www.linkedin.com/jobs/view/investment-analyst-long-biased-equity-hedge-fund-at-edgworth-partners-4494657050": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:17Z"
+  "checked_at": "2026-11-26T20:16:27Z"
  },
  "https://www.linkedin.com/jobs/view/investment-banking-associate-%E2%80%93-m-a-at-cross-path-4494641799": {
-  "status": "live",
-  "checked_at": "2026-11-26T06:14:21Z"
+  "status": "closed",
+  "checked_at": "2026-11-26T20:16:30Z",
+  "closed_at": "2026-11-26T20:16:30Z",
+  "reason": "LinkedIn shows \"No longer accepting applications\" and no apply control"
  },
  "https://www.linkedin.com/jobs/view/analyst-for-valuations-disputes-bilingual-english-german-at-hays-4494923408": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:24Z"
+  "checked_at": "2026-11-26T20:16:34Z"
  },
  "https://www.linkedin.com/jobs/view/graduate-asset-management-operations-at-targetjobs-uk-4494929166": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:28Z"
+  "checked_at": "2026-11-26T20:16:37Z"
  },
  "https://www.reed.co.uk/jobs/analyst-for-valuations-disputes-bilingual-english-german/57612167": {
   "status": "live",
@@ -9405,7 +9411,7 @@
  },
  "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77172": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:50Z"
+  "checked_at": "2026-11-26T20:16:59Z"
  },
  "https://www.linkedin.com/jobs/view/finance-analyst-at-euro-car-parts-ltd-4479249437": {
   "status": "live",
@@ -9457,43 +9463,43 @@
  },
  "https://www.linkedin.com/jobs/view/fund-management-associate-leading-private-equity-fund-at-pearse-portfolio-4494939353": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:52Z"
+  "checked_at": "2026-11-26T20:17:02Z"
  },
  "https://www.linkedin.com/jobs/view/investment-operations-associate-%E2%80%93-portfolio-management-at-kennedy-pearce-consulting-4493424929": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:56Z"
+  "checked_at": "2026-11-26T20:17:05Z"
  },
  "https://www.linkedin.com/jobs/view/reporting-accountant-at-cbre-4494656807": {
   "status": "live",
-  "checked_at": "2026-11-26T06:14:59Z"
+  "checked_at": "2026-11-26T20:17:09Z"
  },
  "https://www.linkedin.com/jobs/view/management-accountant-at-ashley-kate-hr-finance-4494647634": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:03Z"
+  "checked_at": "2026-11-26T20:17:12Z"
  },
  "https://www.linkedin.com/jobs/view/finance-business-partner-at-hawthorn-one-4494661061": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:06Z"
+  "checked_at": "2026-11-26T20:17:16Z"
  },
  "https://www.linkedin.com/jobs/view/finance-associate-procure-to-pay-at-aveva-4486040689": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:10Z"
+  "checked_at": "2026-11-26T20:17:19Z"
  },
  "https://www.linkedin.com/jobs/view/assistant-accountant-at-alexander-daniels-finance-recruitment-4494648878": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:13Z"
+  "checked_at": "2026-11-26T20:17:23Z"
  },
  "https://www.linkedin.com/jobs/view/royalty-and-production-accountant-at-allotment-productions-ltd-4494658207": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:17Z"
+  "checked_at": "2026-11-26T20:17:26Z"
  },
  "https://www.linkedin.com/jobs/view/commercial-analyst-at-rise-resourcing-4494651538": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:20Z"
+  "checked_at": "2026-11-26T20:17:30Z"
  },
  "https://www.linkedin.com/jobs/view/analyst-%E2%80%93-treasury-operations-at-women-in-data%C2%AE-4493437052": {
   "status": "live",
-  "checked_at": "2026-11-26T06:15:24Z"
+  "checked_at": "2026-11-26T20:17:34Z"
  },
  "https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equities-hedge-fund/57612791": {
   "status": "live",
@@ -9585,7 +9591,7 @@
  },
  "https://www.reed.co.uk/jobs/analyst-corporate-credit-man-group-plc/57613469": {
   "status": "live",
-  "checked_at": "2026-11-26T11:23:58Z"
+  "checked_at": "2026-11-26T20:19:20Z"
  },
  "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/CA-Toronto-York-St-2425/Capital-Markets-Analyst_R0027362": {
   "status": "unknown",
@@ -10042,5 +10048,21 @@
  "https://www.reed.co.uk/jobs/management-accountant/57617124": {
   "status": "live",
   "checked_at": "2026-11-26T19:22:13Z"
+ },
+ "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Associate---Power--Energy-and-Commodity-Traders--UK-Natural-Resources-_26996365": {
+  "status": "unknown",
+  "checked_at": "2026-11-26T20:14:21Z"
+ },
+ "https://www.linkedin.com/jobs/view/technology-risk-graduate-programme-northern-ireland-september-2027-intake-at-ey-4471482450": {
+  "status": "live",
+  "checked_at": "2026-11-26T20:17:53Z"
+ },
+ "https://www.linkedin.com/jobs/view/management-accountant-at-infinite-talent-4493830997": {
+  "status": "live",
+  "checked_at": "2026-11-26T20:18:01Z"
+ },
+ "https://www.linkedin.com/jobs/view/operations-analyst-m-a-transaction-services-at-corpay-4486784380": {
+  "status": "live",
+  "checked_at": "2026-11-26T20:18:08Z"
  }
 }
