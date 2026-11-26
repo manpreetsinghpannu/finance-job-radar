@@ -2614,5 +2614,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Finance-Business-Partner_184014-3 | Vanguard | Finance Business Partner | London, United Kingdom | posted: 2026-11-26
 - [ ] https://www.reed.co.uk/jobs/pension-fund-accountant/57616704 | Wade Macdonald | Pension Fund Accountant | Reading, Berkshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/operations-accountant-at-mackie-myers-4493833531 | Mackie Myers | Operations Accountant | Norfolk, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-analyst-%E2%80%93-portfolio-optimization-at-centalion-4495507763 | Centalion | Quantitative Analyst – Portfolio Optimization | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-associate-at-sixth-street-4495031567 | Sixth Street | M&A Associate | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-regulatory-reporting-accountant-at-carey-olsen-4495027639 | Carey Olsen | Junior Regulatory Reporting Accountant | Southampton, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-abbvie-4495035628 | AbbVie | FP&A Analyst | Marlow, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-finance-assistant-f-m-at-pestana-hotel-group-4493836340 | Pestana Hotel Group | Treasury Finance Assistant (f/m) | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/rtr-accountant-at-burberry-4495500853 | Burberry | RTR Accountant | Leeds, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-productlife-group-4495509455 | ProductLife Group | Assistant Accountant | No Man's Heath, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-12m-ftc-at-finspire-talent-4495520340 | Finspire Talent | Assistant Accountant 12m FTC | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/company-accountant-at-ardeta-search-4495511382 | Ardeta Search | Company Accountant | Barnsley, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-accountant-at-jasperrose-4495511940 | JasperRose | Group Accountant | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/pricing-analyst/57617123 | Office Angels | Pricing Analyst | Bracknell, Berkshire | note: via Reed
 
 ## Processed

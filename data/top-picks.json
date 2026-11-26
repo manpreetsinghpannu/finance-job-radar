@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:20:27.548Z",
+ "generated_at": "2026-11-26T17:22:06.186Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 337,
+   "matching": 341,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 95,
+   "matching": 96,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -4955,11 +4955,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://www.linkedin.com/jobs/view/associate-finance-project-accountant-at-boldscience-4492970691": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
-  },
   "https://www.linkedin.com/jobs/view/finance-business-partner-at-isembard-4483052859": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -7375,11 +7370,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 17
   },
-  "https://www.linkedin.com/jobs/view/finance-business-partner-at-places-leisure-4494646181": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.reed.co.uk/jobs/mandarin-speaking-credit-analyst-banking/57611586": {
    "id": "credit",
    "cv": "Credit CV",
@@ -8139,6 +8129,66 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/operations-accountant-at-mackie-myers-4493833531": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-analyst-%E2%80%93-portfolio-optimization-at-centalion-4495507763": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/m-a-associate-at-sixth-street-4495031567": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/junior-regulatory-reporting-accountant-at-carey-olsen-4495027639": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 23
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-abbvie-4495035628": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/treasury-finance-assistant-f-m-at-pestana-hotel-group-4493836340": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/rtr-accountant-at-burberry-4495500853": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-productlife-group-4495509455": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-12m-ftc-at-finspire-talent-4495520340": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/company-accountant-at-ardeta-search-4495511382": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/group-accountant-at-jasperrose-4495511940": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.reed.co.uk/jobs/pricing-analyst/57617123": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

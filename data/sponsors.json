@@ -132,6 +132,11 @@
    "register_name": null,
    "match": "none"
   },
+  "AbbVie": {
+   "licensed": true,
+   "register_name": "Abbvie Limited",
+   "match": "exact"
+  },
   "Aberdeen": {
    "licensed": true,
    "register_name": "Aberdeen Group Plc",
@@ -471,6 +476,11 @@
    "licensed": true,
    "register_name": "ARCHER (UK) LIMITED",
    "match": "exact"
+  },
+  "Ardeta Search": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Ardian": {
    "licensed": true,
@@ -1077,6 +1087,11 @@
    "register_name": "Bupa",
    "match": "exact"
   },
+  "Burberry": {
+   "licensed": true,
+   "register_name": "Burberry Limited",
+   "match": "exact"
+  },
   "Burman Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -1326,6 +1341,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Carey Olsen": {
+   "licensed": true,
+   "register_name": "Carey Olsen LLP",
+   "match": "exact"
   },
   "Carousel Consultancy Ltd": {
    "licensed": false,
@@ -2118,6 +2138,11 @@
    "match": "alias"
   },
   "Finatal": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Finspire Talent": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4442,6 +4467,11 @@
    "register_name": "Octus Intelligence Limited",
    "match": "alias"
   },
+  "Office Angels": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Office Angels Limited": {
    "licensed": false,
    "register_name": null,
@@ -4747,6 +4777,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Pestana Hotel Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Pharmacy2U": {
    "licensed": true,
    "register_name": "Pharmacy2U",
@@ -4855,6 +4890,11 @@
   "Priory": {
    "licensed": true,
    "register_name": "Priory Group",
+   "match": "exact"
+  },
+  "ProductLife Group": {
+   "licensed": true,
+   "register_name": "ProductLife Ltd",
    "match": "exact"
   },
   "Project People": {
@@ -5546,6 +5586,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Sixth Street": {
+   "licensed": true,
+   "register_name": "Sixth Street Europe LLP",
+   "match": "exact"
   },
   "Skipton Building Society": {
    "licensed": true,
