@@ -2550,5 +2550,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/graduate-development-programme-%E2%80%93-finance-at-sanctuary-4495289194 | Sanctuary | Graduate Development Programme – Finance | Worcester, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-paragon-banking-group-plc-4493801606 | Paragon Banking Group PLC | Treasury Analyst | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/private-equity-associate-mid-market-at-pearse-partners-4495006608 | Pearse Partners | Private Equity Associate (Mid-Market) | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-trading-at-superdrug-4495277781 | Superdrug | Finance Analyst Trading | Croydon, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-operations-accountant-at-hw-finance-4493810493 | HW Finance | Commercial & Operations Accountant | Doncaster, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/interim-fp-a-analyst-at-investigo-4495282735 | Investigo | Interim FP&A Analyst | Luton, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/interim-credit-risk-analyst-at-alexander-lloyd-4493802841 | Alexander Lloyd | Interim Credit Risk Analyst | Surrey, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-banking-markets-investment-banking-classic-tmt-analyst-london-at-goldman-sachs-4495019503 | Goldman Sachs | Global Banking & Markets, Investment Banking, Classic, TMT, Analyst, London | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-wade-macdonald-4493817560 | Wade Macdonald | Finance Business Partner | Reading, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-baker-charles-4495283455 | Baker Charles | Management Accountant | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-management-accountant-at-alexander-daniels-finance-recruitment-4495292284 | Alexander Daniels Finance Recruitment | Commercial Management Accountant | Burton Upon Trent, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-moore-walker-partners-4495283672 | Moore Walker Partners | Investment Banking Analyst | United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed

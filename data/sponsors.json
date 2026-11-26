@@ -2472,6 +2472,11 @@
    "register_name": null,
    "match": "none"
   },
+  "HW Finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Haas F1 Team": {
    "licensed": false,
    "register_name": null,
@@ -4026,6 +4031,11 @@
    "licensed": true,
    "register_name": "MoonPay (UK) Limited",
    "match": "exact"
+  },
+  "Moore Walker Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Morgan Hunt": {
    "licensed": false,
@@ -5671,6 +5681,11 @@
    "licensed": true,
    "register_name": "Super Payments Ltd",
    "match": "exact"
+  },
+  "Superdrug": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Susquehanna": {
    "licensed": true,
