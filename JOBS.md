@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 26 Nov, 21:20** (UK time) · **1593 open roles** at 952 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 26 Nov, 22:15** (UK time) · **1592 open roles** at 951 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 26 Nov, 21:13** · hourly scan · checked 201 boards · **0 new roles**
+**Thu 26 Nov, 22:09** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Thu 26 Nov, 20:14** (5: Finance 5); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-26 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-wordsmith-ai-4495563000) | Wordsmith AI | Edinburgh, Scotland, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<details>
+<summary><b>22:09</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-26 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-wordsmith-ai-4495563000) | Wordsmith AI | Edinburgh, Scotland, United Kingdom | ✅ |
+
+</details>
 
 <sub>Nothing new at: 21:13</sub>
 
@@ -1216,13 +1231,12 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>15:12</b> · hourly scan · <b>10 new</b> → Finance 7 · Investment 1 · Fund 1 · Other 1</summary>
+<summary><b>15:12</b> · hourly scan · <b>9 new</b> → Finance 6 · Investment 1 · Fund 1 · Other 1</summary>
 
-#### Finance (FP&A) CV: 7
+#### Finance (FP&A) CV: 6
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-24 | [Graduate Finance Analyst](https://www.linkedin.com/jobs/view/graduate-finance-analyst-at-peak-international-group-4494384168) | PEAK International Group | Glasgow, Scotland, United Kingdom | ✅ |
 | 2026-11-24 | [Financial Planning & Analysis Accountant](https://www.linkedin.com/jobs/view/financial-planning-analysis-accountant-at-knights-4494390012) | Knights | Stoke-On-Trent, England, United Kingdom | ❔ |
 | 2026-11-24 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-livgreen-retrofit-specialists-4494156151) | LivGreen - Retrofit Specialists | Greater Bristol Area, United Kingdom | ❔ |
 | 2026-11-24 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-forge-talent-4494150224) | Forge Talent | Newton-Le-Willows, England, United Kingdom | ❔ |
@@ -1248,7 +1262,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | — | [Graduate Finance Assistant](https://www.reed.co.uk/jobs/graduate-finance-assistant/57607222) | Trinity House Group | London | ✅ |
 
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3377,24 +3391,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>22:05</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Portfolio Analyst (HCP Investment Team)](https://hiscox.wd3.myworkdayjobs.com/hiscox_external_site/job/Bermuda/Portfolio-Analyst--HCP-Investment-Team-_R0020554) | Hiscox | Bermuda · London - 22 Bishopsgate | ✅ |
-
-</details>
-
-<sub>Nothing new at: 21:36</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (932)](#finance-fpa-cv-932) · [Credit (183)](#credit-cv-183) · [Equity (69)](#equity-cv-69) · [Investment (168)](#investment-ib--pe-cv-168) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (45)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-45) · [Other (145)](#other-fits-no-cv-closely-may-still-be-worth-a-look-145)
+Everything matched so far, newest first within each CV: [Finance (931)](#finance-fpa-cv-931) · [Credit (183)](#credit-cv-183) · [Equity (69)](#equity-cv-69) · [Investment (168)](#investment-ib--pe-cv-168) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (45)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-45) · [Other (145)](#other-fits-no-cv-closely-may-still-be-worth-a-look-145)
 
-### Finance (FP&A) CV: 932
+### Finance (FP&A) CV: 931
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3441,6 +3442,7 @@ Everything matched so far, newest first within each CV: [Finance (932)](#finance
 | 2026-11-26 | [Junior Accountant](https://www.linkedin.com/jobs/view/junior-accountant-at-centralis-group-4472309522) | Centralis Group | Belfast, Northern Ireland, United Kingdom | ❔ |
 | 2026-11-26 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-computershare-uk-4495037375) | Computershare UK | Bristol, England, United Kingdom | ❔ |
 | 2026-11-26 | [Financial Accountant (Renewable Energy)](https://www.linkedin.com/jobs/view/financial-accountant-renewable-energy-at-hays-4495040436) | Hays | London, England, United Kingdom | ✅ |
+| 2026-11-26 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-wordsmith-ai-4495563000) | Wordsmith AI | Edinburgh, Scotland, United Kingdom | ✅ |
 | 2026-11-26 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-ellison-institute-of-technology-oxford-4495292571) | Ellison Institute of Technology Oxford | Oxford, England, United Kingdom | ✅ |
 | 2026-11-26 | [RTR Accountant](https://www.linkedin.com/jobs/view/rtr-accountant-at-burberry-4495500853) | Burberry | Leeds, England, United Kingdom | ✅ |
 | — | [Management Accountant](https://www.s1jobs.com/job/management-accountant-127807568) | S1Jobs | Scotland | ❔ |
@@ -3539,7 +3541,6 @@ Everything matched so far, newest first within each CV: [Finance (932)](#finance
 | 2026-11-24 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-goodman-masson-4494308715) | Goodman Masson | London Area, United Kingdom | ✅ |
 | 2026-11-24 | [Financial Planning Accountant](https://www.linkedin.com/jobs/view/financial-planning-accountant-at-london-borough-of-redbridge-4494394461) | London Borough of Redbridge | London, England, United Kingdom | ✅ |
 | 2026-11-24 | [Assistant Management Accountant - PQ](https://www.linkedin.com/jobs/view/assistant-management-accountant-pq-at-hays-4494311850) | Hays | Leeds, England, United Kingdom | ✅ |
-| 2026-11-24 | [Graduate Finance Analyst](https://www.linkedin.com/jobs/view/graduate-finance-analyst-at-peak-international-group-4494384168) | PEAK International Group | Glasgow, Scotland, United Kingdom | ✅ |
 | 2026-11-24 | [Financial Analyst, Incentives](https://www.linkedin.com/jobs/view/financial-analyst-incentives-at-waters-corporation-4494190357) | Waters Corporation | Wilmslow, England, United Kingdom | ✅ |
 | 2026-11-24 | [FP&A Analyst - Regulated Fintech](https://www.linkedin.com/jobs/view/fp-a-analyst-regulated-fintech-at-jss-4492696689) | JSS | London Area, United Kingdom | ❔ |
 | 2026-11-24 | [Strategic Financial Analyst](https://www.linkedin.com/jobs/view/strategic-financial-analyst-at-aej-consulting-ltd-4494117688) | AEJ Consulting Ltd | London Area, United Kingdom | ❔ |
@@ -4038,7 +4039,6 @@ Everything matched so far, newest first within each CV: [Finance (932)](#finance
 | — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57567575) | Vermelo RPO | Salford, Lancashire | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57571031) | Talent Guardian | Guildford, Surrey | ❔ |
 | 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-macgregor-black-4489734559) | MacGregor Black | Newcastle Upon Tyne, England, United Kingdom | ❔ |
-| 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-venture-recruitment-partners-4489727981) | Venture Recruitment Partners | Farnborough, England, United Kingdom | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57571916) | Kenton Black Finance | Preston, Lancashire | ❔ |
 | 2026-11-16 | [Management Accountant - GFP](https://www.linkedin.com/jobs/view/management-accountant-gfp-at-frontier-agriculture-4490673365) | Frontier Agriculture | Brigg, England, United Kingdom | ❔ |
 | 2026-11-16 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-frontier-agriculture-4490670888) | Frontier Agriculture | Witham St Hughs, England, United Kingdom | ❔ |
@@ -5030,10 +5030,12 @@ Everything matched so far, newest first within each CV: [Finance (932)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>513 roles taken off the list because the firm closed the posting</summary>
+<summary>512 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 26 Nov, 22:13 | Management Accountant | Venture Recruitment Partners |
+| Thu 26 Nov, 22:12 | Graduate Finance Analyst | PEAK International Group |
 | Thu 26 Nov, 21:15 | Equity Research Associate, European Real Estate Companies, Global Bank | Greenwich Partners |
 | Thu 26 Nov, 20:17 | Management Consultant – Comms, Media, Technology | Accenture |
 | Thu 26 Nov, 20:16 | Investment Banking Associate – M&A | Cross Path |
@@ -5544,8 +5546,5 @@ Everything matched so far, newest first within each CV: [Finance (932)](#finance
 | Fri 20 Nov, 01:07 | Finance Analyst | The Scottish National Investment Bank |
 | Fri 20 Nov, 00:07 | Finance Analyst | News UK |
 | Thu 19 Nov, 23:06 | Finance Business Partner | CMC Consulting Ltd |
-| Thu 19 Nov, 22:08 | Management Accountant | Handle Recruitment |
-| Thu 19 Nov, 22:07 | Investment Analyst | Alexander Chapman |
-| Thu 19 Nov, 22:07 | Portfolio Finance Analyst (TWE47728) | twentyAI |
 
 </details>

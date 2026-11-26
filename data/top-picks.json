@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T21:20:14.033Z",
+ "generated_at": "2026-11-26T22:15:38.642Z",
  "order": [
   "finance",
   "credit",
@@ -2829,11 +2829,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-venture-recruitment-partners-4489727981": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
   },
   "https://www.reed.co.uk/jobs/management-accountant/57571916": {
    "id": "finance",
@@ -6625,11 +6620,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/graduate-finance-analyst-at-peak-international-group-4494384168": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 21
-  },
   "https://www.linkedin.com/jobs/view/finance-business-partner-at-forge-talent-4494150224": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -8214,6 +8204,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/finance-associate-at-wordsmith-ai-4495563000": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

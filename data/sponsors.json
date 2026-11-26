@@ -6807,6 +6807,11 @@
    "register_name": "Women in Data Limited",
    "match": "exact"
   },
+  "Wordsmith AI": {
+   "licensed": true,
+   "register_name": "Wordsmith AI Ltd",
+   "match": "exact"
+  },
   "Workforce Staffing": {
    "licensed": false,
    "register_name": null,
