@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T00:27:48.054Z",
+ "generated_at": "2026-11-26T01:21:42.530Z",
  "order": [
   "finance",
   "credit",
@@ -7899,6 +7899,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/real-estate-gaming-lodging-and-leisure-regll-investment-banking-capital-markets-ibcm-at-deutsche-bank-4495242200": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
   }
  }
 }
