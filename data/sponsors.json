@@ -377,6 +377,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Angela Mortimer": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Anglian Water Services": {
    "licensed": true,
    "register_name": "Anglian Water Services Ltd",
@@ -1667,6 +1672,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Cumming Group UK & Europe": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Currys plc": {
    "licensed": true,
    "register_name": "Currys Group Limited",
@@ -2191,6 +2201,11 @@
    "licensed": true,
    "register_name": "Freetrade Limited",
    "match": "alias"
+  },
+  "Front Row Recruitment Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Frontier Agriculture": {
    "licensed": false,
@@ -3187,6 +3202,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Keplin Group Limited": {
+   "licensed": true,
+   "register_name": "KEPLIN GROUP LIMITED",
+   "match": "exact"
+  },
   "Kier Group": {
    "licensed": true,
    "register_name": "Kier Group plc",
@@ -3813,6 +3833,11 @@
    "match": "alias"
   },
   "McGinnis Loy Associates Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "McKesson": {
    "licensed": false,
    "register_name": null,
    "match": "none"

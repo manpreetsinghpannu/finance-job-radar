@@ -2588,5 +2588,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/accountant-london-up-to-%C2%A355k-%2B-bonus-at-hunter-bond-4493433958 | Hunter Bond | Accountant | London | Up to £55k + Bonus | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-3-to-vp2-consumer-inc-consumer-health-retail-investment-banking-4495033074 | Top investment banking franchise | Associate 3 to VP2 - Consumer (inc Consumer Health) & Retail investment banking | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.s1jobs.com/job/management-accountant-127807568 | S1Jobs | Management Accountant | Scotland | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/fp-a-business-partner-at-mckesson-4487509596 | McKesson | FP&A Business Partner | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-graduate-at-keplin-group-limited-4493813977 | Keplin Group Limited | Finance Graduate | Uxbridge, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-cumming-group-uk-europe-4495015857 | Cumming Group UK & Europe | Accountant | Cardiff, Wales, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-associate-technology-at-alan-mitchell-4495032281 | Alan Mitchell | M&A Associate - Technology | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-analyst/57616072 | Wade Macdonald | Finance Analyst | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/pension-fund-accountant/57616116 | Front Row Recruitment Ltd | Pension Fund Accountant | Berkshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/private-equity-role-ea-role-in-central-london/57615866 | Angela Mortimer | Private Equity Role EA role in Central London | London | note: via Reed
 
 ## Processed
