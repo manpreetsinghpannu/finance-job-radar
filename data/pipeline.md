@@ -2569,4 +2569,24 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/service-charge-accountant-at-premier-estates-limited-4494931480 | Premier Estates Limited | Service Charge Accountant | Macclesfield, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-data-fp-a-analyst-at-succeed-recruitment-solutions-4495502119 | Succeed Recruitment Solutions | Commercial Data & FP&A Analyst | Birmingham, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 
+- [ ] https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Solution-Architect--Financial-Planning_R-00287460-2 | NatWest Group | Solution Architect, Financial Planning | London | posted: 2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-control-risks-4495284787 | Control Risks | FP&A Analyst | Cardiff, Wales, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-bruin-4493819517 | Bruin | Financial Analyst | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-data-fp-a-analyst-at-succeed-recruitment-solutions-4495502119 | Succeed Recruitment Solutions | Commercial Data & FP&A Analyst | Birmingham, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-4367-at-wade-macdonald-4493817560 | Wade Macdonald | Finance Business Partner 4367 | Reading, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-associate-invoice-to-cash-at-aveva-4303639988 | AVEVA | Finance Associate - Invoice to Cash | Cambridge, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-finance-forecasting-analyst-at-alignerr-4495251221 | Alignerr | Quantitative Finance Forecasting Analyst | United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/pe-secondaries-investment-analyst-at-arkesden-partners-4493831129 | Arkesden Partners | PE Secondaries, Investment Analyst | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-equifind-4495289359 | Equifind | Financial Accountant | Glasgow, Scotland, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-business-finance-advisor-at-westminster-commercial-finance-4495276713 | Westminster Commercial Finance | Graduate Business Finance Advisor | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/graduate-finance-assistant-at-equity-house-4495274865 | Equity House | Graduate Finance Assistant | England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-lalu-4495274607 | Lalu | Assistant Accountant | Cardiff, Wales, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-accountant-at-centralis-group-4472309522 | Centralis Group | Junior Accountant | Belfast, Northern Ireland, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-associate-at-3s-money-4493814864 | 3S Money | Finance Associate | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-ellison-institute-of-technology-oxford-4495292571 | Ellison Institute of Technology Oxford | Financial Accountant | Oxford, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/service-charge-accountant-at-premier-estates-limited-4494931480 | Premier Estates Limited | Service Charge Accountant | Macclesfield, England, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-london-up-to-%C2%A355k-%2B-bonus-at-hunter-bond-4493433958 | Hunter Bond | Accountant | London | Up to £55k + Bonus | London Area, United Kingdom | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-3-to-vp2-consumer-inc-consumer-health-retail-investment-banking-4495033074 | Top investment banking franchise | Associate 3 to VP2 - Consumer (inc Consumer Health) & Retail investment banking | London Area, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.s1jobs.com/job/management-accountant-127807568 | S1Jobs | Management Accountant | Scotland | note: via S1Jobs
+
 ## Processed

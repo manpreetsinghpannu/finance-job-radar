@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T13:24:26.168Z",
+ "generated_at": "2026-11-26T13:44:47.885Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 329,
+   "matching": 335,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -7940,15 +7940,45 @@
    "cv": "Investment (IB / PE) CV",
    "score": 18
   },
+  "https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Solution-Architect--Financial-Planning_R-00287460-2": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-control-risks-4495284787": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-bruin-4493819517": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 19
   },
+  "https://www.linkedin.com/jobs/view/commercial-data-fp-a-analyst-at-succeed-recruitment-solutions-4495502119": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
   "https://www.linkedin.com/jobs/view/finance-business-partner-4367-at-wade-macdonald-4493817560": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/finance-associate-invoice-to-cash-at-aveva-4303639988": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-finance-forecasting-analyst-at-alignerr-4495251221": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/pe-secondaries-investment-analyst-at-arkesden-partners-4493831129": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/financial-accountant-at-equifind-4495289359": {
    "id": "finance",
@@ -7975,15 +8005,35 @@
    "cv": "Finance (FP&A) CV",
    "score": 12
   },
+  "https://www.linkedin.com/jobs/view/finance-associate-at-3s-money-4493814864": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-ellison-institute-of-technology-oxford-4495292571": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
   "https://www.linkedin.com/jobs/view/service-charge-accountant-at-premier-estates-limited-4494931480": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://www.linkedin.com/jobs/view/commercial-data-fp-a-analyst-at-succeed-recruitment-solutions-4495502119": {
+  "https://www.linkedin.com/jobs/view/accountant-london-up-to-%C2%A355k-%2B-bonus-at-hunter-bond-4493433958": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/associate-3-to-vp2-consumer-inc-consumer-health-retail-investment-banking-4495033074": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.s1jobs.com/job/management-accountant-127807568": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }

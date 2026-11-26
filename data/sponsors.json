@@ -492,6 +492,11 @@
    "register_name": "ARIES GLOBAL SOFTWARE HOLDING LIMITED",
    "match": "prefix"
   },
+  "Arkesden Partners": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Arlington Resource Management": {
    "licensed": false,
    "register_name": null,
@@ -1597,6 +1602,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Control Risks": {
+   "licensed": true,
+   "register_name": "Control Risks Group Limited",
+   "match": "exact"
+  },
   "Cooper Parry Finance Recruitment": {
    "licensed": false,
    "register_name": null,
@@ -1915,6 +1925,11 @@
   "ElevenLabs": {
    "licensed": true,
    "register_name": "Eleven Labs Ltd",
+   "match": "exact"
+  },
+  "Ellison Institute of Technology Oxford": {
+   "licensed": true,
+   "register_name": "Ellison Institute of Technology, Oxford Limited",
    "match": "exact"
   },
   "Embat": {
@@ -6053,6 +6068,11 @@
    "match": "exact"
   },
   "Together - loans, mortgages & finance": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Top investment banking franchise": {
    "licensed": false,
    "register_name": null,
    "match": "none"
