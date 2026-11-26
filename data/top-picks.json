@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T04:20:00.115Z",
+ "generated_at": "2026-11-26T05:18:50.281Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 328,
+   "matching": 327,
    "picks": [
     {
      "title": "Entry Level Commercial Finance Analyst",
@@ -1735,11 +1735,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 15
   },
-  "https://www.linkedin.com/jobs/view/leveraged-finance-specialist-at-kennedy-pearce-consulting-4487499010": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 5
-  },
   "https://www.reed.co.uk/jobs/fund-accountant/57553811": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
@@ -2229,11 +2224,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/finance-business-partner-at-michael-page-4489996111": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
   },
   "https://www.s1jobs.com/job/financial-accountant-127742525": {
    "id": "finance",
@@ -3749,11 +3739,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.reed.co.uk/jobs/revenue-finance-analyst/57588529": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
   },
   "https://www.reed.co.uk/jobs/finance-graduate/57587897": {
    "id": "other",
@@ -7904,6 +7889,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/wholesale-credit-risk-london-2027-reentry-program-at-jpmorganchase-4494493114": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 29
   }
  }
 }
