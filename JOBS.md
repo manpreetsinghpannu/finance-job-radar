@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 26 Nov, 20:20** (UK time) · **1594 open roles** at 953 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 26 Nov, 21:20** (UK time) · **1593 open roles** at 952 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,17 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 26 Nov, 20:14** · hourly scan · checked 201 boards · **5 new roles**
+**Thu 26 Nov, 21:13** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 5
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-26 | [Management Accountant / Financial & Project Analyst (12mths FTC)](https://www.linkedin.com/jobs/view/management-accountant-financial-project-analyst-12mths-ftc-at-london-irish-centre-4495549083) | London Irish Centre | Camden Town, England, United Kingdom | ❔ |
-| 2026-11-26 | [Finance Business Partner- Managed Estate](https://www.linkedin.com/jobs/view/finance-business-partner-managed-estate-at-st-austell-brewery-4495532762) | St Austell Brewery | St Austell, England, United Kingdom | ✅ |
-| 2026-11-26 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-sbfm-4493844566) | SBFM | Sheffield, England, United Kingdom | ❔ |
-| 2026-11-26 | [Management Accountant - THG Fulfil](https://www.linkedin.com/jobs/view/management-accountant-thg-fulfil-at-thg-ingenuity-4476465784) | THG Ingenuity | Manchester, England, United Kingdom | ❔ |
-| 2026-11-26 | [Associate Client Accountant (ACCA part-qualified with 1-2 yrs exp)](https://www.linkedin.com/jobs/view/associate-client-accountant-acca-part-qualified-with-1-2-yrs-exp-at-csc-4477309175) | CSC | London, England, United Kingdom | ✅ |
+Nothing new this time. The last scan that found something was **Thu 26 Nov, 20:14** (5: Finance 5); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -66,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<sub>Nothing new at: 21:13</sub>
 
 <details>
 <summary><b>20:14</b> · hourly scan · <b>5 new</b> → Finance 5</summary>
@@ -586,7 +580,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>17:13</b> · hourly scan · <b>30 new</b> → Finance 20 · Credit 4 · Equity 2 · Investment 2 · Fund 1 · Other 1</summary>
+<summary><b>17:13</b> · hourly scan · <b>29 new</b> → Finance 20 · Credit 4 · Equity 1 · Investment 2 · Fund 1 · Other 1</summary>
 
 #### Finance (FP&A) CV: 20
 
@@ -622,11 +616,10 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-25 | [Quantitative Risk Analyst](https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-glencore-4494921770) | Glencore | London, England, United Kingdom | ✅ |
 | 2026-11-25 | [Quantitative Risk Analyst](https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-paragon-alpha-hedge-fund-talent-business-4484484409) | Paragon Alpha - Hedge Fund Talent Business | London Area, United Kingdom | ❔ |
 
-#### Equity CV: 2
+#### Equity CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-25 | [Equity Research Associate, European Real Estate Companies, Global Bank](https://www.linkedin.com/jobs/view/equity-research-associate-european-real-estate-companies-global-bank-at-greenwich-partners-4494655287) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | — | [Quantitative Researcher Systematic Equities Hedge Fund](https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equities-hedge-fund/57612791) | eFinancialCareers | London | ✅ |
 
 #### Investment (IB / PE) CV: 2
@@ -647,6 +640,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-25 | [Junior Quantitative Researcher, Commodities and Cross Asset](https://www.linkedin.com/jobs/view/junior-quantitative-researcher-commodities-and-cross-asset-at-neuberger-4460293314) | Neuberger | London Area, United Kingdom | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3395,20 +3390,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 21:36</sub>
 
-<details>
-<summary><b>21:10</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Quantitative Researcher, Systematic Equities](https://www.linkedin.com/jobs/view/quantitative-researcher-systematic-equities-at-millennium-4371171326) | Millennium | London, England, United Kingdom | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (932)](#finance-fpa-cv-932) · [Credit (183)](#credit-cv-183) · [Equity (70)](#equity-cv-70) · [Investment (168)](#investment-ib--pe-cv-168) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (45)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-45) · [Other (145)](#other-fits-no-cv-closely-may-still-be-worth-a-look-145)
+Everything matched so far, newest first within each CV: [Finance (932)](#finance-fpa-cv-932) · [Credit (183)](#credit-cv-183) · [Equity (69)](#equity-cv-69) · [Investment (168)](#investment-ib--pe-cv-168) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (45)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-45) · [Other (145)](#other-fits-no-cv-closely-may-still-be-worth-a-look-145)
 
 ### Finance (FP&A) CV: 932
 
@@ -4535,14 +4519,13 @@ Everything matched so far, newest first within each CV: [Finance (932)](#finance
 | 2026-10-27 | [Graduate Credit Policy Analyst](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Policy-Analyst_JR_10039776-1) | Ayvens | Bristol CEC | ✅ |
 | 2026-10-09 | [Credit Portfolio Group – XVA Pricing & Capital Solutions EMEA - Analyst or Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210798397) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Equity CV: 70
+### Equity CV: 69
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-26 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-impax-asset-management-4494999961) | Impax Asset Management | London, England, United Kingdom | ✅ |
 | 2026-11-26 | [PE Secondaries, Investment Analyst](https://www.linkedin.com/jobs/view/pe-secondaries-investment-analyst-at-arkesden-partners-4493831129) | Arkesden Partners | London Area, United Kingdom | ❔ |
 | 2026-11-25 | [Equity Research Analyst - Global Media & Internet](https://www.linkedin.com/jobs/view/equity-research-analyst-global-media-internet-at-mason-blake-4494952310) | Mason Blake | London Area, United Kingdom | ❔ |
-| 2026-11-25 | [Equity Research Associate, European Real Estate Companies, Global Bank](https://www.linkedin.com/jobs/view/equity-research-associate-european-real-estate-companies-global-bank-at-greenwich-partners-4494655287) | Greenwich Partners | Greater London, England, United Kingdom | ❔ |
 | 2026-11-25 | [Investment Analyst - Long-Biased Equity Hedge Fund](https://www.linkedin.com/jobs/view/investment-analyst-long-biased-equity-hedge-fund-at-edgworth-partners-4494657050) | Edgworth Partners | London Area, United Kingdom | ❔ |
 | 2026-11-25 | [2027 Asset Management Investments - Equities - Analyst Training Program - London](https://www.linkedin.com/jobs/view/2027-asset-management-investments-equities-analyst-training-program-london-at-jpmorganchase-4494482346) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-25 | [Emerging Market Trader, Equities](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Emerging-Market-Trader--Equities_261012293) | Citi | London United Kingdom | ✅ |
@@ -5051,6 +5034,7 @@ Everything matched so far, newest first within each CV: [Finance (932)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 26 Nov, 21:15 | Equity Research Associate, European Real Estate Companies, Global Bank | Greenwich Partners |
 | Thu 26 Nov, 20:17 | Management Consultant – Comms, Media, Technology | Accenture |
 | Thu 26 Nov, 20:16 | Investment Banking Associate – M&A | Cross Path |
 | Thu 26 Nov, 20:15 | Management Accountant | APL Media Limited |
@@ -5563,6 +5547,5 @@ Everything matched so far, newest first within each CV: [Finance (932)](#finance
 | Thu 19 Nov, 22:08 | Management Accountant | Handle Recruitment |
 | Thu 19 Nov, 22:07 | Investment Analyst | Alexander Chapman |
 | Thu 19 Nov, 22:07 | Portfolio Finance Analyst (TWE47728) | twentyAI |
-| Thu 19 Nov, 21:13 | Assistant Management Accountant | DPD UK |
 
 </details>

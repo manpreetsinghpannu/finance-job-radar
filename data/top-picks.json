@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:20:50.025Z",
+ "generated_at": "2026-11-26T21:20:14.033Z",
  "order": [
   "finance",
   "credit",
@@ -7439,11 +7439,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 17
-  },
-  "https://www.linkedin.com/jobs/view/equity-research-associate-european-real-estate-companies-global-bank-at-greenwich-partners-4494655287": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 20
   },
   "https://www.linkedin.com/jobs/view/junior-quantitative-researcher-commodities-and-cross-asset-at-neuberger-4460293314": {
    "id": "other",
