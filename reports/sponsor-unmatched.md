@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1397 firms checked, 649 matched, 748 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1408 firms checked, 651 matched, 757 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (748)
+## Not found (757)
 
 - 01Health
 - 7IM
@@ -108,9 +108,11 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Blood Cancer UK
 - Bloom Money
 - Booker
+- Booker Group
 - Brainkind
 - BrewDog
 - Brewer Morris
+- Brex
 - Briggs Equipment
 - Brit Insurance
 - British Gas
@@ -266,6 +268,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Gemini
 - Gen II Fund Services
 - Generali Global Corporate & Commercial
+- Generator
 - Get Recruited
 - Gibson Recruitment Limited
 - Gleeson Recruitment Group
@@ -404,6 +407,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lottie
 - Lucy Developments
 - Lucy Group
+- Lyons Recruitment
 - Lyreco
 - M&G FA Limited
 - M&T Bank
@@ -416,6 +420,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - MFS Investment Management
 - MK CONSULT LTD
 - MM recruitment
+- MONTPELLIER RESOURCING ASSOCIATES LIMITED
 - MacGregor Black
 - Maceo Search Limited
 - Mackie Myers
@@ -433,6 +438,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Martis Search
 - Mason Blake
 - Matched Group
+- Mayfair & Mayfair
 - McGinnis Loy Associates Ltd
 - McKesson
 - Medlock Partners
@@ -452,6 +458,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Miller Homes Ltd
 - Millwall Football Club
 - Milton Keynes City Council
+- Milton Keynes Preparatory School
 - Mint Velvet
 - Mitchell Adam
 - Mollie
@@ -527,6 +534,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Platinum Recruitment Group
 - Platinum Recruitment Group Ltd
 - Point One - Hedge Fund Talent
+- Popeyes - UK
 - Portman Finance Group
 - Premier Estates Limited
 - Preventx
@@ -701,6 +709,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Veolia
 - Veracious Talent Partners
 - Veracious Talent Partners Ltd
+- Vermelo
 - Vermelo RPO
 - Vero Recruitment
 - Vertex Associates - Accountancy and Finance Recruitment
@@ -755,7 +764,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - via ScotJobsNet
 - Şişecam
 
-## Matched automatically by close name; worth a glance (85)
+## Matched automatically by close name; worth a glance (86)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - AVEVA → AVEVA Solutions Ltd (prefix)
@@ -763,6 +772,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
 - Aries Global → ARIES GLOBAL SOFTWARE HOLDING LIMITED (prefix)
+- Atomos → Atomos Investments Limited (prefix)
 - Automata → Automata Technologies Limited (prefix)
 - Balfour Beatty plc → Balfour Beatty Group Employment Limited (prefix)
 - Bank of America → Bank of America, N.A. (prefix)

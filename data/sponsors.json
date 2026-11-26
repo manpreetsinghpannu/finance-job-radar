@@ -617,6 +617,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Atomos": {
+   "licensed": true,
+   "register_name": "Atomos Investments Limited",
+   "match": "prefix"
+  },
   "Augean": {
    "licensed": false,
    "register_name": null,
@@ -977,6 +982,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Booker Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Boots UK": {
    "licensed": true,
    "register_name": "The Boots Group Services Limited",
@@ -1003,6 +1013,11 @@
    "match": "none"
   },
   "Brewer Morris": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Brex": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -2367,6 +2382,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Generator": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Genius Sports": {
    "licensed": true,
    "register_name": "Genius Sports UK Ltd",
@@ -2561,6 +2581,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "HSL Compliance": {
+   "licensed": true,
+   "register_name": "HSL COMPLIANCE LTD",
+   "match": "exact"
   },
   "HW Finance": {
    "licensed": false,
@@ -3637,6 +3662,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Lyons Recruitment": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Lyreco": {
    "licensed": false,
    "register_name": null,
@@ -3736,6 +3766,11 @@
    "licensed": true,
    "register_name": "MNK International Limited",
    "match": "exact"
+  },
+  "MONTPELLIER RESOURCING ASSOCIATES LIMITED": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "MS Amlin": {
    "licensed": true,
@@ -3907,6 +3942,11 @@
    "register_name": "Maven Securities Holding Limited.",
    "match": "alias"
   },
+  "Mayfair & Mayfair": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "McGinnis Loy Associates Ltd": {
    "licensed": false,
    "register_name": null,
@@ -4058,6 +4098,11 @@
    "match": "none"
   },
   "Milton Keynes City Council": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Milton Keynes Preparatory School": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4871,6 +4916,11 @@
    "licensed": true,
    "register_name": "Police Federation of England and Wales",
    "match": "exact"
+  },
+  "Popeyes - UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Portman Finance Group": {
    "licensed": false,
@@ -6526,6 +6576,11 @@
    "licensed": true,
    "register_name": "Verlume Ltd",
    "match": "exact"
+  },
+  "Vermelo": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Vermelo RPO": {
    "licensed": false,

@@ -113683,3 +113683,204 @@ timestamp	company	status
 2026-11-26T22:03:30.803Z	Reckitt	reachable
 2026-11-26T22:03:30.803Z	EY	reachable
 2026-11-26T22:03:30.803Z	Wipro	reachable
+2026-11-26T22:37:28.128Z	Barclays	unknown
+2026-11-26T22:37:28.128Z	Lloyds Banking Group	unknown
+2026-11-26T22:37:28.128Z	Lloyds Banking Group (Graduates)	unknown
+2026-11-26T22:37:28.128Z	NatWest Group	unknown
+2026-11-26T22:37:28.128Z	Santander	unknown
+2026-11-26T22:37:28.128Z	Skipton Building Society	unknown
+2026-11-26T22:37:28.128Z	JPMorgan Chase	reachable
+2026-11-26T22:37:28.128Z	RBC	unknown
+2026-11-26T22:37:28.128Z	RBC (Early Talent)	unknown
+2026-11-26T22:37:28.128Z	BMO	unknown
+2026-11-26T22:37:28.128Z	MUFG	unknown
+2026-11-26T22:37:28.128Z	Julius Baer	unknown
+2026-11-26T22:37:28.128Z	Lombard Odier	unknown
+2026-11-26T22:37:28.128Z	Rothschild & Co	unknown
+2026-11-26T22:37:28.128Z	Moelis	unknown
+2026-11-26T22:37:28.128Z	Moelis (University)	unknown
+2026-11-26T22:37:28.128Z	PJT Partners	unknown
+2026-11-26T22:37:28.128Z	BlackRock	unknown
+2026-11-26T22:37:28.128Z	abrdn	unknown
+2026-11-26T22:37:28.128Z	Fidelity International	unknown
+2026-11-26T22:37:28.128Z	Invesco	unknown
+2026-11-26T22:37:28.128Z	Invesco (Early Careers)	unknown
+2026-11-26T22:37:28.128Z	Baillie Gifford	unknown
+2026-11-26T22:37:28.128Z	Baillie Gifford (Early Careers)	unknown
+2026-11-26T22:37:28.128Z	Aviva Investors	unknown
+2026-11-26T22:37:28.128Z	Vanguard	unknown
+2026-11-26T22:37:28.128Z	Franklin Templeton	empty
+2026-11-26T22:37:28.128Z	T. Rowe Price	reachable
+2026-11-26T22:37:28.128Z	Wellington Management	unknown
+2026-11-26T22:37:28.128Z	Wellington Management (Campus)	unknown
+2026-11-26T22:37:28.128Z	PIMCO	unknown
+2026-11-26T22:37:28.128Z	MFS	unknown
+2026-11-26T22:37:28.128Z	Dimensional Fund Advisors	unknown
+2026-11-26T22:37:28.128Z	Hargreaves Lansdown	reachable
+2026-11-26T22:37:28.128Z	Blackstone	unknown
+2026-11-26T22:37:28.128Z	Blackstone (Campus)	unknown
+2026-11-26T22:37:28.128Z	ICG	unknown
+2026-11-26T22:37:28.128Z	Ares Management	unknown
+2026-11-26T22:37:28.128Z	Ardian	unknown
+2026-11-26T22:37:28.128Z	Bain Capital	unknown
+2026-11-26T22:37:28.128Z	Man Group	unknown
+2026-11-26T22:37:28.128Z	Brevan Howard	unknown
+2026-11-26T22:37:28.128Z	GSA Capital	reachable
+2026-11-26T22:37:28.128Z	Squarepoint Capital	reachable
+2026-11-26T22:37:28.128Z	Point72	reachable
+2026-11-26T22:37:28.128Z	Winton	reachable
+2026-11-26T22:37:28.128Z	Graham Capital	reachable
+2026-11-26T22:37:28.128Z	Quadrature Capital	reachable
+2026-11-26T22:37:28.128Z	Qube Research & Technologies	reachable
+2026-11-26T22:37:28.128Z	WorldQuant	reachable
+2026-11-26T22:37:28.128Z	Blenheim Chalcot	reachable
+2026-11-26T22:37:28.128Z	LSEG	unknown
+2026-11-26T22:37:28.128Z	LSEG (Graduates)	unknown
+2026-11-26T22:37:28.128Z	S&P Global	reachable
+2026-11-26T22:37:28.128Z	Nasdaq	reachable
+2026-11-26T22:37:28.128Z	CME Group	unknown
+2026-11-26T22:37:28.128Z	CMC Markets	unknown
+2026-11-26T22:37:28.128Z	Jane Street	reachable
+2026-11-26T22:37:28.128Z	XTX Markets	reachable
+2026-11-26T22:37:28.128Z	Flow Traders	reachable
+2026-11-26T22:37:28.128Z	IMC Trading	reachable
+2026-11-26T22:37:28.128Z	DRW	reachable
+2026-11-26T22:37:28.128Z	Tower Research Capital	reachable
+2026-11-26T22:37:28.128Z	Jump Trading	reachable
+2026-11-26T22:37:28.128Z	Maven Securities	reachable
+2026-11-26T22:37:28.128Z	iCapital	reachable
+2026-11-26T22:37:28.128Z	Wintermute	reachable
+2026-11-26T22:37:28.128Z	Financial Times	reachable
+2026-11-26T22:37:28.128Z	Aviva	unknown
+2026-11-26T22:37:28.128Z	Hiscox	unknown
+2026-11-26T22:37:28.128Z	Lloyd's of London	unknown
+2026-11-26T22:37:28.128Z	AIG	unknown
+2026-11-26T22:37:28.128Z	Simply Business	unknown
+2026-11-26T22:37:28.128Z	PwC (Experienced)	reachable
+2026-11-26T22:37:28.128Z	PwC (Campus)	reachable
+2026-11-26T22:37:28.128Z	BDO UK	unknown
+2026-11-26T22:37:28.128Z	Accenture	unknown
+2026-11-26T22:37:28.128Z	Marsh McLennan	unknown
+2026-11-26T22:37:28.128Z	Mastercard	unknown
+2026-11-26T22:37:28.128Z	Visa	unknown
+2026-11-26T22:37:28.128Z	PayPal	unknown
+2026-11-26T22:37:28.128Z	Worldpay	unknown
+2026-11-26T22:37:28.128Z	Stripe	reachable
+2026-11-26T22:37:28.128Z	Monzo	reachable
+2026-11-26T22:37:28.128Z	Revolut	empty
+2026-11-26T22:37:28.128Z	GoCardless	reachable
+2026-11-26T22:37:28.128Z	Tide	reachable
+2026-11-26T22:37:28.128Z	Ebury	reachable
+2026-11-26T22:37:28.128Z	ClearScore	reachable
+2026-11-26T22:37:28.128Z	Modulr	reachable
+2026-11-26T22:37:28.128Z	Salary Finance	reachable
+2026-11-26T22:37:28.128Z	Paddle	reachable
+2026-11-26T22:37:28.128Z	Cleo	empty
+2026-11-26T22:37:28.128Z	Zopa	reachable
+2026-11-26T22:37:28.128Z	Moneybox	empty
+2026-11-26T22:37:28.128Z	Airwallex	reachable
+2026-11-26T22:37:28.128Z	Freetrade	reachable
+2026-11-26T22:37:28.128Z	Funding Circle	reachable
+2026-11-26T22:37:28.128Z	Lendable	reachable
+2026-11-26T22:37:28.128Z	ClearBank	reachable
+2026-11-26T22:37:28.128Z	Allica Bank	reachable
+2026-11-26T22:37:28.128Z	Trading 212	reachable
+2026-11-26T22:37:28.128Z	Smarkets	reachable
+2026-11-26T22:37:28.128Z	Pleo	reachable
+2026-11-26T22:37:28.128Z	Primer	reachable
+2026-11-26T22:37:28.128Z	AstraZeneca	unknown
+2026-11-26T22:37:28.128Z	AstraZeneca (Emerging Talent)	unknown
+2026-11-26T22:37:28.128Z	GSK	unknown
+2026-11-26T22:37:28.128Z	Unilever	unknown
+2026-11-26T22:37:28.128Z	Unilever (Early Careers)	unknown
+2026-11-26T22:37:28.128Z	Diageo	unknown
+2026-11-26T22:37:28.128Z	Shell	reachable
+2026-11-26T22:37:28.128Z	Centrica	unknown
+2026-11-26T22:37:28.128Z	Rolls-Royce	unknown
+2026-11-26T22:37:28.128Z	Sky	unknown
+2026-11-26T22:37:28.128Z	Houlihan Lokey (Campus)	unknown
+2026-11-26T22:37:28.128Z	Houlihan Lokey (Lateral)	reachable
+2026-11-26T22:37:28.128Z	BBVA	unknown
+2026-11-26T22:37:28.128Z	Howden (Hyperion)	reachable
+2026-11-26T22:37:28.128Z	MS Amlin	unknown
+2026-11-26T22:37:28.128Z	Capital One UK	unknown
+2026-11-26T22:37:28.128Z	Aztec Group	unknown
+2026-11-26T22:37:28.128Z	Ayvens	reachable
+2026-11-26T22:37:28.128Z	Landsec	unknown
+2026-11-26T22:37:28.128Z	Universal Music UK	unknown
+2026-11-26T22:37:28.128Z	Rothesay (Graduates)	empty
+2026-11-26T22:37:28.128Z	Liberis	reachable
+2026-11-26T22:37:28.128Z	Octus	reachable
+2026-11-26T22:37:28.128Z	Tandem Bank	reachable
+2026-11-26T22:37:28.128Z	Octopus Energy	reachable
+2026-11-26T22:37:28.128Z	Shawbrook	reachable
+2026-11-26T22:37:28.128Z	Starling Bank	reachable
+2026-11-26T22:37:28.128Z	OakNorth	reachable
+2026-11-26T22:37:28.128Z	Stifel	reachable
+2026-11-26T22:37:28.128Z	Teneo	reachable
+2026-11-26T22:37:28.128Z	Marex	reachable
+2026-11-26T22:37:28.128Z	PKF	reachable
+2026-11-26T22:37:28.128Z	Quilter	reachable
+2026-11-26T22:37:28.128Z	Cinven	reachable
+2026-11-26T22:37:28.128Z	BGF	reachable
+2026-11-26T22:37:28.128Z	Pemberton	reachable
+2026-11-26T22:37:28.128Z	Markel	reachable
+2026-11-26T22:37:28.128Z	TrueLayer	slug_gone
+2026-11-26T22:37:28.128Z	Thought Machine	reachable
+2026-11-26T22:37:28.128Z	Marshmallow	reachable
+2026-11-26T22:37:28.128Z	Zilch	reachable
+2026-11-26T22:37:28.128Z	Seccl	reachable
+2026-11-26T22:37:28.128Z	Experian	reachable
+2026-11-26T22:37:28.128Z	WPP	reachable
+2026-11-26T22:37:28.128Z	Morgan Stanley	reachable
+2026-11-26T22:37:28.128Z	Citi	unknown
+2026-11-26T22:37:28.128Z	Mizuho	unknown
+2026-11-26T22:37:28.128Z	State Street	unknown
+2026-11-26T22:37:28.128Z	BNY	reachable
+2026-11-26T22:37:28.128Z	Northern Trust	unknown
+2026-11-26T22:37:28.128Z	ING	reachable
+2026-11-26T22:37:28.128Z	OSB Group	reachable
+2026-11-26T22:37:28.128Z	Lazard	reachable
+2026-11-26T22:37:28.128Z	Perella Weinberg	reachable
+2026-11-26T22:37:28.128Z	Panmure Liberum	reachable
+2026-11-26T22:37:28.128Z	Interpath Advisory	reachable
+2026-11-26T22:37:28.128Z	IG Group	unknown
+2026-11-26T22:37:28.128Z	Boston Consulting Group	reachable
+2026-11-26T22:37:28.128Z	Berkeley Research Group	reachable
+2026-11-26T22:37:28.128Z	Schroders	reachable
+2026-11-26T22:37:28.128Z	M&G	unknown
+2026-11-26T22:37:28.128Z	Evelyn Partners	reachable
+2026-11-26T22:37:28.128Z	Interactive Investor	reachable
+2026-11-26T22:37:28.128Z	MSCI	reachable
+2026-11-26T22:37:28.128Z	Moody's	reachable
+2026-11-26T22:37:28.128Z	EQT	reachable
+2026-11-26T22:37:28.128Z	Coller Capital	reachable
+2026-11-26T22:37:28.128Z	Millennium	reachable
+2026-11-26T22:37:28.128Z	Phoenix Group	reachable
+2026-11-26T22:37:28.128Z	Chubb	reachable
+2026-11-26T22:37:28.128Z	QBE	reachable
+2026-11-26T22:37:28.128Z	Next	reachable
+2026-11-26T22:37:28.128Z	10x Banking	empty
+2026-11-26T22:37:28.128Z	Chip	reachable
+2026-11-26T22:37:28.128Z	Moneyfarm	reachable
+2026-11-26T22:37:28.128Z	Calastone	reachable
+2026-11-26T22:37:28.128Z	Sainsbury's	reachable
+2026-11-26T22:37:28.128Z	BP	unknown
+2026-11-26T22:37:28.128Z	BAE Systems	reachable
+2026-11-26T22:37:28.128Z	Rightmove	reachable
+2026-11-26T22:37:28.128Z	Auto Trader	reachable
+2026-11-26T22:37:28.128Z	Marks & Spencer	reachable
+2026-11-26T22:37:28.128Z	Pearson	reachable
+2026-11-26T22:37:28.128Z	Informa	reachable
+2026-11-26T22:37:28.128Z	Talan	reachable
+2026-11-26T22:37:28.128Z	Nomura	reachable
+2026-11-26T22:37:28.128Z	SMBC	reachable
+2026-11-26T22:37:28.128Z	Sopra Steria	reachable
+2026-11-26T22:37:28.128Z	ICF	unknown
+2026-11-26T22:37:28.128Z	Janus Henderson	reachable
+2026-11-26T22:37:28.128Z	Royal London	reachable
+2026-11-26T22:37:28.128Z	AXA UK	empty
+2026-11-26T22:37:28.128Z	BT Group	reachable
+2026-11-26T22:37:28.128Z	Reckitt	reachable
+2026-11-26T22:37:28.128Z	EY	reachable
+2026-11-26T22:37:28.128Z	Wipro	reachable

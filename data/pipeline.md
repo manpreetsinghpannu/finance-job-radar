@@ -2648,5 +2648,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-financial-project-analyst-12mths-ftc-at-london-irish-centre-4495549083 | London Irish Centre | Management Accountant / Financial & Project Analyst (12mths FTC) | Camden Town, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-managed-estate-at-st-austell-brewery-4495532762 | St Austell Brewery | Finance Business Partner- Managed Estate | St Austell, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-associate-at-wordsmith-ai-4495563000 | Wordsmith AI | Finance Associate | Edinburgh, Scotland, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.adzuna.co.uk/jobs/details/5979979860 | Atomos | Financial Planning Associate - London | New Cross, South East London | posted: 2026-11-26 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5979963026 | Lyons Recruitment | Group Financial Controller | Crossgates, Leeds | posted: 2026-11-26 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5979959654 | Mayfair & Mayfair | Finance Analyst | London, UK | posted: 2026-11-26 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5979792401 | Brex | Credit Policy & Governance Associate | UK | posted: 2026-11-26 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5979790675 | Booker Group | Credit Adminstrator | Manchester, Greater Manchester | posted: 2026-11-26 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5979790318 | IDA Recruitment Ltd | Management Accountant | St Lukes, Central London | posted: 2026-11-26 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5979783789 | MONTPELLIER RESOURCING ASSOCIATES LIMITED | Credit Analyst (Commercial Real Estate) | London, UK | posted: 2026-11-26 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5979673900 | Generator | Group Accountant | London, UK | posted: 2026-11-26 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5979542473 | Vermelo | Pricing Analyst | Bretton, Peterborough | posted: 2026-11-26 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5979427503 | Popeyes - UK | Property Management Accountant | West London, London | posted: 2026-11-26 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5979426933 | Milton Keynes Preparatory School | Group Accountant | UK | posted: 2026-11-26 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5979406615 | Capco | Management Consultant - Finance Transformation | Edinburgh, Scotland | posted: 2026-11-26 | note: via Adzuna
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-hsl-compliance-4495061100 | HSL Compliance | Management Accountant | Chorley, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-accountant-12-month-contract-at-distinct-b-corp-4495564076 | Distinct | B Corp | Treasury Accountant - 12 month contract | West Yorkshire, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed
