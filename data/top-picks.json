@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T08:20:07.098Z",
+ "generated_at": "2026-11-26T09:19:48.625Z",
  "order": [
   "finance",
   "credit",
@@ -1144,11 +1144,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 7
-  },
-  "https://www.s1jobs.com/job/quantity-surveyor-127660487": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://www.reed.co.uk/jobs/revenue-finance-business-partner/57537707": {
    "id": "finance",

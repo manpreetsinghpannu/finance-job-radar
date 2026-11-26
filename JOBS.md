@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 26 Nov, 08:20** (UK time) · **1527 open roles** at 907 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 26 Nov, 09:19** (UK time) · **1526 open roles** at 907 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 26 Nov, 08:12** · hourly scan · checked 201 boards · **0 new roles**
+**Thu 26 Nov, 09:11** · hourly scan · checked 201 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Thu 26 Nov, 07:10** (1: Investment 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Thursday 26 November
 
-<sub>Nothing new at: 08:12</sub>
+<sub>Nothing new at: 09:11, 08:12</sub>
 
 <details>
 <summary><b>07:10</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -3292,26 +3292,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>09:04</b> · hourly scan · <b>2 new</b> → Finance 1 · Fund 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-burman-recruitment-4492297561) | Burman Recruitment | London Area, United Kingdom | ❔ |
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-finatal-4492407405) | Finatal | London Area, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (887)](#finance-fpa-cv-887) · [Credit (179)](#credit-cv-179) · [Equity (69)](#equity-cv-69) · [Investment (158)](#investment-ib--pe-cv-158) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (887)](#finance-fpa-cv-887) · [Credit (179)](#credit-cv-179) · [Equity (69)](#equity-cv-69) · [Investment (158)](#investment-ib--pe-cv-158) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (140)](#other-fits-no-cv-closely-may-still-be-worth-a-look-140)
 
 ### Finance (FP&A) CV: 887
 
@@ -4734,7 +4717,7 @@ Everything matched so far, newest first within each CV: [Finance (887)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 141
+### Other (fits no CV closely, may still be worth a look): 140
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4856,7 +4839,6 @@ Everything matched so far, newest first within each CV: [Finance (887)](#finance
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127688367) | S1Jobs | Scotland | ❔ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127680087) | S1Jobs | Scotland | ❔ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127662881) | S1Jobs | Scotland | ❔ |
-| — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127660487) | S1Jobs | Scotland | ❔ |
 | 2026-11-06 | [Private Bank, Endowments & Foundations Portfolio Management Team , Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804829) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-11-06 | [Graduate - Relationship Banking](https://www.linkedin.com/jobs/view/graduate-relationship-banking-at-hsbc-innovation-banking-4488414352) | HSBC Innovation Banking | London, England, United Kingdom | ❔ |
 | 2026-11-06 | [Graduate trainee - accountancy](https://www.linkedin.com/jobs/view/graduate-trainee-accountancy-at-sd-business-management-4488153360) | SD Business Management | Glasgow City, Scotland, United Kingdom | ❔ |
@@ -4883,10 +4865,11 @@ Everything matched so far, newest first within each CV: [Finance (887)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>493 roles taken off the list because the firm closed the posting</summary>
+<summary>494 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 26 Nov, 09:19 | Quantity Surveyor | S1Jobs |
 | Thu 26 Nov, 07:13 | Associate, Private Markets Data Management | BlackRock |
 | Thu 26 Nov, 07:13 | Associate, Private Credit | Invesco |
 | Thu 26 Nov, 05:38 | Revenue Finance Analyst | Hays Specialist Recruitment Limited |
