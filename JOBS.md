@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 26 Nov, 05:40** (UK time) · **1527 open roles** at 907 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 26 Nov, 06:22** (UK time) · **1528 open roles** at 907 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 26 Nov, 05:31** · hourly scan · checked 201 boards · **0 new roles**
+**Thu 26 Nov, 06:12** · hourly scan · checked 201 boards · **0 new roles**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-25 | [Wholesale Credit Risk - London - 2027 ReEntry Program](https://www.linkedin.com/jobs/view/wholesale-credit-risk-london-2027-reentry-program-at-jpmorganchase-4494493114) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Thu 26 Nov, 03:34** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -63,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Thursday 26 November
 
-<sub>Nothing new at: 05:31, 04:11</sub>
+<sub>Nothing new at: 06:12, 05:31, 04:11</sub>
 
 <details>
 <summary><b>03:34</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -3324,11 +3320,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 06:04</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (887)](#finance-fpa-cv-887) · [Credit (179)](#credit-cv-179) · [Equity (69)](#equity-cv-69) · [Investment (158)](#investment-ib--pe-cv-158) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (887)](#finance-fpa-cv-887) · [Credit (180)](#credit-cv-180) · [Equity (69)](#equity-cv-69) · [Investment (158)](#investment-ib--pe-cv-158) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
 ### Finance (FP&A) CV: 887
 
@@ -4222,7 +4216,7 @@ Everything matched so far, newest first within each CV: [Finance (887)](#finance
 | 2026-10-20 | [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) | Capital One UK | Nottingham, Eng | ✅ |
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 
-### Credit CV: 179
+### Credit CV: 180
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
