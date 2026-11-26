@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T15:45:08.290Z",
+ "generated_at": "2026-11-26T16:20:27.548Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 336,
+   "matching": 337,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -8129,6 +8129,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 9
+  },
+  "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Finance-Business-Partner_184014-3": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.reed.co.uk/jobs/pension-fund-accountant/57616704": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 10
   }
  }
 }

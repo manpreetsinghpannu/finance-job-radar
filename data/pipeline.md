@@ -2612,4 +2612,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/fund-accountant/57616180 | Reed | Fund Accountant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant-12m-ftc/57616559 | Finspire Talent Limited | Assistant Accountant 12m FTC | London | note: via Reed
 
+- [ ] https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Finance-Business-Partner_184014-3 | Vanguard | Finance Business Partner | London, United Kingdom | posted: 2026-11-26
+- [ ] https://www.reed.co.uk/jobs/pension-fund-accountant/57616704 | Wade Macdonald | Pension Fund Accountant | Reading, Berkshire | note: via Reed
+
 ## Processed

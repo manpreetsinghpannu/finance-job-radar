@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 26 Nov, 15:45** (UK time) · **1576 open roles** at 942 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 26 Nov, 16:20** (UK time) · **1578 open roles** at 942 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,42 +10,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 26 Nov, 15:34** · hourly scan · checked 201 boards · **14 new roles**
+**Thu 26 Nov, 16:11** · hourly scan · checked 201 boards · **2 new roles**
 
-### Finance (FP&A) CV: 8
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-26 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-inpost-uk-4495500445) | InPost UK | Edinburgh, Scotland, United Kingdom | ✅ |
-| 2026-11-26 | [Financial Analyst (Costing & Management Reporting)](https://www.linkedin.com/jobs/view/financial-analyst-costing-management-reporting-at-mecc-alte-uk-limited-4495299449) | MECC ALTE (UK) LIMITED | Oakham, England, United Kingdom | ❔ |
-| 2026-11-26 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-metro-4495510235) | Metro | Birmingham, England, United Kingdom | ✅ |
-| 2026-11-26 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-jss-4493829313) | JSS | London Area, United Kingdom | ❔ |
-| — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57616178) | Mackie Myers | London | ❔ |
-| 2026-11-26 | [Commercial Management Accountant](https://www.linkedin.com/jobs/view/commercial-management-accountant-at-the-british-psychological-society-4495027601) | The British Psychological Society | Leicester, England, United Kingdom | ❔ |
-| 2026-11-26 | [Finance, UK & Europe Financial Accountant, Based in London](https://www.linkedin.com/jobs/view/finance-uk-europe-financial-accountant-based-in-london-at-nuveen-a-tiaa-company-4486500562) | Nuveen, a TIAA company | Greater London, England, United Kingdom | ❔ |
-| — | [Assistant Accountant 12m FTC](https://www.reed.co.uk/jobs/assistant-accountant-12m-ftc/57616559) | Finspire Talent Limited | London | ❔ |
-
-### Credit CV: 4
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-26 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-at-radius-4487745097) | Radius | Crewe, England, United Kingdom | ✅ |
-| — | [Credit structuring, asset side](https://careers.nomura.com/Nomura/job/London-Credit-structuring%2C-asset-side-Lond-EC4R-3AB/1454017900/) | Nomura | London | ✅ |
-| 2026-11-26 | [Credit Adminstrator](https://www.linkedin.com/jobs/view/credit-adminstrator-at-booker-4495030514) | Booker | Eccles, England, United Kingdom | ❔ |
-| 2026-11-26 | [Market Risk Control Specialist - Structured Rates](https://www.linkedin.com/jobs/view/market-risk-control-specialist-structured-rates-at-ubs-4474978358) | UBS | London, England, United Kingdom | ❔ |
+| 2026-11-26 | [Finance Business Partner](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Finance-Business-Partner_184014-3) | Vanguard | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 2
+### Fund CV (written for India; tweak the header for UK roles): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-26 | [Pension Fund Accountant](https://www.linkedin.com/jobs/view/pension-fund-accountant-at-front-row-recruitment-4493832225) | Front Row Recruitment | West Berkshire, England, United Kingdom | ❔ |
-| — | [Fund Accountant](https://www.reed.co.uk/jobs/fund-accountant/57616180) | Reed | London | ❔ |
+| — | [Pension Fund Accountant](https://www.reed.co.uk/jobs/pension-fund-accountant/57616704) | Wade Macdonald | Reading, Berkshire | ❔ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (336 matching)
+**Finance (FP&A) CV** (337 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-michael-page-4494635064) · Michael Page · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-autotrader-4494905507) · Autotrader · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
@@ -85,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<details>
+<summary><b>16:11</b> · hourly scan · <b>2 new</b> → Finance 1 · Fund 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-26 | [Finance Business Partner](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Finance-Business-Partner_184014-3) | Vanguard | London, United Kingdom | ✅ |
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| — | [Pension Fund Accountant](https://www.reed.co.uk/jobs/pension-fund-accountant/57616704) | Wade Macdonald | Reading, Berkshire | ❔ |
+
+</details>
 
 <details>
 <summary><b>15:34</b> · hourly scan · <b>14 new</b> → Finance 8 · Credit 4 · Fund 2</summary>
@@ -3375,38 +3375,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>16:05</b> · hourly scan · <b>7 new</b> → Finance 5 · Equity 1 · Other 1</summary>
-
-#### Finance (FP&A) CV: 5
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-futures-4492153927) | Futures | Manchester Area, United Kingdom | ❔ |
-| — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57593086) | Accountable Recruitment | Liverpool, Merseyside | ❔ |
-| — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57593394) | Mitchell Adam | Birmingham, West Midlands (County) | ❔ |
-| 2026-11-19 | [Financial Planning & Analysis Specialist (global revenue team)](https://www.linkedin.com/jobs/view/financial-planning-analysis-specialist-global-revenue-team-at-sapiens-4492446853) | Sapiens | London, England, United Kingdom | ✅ |
-| — | [Group Development and Fixed Asset Accountant](https://www.reed.co.uk/jobs/group-development-and-fixed-asset-accountant/57593231) | hireful. | Chatham, Kent | ❔ |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Portfolio Analyst - Part Time - 21 hours per week](https://www.reed.co.uk/jobs/portfolio-analyst-part-time-21-hours-per-week/57593055) | Great Places Housing Association | Manchester, Lancashire | ❔ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-19 | [Graduate Finance Trainee](https://www.linkedin.com/jobs/view/graduate-finance-trainee-at-sanctuary-graduates-apprentices-4492168599) | Sanctuary Graduates & Apprentices | Newcastle Upon Tyne, England, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (916)](#finance-fpa-cv-916) · [Credit (184)](#credit-cv-184) · [Equity (70)](#equity-cv-70) · [Investment (167)](#investment-ib--pe-cv-167) · [Consulting (24)](#consulting-cv-24) · [Real Estate (28)](#real-estate-cv-28) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (143)](#other-fits-no-cv-closely-may-still-be-worth-a-look-143)
+Everything matched so far, newest first within each CV: [Finance (917)](#finance-fpa-cv-917) · [Credit (184)](#credit-cv-184) · [Equity (70)](#equity-cv-70) · [Investment (167)](#investment-ib--pe-cv-167) · [Consulting (24)](#consulting-cv-24) · [Real Estate (28)](#real-estate-cv-28) · [Fund (45)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-45) · [Other (143)](#other-fits-no-cv-closely-may-still-be-worth-a-look-143)
 
-### Finance (FP&A) CV: 916
+### Finance (FP&A) CV: 917
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3420,6 +3393,7 @@ Everything matched so far, newest first within each CV: [Finance (916)](#finance
 | 2026-11-26 | [Commercial Data & FP&A Analyst](https://www.linkedin.com/jobs/view/commercial-data-fp-a-analyst-at-succeed-recruitment-solutions-4495502119) | Succeed Recruitment Solutions | Birmingham, England, United Kingdom | ❔ |
 | 2026-11-26 | [Solution Architect, Financial Planning](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Solution-Architect--Financial-Planning_R-00287460-2) | NatWest Group | London | ✅ |
 | 2026-11-26 | [Financial Analyst (Costing & Management Reporting)](https://www.linkedin.com/jobs/view/financial-analyst-costing-management-reporting-at-mecc-alte-uk-limited-4495299449) | MECC ALTE (UK) LIMITED | Oakham, England, United Kingdom | ❔ |
+| 2026-11-26 | [Finance Business Partner](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Finance-Business-Partner_184014-3) | Vanguard | London, United Kingdom | ✅ |
 | 2026-11-26 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-metro-4495510235) | Metro | Birmingham, England, United Kingdom | ✅ |
 | 2026-11-26 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-baker-charles-4495283455) | Baker Charles | London Area, United Kingdom | ❔ |
 | 2026-11-26 | [FP&A Business Partner](https://www.linkedin.com/jobs/view/fp-a-business-partner-at-mckesson-4487509596) | McKesson | London Area, United Kingdom | ❔ |
@@ -4825,7 +4799,7 @@ Everything matched so far, newest first within each CV: [Finance (916)](#finance
 | — | [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 44
+### Fund CV (written for India; tweak the header for UK roles): 45
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4833,6 +4807,7 @@ Everything matched so far, newest first within each CV: [Finance (916)](#finance
 | 2026-11-26 | [Pension Fund Accountant](https://www.linkedin.com/jobs/view/pension-fund-accountant-at-front-row-recruitment-4493832225) | Front Row Recruitment | West Berkshire, England, United Kingdom | ❔ |
 | — | [Fund Accountant](https://www.reed.co.uk/jobs/fund-accountant/57616180) | Reed | London | ❔ |
 | — | [Pension Fund Accountant](https://www.reed.co.uk/jobs/pension-fund-accountant/57616116) | Front Row Recruitment Ltd | Berkshire | ❔ |
+| — | [Pension Fund Accountant](https://www.reed.co.uk/jobs/pension-fund-accountant/57616704) | Wade Macdonald | Reading, Berkshire | ❔ |
 | 2026-11-25 | [Investment Operations Associate – Portfolio Management](https://www.linkedin.com/jobs/view/investment-operations-associate-%E2%80%93-portfolio-management-at-kennedy-pearce-consulting-4493424929) | Kennedy Pearce Consulting | Greater London, England, United Kingdom | ❔ |
 | — | [Fund Accountant](https://www.reed.co.uk/jobs/fund-accountant/57610649) | Wade Macdonald | Basingstoke, Hampshire | ❔ |
 | 2026-11-24 | [Assistant Fund Accountant](https://www.linkedin.com/jobs/view/assistant-fund-accountant-at-langham-hall-4493007443) | Langham Hall | London Area, United Kingdom | ✅ |
