@@ -2638,4 +2638,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/3rd-level-treasury-systems-support-consultant-with-fis-integrity-treasury-management-systems-tms-at-free-work-uk-4495511705 | Free-Work UK | 3rd Level Treasury Systems Support Consultant with FIS Integrity Treasury Management Systems TMS | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57617124 | Accountable Recruitment | Management Accountant | Warrington, Cheshire | note: via Reed
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Corporate-Banking-Associate---Power--Energy-and-Commodity-Traders--UK-Natural-Resources-_26996365 | Citi | Corporate Banking Associate - Power, Energy and Commodity Traders (UK Natural Resources) | London United Kingdom | posted: 2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/technology-risk-graduate-programme-northern-ireland-september-2027-intake-at-ey-4471482450 | EY | Technology Risk Graduate Programme - Northern Ireland - September 2027 intake | Londonderry, Northern Ireland, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-infinite-talent-4493830997 | Infinite Talent | Management Accountant | West Midlands, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/operations-analyst-m-a-transaction-services-at-corpay-4486784380 | Corpay | Operations Analyst - M&A Transaction Services | London, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+
 ## Processed

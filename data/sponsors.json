@@ -1667,6 +1667,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Corpay": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Coventry City Council": {
    "licensed": true,
    "register_name": "Coventry City Council",
@@ -2978,6 +2983,11 @@
    "match": "exact"
   },
   "Independent Office for Police Conduct": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Infinite Talent": {
    "licensed": false,
    "register_name": null,
    "match": "none"
