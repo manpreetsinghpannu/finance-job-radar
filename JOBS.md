@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 26 Nov, 03:47** (UK time) · **1531 open roles** at 907 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 26 Nov, 04:20** (UK time) · **1531 open roles** at 907 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 26 Nov, 03:34** · hourly scan · checked 201 boards · **1 new role**
+**Thu 26 Nov, 04:11** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-25 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-go-off-road-powersports-4495213283) | Go Off Road Powersports | Wakefield, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Thu 26 Nov, 03:34** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<sub>Nothing new at: 04:11</sub>
 
 <details>
 <summary><b>03:34</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -3346,8 +3344,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-18 | [Portfolio Financing and Optimization Trader](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Portfolio-Financing-and-Optimization-Trader_261008294) | Citi | London United Kingdom | ✅ |
 
 </details>
-
-<sub>Nothing new at: 04:04</sub>
 
 ## All open roles by CV
 
