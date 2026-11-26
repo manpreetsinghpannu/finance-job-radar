@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Thu 26 Nov, 01:21** (UK time) · **1531 open roles** at 906 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Thu 26 Nov, 02:23** (UK time) · **1530 open roles** at 906 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Thu 26 Nov, 01:11** · hourly scan · checked 201 boards · **1 new role**
+**Thu 26 Nov, 02:13** · hourly scan · checked 201 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-26 | [Real Estate, Gaming, Lodging and Leisure (REGLL), Investment Banking & Capital Markets (IBCM)](https://www.linkedin.com/jobs/view/real-estate-gaming-lodging-and-leisure-regll-investment-banking-capital-markets-ibcm-at-deutsche-bank-4495242200) | Deutsche Bank | London, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Thu 26 Nov, 01:11** (1: Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<sub>Nothing new at: 02:13</sub>
 
 <details>
 <summary><b>01:11</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -3334,13 +3332,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 04:04, 03:29, 03:04, 02:52, 02:04</sub>
+<sub>Nothing new at: 04:04, 03:29, 03:04, 02:52</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (889)](#finance-fpa-cv-889) · [Credit (180)](#credit-cv-180) · [Equity (69)](#equity-cv-69) · [Investment (159)](#investment-ib--pe-cv-159) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (888)](#finance-fpa-cv-888) · [Credit (180)](#credit-cv-180) · [Equity (69)](#equity-cv-69) · [Investment (159)](#investment-ib--pe-cv-159) · [Consulting (23)](#consulting-cv-23) · [Real Estate (28)](#real-estate-cv-28) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
-### Finance (FP&A) CV: 889
+### Finance (FP&A) CV: 888
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3848,7 +3846,6 @@ Everything matched so far, newest first within each CV: [Finance (889)](#finance
 | 2026-11-18 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-investigo-4492065051) | Investigo | Central Bedfordshire, England, United Kingdom | ✅ |
 | — | [FP&A Analyst, Temp to Perm](https://www.reed.co.uk/jobs/fp-a-analyst-temp-to-perm/57590059) | Morgan McKinley | Bristol, Avon | ✅ |
 | 2026-11-18 | [Financial Planning Graduate Trainee - September 2027](https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-september-2027-at-targetjobs-uk-4491454647) | targetjobs UK | Milton Keynes, England, United Kingdom | ❔ |
-| 2026-11-18 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-culina-4492009624) | Culina | Warrington, England, United Kingdom | ❔ |
 | 2026-11-18 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-jss-4490889361) | JSS | Central Bedfordshire, England, United Kingdom | ❔ |
 | 2026-11-18 | [Financial Planning & Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-aster-group-uk-4490884603) | Aster Group UK | Dorset, England, United Kingdom | ❔ |
 | 2026-11-18 | [FP&A Analyst (4355)](https://www.linkedin.com/jobs/view/fp-a-analyst-4355-at-wade-macdonald-4491306252) | Wade Macdonald | Shoreditch, England, United Kingdom | ❔ |
@@ -4914,10 +4911,11 @@ Everything matched so far, newest first within each CV: [Finance (889)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>487 roles taken off the list because the firm closed the posting</summary>
+<summary>488 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 26 Nov, 02:17 | Financial Analyst | Culina |
 | Thu 26 Nov, 00:27 | Finance Business Partner | MBDA Missile Systems |
 | Thu 26 Nov, 00:27 | Management Accountant | GXO Logistics |
 | Thu 26 Nov, 00:27 | Assistant Financial Controller | PPHE Hotel Group |
