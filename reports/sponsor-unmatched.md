@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1419 firms checked, 653 matched, 766 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1426 firms checked, 657 matched, 769 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (766)
+## Not found (769)
 
 - 01Health
 - 7IM
@@ -483,6 +483,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Murphy
 - NC Associates
 - NEXT Wholly Owned Brands
+- NFU
 - Natixis Corporate & Investment Banking
 - Neal's Yard Remedies
 - Neuberger
@@ -542,6 +543,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Platinum Recruitment Group
 - Platinum Recruitment Group Ltd
 - Point One - Hedge Fund Talent
+- Pontoon Solutions
 - Popeyes - UK
 - Portman Finance Group
 - Premier Estates Limited
@@ -647,6 +649,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Strand Hill
 - Succeed Recruitment Solutions
 - Summit Energy Europe
+- Super Retail Group
 - Superdrug
 - Swoop Funding
 - T2M Resourcing

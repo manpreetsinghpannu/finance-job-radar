@@ -2572,6 +2572,11 @@
    "register_name": "Ground Control Studios",
    "match": "prefix"
   },
+  "Group Lotus": {
+   "licensed": true,
+   "register_name": "Lotus",
+   "match": "exact"
+  },
   "Guggenheim Securities": {
    "licensed": true,
    "register_name": "Guggenheim Securities International Ltd",
@@ -2806,6 +2811,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Henry Schein One UK": {
+   "licensed": true,
+   "register_name": "HENRY SCHEIN ONE UK LIMITED",
+   "match": "exact"
   },
   "Herbert Smith Freehills Kramer": {
    "licensed": true,
@@ -3150,6 +3160,11 @@
   "JAC Recruitment": {
    "licensed": true,
    "register_name": "JAC Recruitment (UK) Limited",
+   "match": "exact"
+  },
+  "JD.COM": {
+   "licensed": true,
+   "register_name": "JD.COM International UK Ltd",
    "match": "exact"
   },
   "JJ SEARCH LIMITED": {
@@ -4332,6 +4347,11 @@
    "register_name": null,
    "match": "none"
   },
+  "NFU": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "NWG": {
    "licensed": true,
    "register_name": "NWG GROUP LTD",
@@ -4961,6 +4981,11 @@
    "licensed": true,
    "register_name": "Police Federation of England and Wales",
    "match": "exact"
+  },
+  "Pontoon Solutions": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Popeyes - UK": {
    "licensed": false,
@@ -5957,6 +5982,11 @@
    "register_name": "Super Payments Ltd",
    "match": "exact"
   },
+  "Super Retail Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Superdrug": {
    "licensed": false,
    "register_name": null,
@@ -6130,6 +6160,11 @@
   "Tarmac Trading Limited": {
    "licensed": true,
    "register_name": "Tarmac Trading Limited",
+   "match": "exact"
+  },
+  "Techtronic Industries EMEA": {
+   "licensed": true,
+   "register_name": "Techtronic Industries EMEA Ltd",
    "match": "exact"
   },
   "Telent Technology Services Ltd": {
