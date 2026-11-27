@@ -717,6 +717,11 @@
    "register_name": null,
    "match": "none"
   },
+  "B. Braun Group": {
+   "licensed": true,
+   "register_name": "B. Braun Medical UK Ltd",
+   "match": "prefix"
+  },
   "BAE Systems": {
    "licensed": true,
    "register_name": "BAE Systems Plc",
@@ -3972,6 +3977,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Market Talent Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "MarketAxess": {
    "licensed": true,
    "register_name": "MarketAxess Europe Ltd",
@@ -6367,6 +6377,11 @@
    "register_name": "Hyde Global Ltd",
    "match": "prefix"
   },
+  "The Newt in Somerset": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "The Niche Partnership": {
    "licensed": false,
    "register_name": null,
@@ -6973,6 +6988,11 @@
    "match": "exact"
   },
   "Warner Recruitment Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Wasabi Sushi & Bento": {
    "licensed": false,
    "register_name": null,
    "match": "none"

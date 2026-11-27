@@ -2756,5 +2756,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-commercial-at-molson-coors-beverage-company-4493846575 | Molson Coors Beverage Company | Finance Business Partner - Commercial | Burton Upon Trent, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/fund-accountant/57620891 | Equifind Group | Fund Accountant | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/assistant-management-accountant-part-qualified-birmingham/57612805 | Compass Group UK & Ireland Ltd | Assistant Management Accountant Part qualified - Birmingham | Birmingham, West Midlands (County) | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-operations-at-wasabi-sushi-bento-4481125698 | Wasabi Sushi & Bento | Finance Analyst - Operations | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-finance-business-partner-at-b-braun-group-4495839655 | B. Braun Group | Assistant Finance Business Partner | Sheffield, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-the-newt-in-somerset-4495846038 | The Newt in Somerset | Management Accountant | Bruton, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-credit-analyst-banking-at-market-talent-ltd-4495836714 | Market Talent Ltd | Corporate Credit Analyst - Banking | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/interim-finance-business-partner-fp-a-analyst/57621035 | Axon Moore Group Ltd | Interim Finance Business Partner / FP&A Analyst | Bradford, West Yorkshire | note: via Reed
 
 ## Processed

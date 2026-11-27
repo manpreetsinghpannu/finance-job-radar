@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1453 firms checked, 669 matched, 784 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1457 firms checked, 670 matched, 787 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (784)
+## Not found (787)
 
 - 01Health
 - 7IM
@@ -443,6 +443,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Mansfield Black
 - Marc Daniels
 - Market Harborough Building Society
+- Market Talent Ltd
 - Marks Sattin
 - Marks Sattin FS
 - Marks Sattin Ltd
@@ -690,6 +691,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - The FA
 - The Global Institute for Health and Human Rights
 - The Honourable Society of the Middle Temple
+- The Newt in Somerset
 - The Niche Partnership
 - The RP Research
 - The Scottish National Investment Bank
@@ -761,6 +763,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Wade Macdonald
 - Walker Dendle Financial Recruitment
 - Warner Recruitment Limited
+- Wasabi Sushi & Bento
 - Watson & Colhoun
 - Watson-Marlow Fluid Technology Solutions
 - Weekday AI
@@ -791,7 +794,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - via ScotJobsNet
 - Şişecam
 
-## Matched automatically by close name; worth a glance (91)
+## Matched automatically by close name; worth a glance (92)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - AVEVA → AVEVA Solutions Ltd (prefix)
@@ -802,6 +805,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Aries Global → ARIES GLOBAL SOFTWARE HOLDING LIMITED (prefix)
 - Atomos → Atomos Investments Limited (prefix)
 - Automata → Automata Technologies Limited (prefix)
+- B. Braun Group → B. Braun Medical UK Ltd (prefix)
 - Balfour Beatty plc → Balfour Beatty Group Employment Limited (prefix)
 - Bank of America → Bank of America, N.A. (prefix)
 - Barclay Simpson → Barclay Simpson Solutions (prefix)
