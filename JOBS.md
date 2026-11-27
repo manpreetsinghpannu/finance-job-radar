@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 27 Nov, 00:12** (UK time) · **1590 open roles** at 949 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 27 Nov, 00:33** (UK time) · **1590 open roles** at 949 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 27 Nov, 00:03** · hourly scan · checked 201 boards · **2 new roles**
+**Fri 27 Nov, 00:22** · hourly scan · checked 201 boards · **2 new roles**
 
 ### Finance (FP&A) CV: 1
 
@@ -70,7 +70,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Friday 27 November
 
 <details>
-<summary><b>00:03</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
+<summary><b>00:22</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -83,6 +83,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-26 | [Associate 3 to VP2 - Consumer inc Consumer Health & Retail investment banking - Goodman Masson](https://www.reed.co.uk/jobs/associate-3-to-vp2-consumer-inc-consumer-health-retail-investment-banking-goodman-masson/57616887) | eFinancialCareers | London | ✅ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -5048,20 +5050,20 @@ Everything matched so far, newest first within each CV: [Finance (928)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Fri 27 Nov, 00:12 | Financial Accountant | SF Partners Admin |
-| Fri 27 Nov, 00:12 | Assistant Accountant | Corecruitment International |
-| Fri 27 Nov, 00:12 | Qualified Accountant | Watson & Colhoun |
-| Fri 27 Nov, 00:12 | Assistant Accountant | VANRATH |
-| Fri 27 Nov, 00:12 | Commercial Finance Analyst | Medlock Partners Ltd |
-| Fri 27 Nov, 00:12 | Finance Analyst | Anderson Knight |
-| Fri 27 Nov, 00:12 | Management Accountant - 6 month FTC | Axon Moore |
-| Fri 27 Nov, 00:12 | Fund Accountant / Fund Control – Alternatives and/or Private Credit – Premier Hedge Fund - CassonX | CassonX |
-| Fri 27 Nov, 00:12 | Prudential Risk Analyst - Empirical Search | Empirical Search |
-| Fri 27 Nov, 00:12 | Property Accountant (Fixed-Term Contract) | Trident International Associates |
-| Fri 27 Nov, 00:12 | Assistant Management Accountant | Pertemps Glasgow Perms |
-| Fri 27 Nov, 00:12 | Financial Controller | Green Folk |
-| Fri 27 Nov, 00:11 | Front Office Treasury Analyst | Brewer Morris |
-| Fri 27 Nov, 00:07 | Assistant Management Accountant | Accu |
+| Fri 27 Nov, 00:33 | Financial Accountant | SF Partners Admin |
+| Fri 27 Nov, 00:33 | Assistant Accountant | Corecruitment International |
+| Fri 27 Nov, 00:33 | Qualified Accountant | Watson & Colhoun |
+| Fri 27 Nov, 00:33 | Assistant Accountant | VANRATH |
+| Fri 27 Nov, 00:33 | Commercial Finance Analyst | Medlock Partners Ltd |
+| Fri 27 Nov, 00:33 | Finance Analyst | Anderson Knight |
+| Fri 27 Nov, 00:33 | Management Accountant - 6 month FTC | Axon Moore |
+| Fri 27 Nov, 00:33 | Fund Accountant / Fund Control – Alternatives and/or Private Credit – Premier Hedge Fund - CassonX | CassonX |
+| Fri 27 Nov, 00:33 | Prudential Risk Analyst - Empirical Search | Empirical Search |
+| Fri 27 Nov, 00:33 | Property Accountant (Fixed-Term Contract) | Trident International Associates |
+| Fri 27 Nov, 00:33 | Assistant Management Accountant | Pertemps Glasgow Perms |
+| Fri 27 Nov, 00:33 | Financial Controller | Green Folk |
+| Fri 27 Nov, 00:29 | Front Office Treasury Analyst | Brewer Morris |
+| Fri 27 Nov, 00:26 | Assistant Management Accountant | Accu |
 | Thu 26 Nov, 23:20 | Finance / Operations - Leading Asset Management Firm - Up to 80k base + WFH! | Mondrian Alpha |
 | Thu 26 Nov, 23:18 | Management Accountant | Michael Page |
 | Thu 26 Nov, 23:17 | Management Accountant | VNI Finance |
