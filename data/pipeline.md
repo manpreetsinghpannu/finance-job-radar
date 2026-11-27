@@ -2772,5 +2772,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-trace-expert-accountancy-finance-recruitment-4494223129 | Trace | Expert Accountancy & Finance Recruitment | Assistant Management Accountant | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant/57621137 | Arlington Resource Management | Assistant Accountant | London | note: via Reed
 - [ ] https://scotjobsnet.co.uk/job/reporting-performance-accountant/ | via ScotJobsNet | Reporting & Performance Accountant | Renfrewshire Paisley, Scotland | posted: 2026-11-27 | note: via ScotJobsNet
+- [ ] https://www.linkedin.com/jobs/view/catastrophe-portfolio-analyst-at-the-fidelis-partnership-4495843298 | The Fidelis Partnership | Catastrophe Portfolio Analyst | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-systems-accountant-at-riverlane-4488137443 | Riverlane | Finance Systems Accountant | Cambridge, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-career-legal-4483433743 | Career Legal | Financial Accountant | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/interim-accountant-at-s1jobs-4495821892 | s1jobs | Interim Accountant | Newbridge, Scotland, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed

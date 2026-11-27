@@ -1402,6 +1402,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Career Legal": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Carey Olsen": {
    "licensed": true,
    "register_name": "Carey Olsen LLP",
@@ -5425,6 +5430,11 @@
   "Risk Ledger": {
    "licensed": true,
    "register_name": "Risk Ledger Ltd",
+   "match": "exact"
+  },
+  "Riverlane": {
+   "licensed": true,
+   "register_name": "Riverlane Ltd",
    "match": "exact"
   },
   "Robert Half": {
