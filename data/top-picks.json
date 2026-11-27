@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T18:27:07.545Z",
+ "generated_at": "2026-11-27T19:21:26.792Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 353,
+   "matching": 354,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 95,
+   "matching": 98,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -2292,11 +2292,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": -1
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-2-sisters-food-group-4489580102": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
   },
   "https://www.linkedin.com/jobs/view/divisional-accountant-at-charles-hurst-group-ltd-4463037501": {
    "id": "finance",
@@ -8507,6 +8502,56 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 24
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-de-beers-group-4495849162": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-2-technology-at-william-blair-4486226703": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-hyerhub-4494219077": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/catastrophe-portfolio-analyst-at-the-fidelis-partnership-4495843298": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-consumer-retail-at-citi-4486909736": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/analyst-ii-restructuring-at-kroll-4477716412": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/fund-accounting-specialist-at-deutsche-bank-4488083656": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-balfour-beatty-plc-4494203887": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.reed.co.uk/jobs/assistant-accountant/57621137": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://scotjobsnet.co.uk/job/reporting-performance-accountant/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

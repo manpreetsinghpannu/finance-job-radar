@@ -2761,5 +2761,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/management-accountant-at-the-newt-in-somerset-4495846038 | The Newt in Somerset | Management Accountant | Bruton, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/corporate-credit-analyst-banking-at-market-talent-ltd-4495836714 | Market Talent Ltd | Corporate Credit Analyst - Banking | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/interim-finance-business-partner-fp-a-analyst/57621035 | Axon Moore Group Ltd | Interim Finance Business Partner / FP&A Analyst | Bradford, West Yorkshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-de-beers-group-4495849162 | De Beers Group | Finance Analyst | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-2-technology-at-william-blair-4486226703 | William Blair | Investment Banking Analyst 2, Technology | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-hyerhub-4494219077 | Hyerhub | Management Accountant | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/catastrophe-portfolio-analyst-at-the-fidelis-partnership-4495843298 | The Fidelis Partnership | Catastrophe Portfolio Analyst | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-consumer-retail-at-citi-4486909736 | Citi | Investment Banking Analyst, Consumer & Retail | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-ii-restructuring-at-kroll-4477716412 | Kroll | Analyst II, Restructuring | Manchester, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-specialist-at-deutsche-bank-4488083656 | Deutsche Bank | Fund Accounting Specialist | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-balfour-beatty-plc-4494203887 | Balfour Beatty plc | Management Accountant | Newcastle Upon Tyne, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant/57621137 | Arlington Resource Management | Assistant Accountant | London | note: via Reed
+- [ ] https://scotjobsnet.co.uk/job/reporting-performance-accountant/ | via ScotJobsNet | Reporting & Performance Accountant | Renfrewshire Paisley, Scotland | posted: 2026-11-27 | note: via ScotJobsNet
 
 ## Processed

@@ -1872,6 +1872,11 @@
    "register_name": null,
    "match": "none"
   },
+  "De Beers Group": {
+   "licensed": true,
+   "register_name": "DE BEERS UK LIMITED",
+   "match": "exact"
+  },
   "Deliveroo": {
    "licensed": true,
    "register_name": "Roofoods Ltd t/a Deliveroo",
@@ -2983,6 +2988,11 @@
    "match": "exact"
   },
   "Hyered": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Hyerhub": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -6358,6 +6368,11 @@
    "match": "prefix"
   },
   "The FA": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "The Fidelis Partnership": {
    "licensed": false,
    "register_name": null,
    "match": "none"
