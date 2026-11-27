@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T14:24:41.109Z",
+ "generated_at": "2026-11-27T14:48:49.590Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 345,
+   "matching": 347,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 31,
+   "matching": 32,
    "picks": [
     {
      "title": "Assistant Fund Accountant",
@@ -6993,11 +6993,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://www.s1jobs.com/job/management-accountant-127801241": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.s1jobs.com/job/quantity-surveyor-pqs-sc-cleared-127801101": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -7567,11 +7562,6 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 15
-  },
-  "https://www.linkedin.com/jobs/view/investment-associate-at-infrassocs-4495286010": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 10
   },
   "https://www.linkedin.com/jobs/view/m-a-analyst-aca-plus-ts-experience-at-alan-mitchell-4484523300": {
    "id": "investment",
@@ -8328,6 +8318,11 @@
    "cv": "Finance (FP&A) CV",
    "score": 21
   },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-scottish-football-association-4495819303": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
   "https://www.linkedin.com/jobs/view/management-accountant-at-tiptopjob-4495803942": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -8338,15 +8333,25 @@
    "cv": "Credit CV",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/investment-banking-division-fig-italy-london-associate-at-morgan-stanley-4431450482": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 19
+  "https://www.linkedin.com/jobs/view/credit-assistant-at-punch-pubs-co-4489942334": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   },
   "https://www.linkedin.com/jobs/view/investment-banking-associate-tech-services-at-baird-4479195578": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-division-fig-italy-london-associate-at-morgan-stanley-4431450482": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/debt-capital-transactions-analyst-london-at-atrium-emea-4495804851": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/financial-accountant-newly-qualified-or-finalist-at-validus-risk-management-4470962262": {
    "id": "finance",
@@ -8358,6 +8363,11 @@
    "cv": "Investment (IB / PE) CV",
    "score": 16
   },
+  "https://www.linkedin.com/jobs/view/treasury-assistant-fiat-crypto-operations-at-clickout-media-4487758082": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
   "https://www.linkedin.com/jobs/view/assistant-accountant-at-little-dot-studios-4494207012": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -8368,30 +8378,35 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/finance-analyst-at-agratas-%E2%80%93-a-tata-enterprise-4479840446": {
+  "https://www.linkedin.com/jobs/view/instant-product-pricing-analyst-at-scientific-games-4441051233": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 12
   },
-  "https://www.linkedin.com/jobs/view/oracle-treasury-professional-at-ventula-consulting-4495306441": {
+  "https://www.reed.co.uk/jobs/financial-reporting-analyst/57620006": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/financial-accountant-at-career-legal-4483433743": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/debt-capital-transactions-analyst-london-at-atrium-emea-4495804851": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 16
+   "score": 11
   },
   "https://www.reed.co.uk/jobs/assistant-financial-controller/57619675": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.s1jobs.com/job/corporate-finance-specialist-127812945": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 8
+  },
+  "https://www.s1jobs.com/job/quantity-surveyor-127812955": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.s1jobs.com/job/financial-accountant-127812949": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

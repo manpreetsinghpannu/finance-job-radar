@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1438 firms checked, 664 matched, 774 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1442 firms checked, 666 matched, 776 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (774)
+## Not found (776)
 
 - 01Health
 - 7IM
@@ -178,6 +178,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Clarkson Owens Recruitment Limited
 - ClearScore
 - Clearwater People Solutions Ltd
+- ClickOut Media
 - Client Server
 - Cobalt Recruitment
 - Cobb & Jones Recruitment Limited
@@ -556,6 +557,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Public Sector Resourcing
 - Public Sector Resourcing CWS
 - Puma Capital Group
+- Punch Pubs & Co
 - Pure Resourcing Solutions
 - Pure Resourcing Solutions Limited
 - Pure Search
@@ -597,6 +599,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Rutherford Cross
 - S1Jobs
 - SBFM
+- SCIENTIFIC GAMES
 - SD Business Management
 - SENSIBAL RECRUITMENT LTD
 - SF Partners

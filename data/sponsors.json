@@ -1597,6 +1597,11 @@
    "register_name": "Cleo AI Ltd",
    "match": "exact"
   },
+  "ClickOut Media": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Client Server": {
    "licensed": false,
    "register_name": null,
@@ -5117,6 +5122,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Punch Pubs & Co": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Pure Resourcing Solutions": {
    "licensed": false,
    "register_name": null,
@@ -5467,6 +5477,11 @@
    "register_name": null,
    "match": "none"
   },
+  "SCIENTIFIC GAMES": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "SD Business Management": {
    "licensed": false,
    "register_name": null,
@@ -5501,6 +5516,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "SGN": {
+   "licensed": true,
+   "register_name": "Scotia Gas Networks Ltd t/a SGN",
+   "match": "trading name"
   },
   "SJC Partners": {
    "licensed": false,
@@ -5646,6 +5666,11 @@
    "licensed": true,
    "register_name": "Schroder Investment Management Limited",
    "match": "alias"
+  },
+  "Scottish Football Association": {
+   "licensed": true,
+   "register_name": "Scottish Football Association Ltd. (The)",
+   "match": "exact"
   },
   "Scottish public sector": {
    "licensed": false,
