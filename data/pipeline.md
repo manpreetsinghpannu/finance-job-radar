@@ -2746,5 +2746,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57620401 | Connells Survey and Valuation | Management Accountant | Milton Keynes, Buckinghamshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57620400 | Connells Survey and Valuation | Assistant Management Accountant | Milton Keynes, Buckinghamshire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/part-qualified-accountant/57620585 | Addington Ball Recruitment Ltd | Part Qualified Accountant | Coventry, West Midlands (County) | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-baker-charles-4495828269 | Baker Charles | Finance Analyst | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-equifind-4495842205 | Equifind | Fund Accountant | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-at-selby-jennings-4495846027 | Selby Jennings | Financial Controller | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-partnership-accountant-at-cedar-4495099978 | Cedar | Management Partnership Accountant | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-optimum-recruitment-group-limited-4495810820 | Optimum Recruitment Group Limited | Management Accountant | Greater Leeds Area | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-part-qualified-at-dv8fashion-4495316296 | DV8fashion | Financial Accountant (Part-Qualified) | Craigavon, Northern Ireland, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-financial-controller-at-oakley-recruitment-ltd-4495834504 | Oakley Recruitment Ltd | Junior Financial Controller | Birmingham, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-commercial-at-molson-coors-beverage-company-4493846575 | Molson Coors Beverage Company | Finance Business Partner - Commercial | Burton Upon Trent, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/fund-accountant/57620891 | Equifind Group | Fund Accountant | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant-part-qualified-birmingham/57612805 | Compass Group UK & Ireland Ltd | Assistant Management Accountant Part qualified - Birmingham | Birmingham, West Midlands (County) | note: via Reed
 
 ## Processed

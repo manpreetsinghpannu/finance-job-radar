@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T16:23:30.616Z",
+ "generated_at": "2026-11-27T17:23:34.409Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 350,
+   "matching": 352,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 96,
+   "matching": 95,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -2798,11 +2798,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/financial-planning-graduate-trainee-at-targetjobs-uk-4490247890": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.linkedin.com/jobs/view/investment-analyst-%E2%80%93-private-credit-at-everet-marsh-4490610984": {
    "id": "credit",
    "cv": "Credit CV",
@@ -4577,11 +4572,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 16
-  },
-  "https://www.linkedin.com/jobs/view/m-a-analyst-%E2%80%93-transactions-at-benchmark-international-4492921491": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 19
   },
   "https://www.linkedin.com/jobs/view/trainee-financial-adviser-graduate-at-raymond-james-thorpe-park-leeds-4491297946": {
    "id": "other",
@@ -6803,11 +6793,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 12
   },
-  "https://www.reed.co.uk/jobs/assistant-management-accountant/57608972": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://centrica.wd3.myworkdayjobs.com/centrica/job/Leicester/Debt-Strategy-and-Performance-Analyst_R0090149-1": {
    "id": "credit",
    "cv": "Credit CV",
@@ -8472,6 +8457,56 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-baker-charles-4495828269": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-equifind-4495842205": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/financial-controller-at-selby-jennings-4495846027": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/management-partnership-accountant-at-cedar-4495099978": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-optimum-recruitment-group-limited-4495810820": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-part-qualified-at-dv8fashion-4495316296": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/junior-financial-controller-at-oakley-recruitment-ltd-4495834504": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-commercial-at-molson-coors-beverage-company-4493846575": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/fund-accountant/57620891": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 11
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant-part-qualified-birmingham/57612805": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
   }
  }
 }

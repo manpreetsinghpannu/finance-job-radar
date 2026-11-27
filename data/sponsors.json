@@ -1667,6 +1667,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Compass Group UK & Ireland Ltd": {
+   "licensed": true,
+   "register_name": "Compass Group UK & Ireland Limited Registered Office",
+   "match": "prefix"
+  },
   "Computershare UK": {
    "licensed": false,
    "register_name": null,
@@ -1831,6 +1836,11 @@
    "licensed": true,
    "register_name": "DS Smith Business Services Limited",
    "match": "prefix"
+  },
+  "DV8fashion": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Dana Incorporated": {
    "licensed": false,
@@ -4617,6 +4627,11 @@
    "register_name": "OakNorth Bank Plc",
    "match": "alias"
   },
+  "Oakley Recruitment Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Ocado Group": {
    "licensed": true,
    "register_name": "Ocado Retail Limited",
@@ -4706,6 +4721,11 @@
    "licensed": true,
    "register_name": "Ophelos Ltd",
    "match": "exact"
+  },
+  "Optimum Recruitment Group Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Orbit Group": {
    "licensed": true,

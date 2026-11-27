@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1449 firms checked, 668 matched, 781 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1453 firms checked, 669 matched, 784 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (781)
+## Not found (784)
 
 - 01Health
 - 7IM
@@ -207,6 +207,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Cumming Group UK & Europe
 - DFDS
 - DJH
+- DV8fashion
 - Dana Incorporated
 - Datalink Recruitment
 - Day Lewis Pharmacy
@@ -508,6 +509,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Nuveen, a TIAA company
 - OAK LIFE SCIENCE LTD
 - OJK Business Management
+- Oakley Recruitment Ltd
 - Octavius Finance
 - Octopus Money
 - Office Angels
@@ -516,6 +518,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - OnSite Central Limited
 - One Ten Associates
 - Onmo
+- Optimum Recruitment Group Limited
 - Orla Rose Associates
 - Owens & Minor
 - P and I Generators
@@ -788,7 +791,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - via ScotJobsNet
 - Şişecam
 
-## Matched automatically by close name; worth a glance (90)
+## Matched automatically by close name; worth a glance (91)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - AVEVA → AVEVA Solutions Ltd (prefix)
@@ -809,6 +812,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Cedar → Cedar Capital Partners Ltd (prefix)
 - Citizens Advice → Citizens Advice 1066 (prefix)
 - Cobalt → Cobalt Labs UK Limited (prefix)
+- Compass Group UK & Ireland Ltd → Compass Group UK & Ireland Limited Registered Office (prefix)
 - Cushman & Wakefield → Cushman & Wakefield Debenham Tie Leung Limited (prefix)
 - DS Smith → DS Smith Business Services Limited (prefix)
 - Duco → Duco Technology Limited (prefix)
