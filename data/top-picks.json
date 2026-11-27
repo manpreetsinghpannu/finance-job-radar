@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T02:20:24.968Z",
+ "generated_at": "2026-11-27T03:18:52.294Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 332,
+   "matching": 331,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -797,11 +797,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
-  },
-  "https://www.reed.co.uk/jobs/finance-analyst/57532479": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
   },
   "https://www.reed.co.uk/jobs/insurance-finance-analyst/57531324": {
    "id": "finance",
@@ -8172,6 +8167,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.reed.co.uk/jobs/financial-accountant/57613340": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/aca-accountant-training-scheme-top-50-accountancy-practice/57617752": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://scotjobsnet.co.uk/job/financial-analyst/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
