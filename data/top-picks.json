@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T23:23:59.765Z",
+ "generated_at": "2026-11-27T00:12:48.206Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 345,
+   "matching": 333,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 111,
+   "matching": 108,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 48,
+   "matching": 44,
    "picks": [
     {
      "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
@@ -106,14 +106,13 @@
      "sponsor": true
     },
     {
-     "title": "Equity Research Analyst",
-     "company": "MFS",
-     "location": "London",
-     "posted": null,
-     "url": "https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/London/Equity-Research-Analyst_MFS-231918",
-     "score": 28,
+     "title": "Research Analyst",
+     "company": "Impax Asset Management",
+     "location": "London, England, United Kingdom",
+     "posted": "2026-11-26",
+     "url": "https://www.linkedin.com/jobs/view/research-analyst-at-impax-asset-management-4494999961",
+     "score": 22,
      "why": [
-      "Equity Research",
       "Research Analyst"
      ],
      "sponsor": true
@@ -123,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 97,
+   "matching": 89,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -156,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 34,
+   "matching": 29,
    "picks": [
     {
      "title": "Credit Strategy Analyst",
@@ -187,7 +186,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 30,
+   "matching": 26,
    "picks": [
     {
      "title": "Investment Analyst - Real Estate",
@@ -203,15 +202,14 @@
      "sponsor": true
     },
     {
-     "title": "Analyst, Real Estate Asset Management",
-     "company": "Ares Management",
-     "location": "London, UK",
-     "posted": null,
-     "url": "https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1",
-     "score": 22,
+     "title": "Assistant Accountant - Property",
+     "company": "Frasers Group",
+     "location": "Shirebrook, England, United Kingdom",
+     "posted": "2026-11-19",
+     "url": "https://www.linkedin.com/jobs/view/assistant-accountant-property-at-frasers-group-4492507218",
+     "score": 19,
      "why": [
-      "Real Estate",
-      "Asset Management"
+      "Property"
      ],
      "sponsor": true
     }
@@ -220,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 37,
+   "matching": 32,
    "picks": [
     {
      "title": "Assistant Fund Accountant",
@@ -3415,11 +3413,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 11
   },
-  "https://www.linkedin.com/jobs/view/front-office-treasury-analyst-at-brewer-morris-4490862737": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 9
-  },
   "https://www.linkedin.com/jobs/view/analyst-associate-real-estate-debt-at-gic-4481890972": {
    "id": "real_estate",
    "cv": "Real Estate CV",
@@ -4174,11 +4167,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
-  },
-  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-accu-4492188086": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 19
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-investigo-4492409507": {
    "id": "finance",
@@ -6169,66 +6157,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 15
-  },
-  "https://www.adzuna.co.uk/jobs/details/5976391818": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 6
-  },
-  "https://www.adzuna.co.uk/jobs/details/5976389483": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
-  },
-  "https://www.adzuna.co.uk/jobs/details/5976389103": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 6
-  },
-  "https://www.adzuna.co.uk/jobs/details/5976389093": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5976357468": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 26
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5976357398": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5976262107": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5976219139": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 13
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5976219137": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 11
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5976206090": {
-   "id": "real_estate",
-   "cv": "Real Estate CV",
-   "score": 13
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5976085250": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5976085201": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 7
   },
   "https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-walker-hamill-4492644616": {
    "id": "finance",
@@ -8256,6 +8184,16 @@
    "score": 22
   },
   "https://www.linkedin.com/jobs/view/finance-business-partner-12-month-ftc-at-next-wholly-owned-brands-4495544980": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/associate-3-to-vp2-consumer-inc-consumer-health-retail-investment-banking-goodman-masson/57616887": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.reed.co.uk/jobs/part-time-management-accountant/57614715": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
