@@ -977,6 +977,11 @@
    "register_name": "BlueCrest Capital Management (UK) LLP",
    "match": "prefix"
   },
+  "BoF Careers": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Booker": {
    "licensed": false,
    "register_name": null,

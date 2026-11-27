@@ -2671,5 +2671,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/aca-accountant-training-scheme-top-50-accountancy-practice/57617752 | Hawke Search | ACA Accountant Training Scheme - Top 50 Accountancy Practice | Canterbury, Kent | note: via Reed
 - [ ] https://scotjobsnet.co.uk/job/financial-analyst/ | via ScotJobsNet | Financial Analyst | Rutland, Scotland | posted: 2026-11-27 | note: via ScotJobsNet
 - [ ] https://www.linkedin.com/jobs/view/business-services-m-a-analyst-3-to-associate-2-global-boutique-investment-bank-4495053987 | Boutique investment bank | Business Services M&A (Analyst 3 to Associate 2) - global boutique investment bank | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/burberry-rtr-accountant-at-bof-careers-4495063687 | BoF Careers | Burberry RTR Accountant | Leeds, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed
