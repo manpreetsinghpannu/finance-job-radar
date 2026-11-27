@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1465 firms checked, 673 matched, 792 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1474 firms checked, 674 matched, 800 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (792)
+## Not found (800)
 
 - 01Health
 - 7IM
@@ -27,6 +27,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Accountable Recruitment Limited
 - Accountancy Action
 - Adarga
+- Addington Ball
 - Addington Ball Recruitment Ltd
 - Adele Carr Recruitment Limited
 - Adyen
@@ -253,6 +254,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - FT Recruitment Group
 - Faith Recruitment
 - Fane Valley Cooperative Society Ltd
+- Financial Control
 - Financial Divisions
 - Financial Technology Partners / FT Partners
 - Finatal
@@ -304,6 +306,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - HW Finance
 - Haas F1 Team
 - Hain Daniels
+- Halecroft Recruitment
 - Halliday Marx
 - Hamilton Woods
 - Handpicked Recruitment
@@ -501,6 +504,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - New Avenues
 - Newlon Housing Trust
 - Nexus Jobs
+- Nexus Jobs Limited
 - Nicholson Glover
 - Nick Buick Associates
 - Nigel Wright Recruitment
@@ -524,6 +528,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Onmo
 - Optimum Recruitment Group Limited
 - Orla Rose Associates
+- Otto James Consulting Limited
 - Owens & Minor
 - P and I Generators
 - PA Consulting
@@ -741,6 +746,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Venture Search
 - Venture Up
 - Veolia
+- Veolia UK
 - Veracious Talent Partners
 - Veracious Talent Partners Ltd
 - Vermelo
@@ -754,6 +760,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Vistry Homes Ltd
 - Vitae Financial Recruitment
 - Vitae Financial Recruitment Limited
+- Vivid Resourcing Ltd
 - VodafoneThree
 - Vonage
 - W Talent
@@ -779,6 +786,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Workplace Futures Group
 - WorldQuant
 - XPS Group
+- Xplor
 - YETI Coolers
 - YO HR Consultancy
 - YRH Finance Team Limited
@@ -799,7 +807,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - via ScotJobsNet
 - Şişecam
 
-## Matched automatically by close name; worth a glance (93)
+## Matched automatically by close name; worth a glance (94)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - AVEVA → AVEVA Solutions Ltd (prefix)
@@ -894,3 +902,4 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Vanquis → Vanquis Bank Limited (prefix)
 - Vitality → VITALITY TRADING LIMITED (prefix)
 - We Do Group → WE DO CARE (LONDON) LTD (prefix)
+- emh → EMH Global Ltd (prefix)

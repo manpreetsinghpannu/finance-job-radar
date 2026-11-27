@@ -2780,5 +2780,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/group-accountant-at-investigo-4495845086 | Investigo | Group Accountant | Milton Keynes, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/finance-analyst-development/57621209 | SNG (Sovereign Network Group) | Finance Analyst - Development | Basingstoke, Hampshire | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/investment-operations-analyst-at-london-lgps-civ-limited-4495330963 | London LGPS CIV Limited | Investment Operations Analyst | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.adzuna.co.uk/jobs/details/5981118261 | Veolia UK | Finance Strategy Analyst | London, UK | posted: 2026-11-27 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5981109703 | Halecroft Recruitment | Commercial Analyst | Manchester, Greater Manchester | posted: 2026-11-27 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5981108342 | Axon Moore | Interim Finance Business Partner / FP&A Analyst | Fieldhead Business Centre, Bradford | posted: 2026-11-27 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5981108312 | Vivid Resourcing Ltd | Management Accountant | Farringdon, Central London | posted: 2026-11-27 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5981064950 | Xplor | Financial Accountant (12 Month FTC) | Newcastle Upon Tyne, Tyne & Wear | posted: 2026-11-27 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5981032781 | Ernest Gordon Recruitment Limited | Accountant (Progression to Partner) | Farringdon, Central London | posted: 2026-11-27 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5981032765 | Addington Ball | Part Qualified Accountant | Coventry, West Midlands | posted: 2026-11-27 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5980934998 | emh | Finance Business Partner | UK | posted: 2026-11-27 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5980921545 | Marc Daniels | Cash and Credit AR | Feltham, London | posted: 2026-11-27 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5980853525 | Otto James Consulting Limited | Financial Controller (Group) | Toft, Knutsford | posted: 2026-11-27 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5980746282 | Financial Control | Financial Analyst (Capital) | Bankside, South East London | posted: 2026-11-27 | note: via Adzuna
+- [ ] https://www.adzuna.co.uk/jobs/details/5980667172 | Nexus Jobs Limited | IT Support Analyst with 2nd Level Treasury Systems Support – FIS Integrity (IT) | Ladbroke Grove, West London | posted: 2026-11-27 | note: via Adzuna
 
 ## Processed

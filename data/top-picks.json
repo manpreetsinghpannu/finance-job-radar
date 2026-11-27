@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T22:27:19.890Z",
+ "generated_at": "2026-11-27T23:20:12.438Z",
  "order": [
   "finance",
   "credit",
@@ -5738,11 +5738,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://www.reed.co.uk/jobs/recently-qualified-accountant/57601986": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
-  },
   "https://www.linkedin.com/jobs/view/global-high-yield-credit-analyst-at-anonymous-company-profile-4478424526": {
    "id": "credit",
    "cv": "Credit CV",
@@ -7238,11 +7233,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/analyst-%E2%80%93-treasury-operations-at-women-in-data%C2%AE-4493437052": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 15
-  },
   "https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equities-hedge-fund/57612791": {
    "id": "equity",
    "cv": "Equity CV",
@@ -8562,6 +8552,66 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 22
+  },
+  "https://www.adzuna.co.uk/jobs/details/5981118261": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 19
+  },
+  "https://www.adzuna.co.uk/jobs/details/5981109703": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5981108342": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5981108312": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.adzuna.co.uk/jobs/details/5981064950": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5981032781": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5981032765": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/details/5980934998": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.adzuna.co.uk/jobs/land/ad/5980921545": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.adzuna.co.uk/jobs/details/5980853525": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.adzuna.co.uk/jobs/details/5980746282": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.adzuna.co.uk/jobs/details/5980667172": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
   }
  }
 }

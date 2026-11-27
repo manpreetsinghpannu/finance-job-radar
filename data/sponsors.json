@@ -192,6 +192,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Addington Ball": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Addington Ball Recruitment Ltd": {
    "licensed": false,
    "register_name": null,
@@ -2247,6 +2252,11 @@
    "register_name": "Finalto Financial Services Ltd",
    "match": "prefix"
   },
+  "Financial Control": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Financial Divisions": {
    "licensed": false,
    "register_name": null,
@@ -2708,6 +2718,11 @@
    "match": "exact"
   },
   "Hain Daniels": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Halecroft Recruitment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -4512,6 +4527,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Nexus Jobs Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Nicholson Glover": {
    "licensed": false,
    "register_name": null,
@@ -4768,6 +4788,11 @@
    "match": "exact"
   },
   "Orla Rose Associates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Otto James Consulting Limited": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -6837,6 +6862,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Veolia UK": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Veracious Talent Partners": {
    "licensed": false,
    "register_name": null,
@@ -6946,6 +6976,11 @@
    "licensed": true,
    "register_name": "Vitesse PSP",
    "match": "alias"
+  },
+  "Vivid Resourcing Ltd": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Vodafone": {
    "licensed": true,
@@ -7187,6 +7222,11 @@
    "register_name": "Xeinadin Group Limited",
    "match": "exact"
   },
+  "Xplor": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "YETI Coolers": {
    "licensed": false,
    "register_name": null,
@@ -7266,6 +7306,11 @@
    "licensed": true,
    "register_name": "eFinancialCareers Ltd",
    "match": "exact"
+  },
+  "emh": {
+   "licensed": true,
+   "register_name": "EMH Global Ltd",
+   "match": "prefix"
   },
   "hireful.": {
    "licensed": false,
