@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 27 Nov, 08:23** (UK time) · **1590 open roles** at 948 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 27 Nov, 08:54** (UK time) · **1590 open roles** at 948 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 27 Nov, 08:12** · hourly scan · checked 201 boards · **1 new role**
+**Fri 27 Nov, 08:43** · hourly scan · checked 201 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| — | [Business Services M&A Analyst 3 to Associate 2 - global boutique investment bank - Goodman Masson](https://www.reed.co.uk/jobs/business-services-m-a-analyst-3-to-associate-2-global-boutique-investment-bank-goodman-masson/57618201) | eFinancialCareers | London | ✅ |
+Nothing new this time. The last scan that found something was **Fri 27 Nov, 08:12** (1: Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 27 November
+
+<sub>Nothing new at: 08:43</sub>
 
 <details>
 <summary><b>08:12</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -4902,7 +4900,7 @@ Everything matched so far, newest first within each CV: [Finance (929)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>533 roles taken off the list because the firm closed the posting</summary>
+<summary>532 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -5438,6 +5436,5 @@ Everything matched so far, newest first within each CV: [Finance (929)](#finance
 | Fri 20 Nov, 13:18 | Investment Analyst, Early stage investments, Venture Capital/ Private Family Office | Greenwich Partners |
 | Fri 20 Nov, 11:56 | Finance Business Partner | Resourcery Group |
 | Fri 20 Nov, 10:18 | Finance Business Partner | Next |
-| Fri 20 Nov, 08:25 | Accountancy Graduate - Register your interest | targetjobs UK |
 
 </details>
