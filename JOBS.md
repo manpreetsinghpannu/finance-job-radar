@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 27 Nov, 23:20** (UK time) · **1673 open roles** at 1000 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 27 Nov, 23:47** (UK time) · **1674 open roles** at 1001 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 27 Nov, 23:09** · hourly scan · checked 201 boards · **12 new roles**
+**Fri 27 Nov, 23:35** · hourly scan · checked 201 boards · **12 new roles**
 
 ### Finance (FP&A) CV: 10
 
@@ -43,7 +43,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (355 matching)
+**Finance (FP&A) CV** (356 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-michael-page-4494635064) · Michael Page · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-autotrader-4494905507) · Autotrader · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
@@ -85,7 +85,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Friday 27 November
 
 <details>
-<summary><b>23:09</b> · hourly scan · <b>12 new</b> → Finance 10 · Credit 1 · Consulting 1</summary>
+<summary><b>23:35</b> · hourly scan · <b>12 new</b> → Finance 10 · Credit 1 · Consulting 1</summary>
 
 #### Finance (FP&A) CV: 10
 
@@ -3204,9 +3204,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (996)](#finance-fpa-cv-996) · [Credit (192)](#credit-cv-192) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (25)](#consulting-cv-25) · [Real Estate (24)](#real-estate-cv-24) · [Fund (50)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-50) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (997)](#finance-fpa-cv-997) · [Credit (192)](#credit-cv-192) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (25)](#consulting-cv-25) · [Real Estate (24)](#real-estate-cv-24) · [Fund (50)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-50) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
-### Finance (FP&A) CV: 996
+### Finance (FP&A) CV: 997
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4926,8 +4926,7 @@ Everything matched so far, newest first within each CV: [Finance (996)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Fri 27 Nov, 23:18 | Recently Qualified Accountant | Vitae Financial Recruitment Limited |
-| Fri 27 Nov, 23:12 | Analyst – Treasury Operations | Women in Data® |
+| Fri 27 Nov, 23:45 | Recently Qualified Accountant | Vitae Financial Recruitment Limited |
 | Fri 27 Nov, 22:23 | Finance Business Partner | Impact Food Group |
 | Fri 27 Nov, 22:22 | Management Accountant - Record to Report (R2R) | The Noble Restaurant Group |
 | Fri 27 Nov, 22:17 | Single Stock Trader | Citi |
