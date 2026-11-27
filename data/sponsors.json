@@ -997,6 +997,11 @@
    "register_name": "The Boston Consulting Group UK LLP",
    "match": "alias"
   },
+  "Boutique investment bank": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Brainkind": {
    "licensed": false,
    "register_name": null,

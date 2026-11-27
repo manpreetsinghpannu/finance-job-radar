@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T03:18:52.294Z",
+ "generated_at": "2026-11-27T04:23:11.930Z",
  "order": [
   "finance",
   "credit",
@@ -8182,6 +8182,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/business-services-m-a-analyst-3-to-associate-2-global-boutique-investment-bank-4495053987": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
   }
  }
 }
