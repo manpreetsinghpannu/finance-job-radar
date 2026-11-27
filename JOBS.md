@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Fri 27 Nov, 19:21** (UK time) · **1661 open roles** at 990 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Fri 27 Nov, 19:46** (UK time) · **1661 open roles** at 990 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Fri 27 Nov, 19:10** · hourly scan · checked 201 boards · **10 new roles**
+**Fri 27 Nov, 19:35** · hourly scan · checked 201 boards · **10 new roles**
 
 ### Finance (FP&A) CV: 5
 
@@ -22,24 +22,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 | — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57621137) | Arlington Resource Management | London | ❔ |
 | 2026-11-27 | [Reporting & Performance Accountant](https://scotjobsnet.co.uk/job/reporting-performance-accountant/) | via ScotJobsNet | Renfrewshire Paisley, Scotland | ❔ |
 
-### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-27 | [Catastrophe Portfolio Analyst](https://www.linkedin.com/jobs/view/catastrophe-portfolio-analyst-at-the-fidelis-partnership-4495843298) | The Fidelis Partnership | London Area, United Kingdom | ❔ |
-
 ### Investment (IB / PE) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-27 | [Investment Banking Analyst 2, Technology](https://www.linkedin.com/jobs/view/investment-banking-analyst-2-technology-at-william-blair-4486226703) | William Blair | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Investment Banking Analyst, Consumer & Retail](https://www.linkedin.com/jobs/view/investment-banking-analyst-consumer-retail-at-citi-4486909736) | Citi | London, England, United Kingdom | ✅ |
+| 2026-11-27 | [Investment Banking Analyst 2, Technology](https://www.linkedin.com/jobs/view/investment-banking-analyst-2-technology-at-william-blair-4486226703) | William Blair | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Analyst II, Restructuring](https://www.linkedin.com/jobs/view/analyst-ii-restructuring-at-kroll-4477716412) | Kroll | Manchester, England, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 1
+### Fund CV (written for India; tweak the header for UK roles): 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-27 | [Quantitative Performance Analyst](https://www.linkedin.com/jobs/view/quantitative-performance-analyst-at-russell-investments-4486976473) | Russell Investments | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Fund Accounting Specialist](https://www.linkedin.com/jobs/view/fund-accounting-specialist-at-deutsche-bank-4488083656) | Deutsche Bank | London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
@@ -76,7 +71,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Investment Analyst - Real Estate](https://www.linkedin.com/jobs/view/investment-analyst-real-estate-at-london-lgps-civ-limited-4492832878) · London LGPS CIV Limited · London, England, United Kingdom · posted 2026-11-20 · ✅
 2. [Real Estate Investment Banking, Analyst/Associate, LDN, Global Advisory](https://rothschildandco.wd3.myworkdayjobs.com/rothschildandco_lateral/job/London/Real-Estate-Investment-Banking--Analyst-Associate--LDN--Global-Advisory_JR016695) · Rothschild & Co · London · posted 2026-11-12 · ✅
 
-**Fund CV (written for India; tweak the header for UK roles)** (32 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (33 matching)
 
 1. [Assistant Fund Accountant](https://www.linkedin.com/jobs/view/assistant-fund-accountant-at-langham-hall-4493007443) · Langham Hall · London Area, United Kingdom · posted 2026-11-24 · ✅
 2. [Trainee Fund Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1176) · Aztec Group · Southampton · posted 2026-11-24 · ✅
@@ -88,7 +83,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Friday 27 November
 
 <details>
-<summary><b>19:10</b> · hourly scan · <b>10 new</b> → Finance 5 · Equity 1 · Investment 3 · Fund 1</summary>
+<summary><b>19:35</b> · hourly scan · <b>10 new</b> → Finance 5 · Investment 3 · Fund 2</summary>
 
 #### Finance (FP&A) CV: 5
 
@@ -100,25 +95,22 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57621137) | Arlington Resource Management | London | ❔ |
 | 2026-11-27 | [Reporting & Performance Accountant](https://scotjobsnet.co.uk/job/reporting-performance-accountant/) | via ScotJobsNet | Renfrewshire Paisley, Scotland | ❔ |
 
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-27 | [Catastrophe Portfolio Analyst](https://www.linkedin.com/jobs/view/catastrophe-portfolio-analyst-at-the-fidelis-partnership-4495843298) | The Fidelis Partnership | London Area, United Kingdom | ❔ |
-
 #### Investment (IB / PE) CV: 3
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-27 | [Investment Banking Analyst 2, Technology](https://www.linkedin.com/jobs/view/investment-banking-analyst-2-technology-at-william-blair-4486226703) | William Blair | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Investment Banking Analyst, Consumer & Retail](https://www.linkedin.com/jobs/view/investment-banking-analyst-consumer-retail-at-citi-4486909736) | Citi | London, England, United Kingdom | ✅ |
+| 2026-11-27 | [Investment Banking Analyst 2, Technology](https://www.linkedin.com/jobs/view/investment-banking-analyst-2-technology-at-william-blair-4486226703) | William Blair | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Analyst II, Restructuring](https://www.linkedin.com/jobs/view/analyst-ii-restructuring-at-kroll-4477716412) | Kroll | Manchester, England, United Kingdom | ✅ |
 
-#### Fund CV (written for India; tweak the header for UK roles): 1
+#### Fund CV (written for India; tweak the header for UK roles): 2
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-27 | [Quantitative Performance Analyst](https://www.linkedin.com/jobs/view/quantitative-performance-analyst-at-russell-investments-4486976473) | Russell Investments | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Fund Accounting Specialist](https://www.linkedin.com/jobs/view/fund-accounting-specialist-at-deutsche-bank-4488083656) | Deutsche Bank | London, England, United Kingdom | ❔ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3210,33 +3202,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>19:22</b> · hourly scan · <b>4 new</b> → Finance 1 · Investment 1 · Other 2</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-20 | [Revenue Accountant](https://www.s1jobs.com/job/revenue-accountant-127783406) | CAMMACH BRYANT LIMITED | Aberdeen Area, Scotland | ❔ |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-20 | [Investment Banking Associate, Technology](https://www.linkedin.com/jobs/view/investment-banking-associate-technology-at-william-blair-4437622721) | William Blair | London, England, United Kingdom | ✅ |
-
-#### Other (fits no CV closely, may still be worth a look): 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-20 | [Technology Risk Graduate Programme - September 2027 intake](https://www.linkedin.com/jobs/view/technology-risk-graduate-programme-september-2027-intake-at-ey-4477806240) | EY | Edinburgh, Scotland, United Kingdom | ✅ |
-| 2026-11-20 | [Graduate - Finance](https://www.linkedin.com/jobs/view/graduate-finance-at-balfour-beatty-plc-4491954388) | Balfour Beatty plc | Birmingham, England, United Kingdom | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (985)](#finance-fpa-cv-985) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (176)](#investment-ib--pe-cv-176) · [Consulting (24)](#consulting-cv-24) · [Real Estate (24)](#real-estate-cv-24) · [Fund (48)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-48) · [Other (143)](#other-fits-no-cv-closely-may-still-be-worth-a-look-143)
+Everything matched so far, newest first within each CV: [Finance (985)](#finance-fpa-cv-985) · [Credit (191)](#credit-cv-191) · [Equity (69)](#equity-cv-69) · [Investment (176)](#investment-ib--pe-cv-176) · [Consulting (24)](#consulting-cv-24) · [Real Estate (24)](#real-estate-cv-24) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (143)](#other-fits-no-cv-closely-may-still-be-worth-a-look-143)
 
 ### Finance (FP&A) CV: 985
 
@@ -4505,8 +4473,8 @@ Everything matched so far, newest first within each CV: [Finance (985)](#finance
 |---|---|---|---|---|
 | — | [M&A Analyst – Investment Banking](https://www.reed.co.uk/jobs/m-a-analyst--investment-banking/57618389) | Sharp Consultancy | Manchester, Lancashire | ❔ |
 | 2026-11-27 | [Investment Banking Associate, Private Capital Markets](https://www.linkedin.com/jobs/view/investment-banking-associate-private-capital-markets-at-william-blair-4476689275) | William Blair | London, England, United Kingdom | ✅ |
-| 2026-11-27 | [Investment Banking Analyst 2, Technology](https://www.linkedin.com/jobs/view/investment-banking-analyst-2-technology-at-william-blair-4486226703) | William Blair | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Investment Banking Analyst, Consumer & Retail](https://www.linkedin.com/jobs/view/investment-banking-analyst-consumer-retail-at-citi-4486909736) | Citi | London, England, United Kingdom | ✅ |
+| 2026-11-27 | [Investment Banking Analyst 2, Technology](https://www.linkedin.com/jobs/view/investment-banking-analyst-2-technology-at-william-blair-4486226703) | William Blair | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Business Services M&A (Analyst 3 to Associate 2) - global boutique investment bank](https://www.linkedin.com/jobs/view/business-services-m-a-analyst-3-to-associate-2-global-boutique-investment-bank-4495053987) | Boutique investment bank | London Area, United Kingdom | ❔ |
 | 2026-11-27 | [Investment Banking Associate - Tech & Services](https://www.linkedin.com/jobs/view/investment-banking-associate-tech-services-at-baird-4479195578) | Baird | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Investment Banking Division - FIG Italy (London) - Associate](https://www.linkedin.com/jobs/view/investment-banking-division-fig-italy-london-associate-at-morgan-stanley-4431450482) | Morgan Stanley | London, England, United Kingdom | ✅ |
@@ -4738,11 +4706,12 @@ Everything matched so far, newest first within each CV: [Finance (985)](#finance
 | — | [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 48
+### Fund CV (written for India; tweak the header for UK roles): 49
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-27 | [Investment Operations Analyst](https://www.linkedin.com/jobs/view/investment-operations-analyst-at-pontoon-solutions-4493893413) | Pontoon Solutions | Manchester Area, United Kingdom | ❔ |
+| 2026-11-27 | [Quantitative Performance Analyst](https://www.linkedin.com/jobs/view/quantitative-performance-analyst-at-russell-investments-4486976473) | Russell Investments | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-equifind-4495842205) | Equifind | London, England, United Kingdom | ❔ |
 | — | [Fund Accountant](https://www.reed.co.uk/jobs/fund-accountant/57620891) | Equifind Group | London | ❔ |
 | — | [Pensions Fund Accountant](https://www.reed.co.uk/jobs/pensions-fund-accountant/57620488) | Alexander Lloyd | Belfast, County Antrim | ❔ |
@@ -4946,7 +4915,7 @@ Everything matched so far, newest first within each CV: [Finance (985)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Fri 27 Nov, 19:14 | Management Accountant | 2 Sisters Food Group |
+| Fri 27 Nov, 19:39 | Management Accountant | 2 Sisters Food Group |
 | Fri 27 Nov, 18:24 | Quantity Surveyor | Conrad Consulting |
 | Fri 27 Nov, 18:24 | Associate Quantity Surveyor | Conrad Consulting |
 | Fri 27 Nov, 18:16 | Finance Graduate | Keplin Group Limited |

@@ -5507,6 +5507,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Russell Investments": {
+   "licensed": true,
+   "register_name": "Russell Investments Systems Limited",
+   "match": "prefix"
+  },
   "Rutherford Briant": {
    "licensed": false,
    "register_name": null,

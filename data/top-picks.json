@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T19:21:26.792Z",
+ "generated_at": "2026-11-27T19:46:51.698Z",
  "order": [
   "finance",
   "credit",
@@ -218,7 +218,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 32,
+   "matching": 33,
    "picks": [
     {
      "title": "Assistant Fund Accountant",
@@ -8508,40 +8508,40 @@
    "cv": "Finance (FP&A) CV",
    "score": 22
   },
-  "https://www.linkedin.com/jobs/view/investment-banking-analyst-2-technology-at-william-blair-4486226703": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 22
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-hyerhub-4494219077": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 15
-  },
-  "https://www.linkedin.com/jobs/view/catastrophe-portfolio-analyst-at-the-fidelis-partnership-4495843298": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/investment-banking-analyst-consumer-retail-at-citi-4486909736": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-balfour-beatty-plc-4494203887": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
   },
   "https://www.linkedin.com/jobs/view/analyst-ii-restructuring-at-kroll-4477716412": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
   },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-2-technology-at-william-blair-4486226703": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 22
+  },
   "https://www.linkedin.com/jobs/view/fund-accounting-specialist-at-deutsche-bank-4488083656": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-balfour-beatty-plc-4494203887": {
+  "https://www.linkedin.com/jobs/view/quantitative-performance-analyst-at-russell-investments-4486976473": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-hyerhub-4494219077": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 17
+   "score": 15
   },
   "https://www.reed.co.uk/jobs/assistant-accountant/57621137": {
    "id": "finance",
