@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T20:24:18.652Z",
+ "generated_at": "2026-11-27T21:27:52.611Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 355,
+   "matching": 356,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -707,11 +707,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/investment-banking-industrials-at-metis-search-4473171400": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 11
   },
   "https://www.linkedin.com/jobs/view/corporate-finance-analyst-at-the-consultancy-group-london-4486251680": {
    "id": "finance",
@@ -3432,11 +3427,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
-  },
-  "https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-aster-group-uk-4490884603": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-heap-co-accountancy-finance-recruitment-specialists-4490882748": {
    "id": "finance",
@@ -8567,6 +8557,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-%E2%80%93-consumer-brands-at-growth-drivers-4495851827": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/group-accountant-at-investigo-4495845086": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.reed.co.uk/jobs/finance-analyst-development/57621209": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

@@ -2642,6 +2642,11 @@
    "register_name": "Lotus",
    "match": "exact"
   },
+  "Growth Drivers": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Guggenheim Securities": {
    "licensed": true,
    "register_name": "Guggenheim Securities International Ltd",
@@ -5601,6 +5606,11 @@
    "licensed": true,
    "register_name": "SMBC Bank International plc",
    "match": "prefix"
+  },
+  "SNG": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "SOCOTEC UK & Ireland": {
    "licensed": false,

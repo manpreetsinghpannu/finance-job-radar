@@ -2776,5 +2776,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-systems-accountant-at-riverlane-4488137443 | Riverlane | Finance Systems Accountant | Cambridge, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-career-legal-4483433743 | Career Legal | Financial Accountant | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/interim-accountant-at-s1jobs-4495821892 | s1jobs | Interim Accountant | Newbridge, Scotland, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-%E2%80%93-consumer-brands-at-growth-drivers-4495851827 | Growth Drivers | Assistant Management Accountant – Consumer Brands | United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-accountant-at-investigo-4495845086 | Investigo | Group Accountant | Milton Keynes, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/finance-analyst-development/57621209 | SNG (Sovereign Network Group) | Finance Analyst - Development | Basingstoke, Hampshire | note: via Reed
 
 ## Processed
