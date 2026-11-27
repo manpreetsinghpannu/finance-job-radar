@@ -2676,4 +2676,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-remote-at-crossing-hurdles-4495081517 | Crossing Hurdles | Financial Analyst | Remote | United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/m-a-analyst--investment-banking/57618389 | Sharp Consultancy | M&A Analyst – Investment Banking | Manchester, Lancashire | note: via Reed
 
+- [ ] https://job-boards.greenhouse.io/tide/jobs/8218239003 | Tide | Commercial Finance Broker | United Kingdom | posted: 2026-11-27
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-ftc-at-edenbrook-4488208854 | Edenbrook | Financial Planning Analyst - FTC | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/buy-side-equity-research-analyst-global-equities-major-asset-management-firm-at-greenwich-partners-4495595427 | Greenwich Partners | Buy Side Equity Research Analyst, Global Equities - Major asset management firm | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-venture-recruitment-partners-4495537311 | Venture Recruitment Partners | Financial Accountant | Bournemouth, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-universal-music-group-4487782274 | Universal Music Group | Commercial Analyst | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/financial-analyst-capital/57618504 | The Hyde Group | Financial Analyst (Capital) | London | note: via Reed
+
 ## Processed

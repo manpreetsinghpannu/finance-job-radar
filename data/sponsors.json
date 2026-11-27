@@ -6192,6 +6192,11 @@
    "register_name": null,
    "match": "none"
   },
+  "The Hyde Group": {
+   "licensed": true,
+   "register_name": "Hyde Global Ltd",
+   "match": "prefix"
+  },
   "The Niche Partnership": {
    "licensed": false,
    "register_name": null,

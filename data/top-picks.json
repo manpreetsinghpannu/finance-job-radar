@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T09:22:14.112Z",
+ "generated_at": "2026-11-27T10:23:48.267Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 331,
+   "matching": 335,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -5733,11 +5733,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 11
   },
-  "https://www.linkedin.com/jobs/view/operations-management-accountant-at-insite-energy-4493780155": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
-  },
   "https://www.linkedin.com/jobs/view/management-accountant-corporate-at-cambridgeshire-and-peterborough-nhs-foundation-trust-cpft-4493648455": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -6484,11 +6479,6 @@
    "score": 10
   },
   "https://www.linkedin.com/jobs/view/financial-planning-analysis-accountant-at-knights-4494390012": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-livgreen-retrofit-specialists-4494156151": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
@@ -8202,6 +8192,36 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 24
+  },
+  "https://job-boards.greenhouse.io/tide/jobs/8218239003": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-ftc-at-edenbrook-4488208854": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/buy-side-equity-research-analyst-global-equities-major-asset-management-firm-at-greenwich-partners-4495595427": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 33
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-venture-recruitment-partners-4495537311": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/commercial-analyst-at-universal-music-group-4487782274": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/financial-analyst-capital/57618504": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
