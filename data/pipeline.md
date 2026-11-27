@@ -2779,5 +2779,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-%E2%80%93-consumer-brands-at-growth-drivers-4495851827 | Growth Drivers | Assistant Management Accountant – Consumer Brands | United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/group-accountant-at-investigo-4495845086 | Investigo | Group Accountant | Milton Keynes, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/finance-analyst-development/57621209 | SNG (Sovereign Network Group) | Finance Analyst - Development | Basingstoke, Hampshire | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/investment-operations-analyst-at-london-lgps-civ-limited-4495330963 | London LGPS CIV Limited | Investment Operations Analyst | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed

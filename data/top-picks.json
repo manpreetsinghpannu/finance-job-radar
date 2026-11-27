@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T21:27:52.611Z",
+ "generated_at": "2026-11-27T22:27:19.890Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 356,
+   "matching": 355,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -218,8 +218,20 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 33,
+   "matching": 34,
    "picks": [
+    {
+     "title": "Investment Operations Analyst",
+     "company": "London LGPS CIV Limited",
+     "location": "London, England, United Kingdom",
+     "posted": "2026-11-27",
+     "url": "https://www.linkedin.com/jobs/view/investment-operations-analyst-at-london-lgps-civ-limited-4495330963",
+     "score": 22,
+     "why": [
+      "Investment Operations"
+     ],
+     "sponsor": true
+    },
     {
      "title": "Assistant Fund Accountant",
      "company": "Langham Hall",
@@ -227,18 +239,6 @@
      "posted": "2026-11-24",
      "url": "https://www.linkedin.com/jobs/view/assistant-fund-accountant-at-langham-hall-4493007443",
      "score": 20,
-     "why": [
-      "Fund Accountant"
-     ],
-     "sponsor": true
-    },
-    {
-     "title": "Trainee Fund Accountant",
-     "company": "Aztec Group",
-     "location": "Southampton",
-     "posted": "2026-11-24",
-     "url": "https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Trainee-Fund-Accountant_R1176",
-     "score": 19,
      "why": [
       "Fund Accountant"
      ],
@@ -1378,11 +1378,6 @@
    "cv": "Credit CV",
    "score": 16
   },
-  "https://www.linkedin.com/jobs/view/management-accountant-record-to-report-r2r-at-the-noble-restaurant-group-4482524534": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.linkedin.com/jobs/view/accounting-finance-graduate-warwick-at-national-grid-4487154539": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -1607,11 +1602,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
-  },
-  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Single-Stock-Trader_261009084-1": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210616021": {
    "id": "investment",
@@ -4897,11 +4887,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
-  },
-  "https://www.reed.co.uk/jobs/finance-business-partner/57597653": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
   },
   "https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-csl-4490701998": {
    "id": "finance",
@@ -8572,6 +8557,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/investment-operations-analyst-at-london-lgps-civ-limited-4495330963": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 22
   }
  }
 }
