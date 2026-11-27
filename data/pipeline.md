@@ -2710,5 +2710,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/debt-capital-transactions-analyst-london/57619552 | Atrium Workforce Solutions Ltd | Debt Capital Transactions Analyst - London | London | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/client-accountant/57619486 | Trinity Estates | Client Accountant | Manchester, Lancashire | note: via Reed
 - [ ] https://www.reed.co.uk/jobs/management-accountant/57619618 | Trace | Expert Accountancy & Finance Recruitment | Management Accountant | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-finance-analyst-at-pilgrim-s-europe-4486970615 | Pilgrim's Europe | Finance Analyst, Finance Analyst | Enniskillen, Northern Ireland, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-tiptopjob-4495803942 | TipTopJob | Management Accountant | Lincoln, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-professional-credit-opportunities-london-at-confidential-careers-4495816705 | Confidential Careers | Investment Professional - Credit Opportunities (London) | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-division-fig-italy-london-associate-at-morgan-stanley-4431450482 | Morgan Stanley | Investment Banking Division - FIG Italy (London) - Associate | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-tech-services-at-baird-4479195578 | Baird | Investment Banking Associate - Tech & Services | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-newly-qualified-or-finalist-at-validus-risk-management-4470962262 | Validus Risk Management | Financial Accountant (Newly Qualified or Finalist) | Windsor, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/cash-management-analyst-capital-markets-at-albany-beck-4495804724 | Albany Beck | Cash Management Analyst - Capital Markets | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-little-dot-studios-4494207012 | Little Dot Studios | Assistant Accountant | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-management-accountant-at-sf-search-partners-4493893435 | SF Search Partners | Assistant Management Accountant | Leicester, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-agratas-%E2%80%93-a-tata-enterprise-4479840446 | Agratas – A Tata Enterprise | Finance Analyst | Bridgwater, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/oracle-treasury-professional-at-ventula-consulting-4495306441 | Ventula Consulting | Oracle Treasury Professional | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-career-legal-4483433743 | Career Legal | Financial Accountant | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/debt-capital-transactions-analyst-london-at-atrium-emea-4495804851 | Atrium (EMEA) | Debt Capital Transactions Analyst - London | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-financial-controller/57619675 | Nomad Foods | Assistant Financial Controller | Hammersmith, London, London | note: via Reed
 
 ## Processed

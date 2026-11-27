@@ -262,6 +262,11 @@
    "register_name": "Alantra Partners International Limited",
    "match": "prefix"
   },
+  "Albany Beck": {
+   "licensed": true,
+   "register_name": "Albany Beck Worldwide Limited",
+   "match": "prefix"
+  },
   "Aldermore Bank": {
    "licensed": false,
    "register_name": null,
@@ -621,6 +626,11 @@
    "licensed": true,
    "register_name": "Atomos Investments Limited",
    "match": "prefix"
+  },
+  "Atrium": {
+   "licensed": true,
+   "register_name": "Atrium Ltd",
+   "match": "exact"
   },
   "Atrium Workforce Solutions Ltd": {
    "licensed": true,
@@ -1382,6 +1392,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Career Legal": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Carey Olsen": {
    "licensed": true,
    "register_name": "Carey Olsen LLP",
@@ -1653,6 +1668,11 @@
    "match": "none"
   },
   "Confidential": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Confidential Careers": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -3592,6 +3612,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Little Dot Studios": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "LivGreen - Retrofit Specialists": {
    "licensed": false,
    "register_name": null,
@@ -4461,6 +4486,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Nomad Foods": {
+   "licensed": true,
+   "register_name": "Nomad Foods Europe Limited",
+   "match": "exact"
   },
   "Nominet": {
    "licensed": true,
@@ -5463,6 +5493,11 @@
    "match": "none"
   },
   "SF Partners Admin": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "SF Search Partners": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -6611,6 +6646,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Validus Risk Management": {
+   "licensed": true,
+   "register_name": "Validus Risk Management Ltd",
+   "match": "exact"
   },
   "Vallum Associates": {
    "licensed": true,

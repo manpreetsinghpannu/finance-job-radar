@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1430 firms checked, 660 matched, 770 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1438 firms checked, 664 matched, 774 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (770)
+## Not found (774)
 
 - 01Health
 - 7IM
@@ -158,6 +158,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Caravel
 - Card Factory
 - Care Visions Group
+- Career Legal
 - Carlsberg Britvic
 - Carousel Consultancy Ltd
 - Carr Lyons Search & Selection
@@ -186,6 +187,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Collins Aerospace
 - Computershare UK
 - Confidential
+- Confidential Careers
 - Connect Recruitment Consultants Ltd.
 - Connect2Hackney
 - Conrad Consulting
@@ -399,6 +401,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Lightspeed Commerce
 - Lime Talent
 - Linear Partners
+- Little Dot Studios
 - LivGreen - Retrofit Specialists
 - Lloyd Recruitment - Epsom
 - Lloyd Recruitment Services Ltd
@@ -598,6 +601,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - SENSIBAL RECRUITMENT LTD
 - SF Partners
 - SF Partners Admin
+- SF Search Partners
 - SJC Partners
 - SOCOTEC UK & Ireland
 - SRG
@@ -777,11 +781,12 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - via ScotJobsNet
 - Şişecam
 
-## Matched automatically by close name; worth a glance (88)
+## Matched automatically by close name; worth a glance (89)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - AVEVA → AVEVA Solutions Ltd (prefix)
 - Alantra → Alantra Partners International Limited (prefix)
+- Albany Beck → Albany Beck Worldwide Limited (prefix)
 - Alfa AI → Alfa Financial Software Ltd (prefix)
 - Allianz UK → Allianz Insurance plc (prefix)
 - Aries Global → ARIES GLOBAL SOFTWARE HOLDING LIMITED (prefix)

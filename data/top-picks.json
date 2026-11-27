@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T13:25:01.850Z",
+ "generated_at": "2026-11-27T14:24:41.109Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 342,
+   "matching": 345,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 110,
+   "matching": 111,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 91,
+   "matching": 94,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -6798,11 +6798,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-sectora-group-4494192112": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
   "https://www.linkedin.com/jobs/view/assistant-finance-business-partner-denton-at-partou-childcare-4494199785": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -8327,6 +8322,76 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 4
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-finance-analyst-at-pilgrim-s-europe-4486970615": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-at-tiptopjob-4495803942": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/investment-professional-credit-opportunities-london-at-confidential-careers-4495816705": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-division-fig-italy-london-associate-at-morgan-stanley-4431450482": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-tech-services-at-baird-4479195578": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-newly-qualified-or-finalist-at-validus-risk-management-4470962262": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/cash-management-analyst-capital-markets-at-albany-beck-4495804724": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/assistant-accountant-at-little-dot-studios-4494207012": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/assistant-management-accountant-at-sf-search-partners-4493893435": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-agratas-%E2%80%93-a-tata-enterprise-4479840446": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/oracle-treasury-professional-at-ventula-consulting-4495306441": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/financial-accountant-at-career-legal-4483433743": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/debt-capital-transactions-analyst-london-at-atrium-emea-4495804851": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/assistant-financial-controller/57619675": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }
