@@ -2702,5 +2702,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/commercial-finance-job-site-solutions-milwaukee-emea-at-techtronic-industries-emea-4471465387 | Techtronic Industries EMEA | Commercial Finance Job Site Solutions, Milwaukee- EMEA | Maidenhead, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/valuation-surveyor-at-carter-jonas-4493894211 | Carter Jonas | Valuation Surveyor | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-operations-analyst-at-pontoon-solutions-4493893413 | Pontoon Solutions | Investment Operations Analyst | Manchester Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-pingpong-payments-4495094833 | PingPong Payments | Financial Analyst | City Of London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-quick-start-required-at-edward-mann-4493888397 | Edward Mann | Management Accountant - quick start required | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-systems-accountant-at-natwest-group-4495598577 | NatWest Group | Finance Systems Accountant | Edinburgh, Scotland, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/market-risk-analyst-at-yorkshire-building-society-4495808555 | Yorkshire Building Society | Market Risk Analyst | Leeds, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-universal-music-group-uk-4487784227 | Universal Music Group UK | Commercial Analyst | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/debt-capital-transactions-analyst-london/57619552 | Atrium Workforce Solutions Ltd | Debt Capital Transactions Analyst - London | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/client-accountant/57619486 | Trinity Estates | Client Accountant | Manchester, Lancashire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57619618 | Trace | Expert Accountancy & Finance Recruitment | Management Accountant | London | note: via Reed
 
 ## Processed

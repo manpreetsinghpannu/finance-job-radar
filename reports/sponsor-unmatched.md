@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1426 firms checked, 657 matched, 769 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1430 firms checked, 660 matched, 770 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (769)
+## Not found (770)
 
 - 01Health
 - 7IM
@@ -699,6 +699,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Transaction Recruitment
 - Trial Balance Consulting
 - Trident International Associates
+- Trinity Estates
 - Trostan Dene
 - UBS
 - UCEA - Family Office Group
@@ -776,7 +777,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - via ScotJobsNet
 - Şişecam
 
-## Matched automatically by close name; worth a glance (87)
+## Matched automatically by close name; worth a glance (88)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - AVEVA → AVEVA Solutions Ltd (prefix)
@@ -844,6 +845,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Pantheon → Pantheon Platform UK Limited (prefix)
 - Paxos → Paxos Technology Limited (prefix)
 - People First → People First Care (Rennington) Ltd (prefix)
+- PingPong Payments → PingPong Payment (UK) Limited (similar (0.97))
 - Pliant → Pliant Payments Limited (prefix)
 - Plum → Plum Fintech (prefix)
 - Quantum → Quantum Services Management Ltd (prefix)

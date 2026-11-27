@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T12:23:16.045Z",
+ "generated_at": "2026-11-27T13:25:01.850Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 339,
+   "matching": 342,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 108,
+   "matching": 110,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -1158,11 +1158,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/fund-controller-private-markets-at-aria-partners-4479818826": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 5
-  },
   "https://www.linkedin.com/jobs/view/credit-risk-analyst-6-months-maternity-cover-at-harley-davidson-motor-company-4479358900": {
    "id": "credit",
    "cv": "Credit CV",
@@ -1212,11 +1207,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 11
-  },
-  "https://www.linkedin.com/jobs/view/financial-markets-graduate-programme-uk-2027-at-standard-chartered-4488768815": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://www.linkedin.com/jobs/view/finance-business-partner-at-socotec-uk-ireland-4487664048": {
    "id": "finance",
@@ -5058,11 +5048,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 7
   },
-  "https://www.reed.co.uk/jobs/research-analyst-uk/57598506": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 17
-  },
   "https://www.linkedin.com/jobs/view/finance-business-partner-at-believ-4474895893": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -5492,11 +5477,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/graduate-commercial-analyst-%C2%A340-000-%C2%A350-000-london-uk-at-cv-bridge-ltd-4493594691": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
   },
   "https://www.linkedin.com/jobs/view/investment-analyst-at-nucleus-financial-4493608970": {
    "id": "equity",
@@ -8312,6 +8292,41 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-pingpong-payments-4495094833": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/management-accountant-quick-start-required-at-edward-mann-4493888397": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/finance-systems-accountant-at-natwest-group-4495598577": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/market-risk-analyst-at-yorkshire-building-society-4495808555": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/commercial-analyst-at-universal-music-group-uk-4487784227": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/debt-capital-transactions-analyst-london/57619552": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.reed.co.uk/jobs/client-accountant/57619486": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
   }
  }
 }

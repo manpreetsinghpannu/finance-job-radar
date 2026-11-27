@@ -622,6 +622,11 @@
    "register_name": "Atomos Investments Limited",
    "match": "prefix"
   },
+  "Atrium Workforce Solutions Ltd": {
+   "licensed": true,
+   "register_name": "Atrium Workforce Solutions UK Ltd",
+   "match": "exact"
+  },
   "Augean": {
    "licensed": false,
    "register_name": null,
@@ -4937,6 +4942,11 @@
    "register_name": "Pilgrims Group Ltd",
    "match": "exact"
   },
+  "PingPong Payments": {
+   "licensed": true,
+   "register_name": "PingPong Payment (UK) Limited",
+   "match": "similar (0.97)"
+  },
   "Places Leisure": {
    "licensed": false,
    "register_name": null,
@@ -6447,6 +6457,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Trinity Estates": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Trinity House Group": {
    "licensed": true,
    "register_name": "Trinity House",
@@ -7016,6 +7031,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "Yorkshire Building Society": {
+   "licensed": true,
+   "register_name": "Yorkshire Building Society",
+   "match": "exact"
   },
   "Zachary Daniels": {
    "licensed": false,
