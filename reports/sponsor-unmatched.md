@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1414 firms checked, 653 matched, 761 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1419 firms checked, 653 matched, 766 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (761)
+## Not found (766)
 
 - 01Health
 - 7IM
@@ -91,6 +91,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - BNP Paribas Personal Finance
 - BOC UK & Ireland
 - BOLDSCIENCE
+- BRD Search Limited
 - BTG Eddisons
 - Baker Charles
 - Barbara Houghton Associates Limited
@@ -205,6 +206,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Dana Incorporated
 - Datalink Recruitment
 - Day Lewis Pharmacy
+- Destination Sport
 - Deutsche Asset Management
 - Deutsche Bank
 - Dignity Group
@@ -279,6 +281,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Go Off Road Powersports
 - Goodlord
 - Grafton Banks Finance Ltd
+- Grainger & Worrall
 - Graphite Partners
 - Great Places Housing Association
 - Green Folk
@@ -390,6 +393,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Language Matters
 - Larbey Evans
 - Latus Group
+- Latymer Search
 - Lemonade
 - Lightsource bp
 - Lightspeed Commerce
@@ -604,6 +608,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Samworth Brothers
 - Sanctuary Graduates & Apprentices
 - Satispay
+- Saxton Leigh
 - Scottish public sector
 - Scout Global
 - Searchability Ltd

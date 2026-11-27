@@ -2682,5 +2682,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-accountant-at-venture-recruitment-partners-4495537311 | Venture Recruitment Partners | Financial Accountant | Bournemouth, England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-universal-music-group-4487782274 | Universal Music Group | Commercial Analyst | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/financial-analyst-capital/57618504 | The Hyde Group | Financial Analyst (Capital) | London | note: via Reed
+- [ ] https://www.linkedin.com/jobs/view/reporting-accountant-at-gleeson-recruitment-group-4495803230 | Gleeson Recruitment Group | Reporting Accountant | Coleshill, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-destination-sport-4493879690 | Destination Sport | Management Accountant | Manchester, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-accountant-at-grainger-worrall-4485845165 | Grainger & Worrall | Management Accountant | Bridgnorth, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/cass-reconciliations-treasury-operations-officer-at-saxton-leigh-4495586973 | Saxton Leigh | CASS Reconciliations & Treasury Operations Officer | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/valuation-roles-updated-list-of-opportunities-across-uk-permanent-consultancy-at-latymer-search-4495500672 | Latymer Search | Valuation Roles - Updated list of opportunities across UK - Permanent & consultancy | England, United Kingdom | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/part-qualified-management-accountant/57618880 | BRD Search Limited | Part Qualified Management Accountant | Berkshire | note: via Reed
 
 ## Processed

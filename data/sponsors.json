@@ -782,6 +782,11 @@
    "register_name": "BP plc",
    "match": "alias"
   },
+  "BRD Search Limited": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "BT Group": {
    "licensed": true,
    "register_name": "BT Group",
@@ -1827,6 +1832,11 @@
    "register_name": "Deloitte LLP",
    "match": "exact"
   },
+  "Destination Sport": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Deutsche Asset Management": {
    "licensed": false,
    "register_name": null,
@@ -2491,6 +2501,11 @@
    "licensed": true,
    "register_name": "Graham Capital LLP",
    "match": "alias"
+  },
+  "Grainger & Worrall": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Grant Thornton": {
    "licensed": true,
@@ -3453,6 +3468,11 @@
    "match": "none"
   },
   "Latus Group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Latymer Search": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5541,6 +5561,11 @@
    "licensed": true,
    "register_name": "Savills plc",
    "match": "exact"
+  },
+  "Saxton Leigh": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
   },
   "Scania (Great Britain) Limited": {
    "licensed": true,
