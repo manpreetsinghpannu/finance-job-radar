@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1442 firms checked, 666 matched, 776 not found.
+Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1449 firms checked, 668 matched, 781 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (776)
+## Not found (781)
 
 - 01Health
 - 7IM
@@ -26,6 +26,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Accountable Recruitment
 - Accountable Recruitment Limited
 - Accountancy Action
+- Adarga
 - Addington Ball Recruitment Ltd
 - Adele Carr Recruitment Limited
 - Adyen
@@ -190,6 +191,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Confidential Careers
 - Connect Recruitment Consultants Ltd.
 - Connect2Hackney
+- Connells Survey and Valuation
 - Conrad Consulting
 - Consumer Additions and Consumer Exec
 - Cooper Parry Finance Recruitment
@@ -236,6 +238,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Equifind
 - Equifind Group
 - Equity House
+- Ernest Gordon Recruitment
 - Ernest Gordon Recruitment Limited
 - Escape Recruitment Services
 - Essential Employment
@@ -576,6 +579,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Randstad Finance
 - Raymond James, Thorpe Park Leeds
 - Reckitt
+- RecruitME
 - Redress Scotland
 - Reed
 - Referment
@@ -652,6 +656,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Starfish Search Limited
 - Statera Talent
 - Stoneacre Motor Group
+- Storio group
 - Strand Hill
 - Succeed Recruitment Solutions
 - Summit Energy Europe
@@ -783,7 +788,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - via ScotJobsNet
 - Şişecam
 
-## Matched automatically by close name; worth a glance (89)
+## Matched automatically by close name; worth a glance (90)
 
 - 3S Money → 3S Money Club Limited (prefix)
 - AVEVA → AVEVA Solutions Ltd (prefix)
@@ -867,6 +872,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Tarmac → Tarmac Trading Limited (prefix)
 - The Dune Group → Dune Advisors Limited (prefix)
 - The Hyde Group → Hyde Global Ltd (prefix)
+- The ONE Group Ltd → One Retail Group Limited (prefix)
 - Triple Point → Triple Point Servco Limited (prefix)
 - United Infrastructure Ltd → United Infrastructure Management Limited (prefix)
 - Universal Music Group → Universal Music Operations Ltd (prefix)

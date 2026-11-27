@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T15:22:03.050Z",
+ "generated_at": "2026-11-27T16:23:30.616Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 347,
+   "matching": 350,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 94,
+   "matching": 96,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -2267,11 +2267,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 17
-  },
-  "https://www.reed.co.uk/jobs/financial-accountant/57552093": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
   },
   "https://www.linkedin.com/jobs/view/group-fp-a-analyst-at-thg-4489561644": {
    "id": "finance",
@@ -7653,11 +7648,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-moore-walker-partners-4495283672": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-bruin-4493819517": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -8412,6 +8402,76 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-the-one-group-ltd-4494200587": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-division-industrials-associate-at-morgan-stanley-4409716524": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-private-capital-markets-at-william-blair-4476689275": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 23
+  },
+  "https://www.linkedin.com/jobs/view/junior-accounts-assistant-progression-to-chartered-accountant-at-ernest-gordon-recruitment-4495824503": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/accountant-at-storio-group-4488015352": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/premium-divison-assistant-accountant-at-lookers-motor-group-limited-4441561245": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/accountant-at-adarga-4495833117": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/project-accountant-at-recruitme-4495811983": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/junior-commercial-analyst-at-vml-4495819858": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.reed.co.uk/jobs/pensions-fund-accountant/57620488": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/financial-accountant-vc-backed-tech-company/57620426": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.reed.co.uk/jobs/management-accountant/57620401": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.reed.co.uk/jobs/assistant-management-accountant/57620400": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.reed.co.uk/jobs/part-qualified-accountant/57620585": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
   }
  }
 }

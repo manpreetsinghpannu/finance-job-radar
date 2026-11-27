@@ -187,6 +187,11 @@
    "register_name": "Acumen Inc",
    "match": "exact"
   },
+  "Adarga": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Addington Ball Recruitment Ltd": {
    "licensed": false,
    "register_name": null,
@@ -1687,6 +1692,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Connells Survey and Valuation": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Conrad Consulting": {
    "licensed": false,
    "register_name": null,
@@ -2093,6 +2103,11 @@
    "match": "prefix"
   },
   "Equity House": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
+  "Ernest Gordon Recruitment": {
    "licensed": false,
    "register_name": null,
    "match": "none"
@@ -5287,6 +5302,11 @@
    "register_name": "Recognise Bank Limited",
    "match": "exact"
   },
+  "RecruitME": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Redress Scotland": {
    "licensed": false,
    "register_name": null,
@@ -6012,6 +6032,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Storio group": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Strand Hill": {
    "licensed": false,
    "register_name": null,
@@ -6337,6 +6362,11 @@
    "register_name": "Nottingham Building Society",
    "match": "exact"
   },
+  "The ONE Group Ltd": {
+   "licensed": true,
+   "register_name": "One Retail Group Limited",
+   "match": "prefix"
+  },
   "The RP Research": {
    "licensed": false,
    "register_name": null,
@@ -6656,6 +6686,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "VML": {
+   "licensed": true,
+   "register_name": "VML(UK) Limited",
+   "match": "exact"
   },
   "VNI Finance": {
    "licensed": false,

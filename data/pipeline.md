@@ -2731,5 +2731,20 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/financial-accountant-127812949 | Oliver Smith Recruitment | Financial Accountant | Glasgow Area, Scotland | posted: 2026-11-27 | note: via S1Jobs
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-agratas-%E2%80%93-a-tata-enterprise-4479840446 | Agratas – A Tata Enterprise | Finance Analyst | Bridgwater, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/oracle-treasury-professional-at-ventula-consulting-4495306441 | Ventula Consulting | Oracle Treasury Professional | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-the-one-group-ltd-4494200587 | The ONE Group Ltd | Financial Analyst | Stamford, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-division-industrials-associate-at-morgan-stanley-4409716524 | Morgan Stanley | Investment Banking Division - Industrials - Associate | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-private-capital-markets-at-william-blair-4476689275 | William Blair | Investment Banking Associate, Private Capital Markets | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-accounts-assistant-progression-to-chartered-accountant-at-ernest-gordon-recruitment-4495824503 | Ernest Gordon Recruitment | Junior Accounts Assistant (Progression to chartered accountant) | Carlisle, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-storio-group-4488015352 | Storio group | Accountant | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/premium-divison-assistant-accountant-at-lookers-motor-group-limited-4441561245 | Lookers Motor Group Limited | Premium - Divison Assistant Accountant | Stourbridge, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-distinct-b-corp-4495815915 | Distinct | B Corp | Assistant Accountant | Abingdon-On-Thames, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-adarga-4495833117 | Adarga | Accountant | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/project-accountant-at-recruitme-4495811983 | RecruitME | Project Accountant | Stamford, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-commercial-analyst-at-vml-4495819858 | VML | Junior Commercial Analyst | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/pensions-fund-accountant/57620488 | Alexander Lloyd | Pensions Fund Accountant | Belfast, County Antrim | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/financial-accountant-vc-backed-tech-company/57620426 | Morgan McKinley | Financial Accountant - VC-Backed Tech Company | London | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/management-accountant/57620401 | Connells Survey and Valuation | Management Accountant | Milton Keynes, Buckinghamshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/assistant-management-accountant/57620400 | Connells Survey and Valuation | Assistant Management Accountant | Milton Keynes, Buckinghamshire | note: via Reed
+- [ ] https://www.reed.co.uk/jobs/part-qualified-accountant/57620585 | Addington Ball Recruitment Ltd | Part Qualified Accountant | Coventry, West Midlands (County) | note: via Reed
 
 ## Processed
