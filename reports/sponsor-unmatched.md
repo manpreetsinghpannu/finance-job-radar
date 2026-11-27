@@ -158,7 +158,6 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Caravel
 - Card Factory
 - Care Visions Group
-- Career Legal
 - Carlsberg Britvic
 - Carousel Consultancy Ltd
 - Carr Lyons Search & Selection

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T14:48:49.590Z",
+ "generated_at": "2026-11-27T15:22:03.050Z",
  "order": [
   "finance",
   "credit",
@@ -1887,11 +1887,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/real-estate-investment-analyst-european-investor-london-at-edgworth-partners-4487243131": {
-   "id": "real_estate",
-   "cv": "Real Estate CV",
-   "score": 19
   },
   "https://www.linkedin.com/jobs/view/group-management-accountant-at-forge-talent-4489955790": {
    "id": "finance",
@@ -8407,6 +8402,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-agratas-%E2%80%93-a-tata-enterprise-4479840446": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/oracle-treasury-professional-at-ventula-consulting-4495306441": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }

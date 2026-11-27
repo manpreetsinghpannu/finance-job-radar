@@ -2729,5 +2729,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/corporate-finance-specialist-127812945 | FT Recruitment Group | Corporate Finance Specialist | Aberdeen Area, Scotland | posted: 2026-11-27 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127812955 | Oliver Smith Recruitment | Quantity Surveyor | Glasgow Area, Scotland | posted: 2026-11-27 | note: via S1Jobs
 - [ ] https://www.s1jobs.com/job/financial-accountant-127812949 | Oliver Smith Recruitment | Financial Accountant | Glasgow Area, Scotland | posted: 2026-11-27 | note: via S1Jobs
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-agratas-%E2%80%93-a-tata-enterprise-4479840446 | Agratas – A Tata Enterprise | Finance Analyst | Bridgwater, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/oracle-treasury-professional-at-ventula-consulting-4495306441 | Ventula Consulting | Oracle Treasury Professional | London Area, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed
