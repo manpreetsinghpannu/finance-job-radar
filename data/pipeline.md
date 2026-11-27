@@ -2674,5 +2674,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/burberry-rtr-accountant-at-bof-careers-4495063687 | BoF Careers | Burberry RTR Accountant | Leeds, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/business-services-m-a-analyst-3-to-associate-2-global-boutique-investment-bank-goodman-masson/57618201 | eFinancialCareers | Business Services M&A Analyst 3 to Associate 2 - global boutique investment bank - Goodman Masson | London | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-remote-at-crossing-hurdles-4495081517 | Crossing Hurdles | Financial Analyst | Remote | United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/m-a-analyst--investment-banking/57618389 | Sharp Consultancy | M&A Analyst – Investment Banking | Manchester, Lancashire | note: via Reed
 
 ## Processed

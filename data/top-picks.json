@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T08:54:43.689Z",
+ "generated_at": "2026-11-27T09:22:14.112Z",
  "order": [
   "finance",
   "credit",
@@ -8197,6 +8197,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
+  },
+  "https://www.reed.co.uk/jobs/m-a-analyst--investment-banking/57618389": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 24
   }
  }
 }
