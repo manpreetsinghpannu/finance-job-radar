@@ -2802,6 +2802,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Western-Europe-NAM-Public-Sector-Credit-Officer---VP_261011320 | Citi | Western Europe/NAM Public Sector Credit Officer | London United Kingdom | posted: 2026-11-28
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-benelux-financial-institutions-group-fig-fintech-associate-london-at-jpmorganchase-4488137665 | JPMorganChase | Investment Banking - Benelux Financial Institutions Group (FIG) / FinTech - Associate - London | Greater London, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
-- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-city-harvest-london-4495802299 | City Harvest London | Finance Business Partner | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trainee-accountant-at-gen-ii-fund-services-4486224795 | Gen II Fund Services | Trainee Accountant | Whitley, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 
 ## Processed

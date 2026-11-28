@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 28 Nov, 10:26** (UK time) · **1659 open roles** at 987 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 28 Nov, 10:54** (UK time) · **1659 open roles** at 986 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 28 Nov, 10:15** · hourly scan · checked 201 boards · **2 new roles**
+**Sat 28 Nov, 10:41** · hourly scan · checked 201 boards · **2 new roles**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-27 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-city-harvest-london-4495802299) | City Harvest London | London, England, United Kingdom | ❔ |
+| 2026-11-28 | [Trainee Accountant](https://www.linkedin.com/jobs/view/trainee-accountant-at-gen-ii-fund-services-4486224795) | Gen II Fund Services | Whitley, England, United Kingdom | ❔ |
 
 ### Investment (IB / PE) CV: 1
 
@@ -70,13 +70,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Saturday 28 November
 
 <details>
-<summary><b>10:15</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
+<summary><b>10:41</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
 
 #### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-27 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-city-harvest-london-4495802299) | City Harvest London | London, England, United Kingdom | ❔ |
+| 2026-11-28 | [Trainee Accountant](https://www.linkedin.com/jobs/view/trainee-accountant-at-gen-ii-fund-services-4486224795) | Gen II Fund Services | Whitley, England, United Kingdom | ❔ |
 
 #### Investment (IB / PE) CV: 1
 
@@ -3120,6 +3120,7 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-28 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-gkn-aerospace-4495345523) | GKN Aerospace | Bristol, England, United Kingdom | ✅ |
+| 2026-11-28 | [Trainee Accountant](https://www.linkedin.com/jobs/view/trainee-accountant-at-gen-ii-fund-services-4486224795) | Gen II Fund Services | Whitley, England, United Kingdom | ❔ |
 | 2026-11-27 | [Interim Finance Business Partner / FP&A Analyst](https://www.adzuna.co.uk/jobs/land/ad/5981108342) | Axon Moore | Fieldhead Business Centre, Bradford | ❔ |
 | — | [Interim Finance Business Partner / FP&A Analyst](https://www.reed.co.uk/jobs/interim-finance-business-partner-fp-a-analyst/57621035) | Axon Moore Group Ltd | Bradford, West Yorkshire | ❔ |
 | 2026-11-27 | [Financial Planning Analyst - FTC](https://www.linkedin.com/jobs/view/financial-planning-analyst-ftc-at-edenbrook-4488208854) | Edenbrook | London Area, United Kingdom | ✅ |
@@ -4821,7 +4822,7 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Sat 28 Nov, 10:25 | Management Accountant | Milton Keynes City Council |
+| Sat 28 Nov, 10:53 | Management Accountant | Milton Keynes City Council |
 | Sat 28 Nov, 09:18 | Strategy Consultant - Food & Bev | Lime Talent |
 | Sat 28 Nov, 08:12 | Investment Risk Analyst | Barclay Simpson |
 | Sat 28 Nov, 07:23 | Quantity Surveyor | S1Jobs |
