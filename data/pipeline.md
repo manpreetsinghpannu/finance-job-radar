@@ -2797,5 +2797,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant-bookkeeper/57617393 | The GK Group Limited | Assistant Accountant / Bookkeeper | London | posted: 2026-11-27 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/graduate-strategy-commercial-business-development-and-m-a-at-targetjobs-uk-4495352486 | targetjobs UK | Graduate - Strategy, Commercial, Business Development and M&A | London Area, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/strategic-finance-business-partner-at-marble-mayne-recruitment-4493894009 | Marble Mayne Recruitment | Strategic Finance Business Partner | Kettering, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-risk-services-core-graduate-programme-autumn-2027-at-targetjobs-uk-4495344909 | targetjobs UK | Business Risk Services Core Graduate Programme (Autumn 2027) | London Area, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 
 ## Processed

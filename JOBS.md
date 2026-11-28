@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 28 Nov, 05:42** (UK time) · **1663 open roles** at 991 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 28 Nov, 06:24** (UK time) · **1664 open roles** at 991 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 28 Nov, 05:30** · hourly scan · checked 201 boards · **1 new role**
+**Sat 28 Nov, 06:16** · hourly scan · checked 201 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
+### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-27 | [Strategic Finance Business Partner](https://www.linkedin.com/jobs/view/strategic-finance-business-partner-at-marble-mayne-recruitment-4493894009) | Marble Mayne Recruitment | Kettering, England, United Kingdom | ❔ |
+| 2026-11-28 | [Business Risk Services Core Graduate Programme (Autumn 2027)](https://www.linkedin.com/jobs/view/business-risk-services-core-graduate-programme-autumn-2027-at-targetjobs-uk-4495344909) | targetjobs UK | London Area, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -63,7 +63,16 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 28 November
 
-<sub>Nothing new at: 05:09</sub>
+<details>
+<summary><b>06:16</b> · hourly scan · <b>1 new</b> → Other 1</summary>
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-28 | [Business Risk Services Core Graduate Programme (Autumn 2027)](https://www.linkedin.com/jobs/view/business-risk-services-core-graduate-programme-autumn-2027-at-targetjobs-uk-4495344909) | targetjobs UK | London Area, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>05:30</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -3139,11 +3148,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 06:16</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (991)](#finance-fpa-cv-991) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (139)](#other-fits-no-cv-closely-may-still-be-worth-a-look-139)
+Everything matched so far, newest first within each CV: [Finance (991)](#finance-fpa-cv-991) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (140)](#other-fits-no-cv-closely-may-still-be-worth-a-look-140)
 
 ### Finance (FP&A) CV: 991
 
@@ -4704,10 +4711,11 @@ Everything matched so far, newest first within each CV: [Finance (991)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 139
+### Other (fits no CV closely, may still be worth a look): 140
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-28 | [Business Risk Services Core Graduate Programme (Autumn 2027)](https://www.linkedin.com/jobs/view/business-risk-services-core-graduate-programme-autumn-2027-at-targetjobs-uk-4495344909) | targetjobs UK | London Area, United Kingdom | ❔ |
 | 2026-11-27 | [Trader Assistant](https://www.linkedin.com/jobs/view/trader-assistant-at-orla-rose-associates-4495591914) | Orla Rose Associates | London Area, United Kingdom | ❔ |
 | 2026-11-27 | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127812955) | Oliver Smith Recruitment | Glasgow Area, Scotland | ❔ |
 | 2026-11-26 | [Graduate Finance Programme](https://www.linkedin.com/jobs/view/graduate-finance-programme-at-molson-coors-beverage-company-4476490508) | Molson Coors Beverage Company | Burton Upon Trent, England, United Kingdom | ❔ |
@@ -4851,7 +4859,7 @@ Everything matched so far, newest first within each CV: [Finance (991)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>560 roles taken off the list because the firm closed the posting</summary>
+<summary>558 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -5413,7 +5421,5 @@ Everything matched so far, newest first within each CV: [Finance (991)](#finance
 | Sat 21 Nov, 10:19 | Commercial Finance Analyst | Giacom |
 | Sat 21 Nov, 10:19 | Commercial Finance Analyst - Southampton | Giacom |
 | Sat 21 Nov, 10:19 | Temporary Treasury Assistant - 12 Months | Hays |
-| Sat 21 Nov, 06:17 | Business and Finance Analyst | TVF Media |
-| Sat 21 Nov, 06:16 | FP&A Analyst, Europe | Univers |
 
 </details>
