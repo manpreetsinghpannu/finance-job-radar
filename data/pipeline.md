@@ -2803,5 +2803,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Western-Europe-NAM-Public-Sector-Credit-Officer---VP_261011320 | Citi | Western Europe/NAM Public Sector Credit Officer | London United Kingdom | posted: 2026-11-28
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-benelux-financial-institutions-group-fig-fintech-associate-london-at-jpmorganchase-4488137665 | JPMorganChase | Investment Banking - Benelux Financial Institutions Group (FIG) / FinTech - Associate - London | Greater London, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/trainee-accountant-at-gen-ii-fund-services-4486224795 | Gen II Fund Services | Trainee Accountant | Whitley, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-acca-careers-4496022637 | ACCA Careers | Finance Analyst | East Sussex, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-allied-bakeries-part-of-associated-british-foods-plc-4494249278 | Allied Bakeries | part of Associated British Foods plc | Assistant Accountant | Liverpool, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/surveyor-associate-leisure-trade-valuations-at-savills-4373601520 | Savills | Surveyor/Associate - Leisure & Trade - Valuations | Oxford, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 
 ## Processed

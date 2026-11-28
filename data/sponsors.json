@@ -347,6 +347,11 @@
    "register_name": "Allica Bank",
    "match": "alias"
   },
+  "Allied Bakeries": {
+   "licensed": true,
+   "register_name": "ABF Grain Products trading as Allied Bakeries",
+   "match": "trading name"
+  },
   "Allotment Productions Ltd": {
    "licensed": false,
    "register_name": null,

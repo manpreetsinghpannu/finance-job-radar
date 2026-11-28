@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 28 Nov, 11:28** (UK time) · **1659 open roles** at 986 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 28 Nov, 12:27** (UK time) · **1661 open roles** at 986 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 28 Nov, 11:15** · hourly scan · checked 201 boards · **0 new roles**
+**Sat 28 Nov, 12:17** · hourly scan · checked 201 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Sat 28 Nov, 10:41** (2: Finance 1 · Investment 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-27 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-acca-careers-4496022637) | ACCA Careers | East Sussex, England, United Kingdom | ❔ |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-28 | [Surveyor/Associate - Leisure & Trade - Valuations](https://www.linkedin.com/jobs/view/surveyor-associate-leisure-trade-valuations-at-savills-4373601520) | Savills | Oxford, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -20,8 +30,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 
 **Finance (FP&A) CV** (343 matching)
 
-1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-michael-page-4494635064) · Michael Page · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
-2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-autotrader-4494905507) · Autotrader · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
+1. [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) · Medpace · London, England, United Kingdom · posted 2026-11-23 · ✅
+2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-michael-page-4494635064) · Michael Page · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
 
 **Credit CV** (108 matching)
 
@@ -58,6 +68,25 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<details>
+<summary><b>12:17</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-27 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-acca-careers-4496022637) | ACCA Careers | East Sussex, England, United Kingdom | ❔ |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-28 | [Surveyor/Associate - Leisure & Trade - Valuations](https://www.linkedin.com/jobs/view/surveyor-associate-leisure-trade-valuations-at-savills-4373601520) | Savills | Oxford, England, United Kingdom | ✅ |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+
+</details>
 
 <sub>Nothing new at: 11:15</sub>
 
@@ -850,11 +879,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-26 | [Solution Architect, Financial Planning](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Solution-Architect--Financial-Planning_R-00287460-2) | NatWest Group | London | ✅ |
 | 2026-11-26 | [Commercial Data & FP&A Analyst](https://www.linkedin.com/jobs/view/commercial-data-fp-a-analyst-at-succeed-recruitment-solutions-4495502119) | Succeed Recruitment Solutions | Birmingham, England, United Kingdom | ❔ |
 | 2026-11-26 | [Finance Business Partner 4367](https://www.linkedin.com/jobs/view/finance-business-partner-4367-at-wade-macdonald-4493817560) | Wade Macdonald | Reading, England, United Kingdom | ❔ |
-| 2026-11-25 | [Finance Associate - Invoice to Cash](https://www.linkedin.com/jobs/view/finance-associate-invoice-to-cash-at-aveva-4303639988) | AVEVA | Cambridge, England, United Kingdom | ✅ |
 | 2026-11-26 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-lalu-4495274607) | Lalu | Cardiff, Wales, United Kingdom | ❔ |
 | 2026-11-26 | [Junior Accountant](https://www.linkedin.com/jobs/view/junior-accountant-at-centralis-group-4472309522) | Centralis Group | Belfast, Northern Ireland, United Kingdom | ❔ |
-| 2026-11-25 | [Accountant](https://www.linkedin.com/jobs/view/accountant-london-up-to-%C2%A355k-%2B-bonus-at-hunter-bond-4493433958) | Hunter Bond | London | ✅ |
 | 2026-11-26 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-ellison-institute-of-technology-oxford-4495292571) | Ellison Institute of Technology Oxford | Oxford, England, United Kingdom | ✅ |
+| 2026-11-25 | [Finance Associate - Invoice to Cash](https://www.linkedin.com/jobs/view/finance-associate-invoice-to-cash-at-aveva-4303639988) | AVEVA | Cambridge, England, United Kingdom | ✅ |
+| 2026-11-25 | [Accountant](https://www.linkedin.com/jobs/view/accountant-london-up-to-%C2%A355k-%2B-bonus-at-hunter-bond-4493433958) | Hunter Bond | London | ✅ |
 | — | [Management Accountant](https://www.s1jobs.com/job/management-accountant-127807568) | S1Jobs | Scotland | ❔ |
 | 2026-11-26 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-equifind-4495289359) | Equifind | Glasgow, Scotland, United Kingdom | ❔ |
 | 2026-11-25 | [Service Charge Accountant](https://www.linkedin.com/jobs/view/service-charge-accountant-at-premier-estates-limited-4494931480) | Premier Estates Limited | Macclesfield, England, United Kingdom | ❔ |
@@ -1141,9 +1170,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-25 | [Management Accountant (Research)](https://www.linkedin.com/jobs/view/management-accountant-research-at-nottingham-trent-university-4494939403) | Nottingham Trent University | Nottingham, England, United Kingdom | ✅ |
 | 2026-11-25 | [Pricing Analyst](https://www.linkedin.com/jobs/view/pricing-analyst-at-nuffield-health-4494687185) | Nuffield Health | London, England, United Kingdom | ✅ |
 | 2026-11-25 | [R2R Accountant](https://www.linkedin.com/jobs/view/r2r-accountant-at-tarmac-4494684124) | Tarmac | Solihull, England, United Kingdom | ✅ |
+| — | [Commercial Analyst](https://www.reed.co.uk/jobs/commercial-analyst/57613227) | Axon Moore Group Ltd | Preston, Lancashire | ❔ |
 | 2026-11-25 | [Financial Control Accountant](https://www.linkedin.com/jobs/view/financial-control-accountant-at-acca-careers-4494936673) | ACCA Careers | Coventry, England, United Kingdom | ❔ |
 | 2026-11-25 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-chemanager-international-4494939520) | CHEManager International | Oxford, England, United Kingdom | ❔ |
-| — | [Commercial Analyst](https://www.reed.co.uk/jobs/commercial-analyst/57613227) | Axon Moore Group Ltd | Preston, Lancashire | ❔ |
 
 #### Investment (IB / PE) CV: 1
 
@@ -1170,21 +1199,21 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-25 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-euro-car-parts-ltd-4479249437) | Euro Car Parts Ltd. | Birchmoor, England, United Kingdom | ❔ |
 | 2026-11-25 | [Assistant Finance Business Partner](https://www.linkedin.com/jobs/view/assistant-finance-business-partner-at-broster-buchanan-4493445110) | Broster Buchanan | Ashton-Under-Lyne, England, United Kingdom | ❔ |
 | 2026-11-25 | [Finance Analyst - Supply Chain & Capital Equipment UK](https://www.linkedin.com/jobs/view/finance-analyst-supply-chain-capital-equipment-uk-at-agratas-%E2%80%93-a-tata-enterprise-4479072913) | Agratas – A Tata Enterprise | Bridgwater, England, United Kingdom | ❔ |
+| — | [Assistant Management Accountant](https://www.reed.co.uk/jobs/assistant-management-accountant/57612917) | SF Partners | Leicester, Leicestershire | ❔ |
 | 2026-11-25 | [Reporting Accountant](https://www.linkedin.com/jobs/view/reporting-accountant-at-cbre-4494656807) | CBRE | Glasgow, Scotland, United Kingdom | ✅ |
 | 2026-11-25 | [Analyst – Treasury Operations](https://www.linkedin.com/jobs/view/analyst-%E2%80%93-treasury-operations-at-women-in-data%C2%AE-4493437052) | Women in Data® | Bradford, England, United Kingdom | ✅ |
 | 2026-11-25 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-ashley-kate-hr-finance-4494647634) | Ashley Kate HR & Finance | Doncaster, England, United Kingdom | ❔ |
 | 2026-11-25 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-hawthorn-one-4494661061) | Hawthorn One | Rochdale, England, United Kingdom | ❔ |
-| — | [Assistant Management Accountant](https://www.reed.co.uk/jobs/assistant-management-accountant/57612917) | SF Partners | Leicester, Leicestershire | ❔ |
+| — | [Liquidity Analyst 18-month fixed-term contract - Treasury - Global Financial Services PLC - £40,000 - £50,000 Bonus Benefits - City/London with hybrid working](https://www.reed.co.uk/jobs/liquidity-analyst-18-month-fixed-term-contract-treasury-global-financial-services-plc-40000-50000-bonus-benefits-city-london-with-hybrid-working/57612803) | eFinancialCareers | London | ✅ |
 | 2026-11-25 | [Finance Associate -Procure to Pay](https://www.linkedin.com/jobs/view/finance-associate-procure-to-pay-at-aveva-4486040689) | AVEVA | Cambridge, England, United Kingdom | ✅ |
 | 2026-11-25 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-alexander-daniels-finance-recruitment-4494648878) | Alexander Daniels Finance Recruitment | Loughborough, England, United Kingdom | ❔ |
 | 2026-11-25 | [Commercial Analyst](https://www.linkedin.com/jobs/view/commercial-analyst-at-rise-resourcing-4494651538) | Rise Resourcing | Preston, England, United Kingdom | ❔ |
-| — | [Liquidity Analyst 18-month fixed-term contract - Treasury - Global Financial Services PLC - £40,000 - £50,000 Bonus Benefits - City/London with hybrid working](https://www.reed.co.uk/jobs/liquidity-analyst-18-month-fixed-term-contract-treasury-global-financial-services-plc-40000-50000-bonus-benefits-city-london-with-hybrid-working/57612803) | eFinancialCareers | London | ✅ |
-| 2026-11-25 | [Finance Accountant](https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77172) | Next | Leicester, Leicestershire, United Kingdom | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57612569) | MM recruitment | Belfast, County Antrim | ❔ |
-| 2026-11-25 | [Royalty and Production Accountant](https://www.linkedin.com/jobs/view/royalty-and-production-accountant-at-allotment-productions-ltd-4494658207) | Allotment Productions Ltd | Reading, England, United Kingdom | ❔ |
+| 2026-11-25 | [Finance Accountant](https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77172) | Next | Leicester, Leicestershire, United Kingdom | ✅ |
 | — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57612967) | AD Finance | Leicester, Leicestershire | ❔ |
-| 2026-11-25 | [Interim Accountant](https://www.s1jobs.com/job/interim-accountant-127801617) | Rutherford Cross | City of Edinburgh, Scotland | ❔ |
 | 2026-11-24 | [Financial Reporting Associate](https://www.linkedin.com/jobs/view/financial-reporting-associate-at-bhp-chartered-accountants-4494185321) | BHP, Chartered Accountants | Sheffield, England, United Kingdom | ❔ |
+| 2026-11-25 | [Royalty and Production Accountant](https://www.linkedin.com/jobs/view/royalty-and-production-accountant-at-allotment-productions-ltd-4494658207) | Allotment Productions Ltd | Reading, England, United Kingdom | ❔ |
+| 2026-11-25 | [Interim Accountant](https://www.s1jobs.com/job/interim-accountant-127801617) | Rutherford Cross | City of Edinburgh, Scotland | ❔ |
 | — | [Part Time Accountant](https://www.reed.co.uk/jobs/part-time-accountant/57612531) | Fletcher George Recruitment Ltd | Weybridge, Surrey | ❔ |
 
 #### Credit CV: 3
@@ -1291,9 +1320,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-25 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-salix-homes-4494632599) | Salix Homes | Manchester, England, United Kingdom | ✅ |
 | 2026-11-25 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-vertu-motors-plc-4478439356) | Vertu Motors plc | Rotherham, England, United Kingdom | ✅ |
 | 2026-11-25 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-diocese-of-lincoln-4494627581) | Diocese of Lincoln | Lincoln, England, United Kingdom | ❔ |
-| 2026-11-25 | [R2R Accountant](https://www.linkedin.com/jobs/view/r2r-accountant-at-sse-plc-4494620706) | SSE plc | Perth, Scotland, United Kingdom | ✅ |
 | — | [Management Accountant - London](https://www.reed.co.uk/jobs/management-accountant-london/57611563) | Marks Sattin | London | ❔ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57611554) | Abacus Consulting | Welwyn Garden City, Hertfordshire | ❔ |
+| 2026-11-25 | [R2R Accountant](https://www.linkedin.com/jobs/view/r2r-accountant-at-sse-plc-4494620706) | SSE plc | Perth, Scotland, United Kingdom | ✅ |
 | 2026-11-25 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-nottinghamshire-police-4494904952) | Nottinghamshire Police | Nottinghamshire, England, United Kingdom | ❔ |
 
 #### Credit CV: 2
@@ -1335,8 +1364,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57611307) | Michael Page Finance | Manchester, Lancashire | ❔ |
 | 2026-11-25 | [Financial Analyst - Product](https://www.linkedin.com/jobs/view/financial-analyst-product-at-global-payments-inc-4487062052) | Global Payments Inc. | London, England, United Kingdom | ✅ |
 | 2026-11-25 | [FP&A ANALYST](https://www.linkedin.com/jobs/view/fp-a-analyst-at-cpl-life-sciences-4494629116) | Cpl Life Sciences | Basingstoke, England, United Kingdom | ❔ |
-| 2026-11-25 | [Financial Reporting and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-reporting-and-analysis-analyst-at-gowling-wlg-4494616655) | Gowling WLG | Birmingham, England, United Kingdom | ✅ |
 | — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57611269) | The American School in London | London | ✅ |
+| 2026-11-25 | [Financial Reporting and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-reporting-and-analysis-analyst-at-gowling-wlg-4494616655) | Gowling WLG | Birmingham, England, United Kingdom | ✅ |
 | 2026-11-25 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-seymour-john-4493404913) | Seymour John | Telford, England, United Kingdom | ❔ |
 | 2026-11-25 | [Manufacturing Accountant](https://www.linkedin.com/jobs/view/manufacturing-accountant-at-meridian-business-support-4493425036) | Meridian Business Support | Salisbury, England, United Kingdom | ✅ |
 
@@ -1419,8 +1448,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-25 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-aggreko-4479208285) | Aggreko | Dumbarton, Scotland, United Kingdom | ✅ |
 | 2026-11-24 | [Management Accountant - LTPA](https://www.linkedin.com/jobs/view/management-accountant-ltpa-at-qinetiq-4494702319) | QinetiQ | Farnborough, England, United Kingdom | ✅ |
 | 2026-11-25 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-trelleborg-sealing-solutions-4486071831) | Trelleborg Sealing Solutions | Tewkesbury, England, United Kingdom | ✅ |
-| 2026-11-25 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-altum-consulting-4494601715) | Altum Consulting | London, England, United Kingdom | ❔ |
 | 2026-11-24 | [Finance Business Partner (MFC)](https://www.linkedin.com/jobs/view/finance-business-partner-mfc-at-millwall-football-club-4483570498) | Millwall Football Club | London, England, United Kingdom | ❔ |
+| 2026-11-25 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-altum-consulting-4494601715) | Altum Consulting | London, England, United Kingdom | ❔ |
 | 2026-11-25 | [Treasury Administration Officer](https://www.linkedin.com/jobs/view/treasury-administration-officer-at-sibanye-stillwater-4494900299) | Sibanye-Stillwater | London Area, United Kingdom | ❔ |
 | 2026-11-25 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-confidential-4494796589) | Confidential | Coventry, England, United Kingdom | ❔ |
 | — | [Project Accountant](https://www.reed.co.uk/jobs/project-accountant/57610711) | Seymour John | Telford, Shropshire | ❔ |
@@ -2912,8 +2941,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-21 | [Treasury Controller](https://www.linkedin.com/jobs/view/treasury-controller-at-hill-dickinson-llp-4485391409) | Hill Dickinson LLP | Liverpool, England, United Kingdom | ✅ |
-| 2026-11-20 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-imultiply-4491962655) | iMultiply | Glenrothes, Scotland, United Kingdom | ❔ |
 | 2026-11-21 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4493302232) | AMA Accountancy | Botley, England, United Kingdom | ❔ |
+| 2026-11-20 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-imultiply-4491962655) | iMultiply | Glenrothes, Scotland, United Kingdom | ❔ |
 
 <sub>19 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
@@ -3007,8 +3036,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-21 | [Partnership Accountant](https://www.linkedin.com/jobs/view/partnership-accountant-at-ampa-legal-professional-services-4484876306) | Ampa - Legal & Professional Services | England, United Kingdom | ❔ |
-| 2026-11-20 | [Revenue Accountant](https://www.linkedin.com/jobs/view/revenue-accountant-at-s1jobs-4493212669) | s1jobs | Aberdeen, Scotland, United Kingdom | ❔ |
 | 2026-11-21 | [Project Accountant](https://scotjobsnet.co.uk/job/project-accountant/) | via ScotJobsNet | Midlothian, Scotland | ❔ |
+| 2026-11-20 | [Revenue Accountant](https://www.linkedin.com/jobs/view/revenue-accountant-at-s1jobs-4493212669) | s1jobs | Aberdeen, Scotland, United Kingdom | ❔ |
 
 #### Investment (IB / PE) CV: 1
 
@@ -3027,9 +3056,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | 2026-11-21 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-believ-4474895893) | Believ | London Area, United Kingdom | ❔ |
 | 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-augean-4492970485) | Augean | Wetherby, England, United Kingdom | ❔ |
-| 2026-11-20 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-acca-careers-4493276444) | ACCA Careers | England, United Kingdom | ❔ |
 | 2026-11-21 | [Interim Accountant - Local Government](https://www.linkedin.com/jobs/view/interim-accountant-local-government-at-grant-thornton-uk-4476829156) | Grant Thornton UK | Edinburgh, Scotland, United Kingdom | ✅ |
 | 2026-11-21 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-ds-smith-4439892855) | DS Smith | Caerphilly, Wales, United Kingdom | ✅ |
+| 2026-11-20 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-acca-careers-4493276444) | ACCA Careers | England, United Kingdom | ❔ |
 | 2026-11-21 | [Treasury Solutions Consultant - London (68DA25C)](https://www.linkedin.com/jobs/view/treasury-solutions-consultant-london-68da25c-at-referment-4493277505) | Referment | London, England, United Kingdom | ❔ |
 
 #### Credit CV: 1
@@ -3075,22 +3104,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>12:14</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-20 | [Management Accountant / Junior Financial Controller](https://www.linkedin.com/jobs/view/management-accountant-junior-financial-controller-at-acca-careers-4493273514) | ACCA Careers | Nottingham, England, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (988)](#finance-fpa-cv-988) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (24)](#consulting-cv-24) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (139)](#other-fits-no-cv-closely-may-still-be-worth-a-look-139)
+Everything matched so far, newest first within each CV: [Finance (989)](#finance-fpa-cv-989) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (24)](#consulting-cv-24) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (140)](#other-fits-no-cv-closely-may-still-be-worth-a-look-140)
 
-### Finance (FP&A) CV: 988
+### Finance (FP&A) CV: 989
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3116,6 +3134,7 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-11-27 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-sf-search-partners-4493893435) | SF Search Partners | Leicester, England, United Kingdom | ❔ |
 | 2026-11-27 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-agratas-%E2%80%93-a-tata-enterprise-4479840446) | Agratas – A Tata Enterprise | Bridgwater, England, United Kingdom | ❔ |
 | 2026-11-27 | [Assistant Management Accountant – Consumer Brands](https://www.linkedin.com/jobs/view/assistant-management-accountant-%E2%80%93-consumer-brands-at-growth-drivers-4495851827) | Growth Drivers | United Kingdom | ❔ |
+| 2026-11-27 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-acca-careers-4496022637) | ACCA Careers | East Sussex, England, United Kingdom | ❔ |
 | 2026-11-27 | [Commercial Finance Broker](https://job-boards.greenhouse.io/tide/jobs/8218239003) | Tide | United Kingdom | ✅ |
 | 2026-11-27 | [Commercial Finance Job Site Solutions, Milwaukee- EMEA](https://www.linkedin.com/jobs/view/commercial-finance-job-site-solutions-milwaukee-emea-at-techtronic-industries-emea-4471465387) | Techtronic Industries EMEA | Maidenhead, England, United Kingdom | ✅ |
 | 2026-11-27 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-scottish-football-association-4495819303) | Scottish Football Association | Glasgow, Scotland, United Kingdom | ✅ |
@@ -3273,7 +3292,9 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-11-25 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-wolseley-group-4494681271) | Wolseley Group | Milton Keynes, England, United Kingdom | ✅ |
 | 2026-11-25 | [Management Accountant (Research)](https://www.linkedin.com/jobs/view/management-accountant-research-at-nottingham-trent-university-4494939403) | Nottingham Trent University | Nottingham, England, United Kingdom | ✅ |
 | 2026-11-25 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-greene-king-4495209151) | Greene King | Bury St Edmunds, England, United Kingdom | ✅ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57611269) | The American School in London | London | ✅ |
 | 2026-11-25 | [Product Control Analyst - FTC/Potential Secondment opportunity](https://www.linkedin.com/jobs/view/product-control-analyst-ftc-potential-secondment-opportunity-at-smartestenergy-uk-4467233308) | SmartestEnergy UK | London, England, United Kingdom | ✅ |
+| — | [Assistant Management Accountant](https://www.reed.co.uk/jobs/assistant-management-accountant/57612917) | SF Partners | Leicester, Leicestershire | ❔ |
 | 2026-11-25 | [Pricing Analyst](https://www.linkedin.com/jobs/view/pricing-analyst-at-nuffield-health-4494687185) | Nuffield Health | London, England, United Kingdom | ✅ |
 | 2026-11-25 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-trelleborg-sealing-solutions-4486071831) | Trelleborg Sealing Solutions | Tewkesbury, England, United Kingdom | ✅ |
 | 2026-11-25 | [Financial Reporting and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-reporting-and-analysis-analyst-at-gowling-wlg-4494616655) | Gowling WLG | Birmingham, England, United Kingdom | ✅ |
@@ -3283,46 +3304,44 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-11-25 | [Analyst – Treasury Operations](https://www.linkedin.com/jobs/view/analyst-%E2%80%93-treasury-operations-at-women-in-data%C2%AE-4493437052) | Women in Data® | Bradford, England, United Kingdom | ✅ |
 | 2026-11-25 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-wh-scott-4494903389) | WH Scott | Bristol, England, United Kingdom | ❔ |
 | 2026-11-25 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-anne-corder-recruitment-4494621094) | Anne Corder Recruitment | Market Deeping, England, United Kingdom | ❔ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57611269) | The American School in London | London | ✅ |
 | 2026-11-25 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-diocese-of-lincoln-4494627581) | Diocese of Lincoln | Lincoln, England, United Kingdom | ❔ |
 | 2026-11-25 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-ashley-kate-hr-finance-4494647634) | Ashley Kate HR & Finance | Doncaster, England, United Kingdom | ❔ |
 | 2026-11-25 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-hawthorn-one-4494661061) | Hawthorn One | Rochdale, England, United Kingdom | ❔ |
-| — | [Assistant Management Accountant](https://www.reed.co.uk/jobs/assistant-management-accountant/57612917) | SF Partners | Leicester, Leicestershire | ❔ |
+| — | [Liquidity Analyst 18-month fixed-term contract - Treasury - Global Financial Services PLC - £40,000 - £50,000 Bonus Benefits - City/London with hybrid working](https://www.reed.co.uk/jobs/liquidity-analyst-18-month-fixed-term-contract-treasury-global-financial-services-plc-40000-50000-bonus-benefits-city-london-with-hybrid-working/57612803) | eFinancialCareers | London | ✅ |
 | 2026-11-25 | [Finance Business Partner](https://www.adzuna.co.uk/jobs/details/5978659678) | Brainkind | UK | ❔ |
 | 2026-11-25 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-brewdog-4494950644) | BrewDog | Aberdeenshire, Scotland, United Kingdom | ❔ |
 | 2026-11-25 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-tiptopjob-4494468281) | TipTopJob | London, England, United Kingdom | ❔ |
 | 2026-11-25 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-altum-consulting-4494601715) | Altum Consulting | London, England, United Kingdom | ❔ |
+| — | [Management Accountant - London](https://www.reed.co.uk/jobs/management-accountant-london/57611563) | Marks Sattin | London | ❔ |
 | 2026-11-25 | [Assistant Accountant](https://www.adzuna.co.uk/jobs/details/5978651908) | Dove & Hawk | Enfield, London | ❔ |
 | 2026-11-25 | [Liquidity Analyst (18-month fixed-term contract) - Treasury - Global Financial Services PLC - £40,000 - £50,000 Bonus Benefits - City/London (with hybrid working)](https://www.adzuna.co.uk/jobs/land/ad/5978586117) | LH Partners | London, UK | ❔ |
 | 2026-11-25 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-seymour-john-4493404913) | Seymour John | Telford, England, United Kingdom | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57611554) | Abacus Consulting | Welwyn Garden City, Hertfordshire | ❔ |
 | 2026-11-25 | [Finance Associate -Procure to Pay](https://www.linkedin.com/jobs/view/finance-associate-procure-to-pay-at-aveva-4486040689) | AVEVA | Cambridge, England, United Kingdom | ✅ |
 | 2026-11-25 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-alexander-daniels-finance-recruitment-4494648878) | Alexander Daniels Finance Recruitment | Loughborough, England, United Kingdom | ❔ |
 | 2026-11-25 | [Commercial Analyst](https://www.linkedin.com/jobs/view/commercial-analyst-at-rise-resourcing-4494651538) | Rise Resourcing | Preston, England, United Kingdom | ❔ |
-| — | [Liquidity Analyst 18-month fixed-term contract - Treasury - Global Financial Services PLC - £40,000 - £50,000 Bonus Benefits - City/London with hybrid working](https://www.reed.co.uk/jobs/liquidity-analyst-18-month-fixed-term-contract-treasury-global-financial-services-plc-40000-50000-bonus-benefits-city-london-with-hybrid-working/57612803) | eFinancialCareers | London | ✅ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57612569) | MM recruitment | Belfast, County Antrim | ❔ |
 | 2026-11-25 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-4494928257) | P and I Generators | Havant, England, United Kingdom | ❔ |
 | 2026-11-25 | [Finance Associate - Invoice to Cash](https://www.linkedin.com/jobs/view/finance-associate-invoice-to-cash-at-aveva-4303639988) | AVEVA | Cambridge, England, United Kingdom | ✅ |
 | 2026-11-25 | [Accountant](https://www.linkedin.com/jobs/view/accountant-london-up-to-%C2%A355k-%2B-bonus-at-hunter-bond-4493433958) | Hunter Bond | London | ✅ |
 | 2026-11-25 | [Manufacturing Accountant](https://www.linkedin.com/jobs/view/manufacturing-accountant-at-meridian-business-support-4493425036) | Meridian Business Support | Salisbury, England, United Kingdom | ✅ |
 | 2026-11-25 | [R2R Accountant](https://www.linkedin.com/jobs/view/r2r-accountant-at-sse-plc-4494620706) | SSE plc | Perth, Scotland, United Kingdom | ✅ |
-| — | [Management Accountant - London](https://www.reed.co.uk/jobs/management-accountant-london/57611563) | Marks Sattin | London | ❔ |
 | 2026-11-25 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-certas-energy-4494623760) | Certas Energy | Larbert, Scotland, United Kingdom | ✅ |
 | 2026-11-25 | [Finance Accountant](https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/77172) | Next | Leicester, Leicestershire, United Kingdom | ✅ |
 | 2026-11-25 | [R2R Accountant](https://www.linkedin.com/jobs/view/r2r-accountant-at-tarmac-4494684124) | Tarmac | Solihull, England, United Kingdom | ✅ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57611554) | Abacus Consulting | Welwyn Garden City, Hertfordshire | ❔ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57612569) | MM recruitment | Belfast, County Antrim | ❔ |
+| — | [Pricing Analyst](https://www.reed.co.uk/jobs/pricing-analyst/57612141) | Vermelo RPO | Peterborough, Cambridgeshire | ❔ |
+| — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57612967) | AD Finance | Leicester, Leicestershire | ❔ |
+| — | [Commercial Analyst](https://www.reed.co.uk/jobs/commercial-analyst/57613227) | Axon Moore Group Ltd | Preston, Lancashire | ❔ |
 | 2026-11-25 | [Treasury Administration Officer](https://www.linkedin.com/jobs/view/treasury-administration-officer-at-sibanye-stillwater-4494900299) | Sibanye-Stillwater | London Area, United Kingdom | ❔ |
 | 2026-11-25 | [Financial Accountant - Growing Tech Business](https://www.adzuna.co.uk/jobs/land/ad/5978822742) | Hays Senior Finance | The City, Central London | ❔ |
 | 2026-11-25 | [Statutory Accountant Job In Darwen](https://www.linkedin.com/jobs/view/statutory-accountant-job-in-darwen-at-stafty-com-4494781262) | Stafty.com | Darwen, England, United Kingdom | ❔ |
 | 2026-11-25 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-confidential-4494796589) | Confidential | Coventry, England, United Kingdom | ❔ |
 | 2026-11-25 | [Financial Controller](https://www.s1jobs.com/job/financial-controller-127801582) | Shetland Space Centre Limited | Aberdeenshire, Scotland | ❔ |
 | 2026-11-25 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-nottinghamshire-police-4494904952) | Nottinghamshire Police | Nottinghamshire, England, United Kingdom | ❔ |
-| — | [Pricing Analyst](https://www.reed.co.uk/jobs/pricing-analyst/57612141) | Vermelo RPO | Peterborough, Cambridgeshire | ❔ |
 | 2026-11-25 | [Royalty and Production Accountant](https://www.linkedin.com/jobs/view/royalty-and-production-accountant-at-allotment-productions-ltd-4494658207) | Allotment Productions Ltd | Reading, England, United Kingdom | ❔ |
-| — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57612967) | AD Finance | Leicester, Leicestershire | ❔ |
 | 2026-11-25 | [Interim Accountant](https://www.s1jobs.com/job/interim-accountant-127801617) | Rutherford Cross | City of Edinburgh, Scotland | ❔ |
 | 2026-11-25 | [Financial Control Accountant](https://www.linkedin.com/jobs/view/financial-control-accountant-at-acca-careers-4494936673) | ACCA Careers | Coventry, England, United Kingdom | ❔ |
 | 2026-11-25 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-chemanager-international-4494939520) | CHEManager International | Oxford, England, United Kingdom | ❔ |
-| — | [Commercial Analyst](https://www.reed.co.uk/jobs/commercial-analyst/57613227) | Axon Moore Group Ltd | Preston, Lancashire | ❔ |
 | 2026-11-25 | [Interim Technical Accountant](https://www.adzuna.co.uk/jobs/land/ad/5978644055) | SF Partners | Balsall Heath, Birmingham | ❔ |
 | 2026-11-25 | [Brewery Accountant](https://www.adzuna.co.uk/jobs/details/5978583076) | Small Batch Standard | UK | ❔ |
 | 2026-11-25 | [Treasury & Risk Consultant](https://www.adzuna.co.uk/jobs/details/5978582352) | Owens & Minor | UK | ❔ |
@@ -3560,76 +3579,78 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-11-20 | [Group & International FP&A Analyst](https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-pret-a-manger-4492839726) | Pret A Manger | London, England, United Kingdom | ✅ |
 | 2026-11-20 | [Management Accountant / Junior Financial Controller](https://www.linkedin.com/jobs/view/management-accountant-junior-financial-controller-at-acca-careers-4493273514) | ACCA Careers | Nottingham, England, United Kingdom | ❔ |
 | 2026-11-20 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-place-uk-ltd-4492798919) | PLACE UK Ltd | Tunstead, England, United Kingdom | ✅ |
+| — | [Interim Finance Analyst](https://www.reed.co.uk/jobs/interim-finance-analyst/57595642) | Morgan McKinley | Northampton, Northamptonshire | ✅ |
 | 2026-11-20 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-we-do-group-4492919522) | We Do Group | Surrey, England, United Kingdom | ✅ |
 | 2026-11-20 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-mdpi-4485223207) | MDPI | Manchester, England, United Kingdom | ✅ |
 | 2026-11-20 | [Assistant Finance Business Partner](https://www.linkedin.com/jobs/view/assistant-finance-business-partner-at-nwg-northumbrian-water-group-4492970094) | NWG | Durham, England, United Kingdom | ✅ |
 | 2026-11-20 | [Finance Analyst (12-month FTC)](https://www.linkedin.com/jobs/view/finance-analyst-12-month-ftc-at-vitality-4492805554) | Vitality | Bournemouth, England, United Kingdom | ✅ |
-| — | [Interim Finance Analyst](https://www.reed.co.uk/jobs/interim-finance-analyst/57595642) | Morgan McKinley | Northampton, Northamptonshire | ✅ |
+| — | [Accounts Assistant (Path to Assistant / Management Accountant)](https://www.reed.co.uk/jobs/accounts-assistant-path-to-assistant-management-accountant/57583219) | MM recruitment | Wembley Central, London | ❔ |
 | 2026-11-20 | [Assistant Management Accountant](https://www.reed.co.uk/jobs/assistant-management-accountant/57594147) | Insight Recruitment Solutions Limited | London | ❔ |
 | 2026-11-20 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-tiptopjob-4492754676) | TipTopJob | Ferndown, England, United Kingdom | ❔ |
+| — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57595881) | Klipboard | Leeds, West Yorkshire | ❔ |
 | 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-we-do-group-4492901920) | We Do Group | London Area, United Kingdom | ✅ |
 | 2026-11-20 | [Junior Finance Business Partner](https://www.linkedin.com/jobs/view/junior-finance-business-partner-at-haas-f1-team-4492566897) | Haas F1 Team | Banbury, England, United Kingdom | ❔ |
 | 2026-11-20 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-in2-consult-4491921812) | IN2 Consult | Southampton, England, United Kingdom | ❔ |
 | 2026-11-20 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rspb-4491914120) | RSPB | United Kingdom | ❔ |
+| — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57597959) | Cobb & Jones Recruitment Limited | Gillingham, Kent, Kent | ❔ |
 | 2026-11-20 | [EMEA FP&A Analyst](https://www.linkedin.com/jobs/view/emea-fp-a-analyst-at-f5-4477408814) | F5 | Addlestone, England, United Kingdom | ❔ |
 | 2026-11-20 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-roberts-bakery-1887-4492806751) | Roberts Bakery 1887 | Rudheath, England, United Kingdom | ❔ |
 | 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-isembard-4483052859) | Isembard | London, England, United Kingdom | ✅ |
 | 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-stanton-house-4492829499) | Stanton House | London Area, United Kingdom | ✅ |
+| — | [Management Accountant - Partially Qualified](https://www.reed.co.uk/jobs/management-accountant-partially-qualified/57583258) | Robert Half | Royston, Hertfordshire | ✅ |
 | 2026-11-20 | [FP&A Partner](https://www.linkedin.com/jobs/view/fp-a-partner-at-lsl-property-services-plc-4492523973) | LSL Property Services plc | Kettering, England, United Kingdom | ✅ |
 | 2026-11-20 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-amey-4484950367) | Amey | Birmingham, England, United Kingdom | ✅ |
 | 2026-11-20 | [Management Accountant - Operations](https://www.linkedin.com/jobs/view/management-accountant-operations-at-evergreen-garden-care-4492459069) | Evergreen Garden Care | Doncaster, England, United Kingdom | ✅ |
-| — | [Accounts Assistant (Path to Assistant / Management Accountant)](https://www.reed.co.uk/jobs/accounts-assistant-path-to-assistant-management-accountant/57583219) | MM recruitment | Wembley Central, London | ❔ |
 | 2026-11-20 | [Finance Business Partner - Central Fulfilment Centre & Stock](https://www.linkedin.com/jobs/view/finance-business-partner-central-fulfilment-centre-stock-at-morrisons-4483407255) | Morrisons | Bradford, England, United Kingdom | ✅ |
 | 2026-11-20 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-vertu-motors-plc-4492819352) | Vertu Motors plc | Banbury, England, United Kingdom | ✅ |
 | 2026-11-20 | [Wholesale Finance Business Partner](https://www.linkedin.com/jobs/view/wholesale-finance-business-partner-at-morrisons-4491964316) | Morrisons | Bradford, England, United Kingdom | ✅ |
 | 2026-11-20 | [Finance Business Partner - Wellness & Projects](https://www.linkedin.com/jobs/view/finance-business-partner-wellness-projects-at-holland-barrett-4492949313) | Holland & Barrett | Nuneaton, England, United Kingdom | ✅ |
-| — | [FP&A Analyst](https://www.reed.co.uk/jobs/fp-a-analyst/57595881) | Klipboard | Leeds, West Yorkshire | ❔ |
 | 2026-11-20 | [Product Control Analyst](https://www.linkedin.com/jobs/view/product-control-analyst-at-smartestenergy-4492915975) | SmartestEnergy | London, England, United Kingdom | ✅ |
-| — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57597959) | Cobb & Jones Recruitment Limited | Gillingham, Kent, Kent | ❔ |
 | 2026-11-20 | [Group Finance and Transfer Pricing Analyst](https://www.linkedin.com/jobs/view/group-finance-and-transfer-pricing-analyst-at-robert-walters-4492593945) | Robert Walters | City Of London, England, United Kingdom | ✅ |
-| — | [Management Accountant - Partially Qualified](https://www.reed.co.uk/jobs/management-accountant-partially-qualified/57583258) | Robert Half | Royston, Hertfordshire | ✅ |
+| — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57595279) | Robert Half | Addlestone, Surrey | ✅ |
 | 2026-11-20 | [Assistant Business Unit Accountant](https://www.linkedin.com/jobs/view/assistant-business-unit-accountant-at-university-hospitals-of-derby-and-burton-nhs-foundation-trust-4492929365) | University Hospitals of Derby and Burton NHS Foundation Trust | Derby, England, United Kingdom | ✅ |
 | 2026-11-20 | [Finance Business Partner – Global Functions (Technology & Central Functions)](https://www.linkedin.com/jobs/view/finance-business-partner-%E2%80%93-global-functions-technology-central-functions-at-castrol-4471905352) | Castrol | London, England, United Kingdom | ❔ |
 | 2026-11-20 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-citizens-advice-4491926497) | Citizens Advice | England, United Kingdom | ✅ |
+| — | [Part Time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57597515) | Ashdown Group | London | ❔ |
 | 2026-11-20 | [Treasury Accountant](https://www.linkedin.com/jobs/view/treasury-accountant-at-goodman-masson-4492811196) | Goodman Masson | Surrey, England, United Kingdom | ✅ |
 | 2026-11-20 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-01health-4492964094) | 01Health | London Area, United Kingdom | ❔ |
 | 2026-11-20 | [Finance Business Partner - SoundOn (Mandarin Speaking)](https://www.linkedin.com/jobs/view/finance-business-partner-soundon-mandarin-speaking-at-tiktok-4492825854) | TikTok | London, England, United Kingdom | ❔ |
+| — | [Part Qualified Management Accountant](https://www.reed.co.uk/jobs/part-qualified-management-accountant/57584994) | Marks Sattin | Leeds, West Yorkshire | ❔ |
+| — | [Interim Part-Qualified Management Accountant](https://www.reed.co.uk/jobs/interim-part-qualified-management-accountant/57581266) | Hays Specialist Recruitment Limited | Bristol, Avon | ❔ |
 | 2026-11-20 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-johnson-controls-4483404082) | Johnson Controls | Manchester, England, United Kingdom | ❔ |
 | 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-trostan-dene-4492919005) | Trostan Dene | Horwich, England, United Kingdom | ❔ |
 | 2026-11-20 | [Logistics Finance Business Partner](https://scotjobsnet.co.uk/job/logistics-finance-business-partner/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
 | 2026-11-20 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-howden-a-chart-industries-company-4483412862) | Howden, A Chart Industries Company | Renfrew, Scotland, United Kingdom | ❔ |
+| — | [Management Accountant (9m FTC)](https://www.reed.co.uk/jobs/management-accountant-9m-ftc/57596203) | Butler Rose | Plymouth, Devon | ❔ |
+| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57596416) | Pure Resourcing Solutions | Chelmsford, Essex | ❔ |
 | 2026-11-20 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-imultiply-4483435628) | iMultiply | Larbert, Scotland, United Kingdom | ❔ |
 | 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-nigel-wright-recruitment-4492959226) | Nigel Wright Recruitment | Merseyside, England, United Kingdom | ❔ |
+| — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57598233) | The Niche Partnership | Overton, Basingstoke, Hampshire | ❔ |
+| — | [Management Accountant - Grants](https://www.reed.co.uk/jobs/management-accountant-grants/57598235) | Hays Specialist Recruitment Limited | Harpenden, Hertfordshire | ❔ |
 | 2026-11-20 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57596622) | Integris | Hertfordshire | ❔ |
 | 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-augean-4492970485) | Augean | Wetherby, England, United Kingdom | ❔ |
 | 2026-11-20 | [Management Accountant - Maternity Cover](https://www.linkedin.com/jobs/view/management-accountant-maternity-cover-at-theydo-journey-management-4492959427) | TheyDo - Journey Management | United Kingdom | ❔ |
-| — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57595279) | Robert Half | Addlestone, Surrey | ✅ |
 | 2026-11-20 | [Graduate Commercial Analyst](https://www.linkedin.com/jobs/view/graduate-commercial-analyst-at-bioticnrg-4491919905) | BioticNRG | London, England, United Kingdom | ❔ |
 | 2026-11-20 | [Finance Associate - 1 Year Maternity Cover](https://www.linkedin.com/jobs/view/finance-associate-1-year-maternity-cover-at-lmax-group-4492934604) | LMAX Group | London, England, United Kingdom | ✅ |
-| — | [Part Time Management Accountant](https://www.reed.co.uk/jobs/part-time-management-accountant/57597515) | Ashdown Group | London | ❔ |
-| — | [Part Qualified Management Accountant](https://www.reed.co.uk/jobs/part-qualified-management-accountant/57584994) | Marks Sattin | Leeds, West Yorkshire | ❔ |
-| — | [Interim Part-Qualified Management Accountant](https://www.reed.co.uk/jobs/interim-part-qualified-management-accountant/57581266) | Hays Specialist Recruitment Limited | Bristol, Avon | ❔ |
+| — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57582364) | Fletcher George Recruitment Ltd | Farnham, Surrey | ❔ |
+| — | [Junior Assistant Accountant](https://www.reed.co.uk/jobs/junior-assistant-accountant/57583225) | Mitchell Adam | Birmingham, West Midlands (County) | ❔ |
 | 2026-11-20 | [Treasury Operations Officer](https://www.linkedin.com/jobs/view/treasury-operations-officer-at-harvey-nash-4492919045) | Harvey Nash | London Area, United Kingdom | ✅ |
-| — | [Management Accountant (9m FTC)](https://www.reed.co.uk/jobs/management-accountant-9m-ftc/57596203) | Butler Rose | Plymouth, Devon | ❔ |
-| — | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57596416) | Pure Resourcing Solutions | Chelmsford, Essex | ❔ |
 | 2026-11-20 | [Commercial Analyst](https://www.linkedin.com/jobs/view/commercial-analyst-at-sowena-group-4492023589) | Sowena Group | Macclesfield, England, United Kingdom | ❔ |
 | 2026-11-20 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-leigh-day-4483058726) | Leigh Day | London, England, United Kingdom | ✅ |
 | 2026-11-20 | [Assistant Accountant - Derby](https://www.linkedin.com/jobs/view/assistant-accountant-derby-at-miller-homes-ltd-4492594782) | Miller Homes Ltd | Derby, England, United Kingdom | ❔ |
 | 2026-11-20 | [Assistant Accountant - Basingstoke](https://www.linkedin.com/jobs/view/assistant-accountant-basingstoke-at-miller-homes-ltd-4492805307) | Miller Homes Ltd | Basingstoke, England, United Kingdom | ❔ |
-| — | [Finance Business Partner](https://www.reed.co.uk/jobs/finance-business-partner/57598233) | The Niche Partnership | Overton, Basingstoke, Hampshire | ❔ |
-| — | [Management Accountant - Grants](https://www.reed.co.uk/jobs/management-accountant-grants/57598235) | Hays Specialist Recruitment Limited | Harpenden, Hertfordshire | ❔ |
+| — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57598288) | Reed | Oxford, Oxfordshire | ❔ |
+| — | [Assistant Financial Accountant](https://www.reed.co.uk/jobs/assistant-financial-accountant/57598232) | Hays Specialist Recruitment Limited | Manchester, Lancashire | ❔ |
 | 2026-11-20 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-acca-careers-4493276444) | ACCA Careers | England, United Kingdom | ❔ |
 | 2026-11-20 | [Commercial Analyst](https://www.linkedin.com/jobs/view/commercial-analyst-at-cazoo-4491955084) | Cazoo | Richmond Upon Thames, England, United Kingdom | ❔ |
 | 2026-11-20 | [Accountant - Gadbrook Manufacturing](https://www.linkedin.com/jobs/view/accountant-gadbrook-manufacturing-at-morrisons-4483401440) | Morrisons | Bradford, England, United Kingdom | ✅ |
 | 2026-11-20 | [Location Accountant - Nottingham and Market Rasen Racecourses](https://www.linkedin.com/jobs/view/location-accountant-nottingham-and-market-rasen-racecourses-at-levy-4484988577) | Levy | Nottingham, England, United Kingdom | ✅ |
 | 2026-11-20 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-ricardo-4466532320) | Ricardo | Royal Leamington Spa, England, United Kingdom | ✅ |
-| — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57582364) | Fletcher George Recruitment Ltd | Farnham, Surrey | ❔ |
-| — | [Junior Assistant Accountant](https://www.reed.co.uk/jobs/junior-assistant-accountant/57583225) | Mitchell Adam | Birmingham, West Midlands (County) | ❔ |
-| — | [Assistant Accountant](https://www.reed.co.uk/jobs/assistant-accountant/57598288) | Reed | Oxford, Oxfordshire | ❔ |
-| — | [Assistant Financial Accountant](https://www.reed.co.uk/jobs/assistant-financial-accountant/57598232) | Hays Specialist Recruitment Limited | Manchester, Lancashire | ❔ |
 | 2026-11-20 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-7im-4492828826) | 7IM | London Area, United Kingdom | ❔ |
 | 2026-11-20 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-pear-talent-finance-recruitment-4492141334) | Pear Talent - Finance Recruitment | City Of London, England, United Kingdom | ❔ |
 | 2026-11-20 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-refyt-4491951858) | REFYT | Greater London, England, United Kingdom | ❔ |
+| — | [Interim Part-Qualified Financial Accountant](https://www.reed.co.uk/jobs/interim-part-qualified-financial-accountant/57581236) | Hays Specialist Recruitment Limited | Bristol, Avon | ❔ |
+| — | [New role in privately owned accounting firm - Part or Qualified Accountant](https://www.reed.co.uk/jobs/new-role-in-privately-owned-accounting-firm-part-or-qualified-accountant/57582924) | Reed | Ipswich, Suffolk | ❔ |
 | 2026-11-20 | [Costing Accountant West Lothian &50k – &75k](https://scotjobsnet.co.uk/job/costing-accountant-west-lothian-50k-75k/) | via ScotJobsNet | Scotland, Scotland | ❔ |
 | 2026-11-20 | [Accountant – Children’s Services](https://www.linkedin.com/jobs/view/accountant-%E2%80%93-children%E2%80%99s-services-at-wmjobs-4492555214) | WMJobs | Solihull, England, United Kingdom | ❔ |
 | 2026-11-20 | [Part Qualified Accountant](https://www.linkedin.com/jobs/view/part-qualified-accountant-at-imultiply-4483031683) | iMultiply | Dalkeith, Scotland, United Kingdom | ❔ |
@@ -3637,8 +3658,6 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-11-20 | [Revenue Accountant](https://www.s1jobs.com/job/revenue-accountant-127783406) | CAMMACH BRYANT LIMITED | Aberdeen Area, Scotland | ❔ |
 | 2026-11-20 | [Revenue Accountant](https://www.linkedin.com/jobs/view/revenue-accountant-at-s1jobs-4493212669) | s1jobs | Aberdeen, Scotland, United Kingdom | ❔ |
 | 2026-11-20 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-imultiply-4491962655) | iMultiply | Glenrothes, Scotland, United Kingdom | ❔ |
-| — | [Interim Part-Qualified Financial Accountant](https://www.reed.co.uk/jobs/interim-part-qualified-financial-accountant/57581236) | Hays Specialist Recruitment Limited | Bristol, Avon | ❔ |
-| — | [New role in privately owned accounting firm - Part or Qualified Accountant](https://www.reed.co.uk/jobs/new-role-in-privately-owned-accounting-firm-part-or-qualified-accountant/57582924) | Reed | Ipswich, Suffolk | ❔ |
 | — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57591276) | Robert Walters | London | ✅ |
 | 2026-11-19 | [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-goodman-masson-4492138390) | Goodman Masson | London Area, United Kingdom | ✅ |
 | — | [Commercial Finance Analyst](https://www.reed.co.uk/jobs/commercial-finance-analyst/57591514) | CMC Consulting Limited | London | ❔ |
@@ -4109,23 +4128,23 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-11-26 | [Credit Adminstrator](https://www.adzuna.co.uk/jobs/land/ad/5979790675) | Booker Group | Manchester, Greater Manchester | ❔ |
 | 2026-11-26 | [Market Risk Control Specialist - Structured Rates](https://www.linkedin.com/jobs/view/market-risk-control-specialist-structured-rates-at-ubs-4474978358) | UBS | London, England, United Kingdom | ❔ |
 | 2026-11-25 | [Wholesale Credit Risk - London - 2027 ReEntry Program](https://www.linkedin.com/jobs/view/wholesale-credit-risk-london-2027-reentry-program-at-jpmorganchase-4494493114) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+| — | [Credit Risk Analyst - Bruin](https://www.reed.co.uk/jobs/credit-risk-analyst-bruin/57613485) | eFinancialCareers | London | ✅ |
 | 2026-11-25 | [EMEA Credit Risk Analyst - Diversified Industries](https://www.linkedin.com/jobs/view/emea-credit-risk-analyst-diversified-industries-at-jpmorganchase-4494480724) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | 2026-11-25 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-bruin-4494925791) | Bruin | London, England, United Kingdom | ❔ |
 | 2026-11-25 | [Credit Risk Analyst - Bruin](https://www.adzuna.co.uk/jobs/land/ad/5978755013) | Bruin | London, UK | ❔ |
-| — | [Credit Risk Analyst - Bruin](https://www.reed.co.uk/jobs/credit-risk-analyst-bruin/57613485) | eFinancialCareers | London | ✅ |
-| 2026-11-25 | [High Yield Credit Analyst](https://www.linkedin.com/jobs/view/high-yield-credit-analyst-at-natixis-corporate-investment-banking-4493094849) | Natixis Corporate & Investment Banking | London Area, United Kingdom | ❔ |
 | — | [Mandarin speaking Credit Analyst (Banking)](https://www.reed.co.uk/jobs/mandarin-speaking-credit-analyst-banking/57611586) | People First | London | ✅ |
+| 2026-11-25 | [High Yield Credit Analyst](https://www.linkedin.com/jobs/view/high-yield-credit-analyst-at-natixis-corporate-investment-banking-4493094849) | Natixis Corporate & Investment Banking | London Area, United Kingdom | ❔ |
 | 2026-11-25 | [Commercial Credit Analyst, Dealer Commercial Services](https://www.adzuna.co.uk/jobs/details/5978581356) | M&T Bank | UK | ❔ |
 | 2026-11-25 | [Market Risk Analyst](https://www.linkedin.com/jobs/view/market-risk-analyst-at-rjc-group-4494663322) | RJC Group | London Area, United Kingdom | ❔ |
 | 2026-11-25 | [Analyst - Corporate Credit](https://www.linkedin.com/jobs/view/analyst-corporate-credit-at-man-group-4494618809) | Man Group | London, England, United Kingdom | ✅ |
 | 2026-11-25 | [Quantitative Analyst (Market Risk Modelling)](https://www.linkedin.com/jobs/view/quantitative-analyst-market-risk-modelling-at-quanteam-uk-4483066591) | Quanteam UK | London Area, United Kingdom | ✅ |
 | 2026-11-25 | [Analyst - Corporate Credit - Man Group plc](https://www.adzuna.co.uk/jobs/land/ad/5978755010) | Man Group plc | London, UK | ✅ |
 | 2026-11-25 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-united-utilities-4494483556) | United Utilities | Manchester, England, United Kingdom | ✅ |
+| — | [Analyst - Corporate Credit - Man Group plc](https://www.reed.co.uk/jobs/analyst-corporate-credit-man-group-plc/57613469) | eFinancialCareers | London | ✅ |
 | 2026-11-25 | [Debt Advisory Analyst](https://www.linkedin.com/jobs/view/debt-advisory-analyst-at-alan-mitchell-4494901764) | Alan Mitchell | London Area, United Kingdom | ❔ |
 | 2026-11-25 | [Quantitative Risk Analyst](https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-paragon-alpha-hedge-fund-talent-business-4484484409) | Paragon Alpha - Hedge Fund Talent Business | London Area, United Kingdom | ❔ |
-| — | [Analyst - Corporate Credit - Man Group plc](https://www.reed.co.uk/jobs/analyst-corporate-credit-man-group-plc/57613469) | eFinancialCareers | London | ✅ |
-| 2026-11-25 | [Trading Market Risk Advisor - EAME Crude](https://www.linkedin.com/jobs/view/trading-market-risk-advisor-eame-crude-at-exxonmobil-4451504983) | ExxonMobil | London, England, United Kingdom | ❔ |
 | — | [Credit Modeller II Based in Mauritius - The Mauritius Commercial Bank Limited](https://www.reed.co.uk/jobs/credit-modeller-ii-based-in-mauritius-the-mauritius-commercial-bank-limited/57610120) | eFinancialCareers | London | ✅ |
+| 2026-11-25 | [Trading Market Risk Advisor - EAME Crude](https://www.linkedin.com/jobs/view/trading-market-risk-advisor-eame-crude-at-exxonmobil-4451504983) | ExxonMobil | London, England, United Kingdom | ❔ |
 | 2026-11-24 | [Wholesale Credit Risk - London - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811157) | JPMorgan Chase | LONDON, United Kingdom | ✅ |
 | 2026-11-24 | [Leveraged Finance Credit Analyst](https://www.linkedin.com/jobs/view/leveraged-finance-credit-analyst-at-bear-consulting-uk-ltd-4493047085) | Bear Consulting (UK) Ltd | City Of London, England, United Kingdom | ❔ |
 | 2026-11-24 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-adecco-4493009037) | Adecco | London Area, United Kingdom | ✅ |
@@ -4169,8 +4188,8 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-11-20 | [Model Risk Analyst, Divisional](https://www.linkedin.com/jobs/view/model-risk-analyst-divisional-at-pacific-life-re-4492529361) | Pacific Life Re | London, England, United Kingdom | ✅ |
 | 2026-11-20 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-barbara-houghton-associates-limited-4492903269) | Barbara Houghton Associates Limited | City Of London, England, United Kingdom | ❔ |
 | 2026-11-20 | [Fraud Risk Analyst](https://www.linkedin.com/jobs/view/fraud-risk-analyst-at-zeller-4477423051) | Zeller | London Area, United Kingdom | ✅ |
-| 2026-11-20 | [Operational Risk Analyst](https://www.linkedin.com/jobs/view/operational-risk-analyst-at-simmons-simmons-4492808499) | Simmons & Simmons | Bristol, England, United Kingdom | ✅ |
 | — | [Analyst, Credit Distribution](https://jobs.smartrecruiters.com/shawbrook/744000162784683-analyst-credit-distribution) | Shawbrook | London, England, United Kingdom | ✅ |
+| 2026-11-20 | [Operational Risk Analyst](https://www.linkedin.com/jobs/view/operational-risk-analyst-at-simmons-simmons-4492808499) | Simmons & Simmons | Bristol, England, United Kingdom | ✅ |
 | 2026-11-20 | [Quantitative Risk Analyst -– Power & Gas](https://www.linkedin.com/jobs/view/quantitative-risk-analyst-%E2%80%93-power-gas-at-summit-energy-europe-4491902976) | Summit Energy Europe | London Area, United Kingdom | ❔ |
 | 2026-11-20 | [Credit Associate](https://www.linkedin.com/jobs/view/credit-associate-at-eqt-group-4492813584) | EQT Group | London, England, United Kingdom | ✅ |
 | 2026-11-20 | [Fund Controller - Private Credit (Hybrid Working)](https://www.linkedin.com/jobs/view/fund-controller-private-credit-hybrid-working-at-marks-sattin-4492812502) | Marks Sattin | London, England, United Kingdom | ❔ |
@@ -4435,8 +4454,8 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-11-20 | [Capital Markets Analyst - Xtrackers/ ETFs](https://www.linkedin.com/jobs/view/capital-markets-analyst-xtrackers-etfs-at-deutsche-asset-management-4452608203) | Deutsche Asset Management | London, England, United Kingdom | ❔ |
 | 2026-11-20 | [INVESTMENT ASSOCIATE](https://www.linkedin.com/jobs/view/investment-associate-at-liverpool-city-region-combined-authority-4487297589) | Liverpool City Region Combined Authority | Merseyside, England, United Kingdom | ✅ |
 | 2026-11-20 | [Investment Associate](https://www.linkedin.com/jobs/view/investment-associate-at-public-sector-resourcing-4492917067) | Public Sector Resourcing | Aberdeen, Scotland, United Kingdom | ❔ |
-| 2026-11-20 | [Experienced Analysts, Investment Banking](https://www.linkedin.com/jobs/view/experienced-analysts-investment-banking-at-financial-technology-partners-ft-partners-4457289463) | Financial Technology Partners / FT Partners | London Area, United Kingdom | ❔ |
 | — | [Investment Associate](https://www.reed.co.uk/jobs/investment-associate/57596246) | AMS Public Sector Resourcing | Aberdeen, Aberdeenshire | ❔ |
+| 2026-11-20 | [Experienced Analysts, Investment Banking](https://www.linkedin.com/jobs/view/experienced-analysts-investment-banking-at-financial-technology-partners-ft-partners-4457289463) | Financial Technology Partners / FT Partners | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [French speaking Investment Banking M&A Generalist Analyst & Associate](https://www.reed.co.uk/jobs/french-speaking-investment-banking-m-a-generalist-analyst-associate/57590161) | eFinancialCareers | London | ✅ |
 | 2026-11-19 | [Investment Banking (M&A) Associate - Business Services](https://www.linkedin.com/jobs/view/investment-banking-m-a-associate-business-services-at-dartmouth-partners-4490699759) | Dartmouth Partners | London Area, United Kingdom | ✅ |
 | 2026-11-19 | [Investment Banking Associate (Telco & Digital Infra M&A)](https://www.linkedin.com/jobs/view/investment-banking-associate-telco-digital-infra-m-a-at-dartmouth-partners-4466859063) | Dartmouth Partners | London Area, United Kingdom | ✅ |
@@ -4645,12 +4664,13 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 139
+### Other (fits no CV closely, may still be worth a look): 140
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-28 | [Business Risk Services Core Graduate Programme (Autumn 2027)](https://www.linkedin.com/jobs/view/business-risk-services-core-graduate-programme-autumn-2027-at-targetjobs-uk-4495344909) | targetjobs UK | London Area, United Kingdom | ❔ |
 | — | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127814088) | S1Jobs | Scotland | ❔ |
+| 2026-11-28 | [Surveyor/Associate - Leisure & Trade - Valuations](https://www.linkedin.com/jobs/view/surveyor-associate-leisure-trade-valuations-at-savills-4373601520) | Savills | Oxford, England, United Kingdom | ✅ |
 | 2026-11-27 | [Trader Assistant](https://www.linkedin.com/jobs/view/trader-assistant-at-orla-rose-associates-4495591914) | Orla Rose Associates | London Area, United Kingdom | ❔ |
 | 2026-11-27 | [Quantity Surveyor](https://www.s1jobs.com/job/quantity-surveyor-127812955) | Oliver Smith Recruitment | Glasgow Area, Scotland | ❔ |
 | 2026-11-26 | [Graduate Finance Programme](https://www.linkedin.com/jobs/view/graduate-finance-programme-at-molson-coors-beverage-company-4476490508) | Molson Coors Beverage Company | Burton Upon Trent, England, United Kingdom | ❔ |
