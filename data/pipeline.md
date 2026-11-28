@@ -2801,5 +2801,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127814088 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Western-Europe-NAM-Public-Sector-Credit-Officer---VP_261011320 | Citi | Western Europe/NAM Public Sector Credit Officer | London United Kingdom | posted: 2026-11-28
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-benelux-financial-institutions-group-fig-fintech-associate-london-at-jpmorganchase-4488137665 | JPMorganChase | Investment Banking - Benelux Financial Institutions Group (FIG) / FinTech - Associate - London | Greater London, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-city-harvest-london-4495802299 | City Harvest London | Finance Business Partner | London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed

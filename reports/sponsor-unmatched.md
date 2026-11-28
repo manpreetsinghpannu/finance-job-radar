@@ -1,10 +1,10 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-28 from https://assets.publishing.service.gov.uk/media/6b095b82c29db7468056c17e/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-27.csv. 1477 firms checked, 676 matched, 801 not found.
+Register: downloaded 2026-11-28 from https://assets.publishing.service.gov.uk/media/6b095b82c29db7468056c17e/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-27.csv. 1478 firms checked, 676 matched, 802 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
-## Not found (801)
+## Not found (802)
 
 - 01Health
 - 7IM
@@ -174,6 +174,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Checkatrade
 - Checkout.com
 - Citibank
+- City Harvest London
 - City Recruitment Associates
 - CityGrad
 - Clarkson Owens Recruitment Limited

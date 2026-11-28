@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 28 Nov, 09:25** (UK time) · **1658 open roles** at 987 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 28 Nov, 10:26** (UK time) · **1659 open roles** at 987 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 28 Nov, 09:13** · hourly scan · checked 201 boards · **1 new role**
+**Sat 28 Nov, 10:15** · hourly scan · checked 201 boards · **2 new roles**
 
-### Credit CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-28 | [Western Europe/NAM Public Sector Credit Officer](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Western-Europe-NAM-Public-Sector-Credit-Officer---VP_261011320) | Citi | London United Kingdom | ✅ |
+| 2026-11-27 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-city-harvest-london-4495802299) | City Harvest London | London, England, United Kingdom | ❔ |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-28 | [Investment Banking - Benelux Financial Institutions Group (FIG) / FinTech - Associate - London](https://www.linkedin.com/jobs/view/investment-banking-benelux-financial-institutions-group-fig-fintech-associate-london-at-jpmorganchase-4488137665) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -62,6 +68,23 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<details>
+<summary><b>10:15</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-27 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-city-harvest-london-4495802299) | City Harvest London | London, England, United Kingdom | ❔ |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-28 | [Investment Banking - Benelux Financial Institutions Group (FIG) / FinTech - Associate - London](https://www.linkedin.com/jobs/view/investment-banking-benelux-financial-institutions-group-fig-fintech-associate-london-at-jpmorganchase-4488137665) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>09:13</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -3088,23 +3111,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>10:18</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-kraft-heinz-4475979220) | Kraft Heinz | Greater Manchester, England, United Kingdom | ❔ |
-| 2026-11-21 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-collins-aerospace-4485374763) | Collins Aerospace | Plymouth, England, United Kingdom | ❔ |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (988)](#finance-fpa-cv-988) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (174)](#investment-ib--pe-cv-174) · [Consulting (24)](#consulting-cv-24) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (139)](#other-fits-no-cv-closely-may-still-be-worth-a-look-139)
+Everything matched so far, newest first within each CV: [Finance (988)](#finance-fpa-cv-988) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (24)](#consulting-cv-24) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (139)](#other-fits-no-cv-closely-may-still-be-worth-a-look-139)
 
 ### Finance (FP&A) CV: 988
 
@@ -3144,6 +3153,7 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-11-27 | [Management Accountant - quick start required](https://www.linkedin.com/jobs/view/management-accountant-quick-start-required-at-edward-mann-4493888397) | Edward Mann | London Area, United Kingdom | ❔ |
 | 2026-11-27 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-hyerhub-4494219077) | Hyerhub | London Area, United Kingdom | ❔ |
 | 2026-11-27 | [Management Accountant](https://www.adzuna.co.uk/jobs/land/ad/5981108312) | Vivid Resourcing Ltd | Farringdon, Central London | ❔ |
+| 2026-11-27 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-city-harvest-london-4495802299) | City Harvest London | London, England, United Kingdom | ❔ |
 | 2026-11-27 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-destination-sport-4493879690) | Destination Sport | Manchester, England, United Kingdom | ❔ |
 | 2026-11-27 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-grainger-worrall-4485845165) | Grainger & Worrall | Bridgnorth, England, United Kingdom | ❔ |
 | 2026-11-27 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-tiptopjob-4495803942) | TipTopJob | Lincoln, England, United Kingdom | ❔ |
@@ -3838,7 +3848,6 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-11-15 | [Finance Business Partner - Foodbuy Group](https://www.linkedin.com/jobs/view/finance-business-partner-foodbuy-group-at-foodbuy-group-4483356378) | Foodbuy Group | London, England, United Kingdom | ❔ |
 | 2026-11-15 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-arm-4482656414) | Arm | Cambridge, England, United Kingdom | ✅ |
 | 2026-11-15 | [Finance Business Partner - Technical](https://www.linkedin.com/jobs/view/finance-business-partner-technical-at-atlassian-williams-f1-team-4491275142) | Atlassian Williams F1 Team | Grove, England, United Kingdom | ❔ |
-| 2026-11-15 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57568104) | Milton Keynes City Council | Milton Keynes, Buckinghamshire | ❔ |
 | 2026-11-15 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-univar-solutions-4389760230) | Univar Solutions | Bradford, England, United Kingdom | ❔ |
 | 2026-11-15 | [Project Cost Accountant - Project Controls - Energy Projects](https://www.linkedin.com/jobs/view/project-cost-accountant-project-controls-energy-projects-at-turner-townsend-4438324549) | Turner & Townsend | Lancing, England, United Kingdom | ✅ |
 | 2026-11-14 | [FP&A Analyst (Maternity Cover)](https://www.linkedin.com/jobs/view/fp-a-analyst-maternity-cover-at-circana-4480694747) | Circana | Bracknell, England, United Kingdom | ✅ |
@@ -4370,11 +4379,12 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 174
+### Investment (IB / PE) CV: 175
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-28 | [Graduate - Strategy, Commercial, Business Development and M&A](https://www.linkedin.com/jobs/view/graduate-strategy-commercial-business-development-and-m-a-at-targetjobs-uk-4495352486) | targetjobs UK | London Area, United Kingdom | ❔ |
+| 2026-11-28 | [Investment Banking - Benelux Financial Institutions Group (FIG) / FinTech - Associate - London](https://www.linkedin.com/jobs/view/investment-banking-benelux-financial-institutions-group-fig-fintech-associate-london-at-jpmorganchase-4488137665) | JPMorganChase | Greater London, England, United Kingdom | ❔ |
 | — | [M&A Analyst – Investment Banking](https://www.reed.co.uk/jobs/m-a-analyst--investment-banking/57618389) | Sharp Consultancy | Manchester, Lancashire | ❔ |
 | 2026-11-27 | [Investment Banking Associate, Private Capital Markets](https://www.linkedin.com/jobs/view/investment-banking-associate-private-capital-markets-at-william-blair-4476689275) | William Blair | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Investment Banking Analyst, Consumer & Retail](https://www.linkedin.com/jobs/view/investment-banking-analyst-consumer-retail-at-citi-4486909736) | Citi | London, England, United Kingdom | ✅ |
@@ -4807,10 +4817,11 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>566 roles taken off the list because the firm closed the posting</summary>
+<summary>564 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 28 Nov, 10:25 | Management Accountant | Milton Keynes City Council |
 | Sat 28 Nov, 09:18 | Strategy Consultant - Food & Bev | Lime Talent |
 | Sat 28 Nov, 08:12 | Investment Risk Analyst | Barclay Simpson |
 | Sat 28 Nov, 07:23 | Quantity Surveyor | S1Jobs |
@@ -5374,8 +5385,5 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | Sun 22 Nov, 00:15 | Capital Modelling Risk Analyst | AIG |
 | Sat 21 Nov, 16:15 | Financial Research Analyst (Remote) | Joblet-AI |
 | Sat 21 Nov, 16:14 | Management Accountant | Astra Asset Management |
-| Sat 21 Nov, 10:19 | Commercial Finance Analyst | Giacom |
-| Sat 21 Nov, 10:19 | Commercial Finance Analyst - Southampton | Giacom |
-| Sat 21 Nov, 10:19 | Temporary Treasury Assistant - 12 Months | Hays |
 
 </details>

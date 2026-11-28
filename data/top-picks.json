@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T09:25:07.018Z",
+ "generated_at": "2026-11-28T10:26:23.284Z",
  "order": [
   "finance",
   "credit",
@@ -2609,11 +2609,6 @@
    "score": 12
   },
   "https://www.reed.co.uk/jobs/finance-business-partner/57567575": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
-  "https://www.reed.co.uk/jobs/management-accountant/57568104": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
@@ -8537,6 +8532,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-benelux-financial-institutions-group-fig-fintech-associate-london-at-jpmorganchase-4488137665": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-city-harvest-london-4495802299": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
   }
  }
 }
