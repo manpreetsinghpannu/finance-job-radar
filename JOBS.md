@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 28 Nov, 08:19** (UK time) · **1658 open roles** at 988 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 28 Nov, 09:25** (UK time) · **1658 open roles** at 987 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 28 Nov, 08:11** · hourly scan · checked 201 boards · **0 new roles**
+**Sat 28 Nov, 09:13** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sat 28 Nov, 07:13** (1: Other 1); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-28 | [Western Europe/NAM Public Sector Credit Officer](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Western-Europe-NAM-Public-Sector-Credit-Officer---VP_261011320) | Citi | London United Kingdom | ✅ |
 
 ## Top picks for each CV
 
@@ -23,7 +27,7 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-michael-page-4494635064) · Michael Page · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-autotrader-4494905507) · Autotrader · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
 
-**Credit CV** (107 matching)
+**Credit CV** (108 matching)
 
 1. [Wholesale Credit Risk - London - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811157) · JPMorgan Chase · LONDON, United Kingdom · posted 2026-11-24 · ✅
 2. [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-aramco-trading-limited-atl-4493601095) · Aramco Trading Limited · London Area, United Kingdom · posted 2026-11-22 · ✅
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<details>
+<summary><b>09:13</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-28 | [Western Europe/NAM Public Sector Credit Officer](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Western-Europe-NAM-Public-Sector-Credit-Officer---VP_261011320) | Citi | London United Kingdom | ✅ |
+
+</details>
 
 <sub>Nothing new at: 08:11</sub>
 
@@ -1294,7 +1309,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>12:14</b> · hourly scan · <b>15 new</b> → Finance 9 · Credit 3 · Investment 1 · Consulting 1 · Other 1</summary>
+<summary><b>12:14</b> · hourly scan · <b>14 new</b> → Finance 9 · Credit 3 · Investment 1 · Other 1</summary>
 
 #### Finance (FP&A) CV: 9
 
@@ -1324,19 +1339,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|---|
 | 2026-11-25 | [M&A Executive](https://www.linkedin.com/jobs/view/m-a-executive-at-buzzacott-4484050836) | Buzzacott | City Of London, England, United Kingdom | ✅ |
 
-#### Consulting CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-24 | [Strategy Consultant - Food & Bev](https://www.linkedin.com/jobs/view/strategy-consultant-food-bev-at-lime-talent-4493051076) | Lime Talent | London Area, United Kingdom | ❔ |
-
 #### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-25 | [Finance Graduate Trainee](https://www.linkedin.com/jobs/view/finance-graduate-trainee%E2%80%AF-at-sanctuary-graduates-apprentices-4493417096) | Sanctuary Graduates & Apprentices | London Area, United Kingdom | ❔ |
 
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -3093,31 +3102,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>09:14</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-20 | [Commercial Debt SRM](https://www.linkedin.com/jobs/view/commercial-debt-srm-at-ecotricity-4492580819) | Ecotricity | Stroud, England, United Kingdom | ✅ |
-
-</details>
-
-<details>
-<summary><b>08:57</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Group & International FP&A Analyst](https://www.linkedin.com/jobs/view/group-international-fp-a-analyst-at-magmas-4493261803) | MAGMAS | London, England, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (988)](#finance-fpa-cv-988) · [Credit (190)](#credit-cv-190) · [Equity (70)](#equity-cv-70) · [Investment (174)](#investment-ib--pe-cv-174) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (139)](#other-fits-no-cv-closely-may-still-be-worth-a-look-139)
+Everything matched so far, newest first within each CV: [Finance (988)](#finance-fpa-cv-988) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (174)](#investment-ib--pe-cv-174) · [Consulting (24)](#consulting-cv-24) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (139)](#other-fits-no-cv-closely-may-still-be-worth-a-look-139)
 
 ### Finance (FP&A) CV: 988
 
@@ -4112,10 +4099,11 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-10-20 | [Financial Planning & Analytics (FP&A) Analyst](https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022) | Capital One UK | Nottingham, Eng | ✅ |
 | 2026-10-15 | [Management Accountant](https://jobs.lever.co/octoenergy/bb539cb7-8925-4292-b0c9-6da250488429) | Octopus Energy | Sheffield (GB) | ✅ |
 
-### Credit CV: 190
+### Credit CV: 191
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-28 | [Western Europe/NAM Public Sector Credit Officer](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Western-Europe-NAM-Public-Sector-Credit-Officer---VP_261011320) | Citi | London United Kingdom | ✅ |
 | 2026-11-27 | [Market Risk Analyst](https://www.linkedin.com/jobs/view/market-risk-analyst-at-yorkshire-building-society-4495808555) | Yorkshire Building Society | Leeds, England, United Kingdom | ✅ |
 | 2026-11-27 | [Corporate Credit Analyst - Banking](https://www.linkedin.com/jobs/view/corporate-credit-analyst-banking-at-market-talent-ltd-4495836714) | Market Talent Ltd | London Area, United Kingdom | ❔ |
 | 2026-11-27 | [Payment Operations & Risk Analyst](https://www.linkedin.com/jobs/view/payment-operations-risk-analyst-at-jd-com-4443791386) | JD.COM | Greater London, England, United Kingdom | ✅ |
@@ -4561,7 +4549,7 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-10-21 | [Associate - Corporate Finance (Business Services M&A)](https://hl.wd1.myworkdayjobs.com/lateral/job/London-UK/Associate---Corporate-Finance--Business-Services-M-A-_R3635) | Houlihan Lokey | London, UK | ✅ |
 | 2026-10-20 | [Investment Banking – France & Benelux Corp DCM - Analyst - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210801986) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 
-### Consulting CV: 25
+### Consulting CV: 24
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4574,7 +4562,6 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 | 2026-11-25 | [Management Consultant - Financial Risk](https://www.linkedin.com/jobs/view/management-consultant-financial-risk-at-capco-4494627621) | Capco | London, England, United Kingdom | ❔ |
 | 2026-11-24 | [Strategy Analyst](https://www.linkedin.com/jobs/view/strategy-analyst-at-abb-4494164283) | ABB | Stonehouse, England, United Kingdom | ✅ |
 | 2026-11-24 | [Strategy Associate](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Strategy-Associate_R-00286987-1) | NatWest Group | London | ✅ |
-| 2026-11-24 | [Strategy Consultant - Food & Bev](https://www.linkedin.com/jobs/view/strategy-consultant-food-bev-at-lime-talent-4493051076) | Lime Talent | London Area, United Kingdom | ❔ |
 | 2026-11-19 | [Treasury & Commodity Advisory – Consultant](https://www.linkedin.com/jobs/view/treasury-commodity-advisory-%E2%80%93-consultant-at-cfgi-4431674463) | CFGI | London, England, United Kingdom | ✅ |
 | 2026-11-19 | [Strategy Associate](https://www.linkedin.com/jobs/view/strategy-associate-at-jagex-the-runescape-company-4492173080) | Jagex: The RuneScape Company | Cambridge, England, United Kingdom | ❔ |
 | 2026-11-18 | [Strategy Analyst](https://scotjobsnet.co.uk/job/strategy-analyst/) | via ScotJobsNet | Ayrshire, Scotland | ❔ |
@@ -4820,10 +4807,11 @@ Everything matched so far, newest first within each CV: [Finance (988)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>565 roles taken off the list because the firm closed the posting</summary>
+<summary>566 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 28 Nov, 09:18 | Strategy Consultant - Food & Bev | Lime Talent |
 | Sat 28 Nov, 08:12 | Investment Risk Analyst | Barclay Simpson |
 | Sat 28 Nov, 07:23 | Quantity Surveyor | S1Jobs |
 | Sat 28 Nov, 07:23 | Treasury Business Partner | S1Jobs |

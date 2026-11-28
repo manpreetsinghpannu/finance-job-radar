@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T08:19:35.141Z",
+ "generated_at": "2026-11-28T09:25:07.018Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 107,
+   "matching": 108,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -6868,11 +6868,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 22
   },
-  "https://www.linkedin.com/jobs/view/strategy-consultant-food-bev-at-lime-talent-4493051076": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 13
-  },
   "https://www.reed.co.uk/jobs/commercial-finance-analyst/57611307": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -8537,6 +8532,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Western-Europe-NAM-Public-Sector-Credit-Officer---VP_261011320": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }

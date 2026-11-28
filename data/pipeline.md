@@ -2800,4 +2800,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/business-risk-services-core-graduate-programme-autumn-2027-at-targetjobs-uk-4495344909 | targetjobs UK | Business Risk Services Core Graduate Programme (Autumn 2027) | London Area, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.s1jobs.com/job/quantity-surveyor-127814088 | S1Jobs | Quantity Surveyor | Scotland | note: via S1Jobs
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Western-Europe-NAM-Public-Sector-Credit-Officer---VP_261011320 | Citi | Western Europe/NAM Public Sector Credit Officer | London United Kingdom | posted: 2026-11-28
+
 ## Processed
