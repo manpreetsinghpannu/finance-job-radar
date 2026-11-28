@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T01:26:03.396Z",
+ "generated_at": "2026-11-28T02:24:29.597Z",
  "order": [
   "finance",
   "credit",
@@ -4857,11 +4857,6 @@
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 24
-  },
-  "https://www.linkedin.com/jobs/view/investment-operations-associate-reconciliations-corporate-actions-wealth-management-at-jj-search-limited-4492864083": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 14
   },
   "https://scotjobsnet.co.uk/job/fund-accountant/": {
    "id": "fund",

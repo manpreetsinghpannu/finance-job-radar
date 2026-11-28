@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 28 Nov, 01:26** (UK time) · **1665 open roles** at 992 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 28 Nov, 02:24** (UK time) · **1664 open roles** at 991 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 28 Nov, 01:18** · hourly scan · checked 201 boards · **0 new roles**
+**Sat 28 Nov, 02:13** · hourly scan · checked 201 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sat 28 Nov, 00:17** (3: Finance 2 · Investment 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 28 November
 
-<sub>Nothing new at: 01:18</sub>
+<sub>Nothing new at: 02:13, 01:18</sub>
 
 <details>
 <summary><b>00:17</b> · hourly scan · <b>3 new</b> → Finance 2 · Investment 1</summary>
@@ -3139,31 +3139,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>02:19</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-20 | [Interim Investment Banking Consultant](https://www.linkedin.com/jobs/view/interim-investment-banking-consultant-at-aptura-4492842485) | Aptura | London, England, United Kingdom | ✅ |
-
-</details>
-
-<details>
-<summary><b>01:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-csl-4490701998) | CSL | Merseyside, England, United Kingdom | ✅ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (991)](#finance-fpa-cv-991) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (174)](#investment-ib--pe-cv-174) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (50)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-50) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (991)](#finance-fpa-cv-991) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (174)](#investment-ib--pe-cv-174) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
 ### Finance (FP&A) CV: 991
 
@@ -4669,7 +4647,7 @@ Everything matched so far, newest first within each CV: [Finance (991)](#finance
 | — | [Analyst, Real Estate Asset Management](https://aresmgmt.wd1.myworkdayjobs.com/external/job/London-UK/Analyst--Real-Estate-Asset-Management_R7979-1) | Ares Management | London, UK | ✅ |
 | 2026-11-02 | [IT Mobile Asset Management Analyst](https://job-boards.greenhouse.io/deliveroo/jobs/8337684) | Deliveroo · startup/SME | London, United Kingdom | ✅ |
 
-### Fund CV (written for India; tweak the header for UK roles): 50
+### Fund CV (written for India; tweak the header for UK roles): 49
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4696,7 +4674,6 @@ Everything matched so far, newest first within each CV: [Finance (991)](#finance
 | 2026-11-23 | [Fund Accountant I-III](https://www.linkedin.com/jobs/view/fund-accountant-i-iii-at-the-global-institute-for-health-and-human-rights-4493603355) | The Global Institute for Health and Human Rights | Newry Mourne And Down, Northern Ireland, United Ki | ❔ |
 | — | [Top Tier Debt Fund, Portfolio monitoring- Valuations - Eximius Finance](https://www.reed.co.uk/jobs/top-tier-debt-fund-portfolio-monitoring-valuations-eximius-finance/57593605) | eFinancialCareers | London | ✅ |
 | 2026-11-21 | [Trader Assistant (FO) – Leading Hedge Fund – up to £200k total comp](https://www.linkedin.com/jobs/view/trader-assistant-fo-%E2%80%93-leading-hedge-fund-%E2%80%93-up-to-%C2%A3200k-total-comp-at-mondrian-alpha-4488298091) | Mondrian Alpha | London Area, United Kingdom | ✅ |
-| 2026-11-20 | [Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management](https://www.linkedin.com/jobs/view/investment-operations-associate-reconciliations-corporate-actions-wealth-management-at-jj-search-limited-4492864083) | JJ SEARCH LIMITED | London Area, United Kingdom | ❔ |
 | 2026-11-20 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-gen-ii-fund-services-4418775609) | Gen II Fund Services | Whitley, England, United Kingdom | ❔ |
 | 2026-11-20 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-lorien-4492932772) | Lorien | Glasgow, Scotland, United Kingdom | ❔ |
 | 2026-11-20 | [Fund Accountant](https://scotjobsnet.co.uk/job/fund-accountant/) | via ScotJobsNet | Glasgow, Scotland | ❔ |
@@ -4877,6 +4854,7 @@ Everything matched so far, newest first within each CV: [Finance (991)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 28 Nov, 02:17 | Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management | JJ SEARCH LIMITED |
 | Sat 28 Nov, 00:24 | Treasury Accountant | Azenta Life Sciences |
 | Sat 28 Nov, 00:24 | Accountant | CMR Jobs Limited |
 | Sat 28 Nov, 00:24 | Bookkeeper & Accounts Preparation Accountant | Workforce Staffing |
@@ -5436,6 +5414,5 @@ Everything matched so far, newest first within each CV: [Finance (991)](#finance
 | Sat 21 Nov, 05:23 | Model Risk Governance and Review Policy Associate | JPMorgan Chase |
 | Sat 21 Nov, 04:18 | Financial Analyst | Advocate Group |
 | Sat 21 Nov, 04:18 | Treasury Analyst | Monmouthshire Building Society |
-| Sat 21 Nov, 02:20 | Reinsurance Protection Assistant Accountant | Phoenix Group |
 
 </details>
