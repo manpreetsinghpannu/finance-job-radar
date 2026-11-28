@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 28 Nov, 02:24** (UK time) · **1664 open roles** at 991 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 28 Nov, 03:26** (UK time) · **1663 open roles** at 990 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 28 Nov, 02:13** · hourly scan · checked 201 boards · **0 new roles**
+**Sat 28 Nov, 03:15** · hourly scan · checked 201 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sat 28 Nov, 00:17** (3: Finance 2 · Investment 1); open it in the scan log below.
 
@@ -18,7 +18,7 @@ Nothing new this time. The last scan that found something was **Sat 28 Nov, 00:1
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (345 matching)
+**Finance (FP&A) CV** (344 matching)
 
 1. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-michael-page-4494635064) · Michael Page · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-autotrader-4494905507) · Autotrader · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 28 November
 
-<sub>Nothing new at: 02:13, 01:18</sub>
+<sub>Nothing new at: 03:15, 02:13, 01:18</sub>
 
 <details>
 <summary><b>00:17</b> · hourly scan · <b>3 new</b> → Finance 2 · Investment 1</summary>
@@ -3126,24 +3126,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 04:16</sub>
 
-<details>
-<summary><b>03:14</b> · hourly scan · <b>3 new</b> → Other 3</summary>
-
-#### Other (fits no CV closely, may still be worth a look): 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Graduate - Risk (m/f/d) - London](https://www.linkedin.com/jobs/view/graduate-risk-m-f-d-london-at-targetjobs-uk-4492860670) | targetjobs UK | London Area, United Kingdom | ❔ |
-| 2026-11-21 | [Graduate - Analyst, Technology Risk & Assurance (m/f/d)](https://www.linkedin.com/jobs/view/graduate-analyst-technology-risk-assurance-m-f-d-at-targetjobs-uk-4492874108) | targetjobs UK | London Area, United Kingdom | ❔ |
-| 2026-11-21 | [Graduate - Finance (m/f/d)](https://www.linkedin.com/jobs/view/graduate-finance-m-f-d-at-targetjobs-uk-4492863597) | targetjobs UK | London Area, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (991)](#finance-fpa-cv-991) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (174)](#investment-ib--pe-cv-174) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (990)](#finance-fpa-cv-990) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (174)](#investment-ib--pe-cv-174) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
-### Finance (FP&A) CV: 991
+### Finance (FP&A) CV: 990
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3904,7 +3891,6 @@ Everything matched so far, newest first within each CV: [Finance (991)](#finance
 | — | [Finance Analyst](https://www.reed.co.uk/jobs/finance-analyst/57565536) | Atkinson Moss | Norwich, Norfolk | ❔ |
 | 2026-11-13 | [Assistant Management Accountant](https://www.linkedin.com/jobs/view/assistant-management-accountant-at-doncaster-racecourse-and-exhibition-centre-4488940724) | Doncaster Racecourse and Exhibition Centre | Doncaster, England, United Kingdom | ❔ |
 | 2026-11-13 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-hologic-inc-4481381921) | Hologic, Inc. | Manchester, England, United Kingdom | ✅ |
-| 2026-11-13 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-priory-4490760211) | Priory | Darlington, England, United Kingdom | ✅ |
 | 2026-11-13 | [Treasury Capital Analyst](https://www.linkedin.com/jobs/view/treasury-capital-analyst-at-trafigura-4488961130) | Trafigura | London, England, United Kingdom | ✅ |
 | 2026-11-13 | [Commercial Analyst (Supply Chain Risk)](https://www.linkedin.com/jobs/view/commercial-analyst-supply-chain-risk-at-network-rail-4490745454) | Network Rail | Milton Keynes, England, United Kingdom | ✅ |
 | 2026-11-13 | [Management Accountant](https://www.reed.co.uk/jobs/management-accountant/57566333) | Pavilion Recruitment Solutions | London | ❔ |
@@ -4850,10 +4836,11 @@ Everything matched so far, newest first within each CV: [Finance (991)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>560 roles taken off the list because the firm closed the posting</summary>
+<summary>561 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 28 Nov, 03:18 | Management Accountant | Priory |
 | Sat 28 Nov, 02:17 | Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management | JJ SEARCH LIMITED |
 | Sat 28 Nov, 00:24 | Treasury Accountant | Azenta Life Sciences |
 | Sat 28 Nov, 00:24 | Accountant | CMR Jobs Limited |
