@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 28 Nov, 05:18** (UK time) · **1663 open roles** at 990 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 28 Nov, 05:42** (UK time) · **1663 open roles** at 991 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 28 Nov, 05:09** · hourly scan · checked 201 boards · **0 new roles**
+**Sat 28 Nov, 05:30** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sat 28 Nov, 04:14** (1: Investment 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-27 | [Strategic Finance Business Partner](https://www.linkedin.com/jobs/view/strategic-finance-business-partner-at-marble-mayne-recruitment-4493894009) | Marble Mayne Recruitment | Kettering, England, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -60,6 +64,17 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Saturday 28 November
 
 <sub>Nothing new at: 05:09</sub>
+
+<details>
+<summary><b>05:30</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-27 | [Strategic Finance Business Partner](https://www.linkedin.com/jobs/view/strategic-finance-business-partner-at-marble-mayne-recruitment-4493894009) | Marble Mayne Recruitment | Kettering, England, United Kingdom | ❔ |
+
+</details>
 
 <details>
 <summary><b>04:14</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -3126,22 +3141,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 06:16</sub>
 
-<details>
-<summary><b>05:20</b> · hourly scan · <b>1 new</b> → Other 1</summary>
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Finance Graduate](https://www.linkedin.com/jobs/view/finance-graduate-at-d%C5%B5r-cymru-welsh-water-4493268172) | Dŵr Cymru Welsh Water | Coedkernew, Wales, United Kingdom | ❔ |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (990)](#finance-fpa-cv-990) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (140)](#other-fits-no-cv-closely-may-still-be-worth-a-look-140)
+Everything matched so far, newest first within each CV: [Finance (991)](#finance-fpa-cv-991) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (139)](#other-fits-no-cv-closely-may-still-be-worth-a-look-139)
 
-### Finance (FP&A) CV: 990
+### Finance (FP&A) CV: 991
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -3186,6 +3190,7 @@ Everything matched so far, newest first within each CV: [Finance (990)](#finance
 | 2026-11-27 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-optimum-recruitment-group-limited-4495810820) | Optimum Recruitment Group Limited | Greater Leeds Area | ❔ |
 | 2026-11-27 | [Management Accountant](https://www.linkedin.com/jobs/view/management-accountant-at-the-newt-in-somerset-4495846038) | The Newt in Somerset | Bruton, England, United Kingdom | ❔ |
 | — | [Finance Analyst - Development](https://www.reed.co.uk/jobs/finance-analyst-development/57621209) | SNG | Basingstoke, Hampshire | ❔ |
+| 2026-11-27 | [Strategic Finance Business Partner](https://www.linkedin.com/jobs/view/strategic-finance-business-partner-at-marble-mayne-recruitment-4493894009) | Marble Mayne Recruitment | Kettering, England, United Kingdom | ❔ |
 | 2026-11-27 | [Assistant Accountant](https://www.linkedin.com/jobs/view/assistant-accountant-at-little-dot-studios-4494207012) | Little Dot Studios | London Area, United Kingdom | ❔ |
 | 2026-11-27 | [IT Support Analyst with 2nd Level Treasury Systems Support – FIS Integrity (IT)](https://www.adzuna.co.uk/jobs/details/5980667172) | Nexus Jobs Limited | Ladbroke Grove, West London | ❔ |
 | 2026-11-27 | [Reporting Accountant](https://www.linkedin.com/jobs/view/reporting-accountant-at-gleeson-recruitment-group-4495803230) | Gleeson Recruitment Group | Coleshill, England, United Kingdom | ❔ |
@@ -4699,7 +4704,7 @@ Everything matched so far, newest first within each CV: [Finance (990)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 140
+### Other (fits no CV closely, may still be worth a look): 139
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4809,7 +4814,6 @@ Everything matched so far, newest first within each CV: [Finance (990)](#finance
 | 2026-11-11 | [Graduate Finance Assistant](https://www.linkedin.com/jobs/view/graduate-finance-assistant-at-newlon-housing-trust-4489993409) | Newlon Housing Trust | London Area, United Kingdom | ❔ |
 | 2026-11-11 | [Analyst, Portfolio Management](https://www.linkedin.com/jobs/view/analyst-portfolio-management-at-heitman-4474547522) | Heitman | London, England, United Kingdom | ✅ |
 | 2026-11-10 | [VodafoneThree Graduate Finance Programme - Core Finance](https://www.linkedin.com/jobs/view/vodafonethree-graduate-finance-programme-core-finance-at-vodafonethree-4487809200) | VodafoneThree | Newbury, England, United Kingdom | ❔ |
-| 2026-11-09 | [2027 Risk Management Group Graduate Programme](https://www.linkedin.com/jobs/view/2027-risk-management-group-graduate-programme-at-targetjobs-uk-4487663748) | targetjobs UK | London, England, United Kingdom | ❔ |
 | 2026-11-09 | [Quantitative Solutions Analyst](https://www.linkedin.com/jobs/view/quantitative-solutions-analyst-at-lcm-partners-4488851537) | LCM Partners | London Area, United Kingdom | ✅ |
 | 2026-11-09 | [Graduate Risk & Assurance Analyst (AI & Digital Controls), IT & Digital, Warwick](https://www.linkedin.com/jobs/view/graduate-risk-assurance-analyst-ai-digital-controls-it-digital-warwick-at-national-grid-4487149775) | National Grid | Warwick, England, United Kingdom | ✅ |
 | 2026-11-09 | [Accounting & Finance Graduate, Warwick](https://www.linkedin.com/jobs/view/accounting-finance-graduate-warwick-at-national-grid-4487154539) | National Grid | Warwick, England, United Kingdom | ✅ |
@@ -4851,7 +4855,8 @@ Everything matched so far, newest first within each CV: [Finance (990)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Sat 28 Nov, 05:13 | Allianz UK Graduate Finance Scheme 2027 | targetjobs UK |
+| Sat 28 Nov, 05:35 | Allianz UK Graduate Finance Scheme 2027 | targetjobs UK |
+| Sat 28 Nov, 05:33 | 2027 Risk Management Group Graduate Programme | targetjobs UK |
 | Sat 28 Nov, 03:18 | Management Accountant | Priory |
 | Sat 28 Nov, 02:17 | Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management | JJ SEARCH LIMITED |
 | Sat 28 Nov, 00:24 | Treasury Accountant | Azenta Life Sciences |
@@ -5410,6 +5415,5 @@ Everything matched so far, newest first within each CV: [Finance (990)](#finance
 | Sat 21 Nov, 10:19 | Temporary Treasury Assistant - 12 Months | Hays |
 | Sat 21 Nov, 06:17 | Business and Finance Analyst | TVF Media |
 | Sat 21 Nov, 06:16 | FP&A Analyst, Europe | Univers |
-| Sat 21 Nov, 05:23 | Model Risk Governance and Review Policy Associate | JPMorgan Chase |
 
 </details>

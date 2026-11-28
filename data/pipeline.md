@@ -2796,5 +2796,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-gkn-aerospace-4495345523 | GKN Aerospace | Finance Business Partner | Bristol, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.reed.co.uk/jobs/assistant-accountant-bookkeeper/57617393 | The GK Group Limited | Assistant Accountant / Bookkeeper | London | posted: 2026-11-27 | note: via Reed
 - [ ] https://www.linkedin.com/jobs/view/graduate-strategy-commercial-business-development-and-m-a-at-targetjobs-uk-4495352486 | targetjobs UK | Graduate - Strategy, Commercial, Business Development and M&A | London Area, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/strategic-finance-business-partner-at-marble-mayne-recruitment-4493894009 | Marble Mayne Recruitment | Strategic Finance Business Partner | Kettering, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed

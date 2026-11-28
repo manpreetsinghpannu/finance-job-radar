@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T05:18:37.616Z",
+ "generated_at": "2026-11-28T05:42:49.334Z",
  "order": [
   "finance",
   "credit",
@@ -1237,11 +1237,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
-  },
-  "https://www.linkedin.com/jobs/view/2027-risk-management-group-graduate-programme-at-targetjobs-uk-4487663748": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-card-factory-4485780642": {
    "id": "finance",
@@ -8562,6 +8557,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/strategic-finance-business-partner-at-marble-mayne-recruitment-4493894009": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }
