@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 28 Nov, 04:24** (UK time) · **1664 open roles** at 990 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 28 Nov, 05:18** (UK time) · **1663 open roles** at 990 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 28 Nov, 04:14** · hourly scan · checked 201 boards · **1 new role**
+**Sat 28 Nov, 05:09** · hourly scan · checked 201 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-28 | [Graduate - Strategy, Commercial, Business Development and M&A](https://www.linkedin.com/jobs/view/graduate-strategy-commercial-business-development-and-m-a-at-targetjobs-uk-4495352486) | targetjobs UK | London Area, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Sat 28 Nov, 04:14** (1: Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<sub>Nothing new at: 05:09</sub>
 
 <details>
 <summary><b>04:14</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -3141,7 +3139,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (990)](#finance-fpa-cv-990) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (990)](#finance-fpa-cv-990) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (140)](#other-fits-no-cv-closely-may-still-be-worth-a-look-140)
 
 ### Finance (FP&A) CV: 990
 
@@ -4701,7 +4699,7 @@ Everything matched so far, newest first within each CV: [Finance (990)](#finance
 | 2026-11-03 | [UK Product Team – NAV & Valuation Oversight - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210804341) | JPMorgan Chase | LONDON, LONDON, United Kingdom | ✅ |
 | 2026-10-27 | [Fund and Portfolio Monitoring Accountant](https://aztecgroup.wd103.myworkdayjobs.com/external/job/Southampton/Fund-and-Portfolio-Monitoring-Accountant_R1041) | Aztec Group | Southampton | ✅ |
 
-### Other (fits no CV closely, may still be worth a look): 141
+### Other (fits no CV closely, may still be worth a look): 140
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
@@ -4801,7 +4799,6 @@ Everything matched so far, newest first within each CV: [Finance (990)](#finance
 | — | [Futures Macro Quant Researcher/ London / Base Bonus](https://www.reed.co.uk/jobs/futures-macro-quant-researcher-london-base-bonus/57575816) | eFinancialCareers | London | ✅ |
 | 2026-11-16 | [Discretionary Trader](https://www.reed.co.uk/jobs/discretionary-trader/57573877) | eFinancialCareers | London | ✅ |
 | 2026-11-14 | [Financial Solutions Analyst Graduate](https://www.linkedin.com/jobs/view/financial-solutions-analyst-graduate-at-targetjobs-uk-4489850773) | targetjobs UK | London Area, United Kingdom | ❔ |
-| 2026-11-14 | [Allianz UK Graduate Finance Scheme 2027](https://www.linkedin.com/jobs/view/allianz-uk-graduate-finance-scheme-2027-at-targetjobs-uk-4489897501) | targetjobs UK | Guildford, England, United Kingdom | ❔ |
 | 2026-11-13 | [Allianz Finance Graduate Scheme 2027](https://www.linkedin.com/jobs/view/allianz-finance-graduate-scheme-2027-at-targetjobs-uk-4489524353) | targetjobs UK | Guildford, England, United Kingdom | ❔ |
 | 2026-11-13 | [Commodities Trading Analyst Programme [Rolling Application for 0-3 Years Experience]](https://www.linkedin.com/jobs/view/commodities-trading-analyst-programme-rolling-application-for-0-3-years-experience-at-castleton-commodities-international-4488996040) | Castleton Commodities International | London, England, United Kingdom | ✅ |
 | — | [Next Frontier Quantum Associate](https://careers.ey.com/ey/job/London-Next-Frontier-Quantum-Associate-SE1-2AF/1456792933/) | EY | London | ✅ |
@@ -4850,10 +4847,11 @@ Everything matched so far, newest first within each CV: [Finance (990)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>559 roles taken off the list because the firm closed the posting</summary>
+<summary>560 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 28 Nov, 05:13 | Allianz UK Graduate Finance Scheme 2027 | targetjobs UK |
 | Sat 28 Nov, 03:18 | Management Accountant | Priory |
 | Sat 28 Nov, 02:17 | Investment Operations Associate , Reconciliations & Corporate Actions , Wealth Management | JJ SEARCH LIMITED |
 | Sat 28 Nov, 00:24 | Treasury Accountant | Azenta Life Sciences |
