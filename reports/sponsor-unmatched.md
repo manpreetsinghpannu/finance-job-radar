@@ -1,6 +1,6 @@
 # Sponsor licence: firms to review
 
-Register: downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv. 1474 firms checked, 674 matched, 800 not found.
+Register: downloaded 2026-11-28 from https://assets.publishing.service.gov.uk/media/6b095b82c29db7468056c17e/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-27.csv. 1476 firms checked, 676 matched, 800 not found.
 
 Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a firm here does hold a licence under a different name, add it to `sponsor-aliases.yml` (firm: "Register Name Ltd").
 
@@ -167,7 +167,6 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - CassonX
 - Castrol
 - Cazoo
-- Centalion
 - Centralis Group
 - Centrica Energy
 - Chalk Hill Group
@@ -596,6 +595,7 @@ Roles at firms **not found** are kept on JOBS.md but not sent as alerts. If a fi
 - Reed
 - Referment
 - Rendall & Rittner
+- Resilience Global Capital Partners Ltd.
 - Resourcery Group
 - Retirement Villages Group Ltd
 - Richard James Recruitment Specialists Ltd

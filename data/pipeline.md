@@ -2792,5 +2792,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.adzuna.co.uk/jobs/details/5980853525 | Otto James Consulting Limited | Financial Controller (Group) | Toft, Knutsford | posted: 2026-11-27 | note: via Adzuna
 - [ ] https://www.adzuna.co.uk/jobs/details/5980746282 | Financial Control | Financial Analyst (Capital) | Bankside, South East London | posted: 2026-11-27 | note: via Adzuna
 - [ ] https://www.adzuna.co.uk/jobs/details/5980667172 | Nexus Jobs Limited | IT Support Analyst with 2nd Level Treasury Systems Support – FIS Integrity (IT) | Ladbroke Grove, West London | posted: 2026-11-27 | note: via Adzuna
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-sustainable-agriculture-at-resilience-global-capital-partners-ltd-4495827008 | Resilience Global Capital Partners Ltd. | Investment Associate - Sustainable Agriculture | Greater London, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-gkn-aerospace-4495345523 | GKN Aerospace | Finance Business Partner | Bristol, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.reed.co.uk/jobs/assistant-accountant-bookkeeper/57617393 | The GK Group Limited | Assistant Accountant / Bookkeeper | London | posted: 2026-11-27 | note: via Reed
 
 ## Processed

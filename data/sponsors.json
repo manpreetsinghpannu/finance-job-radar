@@ -1,5 +1,5 @@
 {
- "source": "UK Home Office register of licensed sponsors (Skilled Worker), downloaded 2026-11-21 from https://assets.publishing.service.gov.uk/media/6afed3a5d367b3459e423f65/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-19.csv",
+ "source": "UK Home Office register of licensed sponsors (Skilled Worker), downloaded 2026-11-28 from https://assets.publishing.service.gov.uk/media/6b095b82c29db7468056c17e/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-27.csv",
  "note": "A licence does not mean a given role will sponsor; check the advert.",
  "firms": {
   "01Health": {
@@ -1473,9 +1473,9 @@
    "match": "prefix"
   },
   "Centalion": {
-   "licensed": false,
-   "register_name": null,
-   "match": "none"
+   "licensed": true,
+   "register_name": "CENTALION UK LIMITED",
+   "match": "exact"
   },
   "Centralis Group": {
    "licensed": false,
@@ -5407,6 +5407,11 @@
    "register_name": null,
    "match": "none"
   },
+  "Resilience Global Capital Partners Ltd.": {
+   "licensed": false,
+   "register_name": null,
+   "match": "none"
+  },
   "Resourcery Group": {
    "licensed": false,
    "register_name": null,
@@ -6426,6 +6431,11 @@
    "licensed": false,
    "register_name": null,
    "match": "none"
+  },
+  "The GK Group Limited": {
+   "licensed": true,
+   "register_name": "GK (Scotland) Ltd",
+   "match": "exact"
   },
   "The Global Institute for Health and Human Rights": {
    "licensed": false,

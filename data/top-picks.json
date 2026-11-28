@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:47:34.036Z",
+ "generated_at": "2026-11-28T00:24:56.436Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 356,
+   "matching": 345,
    "picks": [
     {
      "title": "Commercial Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 111,
+   "matching": 108,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 98,
+   "matching": 94,
    "picks": [
     {
      "title": "French speaking Investment Banking M&A Generalist Analyst & Associate",
@@ -155,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 29,
+   "matching": 28,
    "picks": [
     {
      "title": "Credit Strategy Analyst",
@@ -3166,7 +3166,7 @@
   "https://www.linkedin.com/jobs/view/credit-analyst-at-centalion-4484018952": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 15
+   "score": 18
   },
   "https://www.linkedin.com/jobs/view/fund-accountant-at-deverellsmith-4490462516": {
    "id": "fund",
@@ -3419,11 +3419,6 @@
    "score": 10
   },
   "https://www.linkedin.com/jobs/view/management-accountant-at-heap-co-accountancy-finance-recruitment-specialists-4490882748": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
-  "https://www.linkedin.com/jobs/view/management-accountant-at-alf-recruit-4490882790": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
@@ -3762,11 +3757,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 12
-  },
-  "https://www.linkedin.com/jobs/view/investment-analyst-private-equity-at-rothstein-recruitment-4492452372": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 15
   },
   "https://www.linkedin.com/jobs/view/investment-banking-associate-telco-digital-infra-m-a-at-dartmouth-partners-4466859063": {
    "id": "investment",
@@ -6673,51 +6663,6 @@
    "cv": "Credit CV",
    "score": 9
   },
-  "https://www.adzuna.co.uk/jobs/land/ad/5977564944": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5977564885": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 6
-  },
-  "https://www.adzuna.co.uk/jobs/details/5977562232": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 6
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5977436291": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 13
-  },
-  "https://www.adzuna.co.uk/jobs/details/5977401990": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 20
-  },
-  "https://www.adzuna.co.uk/jobs/details/5977343018": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 7
-  },
-  "https://www.adzuna.co.uk/jobs/details/5977266587": {
-   "id": "real_estate",
-   "cv": "Real Estate CV",
-   "score": 13
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5977265078": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
-  "https://www.adzuna.co.uk/jobs/land/ad/5977262534": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
-  },
   "https://www.linkedin.com/jobs/view/assistant-finance-business-partner-denton-at-partou-childcare-4494199785": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -7163,11 +7108,6 @@
    "cv": "Credit CV",
    "score": 23
   },
-  "https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-glencore-4494921770": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 16
-  },
   "https://www.linkedin.com/jobs/view/market-risk-analyst-at-rjc-group-4494663322": {
    "id": "credit",
    "cv": "Credit CV",
@@ -7232,6 +7172,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/analyst-%E2%80%93-treasury-operations-at-women-in-data%C2%AE-4493437052": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
   },
   "https://www.reed.co.uk/jobs/quantitative-researcher-systematic-equities-hedge-fund/57612791": {
    "id": "equity",
@@ -8612,6 +8557,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/investment-associate-sustainable-agriculture-at-resilience-global-capital-partners-ltd-4495827008": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-at-gkn-aerospace-4495345523": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 17
+  },
+  "https://www.reed.co.uk/jobs/assistant-accountant-bookkeeper/57617393": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
   }
  }
 }
