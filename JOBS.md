@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 28 Nov, 00:24** (UK time) · **1665 open roles** at 992 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 28 Nov, 01:26** (UK time) · **1665 open roles** at 992 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 28 Nov, 00:17** · hourly scan · checked 201 boards · **3 new roles**
+**Sat 28 Nov, 01:18** · hourly scan · checked 201 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-28 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-gkn-aerospace-4495345523) | GKN Aerospace | Bristol, England, United Kingdom | ✅ |
-| 2026-11-27 | [Assistant Accountant / Bookkeeper](https://www.reed.co.uk/jobs/assistant-accountant-bookkeeper/57617393) | The GK Group Limited | London | ✅ |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-27 | [Investment Associate - Sustainable Agriculture](https://www.linkedin.com/jobs/view/investment-associate-sustainable-agriculture-at-resilience-global-capital-partners-ltd-4495827008) | Resilience Global Capital Partners Ltd. | Greater London, England, United Kingdom | ❔ |
+Nothing new this time. The last scan that found something was **Sat 28 Nov, 00:17** (3: Finance 2 · Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -69,6 +58,8 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<sub>Nothing new at: 01:18</sub>
 
 <details>
 <summary><b>00:17</b> · hourly scan · <b>3 new</b> → Finance 2 · Investment 1</summary>
