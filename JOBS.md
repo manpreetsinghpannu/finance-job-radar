@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 28 Nov, 03:26** (UK time) · **1663 open roles** at 990 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 28 Nov, 04:24** (UK time) · **1664 open roles** at 990 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 28 Nov, 03:15** · hourly scan · checked 201 boards · **0 new roles**
+**Sat 28 Nov, 04:14** · hourly scan · checked 201 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sat 28 Nov, 00:17** (3: Finance 2 · Investment 1); open it in the scan log below.
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-28 | [Graduate - Strategy, Commercial, Business Development and M&A](https://www.linkedin.com/jobs/view/graduate-strategy-commercial-business-development-and-m-a-at-targetjobs-uk-4495352486) | targetjobs UK | London Area, United Kingdom | ❔ |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<details>
+<summary><b>04:14</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-28 | [Graduate - Strategy, Commercial, Business Development and M&A](https://www.linkedin.com/jobs/view/graduate-strategy-commercial-business-development-and-m-a-at-targetjobs-uk-4495352486) | targetjobs UK | London Area, United Kingdom | ❔ |
+
+</details>
 
 <sub>Nothing new at: 03:15, 02:13, 01:18</sub>
 
@@ -3124,11 +3139,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 04:16</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (990)](#finance-fpa-cv-990) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (174)](#investment-ib--pe-cv-174) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
+Everything matched so far, newest first within each CV: [Finance (990)](#finance-fpa-cv-990) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (25)](#consulting-cv-25) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (141)](#other-fits-no-cv-closely-may-still-be-worth-a-look-141)
 
 ### Finance (FP&A) CV: 990
 
@@ -4396,10 +4409,11 @@ Everything matched so far, newest first within each CV: [Finance (990)](#finance
 | 2026-10-21 | [Quantitative Research Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R107074) | PIMCO | London, GBR | ✅ |
 | 2026-10-19 | [Quantitative Investment Analyst - Investment Data Insights](https://troweprice.wd5.myworkdayjobs.com/trowepriceinternational/job/London-Warwick-Court/Quantitative-Investment-Analyst---Investment-Data-Insights_83998-1) | T. Rowe Price | London, Warwick Court | ✅ |
 
-### Investment (IB / PE) CV: 174
+### Investment (IB / PE) CV: 175
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
+| 2026-11-28 | [Graduate - Strategy, Commercial, Business Development and M&A](https://www.linkedin.com/jobs/view/graduate-strategy-commercial-business-development-and-m-a-at-targetjobs-uk-4495352486) | targetjobs UK | London Area, United Kingdom | ❔ |
 | — | [M&A Analyst – Investment Banking](https://www.reed.co.uk/jobs/m-a-analyst--investment-banking/57618389) | Sharp Consultancy | Manchester, Lancashire | ❔ |
 | 2026-11-27 | [Investment Banking Associate, Private Capital Markets](https://www.linkedin.com/jobs/view/investment-banking-associate-private-capital-markets-at-william-blair-4476689275) | William Blair | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Investment Banking Analyst, Consumer & Retail](https://www.linkedin.com/jobs/view/investment-banking-analyst-consumer-retail-at-citi-4486909736) | Citi | London, England, United Kingdom | ✅ |
@@ -4836,7 +4850,7 @@ Everything matched so far, newest first within each CV: [Finance (990)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>561 roles taken off the list because the firm closed the posting</summary>
+<summary>559 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -5399,7 +5413,5 @@ Everything matched so far, newest first within each CV: [Finance (990)](#finance
 | Sat 21 Nov, 06:17 | Business and Finance Analyst | TVF Media |
 | Sat 21 Nov, 06:16 | FP&A Analyst, Europe | Univers |
 | Sat 21 Nov, 05:23 | Model Risk Governance and Review Policy Associate | JPMorgan Chase |
-| Sat 21 Nov, 04:18 | Financial Analyst | Advocate Group |
-| Sat 21 Nov, 04:18 | Treasury Analyst | Monmouthshire Building Society |
 
 </details>

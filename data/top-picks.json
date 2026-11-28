@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T03:26:10.583Z",
+ "generated_at": "2026-11-28T04:24:39.892Z",
  "order": [
   "finance",
   "credit",
@@ -8562,6 +8562,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/graduate-strategy-commercial-business-development-and-m-a-at-targetjobs-uk-4495352486": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
   }
  }
 }
