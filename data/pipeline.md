@@ -2806,5 +2806,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-acca-careers-4496022637 | ACCA Careers | Finance Analyst | East Sussex, England, United Kingdom | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-accountant-at-allied-bakeries-part-of-associated-british-foods-plc-4494249278 | Allied Bakeries | part of Associated British Foods plc | Assistant Accountant | Liverpool, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/surveyor-associate-leisure-trade-valuations-at-savills-4373601520 | Savills | Surveyor/Associate - Leisure & Trade - Valuations | Oxford, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/project-accountant-at-jack-morton-worldwide-4486258238 | Jack Morton Worldwide | Project Accountant | London, England, United Kingdom | posted: 2026-11-28 | note: via LinkedIn
 
 ## Processed

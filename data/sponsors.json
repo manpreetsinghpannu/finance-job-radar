@@ -3292,6 +3292,11 @@
    "register_name": "JSS Search Limited",
    "match": "exact"
   },
+  "Jack Morton Worldwide": {
+   "licensed": true,
+   "register_name": "Jack Morton Worldwide",
+   "match": "exact"
+  },
   "Jagex: The RuneScape Company": {
    "licensed": false,
    "register_name": null,

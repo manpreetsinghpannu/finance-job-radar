@@ -1,6 +1,6 @@
 # Finance jobs found
 
-Updated **Sat 28 Nov, 12:27** (UK time) · **1661 open roles** at 986 firms · the radar checks every board at about 17 minutes past each hour.
+Updated **Sat 28 Nov, 14:28** (UK time) · **1662 open roles** at 987 firms · the radar checks every board at about 17 minutes past each hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. ✅ = 
 
 ## Latest scan
 
-**Sat 28 Nov, 12:17** · hourly scan · checked 201 boards · **2 new roles**
+**Sat 28 Nov, 14:15** · hourly scan · checked 201 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
-| 2026-11-27 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-acca-careers-4496022637) | ACCA Careers | East Sussex, England, United Kingdom | ❔ |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-28 | [Surveyor/Associate - Leisure & Trade - Valuations](https://www.linkedin.com/jobs/view/surveyor-associate-leisure-trade-valuations-at-savills-4373601520) | Savills | Oxford, England, United Kingdom | ✅ |
+| 2026-11-28 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-jack-morton-worldwide-4486258238) | Jack Morton Worldwide | London, England, United Kingdom | ✅ |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days at firms with a sponsor licence, ranked on title fit, junior level, how recent, London and sponsor licence. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (343 matching)
+**Finance (FP&A) CV** (344 matching)
 
 1. [Entry Level Commercial Finance Analyst](https://www.linkedin.com/jobs/view/entry-level-commercial-finance-analyst-at-medpace-4432129089) · Medpace · London, England, United Kingdom · posted 2026-11-23 · ✅
 2. [Commercial Finance Analyst](https://www.linkedin.com/jobs/view/commercial-finance-analyst-at-michael-page-4494635064) · Michael Page · Manchester, England, United Kingdom · posted 2026-11-25 · ✅
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days at firms with a sponsor li
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<details>
+<summary><b>14:15</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location | Sponsor |
+|---|---|---|---|---|
+| 2026-11-28 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-jack-morton-worldwide-4486258238) | Jack Morton Worldwide | London, England, United Kingdom | ✅ |
+
+</details>
 
 <details>
 <summary><b>12:17</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
@@ -3047,73 +3052,17 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>14:11</b> · hourly scan · <b>9 new</b> → Finance 6 · Credit 1 · Investment 1 · Other 1</summary>
-
-#### Finance (FP&A) CV: 6
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-believ-4474895893) | Believ | London Area, United Kingdom | ❔ |
-| 2026-11-20 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-augean-4492970485) | Augean | Wetherby, England, United Kingdom | ❔ |
-| 2026-11-21 | [Interim Accountant - Local Government](https://www.linkedin.com/jobs/view/interim-accountant-local-government-at-grant-thornton-uk-4476829156) | Grant Thornton UK | Edinburgh, Scotland, United Kingdom | ✅ |
-| 2026-11-21 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-ds-smith-4439892855) | DS Smith | Caerphilly, Wales, United Kingdom | ✅ |
-| 2026-11-20 | [Assistant Financial Accountant](https://www.linkedin.com/jobs/view/assistant-financial-accountant-at-acca-careers-4493276444) | ACCA Careers | England, United Kingdom | ❔ |
-| 2026-11-21 | [Treasury Solutions Consultant - London (68DA25C)](https://www.linkedin.com/jobs/view/treasury-solutions-consultant-london-68da25c-at-referment-4493277505) | Referment | London, England, United Kingdom | ❔ |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Associate, Corporate Banking](https://www.linkedin.com/jobs/view/associate-corporate-banking-at-td-securities-4487506315) | TD Securities | London, England, United Kingdom | ❔ |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Investment Banking Associate - Debt Advisory](https://www.linkedin.com/jobs/view/investment-banking-associate-debt-advisory-at-baird-4476857727) | Baird | London, England, United Kingdom | ✅ |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Quantitative Trader - Graduate: 2027](https://www.linkedin.com/jobs/view/quantitative-trader-graduate-2027-at-susquehanna-international-group-4438424006) | Susquehanna International Group | London, England, United Kingdom | ✅ |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
-<details>
-<summary><b>13:14</b> · hourly scan · <b>4 new</b> → Finance 3 · Credit 1</summary>
-
-#### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-20 | [Finance Analyst (12-month FTC)](https://www.linkedin.com/jobs/view/finance-analyst-12-month-ftc-at-vitality-4492805554) | Vitality | Bournemouth, England, United Kingdom | ✅ |
-| 2026-11-20 | [Finance Business Partner - Wellness & Projects](https://www.linkedin.com/jobs/view/finance-business-partner-wellness-projects-at-holland-barrett-4492949313) | Holland & Barrett | Nuneaton, England, United Kingdom | ✅ |
-| 2026-11-20 | [Financial Accountant](https://www.linkedin.com/jobs/view/financial-accountant-at-7im-4492828826) | 7IM | London Area, United Kingdom | ❔ |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location | Sponsor |
-|---|---|---|---|---|
-| 2026-11-21 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-ascot-group-4475238459) | Ascot Group | London, England, United Kingdom | ✅ |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (989)](#finance-fpa-cv-989) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (24)](#consulting-cv-24) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (140)](#other-fits-no-cv-closely-may-still-be-worth-a-look-140)
+Everything matched so far, newest first within each CV: [Finance (990)](#finance-fpa-cv-990) · [Credit (191)](#credit-cv-191) · [Equity (70)](#equity-cv-70) · [Investment (175)](#investment-ib--pe-cv-175) · [Consulting (24)](#consulting-cv-24) · [Real Estate (23)](#real-estate-cv-23) · [Fund (49)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-49) · [Other (140)](#other-fits-no-cv-closely-may-still-be-worth-a-look-140)
 
-### Finance (FP&A) CV: 989
+### Finance (FP&A) CV: 990
 
 | Posted | Role | Firm | Location | Sponsor |
 |---|---|---|---|---|
 | 2026-11-28 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-gkn-aerospace-4495345523) | GKN Aerospace | Bristol, England, United Kingdom | ✅ |
 | 2026-11-28 | [Trainee Accountant](https://www.linkedin.com/jobs/view/trainee-accountant-at-gen-ii-fund-services-4486224795) | Gen II Fund Services | Whitley, England, United Kingdom | ❔ |
+| 2026-11-28 | [Project Accountant](https://www.linkedin.com/jobs/view/project-accountant-at-jack-morton-worldwide-4486258238) | Jack Morton Worldwide | London, England, United Kingdom | ✅ |
 | 2026-11-27 | [Interim Finance Business Partner / FP&A Analyst](https://www.adzuna.co.uk/jobs/land/ad/5981108342) | Axon Moore | Fieldhead Business Centre, Bradford | ❔ |
 | — | [Interim Finance Business Partner / FP&A Analyst](https://www.reed.co.uk/jobs/interim-finance-business-partner-fp-a-analyst/57621035) | Axon Moore Group Ltd | Bradford, West Yorkshire | ❔ |
 | 2026-11-27 | [Financial Planning Analyst - FTC](https://www.linkedin.com/jobs/view/financial-planning-analyst-ftc-at-edenbrook-4488208854) | Edenbrook | London Area, United Kingdom | ✅ |
