@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T07:23:19.263Z",
+ "generated_at": "2026-11-28T08:19:35.141Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 108,
+   "matching": 107,
    "picks": [
     {
      "title": "Wholesale Credit Risk - London - 2027 ReEntry Program",
@@ -5992,11 +5992,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/investment-risk-analyst-at-barclay-simpson-4492647733": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/valuation-finance-operations-co-ordinator-12-months-ftc-at-cbre-4493932405": {
    "id": "investment",
